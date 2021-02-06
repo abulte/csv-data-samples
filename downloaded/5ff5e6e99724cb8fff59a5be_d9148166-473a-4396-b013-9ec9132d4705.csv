@@ -1,0 +1,9 @@
+Colonne,Type,Description,Exemple
+mesure,string,Nom de la mesure,Zones à faible émission
+indicateur,string,Nom de l'indicateur,Nombre d'habitants vivant à l'intérieur d'une zone à faible émission
+id_indicateur,string,ID de l'indicateur,nb-habitants-zfe
+code_region,integer,Code de la région,84
+libelle_region,string,Nom de la région,Auvergne-Rhône-Alpes
+date,date,Date,2017-12-31
+valeur,float,Valeur de l'indicateur,2220445.0
+unite,string,Unité de mesure de l'indicateur,habitants

@@ -1,0 +1,6 @@
+commune_nom;numero;voie_nom;complement_adresse;système geodesique;latitude;longitude
+Antibes;14;avenue Guy de Maupassant;;WSG84;43.34076;7.06370
+Antibes;2;avenue de l'esterel ;Juan Gare;WSG84;43.34146;7.06425
+Antibes;99999;Place Pierre Semard ;Antibes Gare;WSG84;43.35088;7.07110
+Antibes;3;chemin des Sables  ;Palais des Congrès;WSG84;43.34050;7.06576
+Antibes;3;boulevard Albert 1er ;Place de Gaulle;WSG84;43.34477;7.07172

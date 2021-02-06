@@ -1,0 +1,5 @@
+id,nom_site,numero_rue,rue,cp,ville,ssid,geo_point_2d,conditions_acces,acces_gratuit
+wifi01,Parc Roger Salengro,5,rue Henri Barbusse,58000,Nevers,wifilib,"46.990044, 3.156883",accès libre,oui
+wifi02,Etree,4,place Carnot,58000,Nevers,wifilib,"46.988760, 3.157522",accès libre,oui
+wifi03,Office du Tourisme,4,rue Sabatier,58000,Nevers,Ville-nevers,"46.98817,3.15792",se renseigner à l’Office du Tourisme,oui
+wifi04,Médiathèque Jean Jaurès,17,Rue Jean Jaurès,58000,Nevers,Ville-nevers,"46.99433, 3.16732",se renseigner à la médiathèque,oui

@@ -1,0 +1,339 @@
+﻿OBJECTID,MOBILIER,ID_MOBILIE,COMMUNE,NOM_PARC,ACQUISITIO,TYPE,GlobalID
+1,TABLE, ,ARDON,Dolines de Limère,Relevé terrain,"Bois, 2 tables, 2 bancs longs + 2 bancs courts",38fb42d9-72aa-48c0-b8f6-422726d95999
+2,VELO, ,ARDON,Dolines de Limère,Relevé terrain,"Poteau carré, 10,5*10,5 cm, long 1 m, 2 arcs métaliques",d24907b0-c60a-4537-8233-bafaaafc6626
+3,POTEAU, ,ARDON,Dolines de Limère,Relevé terrain,"Poteau carré, 10,5*10,5 cm, long 1 m",902b509b-e966-4041-8cdf-24982bf9de2e
+4,VELO, ,ARDON,Dolines de Limère,Relevé terrain,"Poteau carré, 10,5*10,5 cm, long 1 m, 2 arcs métaliques",0dff5c23-b97f-4440-96ab-556748334c5d
+5,BARRIERE, ,ARDON,Dolines de Limère,Relevé terrain,"2 m, 2 poteaux carrés * 10,5 cm",12907974-bab1-4a58-8ffa-333ca20766ff
+6,POTEAU, ,ARDON,Dolines de Limère,Relevé terrain,"Poteau carré, 10,5*10,5 cm, long 1 m",6feebe50-16c4-4aaa-bdc6-8c076f5ca74e
+7,BARRIERE, ,ARDON,Dolines de Limère,Relevé terrain,"2 m, 2 poteaux carrés * 10,5 cm",f3db9141-8146-4775-a233-e9cf54d84268
+8,BARRIERE, ,ARDON,Dolines de Limère,Relevé terrain,"2 m, 2 poteaux carrés * 10,5 cm",2e08d9bb-6021-4f7b-ada3-7927f14de533
+9,POTEAU, ,ARDON,Dolines de Limère,Relevé terrain,"Poteau carré, 10,5*10,5 cm, long 1 m",4be7ed6c-6bb7-4922-b603-7f21d5c35199
+10,BARRIERE, ,ARDON,Dolines de Limère,Relevé terrain,"2 m, 2 poteaux carrés * 10,5 cm",080ebce6-19ff-41f2-9eb8-f06d9399f947
+11,BARRIERE, ,ARDON,Dolines de Limère,Relevé terrain,"2 m, 2 poteaux carrés * 10,5 cm",ea2670ee-0218-4ff6-a45b-16116c3ff8f7
+12,BANC, ,ARDON,Dolines de Limère,Relevé terrain,"Bois, sans dossier",32d14d8d-fd84-4ab0-a55e-a206fc26ff55
+13,TABLE, ,ARDON,Dolines de Limère,Relevé terrain,"Bois, 1 banc long + 2 bancs courts",78378a6e-eb81-4f94-ba44-7eb9bad0dee6
+14,POTEAU, ,ARDON,Dolines de Limère,Relevé terrain,"Poteau carré, 10,5*10,5 cm, long 1 m",04098adb-b043-4be5-98eb-16cceec37383
+15,BARRIERE, ,ARDON,Dolines de Limère,Relevé terrain,"2 m, 2 poteaux carrés * 10,5 cm",2c8c36e8-1d54-4720-be55-2af4e10c2ba8
+16,TABLE, ,ARDON,Dolines de Limère,Relevé terrain,"Bois, 2 bancs longs",64e0e4e1-9375-4c8d-883d-25316a74e655
+17,TABLE, ,ARDON,Dolines de Limère,Relevé terrain,"Bois, 2 bancs longs",682755ff-97b3-4ab4-b916-642e3e917228
+18,BANC, ,ARDON,Dolines de Limère,Relevé terrain,"Bois, avec dossier 1 planche",612985a3-4d72-48e8-b62d-0a56b48941ef
+19,PASSERELLE, ,ARDON,Dolines de Limère,Relevé terrain,Bois sans garde corps,4a195c79-fe52-4c8b-87f7-23141c01c02a
+20,BARRIERE, ,ARDON,Dolines de Limère,Relevé terrain,"Fixe 2 m, 2 pieds rond",1a386e86-9544-4a17-bc52-7d51daccbd37
+21,BARRIERE, ,ARDON,Dolines de Limère,Relevé terrain,"Fixe 2 m, 2 pieds rond",ba7e681f-162b-4e1f-9a7a-e8fdbbc5d33e
+22,POTEAU, ,ARDON,Dolines de Limère,Relevé terrain,"Poteau rond, 37 cm * 12 cm",571d99fc-af09-4bbd-b603-e9898ea0fd98
+23,BARRIERE, ,ARDON,Dolines de Limère,Relevé terrain,"2 m, 2 poteaux carrés * 10,5 cm",3d4ba2a8-d51c-4f8b-8eac-c765607602b9
+24,BARRIERE, ,ARDON,Dolines de Limère,Relevé terrain,"Pivotante, 3 pieds",72b22798-d4c5-4341-8223-3680ae4b9139
+25,BANC, ,ARDON,Dolines de Limère,Relevé terrain,"Bois, avec dossier 2 planches",ff0d830b-4088-4913-8e5d-23fdfdc32615
+26,BANC, ,ARDON,Dolines de Limère,Relevé terrain,"Bois, avec dossier 2 planches",5f3c29b2-8a5b-4092-bb4c-902c77f13a4e
+27,BARRIERE, ,ARDON,Dolines de Limère,Relevé terrain,"2 m, 2 poteaux carrés * 10,5 cm",2939dcab-e6fd-4bdc-b004-87011ba73483
+28,JEUX, ,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,Multiples,113907a5-2704-433d-86d6-d69de9d05441
+29,ABRI, ,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,Temple,bb04e101-ef60-40c0-a719-b37613a30f8c
+30,BANC, ,ARDON,Dolines de Limère,Relevé terrain,"Bois, sans dossier",46a94af7-ae2c-4771-9434-2fb91ab1fa8e
+31,BANC, ,ARDON,Dolines de Limère,Relevé terrain,"Bois, avec dossier 1 planche",bcb9f709-9f39-4a44-a96f-f51422b4bc36
+32,BARRIERE, ,ARDON,Dolines de Limère,Relevé terrain,"Coulissante, 2 pieds",668841da-d16d-4581-8fdc-c18d0b0e4937
+33,BARRIERE, ,ARDON,Dolines de Limère,Relevé terrain,"Fixe 3 m, 2 pieds rond",4f7d3627-59ba-4b78-bb82-9c22f00f8b24
+34,BARRIERE, ,ARDON,Dolines de Limère,Relevé terrain,"Fixe 3 m, 2 pieds rond",5d408071-1a40-472f-bdf4-55b66162578c
+35,BARRIERE, ,ARDON,Dolines de Limère,Relevé terrain,"Coulissante, 2 pieds",d9dfa9b5-abca-4afe-a568-72aaba07441e
+36,BANC, ,ARDON,Dolines de Limère,Relevé terrain,"Bois, sans dossier",677da205-9e5c-4086-b457-9c309fc3414f
+37,BARRIERE, ,ARDON,Dolines de Limère,Relevé terrain,"Pivotante, 3 pieds",7b81634a-355b-430c-ad3e-5c0e4ca249a1
+38,BARRIERE, ,ARDON,Dolines de Limère,Relevé terrain,"Pivotante, 3 pieds",6f44342a-4cea-47d3-9028-3062ad684e93
+39,BANC, ,ARDON,Dolines de Limère,Relevé terrain,"Bois, avec dossier 2 planches",4274bc69-f523-4acd-942b-0aecf662d1f3
+40,BANC, ,ARDON,Dolines de Limère,Relevé terrain,"Bois, avec dossier 2 planches",f1ec97c0-0024-4284-83f8-8d406a4a4141
+41,BANC, ,ARDON,Dolines de Limère,Relevé terrain,"Bois, avec dossier 2 planches",f6b0330a-3a64-4531-8cfd-8e950a3d9f16
+42,BANC, ,ARDON,Dolines de Limère,Relevé terrain,"Bois, avec dossier 2 planches",f9ed2dfe-ec00-46b4-892e-43a31845fc7a
+43,BANC, ,ARDON,Dolines de Limère,Relevé terrain,"Bois, avec dossier 2 planches",a59dec49-b546-4c61-8cad-911b1813a029
+44,BANC,BN43,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois, avec dossier 1 planche",f9e5d496-d507-47a3-8463-1f266ca23fe8
+45,BANC,BN44,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois, avec dossier 1 planche",36306e89-ac9e-4007-841c-d89e0e11ab2f
+46,BANC,BN45,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois, avec dossier 1 planche",4478519f-47f3-4041-8447-fd569064f329
+47,BANC,BN46,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois, avec dossier 1 planche",fee7395c-c822-41cf-92ea-a95305a09e63
+48,BANC,BN47,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois, avec dossier 1 planche",803c391a-2d91-423d-9759-cc92683149e4
+49,BANC,BN48,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois, avec dossier 1 planche",b45b63b1-d167-40c6-895f-3bcbbe1e0509
+50,BANC,BN49,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois, avec dossier 1 planche",dd1d0438-a925-4a7f-a12b-9abd6968eb73
+51,BANC,BN50,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois, avec dossier 1 planche",568b793f-23ea-4266-98bc-f74fd58f71c0
+52,BANC,BN51,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois, avec dossier 1 planche",061055b4-cb7f-4368-bce8-1e43946c080a
+53,BANC,BN42,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois, avec dossier 1 planche",77e4d1dc-7c46-497c-acd5-01ea3758e18b
+54,BANC,BN41,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois, avec dossier 1 planche",643858f0-3b9f-4d03-9f3a-0423e32576cc
+55,BANC,BN40,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois, avec dossier 1 planche",0a90538f-d302-45e7-b603-414667579d7f
+56,BANC,BN39,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois, avec dossier 1 planche",0ceac5df-8b42-4690-b980-4a782ccb2628
+57,BANC,BN37,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois, avec dossier 1 planche",f9c2175f-3c5e-4124-a126-21bf44b08072
+58,BANC,BN31,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",ea3eb669-0842-420b-82f5-6d1dd1a25faf
+59,BANC,BN29,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",9c31b3f3-9a0a-4f62-9f43-ef805acea97b
+60,BANC,BN28,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",b402cec8-c08e-4497-91a9-2ea0522d43b3
+61,BANC,BN27,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",ae216cce-15be-4baa-a611-1ffcf2f4d183
+62,BANC,BN26,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",f3a95d85-de5d-4c8e-940d-451c23089fa1
+63,BANC,BN25,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",7cfd5499-b011-4834-9108-aff0544a28bf
+64,BANC,BN24,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",32327b4a-ba20-4148-8c96-36ffc973af98
+65,BANC,BN30,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",58aa118e-d50d-4298-b992-570a930d1b04
+66,BANC,BN11,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",4633de41-cbd8-4770-b565-c140dd9e9c99
+67,BANC,BN10,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",bb0b6c5b-5120-4ff1-ae14-60e9cd43fc34
+68,BANC,BN12,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",33bf8c12-dd81-4be0-9682-eeb41eca51b1
+69,BANC,BN13,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",45a7918a-1e45-42da-a27c-2b3cd4b548d6
+70,BANC,BN14,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",b34b0ee8-2c00-4dca-8e3d-d49655ae91ab
+71,BANC,BN15,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",28773baa-f34b-4c1d-a270-437dd0697443
+72,BANC,BN16,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",6d0494c7-6c04-40d5-961b-66347e0c1564
+73,BANC,BN17,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",a32b1071-526b-4938-8656-1e68de4c16ce
+74,BANC,BN18,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",08ae861a-c012-4814-9bbb-2be592a321e5
+75,BANC,BN19,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",19d33650-9266-433f-81e4-4c53eb0f176a
+76,BANC,BN20,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",13fb58d7-7806-4317-bea1-9e23170d6d92
+77,BANC,BN21,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",4a6f0b2d-816d-4dff-aa29-794ac8d059b1
+78,BANC,BN22,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",ab492b04-62c3-4eef-baa9-f6991471c826
+79,BANC,BN36,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",4665c333-c5d0-4119-b4e2-89c3af11a3ca
+80,BANC,BN35,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",8764fd76-4c95-40a5-919b-ec847e0df0da
+81,BANC,BN34,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",7475b666-1d64-4484-81d4-68bfd1644ffe
+82,BANC,BN33,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",f5b88c67-1303-4cc8-b95b-57f1147e4d50
+83,BANC,BN32,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",fdd0ddbf-f946-4971-80bd-8fee69d8f36a
+84,BANC,BN23,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois et acier, avec dossier lattes avec accoudoirs",d2cbe5ad-9ac0-432a-ac1c-50ccc3a0eada
+85,BANC,BN38,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois, avec dossier 1 planche",84867794-ffba-4eed-bfe6-a4d26bde899b
+86,POUBELLE,PB1,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Borne carrée 50 litres,3da844ca-f8b0-4fbc-aa2e-c885a36dc26a
+87,POUBELLE,PB2,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Borne carrée 50 litres,afae8d0a-f1c6-49e7-a833-b1592ab626aa
+88,POUBELLE,PB3,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Borne carrée 50 litres,c83ba4f9-ecba-4449-a046-656f0a30998a
+89,POUBELLE,PB4,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Borne carrée 50 litres,9a163b68-d9d9-47c8-9133-6e1a9fafa1e6
+90,POTEAU,PT1,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Poteau carré, 15*15 cm, long 1 m",3cdc0bad-94f3-4804-ae87-b71cbe5e38cb
+91,POUBELLE,PB5,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Borne carrée 50 litres,1c4c4ff0-d98c-4d37-ac35-716428529fb0
+92,POTEAU,PT2,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Poteau carré, 15*15 cm, long 1 m",09cb6218-bdbe-4e03-9e9f-f3efff89326c
+93,POUBELLE,PB6,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Borne carrée 50 litres,3a9f0e3a-979d-4515-8526-1609b755e9aa
+94,POUBELLE,PB7,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Borne carrée 50 litres,c2cad97b-4263-445d-b397-cacb6da35665
+95,POTEAU,PT3,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Poteau carré, 15*15 cm, long 1 m",227d4e34-ddc8-40eb-93b1-34029dbff86a
+96,POUBELLE,PB8,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Borne carrée 50 litres,9ce21750-9f59-4191-913e-df40c06a5af4
+97,POUBELLE,PB9,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Borne carrée 50 litres,3f5c0e36-7372-405f-a720-6e10ebe8de90
+98,ABRI,AB1,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Sanitaires,af7f543f-c667-48a7-a531-63d2b750ce25
+99,POTEAU,PT4,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Poteau carré, 15*15 cm, long 1 m",bc02a14a-030f-4094-8c2d-4937f9bf13bb
+100,POUBELLE,PB10,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Borne carrée 50 litres,5a7ec9f2-5d17-4bb4-81f8-698f7b825f0c
+101,PASSERELLE,PA1,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Passerelle en bois avec garde corps en bois,1bb089ff-50f4-4b77-a497-9349acce1c62
+102,POUBELLE,PB11,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Borne carrée 50 litres,bfcb56aa-f2de-4740-992f-30746228e1d4
+103,POUBELLE,PB12,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Borne carrée 50 litres,f38f4fe2-8848-48a3-b269-0d1b1f37e240
+104,POUBELLE,PB13,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Borne carrée 100 litres,7c6b56cc-001c-4e4e-8c69-d945446e67e3
+105,POUBELLE,PB14,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Borne carrée 100 litres,b485024c-269c-426b-b31a-f5575418b7ea
+106,PASSERELLE,PA2,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Passerelle en bois avec garde corps en bois,8ebc5ba2-e55d-44a0-beb8-0d97f359a446
+107,POUBELLE,PB15,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Borne carrée 100 litres,ff6b34f0-ef72-48f9-a9c6-d9f2e5f6edee
+108,POUBELLE,PB16,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Borne carrée 100 litres,5b49ef7b-a7c5-43cd-8d9c-b994155bc5b2
+109,POUBELLE,PB17,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Borne carrée 100 litres,a8406154-cef3-460b-9abb-5d0855ca40cc
+110,POUBELLE,PB18,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Borne carrée 100 litres,5044aa93-b00f-47b5-a3f1-64b1bd345d27
+111,POTEAU,PT5,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Poteau carré, 12*12 cm, long 1 m",fb74ef05-d506-4e6a-b640-56b50a263c58
+112,POTEAU,PT6,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Poteau rond, diam 10 cm, long 1 m",7f729e26-b432-443c-85a6-de3a282069ab
+113,BARRIERE,BR2,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Pivotante 4 m, 3 points d'appui",e612be27-59a3-4edc-b26f-07fc76530508
+114,POTEAU,PT7,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Poteau carré, 15*15 cm, long 1 m",da87315d-aaee-4582-87b9-e704bc2f5fdb
+115,POTEAU,PT8,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Poteau carré, 15*15 cm, long 1 m",6303b378-c50e-4f86-81fa-bdea10077f2f
+116,TABLE,TA1,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois, 2 bancs longs",4b8ddc21-9304-4688-b8b5-3505fe3e35ca
+117,TABLE,TA2,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois, 2 bancs longs",18a34ca9-8d40-485f-9030-753c8e4990b3
+118,TABLE,TA3,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois, 2 bancs longs",28cb525f-df2c-426a-917e-d646f3028b6e
+119,TABLE,TA4,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois, 2 bancs longs",b2783eab-f56a-47b4-9447-9120f281851a
+120,TABLE,TA5,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois, 2 bancs longs",b42c464b-022a-45a4-b196-5760b4f84801
+121,POUBELLE,PB19,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Borne carrée 100 litres,f27edae4-cd2f-4b42-98de-518bc5477022
+122,POUBELLE,PB20,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Borne carrée 100 litres,4edf839b-71f4-4589-9fe5-ef1db56e07dc
+123,POUBELLE,PB21,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Borne octogonale 75 litres,84306056-425d-4e06-9e17-cfe74be4c32d
+124,ABRI,AB2,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Observatoire,814163ef-6a72-4256-8f24-4638496a5ac5
+125,POTEAU,PT9,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Poteau carré, 15*15 cm, long 1 m",27429a14-dc43-4d04-9d6e-204e08c6003c
+126,TABLE,TA6,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Bois, 2 bancs longs",8517ed09-afe6-4721-a405-cd706a00532c
+127,POTEAU,PT10,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Poteau rond, diam 12 cm, long 1 m",745ba7a6-0c81-4fa8-b3bf-773d95e2369f
+128,POTEAU,PT11,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Poteau en fer,22c68f3c-21e8-4cdc-bc22-43f237691eff
+129,BARRIERE,BR1,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Métalique, sol, passage véhicule",d6f2029a-1318-4f82-a6dd-60481332a3d9
+130,POTEAU,PT15,BRIARE,Trousse-Bois,Relevé terrain,"Poteau carré, 15*15 cm, long 1 m",3c787f89-f76b-43f5-ae61-b2c76bd46123
+131,POUBELLE,PB25,BRIARE,Trousse-Bois,Relevé terrain,En plastique carrée 50 litres,33461d0f-69a2-4da1-9331-6730cc22eb7e
+132,BARRIERE,BR3,BRIARE,Trousse-Bois,Relevé terrain,"Pivotante 4 m, 3 points d'appui",fa11b97e-f605-4df0-96c3-348aba782084
+133,POTEAU,PT12,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,"Poteau carré, 15*15 cm, long 1 m",9a6924c8-2a80-423e-8216-845b5fcf72c0
+134,ABRI,AB3,SULLY-SUR-LOIRE,Parc de Sully,Relevé terrain,Pigeonnier,e0480a72-45c6-4c14-ae7f-d2004f3e420f
+135,POTEAU,PT16,BRIARE,Trousse-Bois,Relevé terrain,"Poteau carré, 15*15 cm, long 1 m",b70fa156-2ea1-416a-b176-d8e95305208c
+136,TABLE,TA8,BRIARE,Trousse-Bois,Relevé terrain,"Bois, 2 bancs longs",0505696f-356c-49c0-8db1-1a6bade8bc9b
+137,POUBELLE,PB26,BRIARE,Trousse-Bois,Relevé terrain,Borne carrée 100 litres,beb333d0-1296-4446-b0d3-525bd01760a6
+138,BANC,BN52,BRIARE,Trousse-Bois,Relevé terrain,"Bois artisanal, avec dossier 1 planche",f66ac0f3-a6e4-40a5-8b6a-09cfdf9f238c
+139,PASSERELLE,PA4,BRIARE,Trousse-Bois,Relevé terrain,Passerelle en bois avec garde corps en bois,16770f05-8f6e-4f99-939b-974051def7dc
+140,POUBELLE,PB22,BRIARE,Trousse-Bois,Relevé terrain,Borne carrée 100 litres,1b82d34c-3d8c-4613-bf85-356155bff92b
+141,POUBELLE,PB23,BRIARE,Trousse-Bois,Relevé terrain,Buse ronde,8d7e9c04-db91-4a89-84bb-4ad603c721a1
+142,BARRIERE,BR9,BRIARE,Trousse-Bois,Relevé terrain,"Fixe 2 m court, carré 2 points d'appui",f8f0e809-039f-4850-9c76-cb88caebfc1a
+143,TABLE,TA19,BRIARE,Trousse-Bois,Relevé terrain,"Bois, 2 bancs longs",aa6732e1-446f-40c8-a191-ed838d9a9a89
+144,POTEAU,PT13,BRIARE,Trousse-Bois,Relevé terrain,"Poteau rond, diam 12 cm, long 1 m",460a26a1-615d-465c-b1ab-a41e2471cf5d
+145,POTEAU,PT14,BRIARE,Trousse-Bois,Relevé terrain,"Poteau rond, diam 15 cm, long 1 m",2a7f6ca7-f0aa-4157-9562-a2ebd14a5748
+146,POUBELLE,PB24,BRIARE,Trousse-Bois,Relevé terrain,Borne carrée 100 litres,5fbddfd4-5ad3-4cc5-9867-40519f221380
+147,TABLE,TA20,BRIARE,Trousse-Bois,Relevé terrain,"Bois, 2 bancs longs",51244100-b258-4396-bb8c-1518f1964aaf
+148,BARRIERE,BR10,BRIARE,Trousse-Bois,Relevé terrain,"Pivotante 4 m, 3 points d'appui",7e0d8bc7-6398-4033-83de-4175c4af0361
+149,BARRIERE,BR11,BRIARE,Trousse-Bois,Relevé terrain,"Pivotante 4 m, 3 points d'appui",12f84667-c9c8-43db-b465-e9eff96d7125
+150,BARRIERE,BR12,BRIARE,Trousse-Bois,Relevé terrain,"Coulissante 4 m, 2 points d'appui",da4256ac-646e-4f49-833c-cd2dc4f92d69
+151,BARRIERE,BR13,BRIARE,Trousse-Bois,Relevé terrain,"Fixe 4 m, 2 pieds carrés",7350bb30-a9b6-411d-bc99-d9f2bc1c7718
+152,BANC,BN57,BRIARE,Trousse-Bois,Relevé terrain,"Bois et acier, double assise",b6795941-bf19-49d8-9af8-465b026e6afc
+153,TABLE,TA13,BRIARE,Trousse-Bois,Relevé terrain,"Bois, 2 bancs longs",7dd0692e-9db9-4a5a-9654-1343c10b23a0
+154,POUBELLE,PB27,BRIARE,Trousse-Bois,Relevé terrain,Buse ronde,3ead33df-a8be-484c-834a-3f5b8985662c
+155,TABLE,TA12,BRIARE,Trousse-Bois,Relevé terrain,"Bois, 2 bancs longs",c76a3cd4-8d3b-4b2f-b303-440600b66ebf
+156,TABLE,TA11,BRIARE,Trousse-Bois,Relevé terrain,"Bois, 2 bancs longs",64362b7d-8f1d-4fc4-9b72-d7612101ea08
+157,TABLE,TA10,BRIARE,Trousse-Bois,Relevé terrain,"Bois, 2 bancs longs",96acb0d1-8c65-4e91-8ff4-4c8286f71a2a
+158,POUBELLE,PB28,BRIARE,Trousse-Bois,Relevé terrain,Buse ronde,40e3ecc3-5ddd-4c9d-ae5c-60315aa47362
+159,TABLE,TA9,BRIARE,Trousse-Bois,Relevé terrain,"Bois, 2 bancs longs",17a2b498-de0f-4c42-9e00-bf459934619f
+160,POUBELLE,PB29,BRIARE,Trousse-Bois,Relevé terrain,Borne carrée 100 litres,ffda1766-0765-4ae2-a74f-3130b28f9fac
+161,POUBELLE,PB30,BRIARE,Trousse-Bois,Relevé terrain,Borne carrée 100 litres,64f54af3-8efb-423d-bb25-7d19cce026ff
+162,BANC,BN53,BRIARE,Trousse-Bois,Relevé terrain,"Bois, avec dossier 1 planche",afa55920-5f12-49d5-b3bc-ec3053e0d16a
+163,AGRE,AG1,BRIARE,Trousse-Bois,Relevé terrain,Agré,3537412e-a437-4cd8-a4c2-e986572ae623
+164,AGRE,AG2,BRIARE,Trousse-Bois,Relevé terrain,Agré,82dd1ea7-e5f7-4539-89ee-918dc153594e
+165,AGRE,AG3,BRIARE,Trousse-Bois,Relevé terrain,Agré,01e1f54d-d968-441d-bb6c-b10ae9015688
+166,BANC,BN55,BRIARE,Trousse-Bois,Relevé terrain,"Bois, avec dossier 1 planche",a342a7c5-c06f-476c-9804-d61a745130d6
+167,AGRE,AG4,BRIARE,Trousse-Bois,Relevé terrain,Agré,90d475ce-d81c-4677-bb68-818bbd9363f2
+168,BANC,BN54,BRIARE,Trousse-Bois,Relevé terrain,"Bois et acier, avec dossier lattes",13e480c3-e218-4a6d-b7f5-df6bbcb94ff8
+169,POUBELLE,PB31,BRIARE,Trousse-Bois,Relevé terrain,Buse ronde,31d363e0-c2f9-4329-8086-425fed6a336b
+170,BARRIERE,BR7,BRIARE,Trousse-Bois,Relevé terrain,"Pivotante 4 m, 3 points d'appui",b344da9b-4a83-43d3-8571-d4c0477c61fb
+171,POTEAU,PT17,BRIARE,Trousse-Bois,Relevé terrain,"Poteau carré, 15*15 cm, long 1 m",7c64acad-61c9-4085-8280-584258638bd4
+172,BARRIERE,BR8,BRIARE,Trousse-Bois,Relevé terrain,"Pivotante 4 m, 3 points d'appui",e099ee1e-1514-4cf1-ba45-8a1fd11c7eb3
+173,POTEAU,PT18,BRIARE,Trousse-Bois,Relevé terrain,"Poteau carré, 15*15 cm, long 1 m",3d1091ab-6bfc-46a8-8e49-89fb78746b50
+174,TABLE,TA18,BRIARE,Trousse-Bois,Relevé terrain,"Bois, 2 bancs longs",63a71227-7a41-4469-b304-1e284dff025b
+175,BANC,BN56,BRIARE,Trousse-Bois,Relevé terrain,"Bois artisanal, avec dossier 1 planche",789a9fd1-3343-4dc7-b439-bc4dcf97557f
+176,POTEAU,PT19,BRIARE,Trousse-Bois,Relevé terrain,"Poteau carré, 15*15 cm, long 1 m",7c4155c7-2e26-4bce-83e0-4c18fab428d9
+177,BARRIERE,BR5,BRIARE,Trousse-Bois,Relevé terrain,"Pivotante 4 m, 3 points d'appui",d548294f-341d-4b1a-a3a3-59ee856c905d
+178,POTEAU,PT20,BRIARE,Trousse-Bois,Relevé terrain,"Poteau carré, 15*15 cm, long 1 m",717f5bbd-d84a-4c24-b37f-6c02a1d3985d
+179,POUBELLE,PB32,BRIARE,Trousse-Bois,Relevé terrain,Borne carrée 100 litres,905fc5e4-8eb0-4803-8b07-62490072a5ae
+180,POTEAU,PT21,BRIARE,Trousse-Bois,Relevé terrain,"Poteau carré, 15*15 cm, long 1 m",b75c1587-2cda-4f4d-85ef-5683a61e9a0f
+181,BARRIERE,BR6,BRIARE,Trousse-Bois,Relevé terrain,"Pivotante 4 m, 3 points d'appui",44a38952-b343-42bb-91b4-e230ca598877
+182,TABLE,TA14,BRIARE,Trousse-Bois,Relevé terrain,"Bois, 2 bancs longs",04b75adc-a100-41d6-8588-d6810dfb37f7
+183,TABLE,TA15,BRIARE,Trousse-Bois,Relevé terrain,"Bois, 2 bancs longs",4235cd18-9fb1-40d3-9709-dfe3b02865ef
+184,POUBELLE,PB33,BRIARE,Trousse-Bois,Relevé terrain,Buse ronde,b5001d70-e37e-4faf-b426-5391d36a0c88
+185,TABLE,TA16,BRIARE,Trousse-Bois,Relevé terrain,"Bois, 2 bancs longs",071a4820-0bea-4acd-8016-16acb14ba3a2
+186,POUBELLE,PB34,BRIARE,Trousse-Bois,Relevé terrain,Buse ronde,2e22e0ce-8f8c-4f25-84ef-615497eb7001
+187,TABLE,TA17,BRIARE,Trousse-Bois,Relevé terrain,"Bois, 2 bancs longs",decf280e-efc5-481b-a583-9763d8248819
+188,AGRE,AG6,BRIARE,Trousse-Bois,Relevé terrain,Agré,000ca013-5b2f-4c01-a4e5-d18ce3237384
+189,POTEAU,PT22,BRIARE,Trousse-Bois,Relevé terrain,"Poteau rond, diam 10 cm, long 1 m",d6e4c450-4d00-4c9d-9de5-4ea85be3e658
+190,POTEAU,PT23,BRIARE,Trousse-Bois,Relevé terrain,"Poteau carré, 15*15 cm, long 1 m",f74271a9-d0fb-4515-941a-4c9edf6a4032
+191,POTEAU,PT24,BRIARE,Trousse-Bois,Relevé terrain,"Poteau carré, 15*15 cm, long 1 m",9dc6c34e-0031-48ed-b4d5-84f3894703d6
+192,POUBELLE,PB35,BRIARE,Trousse-Bois,Relevé terrain,Borne carrée 100 litres,eb2acc38-7c0d-4505-8dbb-fd19bd71ace1
+193,AGRE,AG7,BRIARE,Trousse-Bois,Relevé terrain,Agré,df41cde6-4d83-48d9-9f90-01fcd42ce990
+194,AGRE,AG8,BRIARE,Trousse-Bois,Relevé terrain,Agré,2479b9fe-57b8-4e12-99c3-d15a0cc64037
+195,AGRE,AG9,BRIARE,Trousse-Bois,Relevé terrain,Agré,90a3e63d-1c37-42df-80ad-1e2fcbbd9c92
+196,AGRE,AG10,BRIARE,Trousse-Bois,Relevé terrain,Agré,5e169f16-2076-4fc5-9609-0dacdccbcaa1
+197,PASSERELLE,PA3,BRIARE,Trousse-Bois,Relevé terrain,Passerelle en bois avec garde corps en bois,b3b11fd9-b539-4f7a-9708-4cfe3176f89a
+198,AGRE,AG5,BRIARE,Trousse-Bois,Relevé terrain,Agré,bbc6817f-2642-414a-9b16-59770e4ebc4a
+199,BARRIERE,BR4,BRIARE,Trousse-Bois,Relevé terrain,"Pivotante 4 m, 3 points d'appui",fb27cff9-6fcf-4ea2-a066-04c29a5817b3
+200,POUBELLE,PB36,BRIARE,Trousse-Bois,Relevé terrain,En plastique carrée 50 litres,fbad35d8-e21f-415e-8394-8ad3745d4c9e
+201,BANC,BN3,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,En pierre,0ab75160-b963-4cc9-9ca6-901c4c8f58ef
+202,BARRIERE,BR19,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,Inconnu,4f2484ab-500c-4364-b567-b4ebbc240fbb
+203,BANC,BN4,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,"Bois et acier, avec dossier lattes",358c8204-f4e0-4ee0-b1af-2359ff9b0acb
+204,PASSERELLE,PA5,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,Passerelle en bois avec garde corps en acier,366ad1d7-d02d-4723-92ed-8a11f798cb68
+205,BANC,BN2,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,En pierre,35e81270-f52d-434e-a55f-316385002ea8
+206,BANC,BN9,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,"Bois et acier, avec dossier lattes",dcb02efe-0cbc-4de1-b2c7-776d4e7d1d33
+207,BANC,BN5,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,En pierre,a4b788a1-aced-4c29-954d-8cb872329d51
+208,PASSERELLE,PA6,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,Passerelle en bois avec garde corps en acier,6b66bd75-bbbb-4465-a0a0-a52a92bc6f5e
+209,POTEAU,PT25,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,"Poteau rond, diam 10 cm, long 1 m",38bb9d60-7cad-4069-973d-f7de4bce4618
+210,BANC,BN6,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,En pierre,8e31654f-d7fb-4dbc-b357-d070dc5f333b
+211,POTEAU,PT26,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,"Poteau rond, diam 10 cm, long 1 m",8bdf3946-5f41-48a4-b137-95995105c8c5
+212,BARRIERE,BR20,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,"Fixe 2 m, 2 pieds rond",2a350b9c-1779-4ea1-8acb-b5f5e0cdfb84
+213,BANC,BN1,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,En pierre,32766cd7-df2c-4e43-9311-eff5571638b4
+214,BANC,BN7,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,En pierre,379ec241-e72b-44e7-a671-0493eedcf100
+215,BARRIERE,BR21,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,"Fixe 2 m, 2 pieds rond",27ae9d8a-c833-454f-84d7-d0cefc73ad95
+216,POUBELLE,PB37,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,Borne ronde 75 litres,085165c7-c614-47b1-a8aa-629a75458d99
+217,POUBELLE,PB38,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,Borne ronde 75 litres,d9499a61-ac12-45e3-b6a0-dc67ce9b55e6
+218,POUBELLE,PB39,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,Borne ronde 75 litres,e404a031-1c38-4458-b4bd-66038e11933b
+219,PASSERELLE,PA7,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,Ponceau,359f0be5-e004-4183-a169-cfe5c1af7f0d
+220,BANC,BN8,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,"Bois, avec dossier 1 planche",3856df26-ed53-408f-9458-6a830bb78c99
+221,TABLE,TA7,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,"Bois, 2 bancs longs",a0f5c9b2-c714-48c8-a2d7-5446e91bf4d8
+222,BARRIERE,BR22,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,"Coulissante 4 m, 2 points d'appui",a0ecb867-f080-4971-be0c-3bd51f276738
+223,POUBELLE,PB40,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,Borne ronde 75 litres,f2ac3937-bd63-4ad3-9717-34bb68c1b5b3
+224,BARRIERE,BR17,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,Inconnu,9ce217a5-5aa2-47a7-acf5-274ed70471d5
+225,BARRIERE,BR18,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,"Coulissante 4 m, 2 points d'appui",f96e7a54-6598-4000-b68d-00a4e0bb8455
+226,BARRIERE,BR15,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,Inconnu,e090f7cd-0dc7-4566-bf76-bbfa0267b3a5
+227,BARRIERE,BR16,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,Inconnu,49956bad-845d-4b5e-92af-935a1413c397
+228,BARRIERE,BR14,CHATEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,Inconnu,ceed763f-4a86-417a-a21a-49e37b3ef472
+229,ABRI,AB4,CERDON,Etang du Puits,Relevé terrain,Observatoire,3e850617-7508-4dd1-bae2-3ad6d6bb67bd
+230,BANC,BN58,CERDON,Etang du Puits,Relevé terrain,"Bois, avec dossier 1 planche",8935c866-b5bb-4233-8267-8554f39607fc
+231,BANC,BN59,CERDON,Etang du Puits,Relevé terrain,"Bois, avec dossier 1 planche",3eaec4eb-ef41-4d53-953d-e4b93023e6fc
+232,BANC,BN60,CERDON,Etang du Puits,Relevé terrain,"Ciment, sans dossier",3559be17-d515-46eb-b10e-e1bfaa4ecc28
+233,BANC,BN61,CERDON,Etang du Puits,Relevé terrain,"Bois, avec dossier 1 planche",9b1c2859-0ed4-4d9b-aa3a-dd80311cf888
+234,BANC,BN62,CERDON,Etang du Puits,Relevé terrain,"Bois, avec dossier 1 planche",ffbec5e8-9d6a-40f3-a349-6949bd9e129c
+235,BANC,BN63,CERDON,Etang du Puits,Relevé terrain,"Bois, avec dossier 1 planche",fbfb36f7-f2bc-4eab-bbd4-6e796fe82a04
+236,BANC,BN64,CERDON,Etang du Puits,Relevé terrain,"Bois, avec dossier 1 planche",649c0aa5-f923-4e43-a943-2ba3786cf106
+237,BANC,BN65,CERDON,Etang du Puits,Relevé terrain,"Bois, avec dossier 1 planche",57e3b066-0669-412b-ad92-5e56613c0faa
+238,BANC,BN66,CERDON,Etang du Puits,Relevé terrain,"Bois, avec dossier 1 planche",1bf3d634-3553-4a4f-bd9e-fb2b71f8d886
+239,BANC,BN67,CERDON,Etang du Puits,Relevé terrain,"Bois, avec dossier 1 planche",738acd12-9a2a-4bc1-9408-6e82b102e349
+240,BANC,BN68,CERDON,Etang du Puits,Relevé terrain,"Bois, avec dossier 1 planche",d5240c6b-4d05-4f2c-abac-8d215d087fc9
+241,TABLE,TA29,CERDON,Etang du Puits,Relevé terrain,"Bois, 2 bancs longs",3687c544-0131-40ad-8084-f22a2a224b10
+242,TABLE,TA28,CERDON,Etang du Puits,Relevé terrain,"Bois, 2 bancs longs",468aa5b6-ba80-4370-b2c1-778835de6853
+243,BANC,BN69,CERDON,Etang du Puits,Relevé terrain,"Ciment, avec dossier",45a88617-63c3-4869-9fee-740c7fc1cb50
+244,BARRIERE,BR23,CERDON,Etang du Puits,Relevé terrain,"Pivotante 4 m, 3 points d'appui",8a588312-2e73-4505-a809-0a85e395d456
+245,BARRIERE,BR24,CERDON,Etang du Puits,Relevé terrain,"Pivotante 4 m, 2 pieds",5f08dcc8-5b38-4b88-bca3-c6615bfc0312
+246,BARRIERE,BR25,CERDON,Etang du Puits,Relevé terrain,"Pivotante 4 m, 2 pieds",7f9e9c7c-9284-4d96-aef9-995f0c3c36e8
+247,BARRIERE,BR26,CERDON,Etang du Puits,Relevé terrain,"Pivotante 4 m, 2 pieds",7734b7fc-868b-4f14-92cb-26f35b810a84
+248,BARRIERE,BR27,CERDON,Etang du Puits,Relevé terrain,"Pivotante 4 m, 2 pieds",298c3518-fde5-4c1c-9677-bba0381642f1
+249,BARRIERE,BR28,CERDON,Etang du Puits,Relevé terrain,"Pivotante 4 m, 2 pieds",170a454f-ed71-4006-9924-a5558e22431a
+250,BARRIERE,BR29,CERDON,Etang du Puits,Relevé terrain,"Pivotante 4 m, 2 pieds",fb118f8c-df60-453d-afa2-3da077f72c9a
+251,BARRIERE,BR30,CERDON,Etang du Puits,Relevé terrain,"Levante métallique 4 m, 2 points d'appui",b9a336ef-3f5e-42b4-b446-8a666edc2eca
+252,BARRIERE,BR31,CERDON,Etang du Puits,Relevé terrain,"Pivotante 4 m, 2 pieds",6bf46d20-a59a-4f44-aae7-b12e2d67dfa5
+253,BARRIERE,BR32,CERDON,Etang du Puits,Relevé terrain,"Pivotante 4 m, 2 pieds",cc3d4fe7-956c-4c64-ad55-bbfa2194354b
+254,JEUX,JE1,CERDON,Etang du Puits,Relevé terrain,Jeux,8641377b-1ad0-4b7d-b0d2-452d459936b7
+255,JEUX,JE2,CERDON,Etang du Puits,Relevé terrain,Jeux,562bcc20-ef3d-499d-bba9-82fe174ee1ba
+256,JEUX,JE3,CERDON,Etang du Puits,Relevé terrain,Jeux,ef69dc09-6ff4-4667-a844-2a21d3a7e95d
+257,MARCHE,MA1,CERDON,Etang du Puits,Relevé terrain,5 ml rondin diamètre 1m,a2797669-3a30-4fdd-a659-f93a909f0b28
+258,MARCHE,MA3,CERDON,Etang du Puits,Relevé terrain,5 ml rondin diamètre 1m,ab5facae-c873-42ae-bda7-f0888f26d0ed
+259,MARCHE,MA2,CERDON,Etang du Puits,Relevé terrain,5 ml rondin diamètre 1m,70f4948d-cb33-48e1-a026-f7936fb7ab1d
+260,PASSERELLE,PA8,CERDON,Etang du Puits,Relevé terrain,Passerelle en bois avec garde corps en bois,e2e0b7b7-20cd-473c-8a94-24b29b38cd9a
+261,POTEAU,PT27,CERDON,Etang du Puits,Relevé terrain,"Poteau carré, 15*15 cm, long 1 m",7d4a51b9-5f46-464b-aad6-3f1ada62b4b3
+262,POTEAU,PT28,CERDON,Etang du Puits,Relevé terrain,"Poteau carré, 15*15 cm, long 1 m",d7607f59-c9a8-42dd-ab67-dc5d94525e5e
+263,POUBELLE,PB41,CERDON,Etang du Puits,Relevé terrain,Borne ronde 100 litres,215161ba-82e8-46b0-bf57-c0d67e4ffc4b
+264,POUBELLE,PB42,CERDON,Etang du Puits,Relevé terrain,Borne carrée 100 litres,8a3f2acd-b1b1-4470-9d4c-8ebba716ff97
+265,POUBELLE,PB43,CERDON,Etang du Puits,Relevé terrain,Borne carrée 100 litres,a6130393-7a82-4b8f-8c27-b41a04fb2d05
+266,POUBELLE,PB44,CERDON,Etang du Puits,Relevé terrain,Borne carrée 100 litres,8549ff92-bf1b-4b0e-b905-448930913526
+267,POUBELLE,PB45,CERDON,Etang du Puits,Relevé terrain,Borne carrée 100 litres,a8b686fc-a813-462c-a591-fb2fc787f2f7
+268,POUBELLE,PB46,CERDON,Etang du Puits,Relevé terrain,Borne carrée 100 litres,cef168a2-eec5-43f8-9670-bbf46021875b
+269,TABLE,TA21,CERDON,Etang du Puits,Relevé terrain,"Bois, 2 bancs longs",47508f83-3334-4715-a69a-a34a87182dc0
+270,TABLE,TA22,CERDON,Etang du Puits,Relevé terrain,"Bois, 2 bancs longs",6f6e637c-732f-4ec7-bd05-4b7a31473790
+271,TABLE,TA23,CERDON,Etang du Puits,Relevé terrain,"Bois, 2 bancs longs",273bca81-de4d-4652-8560-51fc14232522
+272,TABLE,TA24,CERDON,Etang du Puits,Relevé terrain,"Bois, 2 bancs longs",c47db39a-b75a-4bf9-bc15-a5e2854407c9
+273,TABLE,TA25,CERDON,Etang du Puits,Relevé terrain,"Bois, 2 bancs longs",0897c7cd-a46a-41bb-bedb-038f571062bc
+274,TABLE,TA26,CERDON,Etang du Puits,Relevé terrain,"Bois, 2 bancs longs",d63ba790-81ae-4ce5-8fbb-f5c5ab8b3b43
+275,TABLE,TA27,CERDON,Etang du Puits,Relevé terrain,"Bois, 2 bancs longs",7b4f58fc-3e36-44c7-98ca-479c231f2d98
+276,TABLE,TA30,CERDON,Etang du Puits,Relevé terrain,"Bois, 2 bancs longs",d951f6da-756a-4561-9bc3-0ccecac46786
+277,TABLE,TA31,CERDON,Etang du Puits,Relevé terrain,"Bois, 2 bancs longs",051c7353-838e-4cea-a13e-08fc119a4ad8
+278,TABLE,TA32,CERDON,Etang du Puits,Relevé terrain,"Bois, 2 bancs longs",df3a5518-04b8-4aa8-83ab-38b19fe2b100
+279,TABLE,TA33,CERDON,Etang du Puits,Relevé terrain,"Bois, 2 bancs longs",5a3fe370-7434-44c6-b49a-89b75b51f3c8
+280,TABLE,TA35,CERDON,Etang du Puits,Relevé terrain,"Bois, 2 bancs longs",a04a5626-d728-4e05-bafb-104e12f06837
+281,TABLE,TA36,CERDON,Etang du Puits,Relevé terrain,"Bois, 2 bancs longs",fc1cf835-1da3-4330-97cb-8b58eda840cb
+282,TABLE,TA34,CERDON,Etang du Puits,Relevé terrain,"Bois, 2 bancs longs",16eb99d6-eefa-49fc-abce-9a0a7843b0e2
+283,BANC,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,82634854-b6e4-4ff8-b916-a99c549b696e
+284,BANC,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,fcf65b84-dae2-4451-8a05-0c514baa3299
+285,BANC,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,bd350094-9379-47f5-a767-c662bd6e8cff
+286,BANC,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,35fee37f-24d6-432e-9865-5bb42971a63e
+287,BANC,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,233a7987-5ccb-4971-9a84-ec290b01ce91
+288,BANC,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,2a028d86-acd0-4072-bf5b-5a65ed161657
+289,TABLE,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,11331fc4-1760-4615-953b-6a1dde4f1219
+290,TABLE,,,,,,d1c1b062-9b59-4bd8-b7c6-db0210fe42f7
+291,BANC,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,b8b2a4d5-06d1-4938-a8a7-0fca573098ac
+292,VELO,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,665da7ef-9331-4810-8c70-e84929ef3c06
+294,PASSERELLE,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,a793ae76-4dd0-4b75-b09b-791db6b4f571
+295,POUBELLE,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,a5a8e16b-036c-4ad5-8fe0-2432ca612cb0
+296,PASSERELLE,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,34c38a57-a41f-46e4-af35-5c98480e2688
+297,POUBELLE,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,03490af8-3410-4999-80c8-2daace9b396b
+298,PASSERELLE,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,d518c276-cb66-4539-ab2b-34fb1448dc4a
+299,PASSERELLE,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,f868e9c6-0ecc-4fe9-b5cb-d56b479474d9
+300,PASSERELLE,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,7bfe73b3-5270-4b20-a8c1-5a28d443f34c
+301,PASSERELLE,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,e2513093-f46f-4f10-b3c8-d226801d42e3
+302,POUBELLE,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,55263120-0a83-4b15-82ab-c794ddb3f22f
+303,POUBELLE,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,0244eb69-f5ae-4e08-a2bf-c9d0e241a236
+304,PASSERELLE,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,53d25474-118d-4f7d-a315-c0c99bfd84ec
+306,PASSERELLE,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,66569bf6-1a41-4802-9637-645b5f59eb63
+307,PASSERELLE,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,5b1d576f-df63-4b83-ad09-5aa52093332e
+308,PASSERELLE,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,e761d8a9-5781-4040-963c-00c00a8f5818
+309,PASSERELLE,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,00eca949-ebeb-4cbb-ac65-49ee68c9caf6
+310,PASSERELLE,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,345c5e37-7963-4c0d-b220-9403101f64cd
+311,PASSERELLE,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,e3809e3b-05ed-4f98-9896-31c058241012
+312,PASSERELLE,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,101354d7-b073-4b3e-b41c-3337c808f872
+313,PASSERELLE,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,ecba9d8c-d87e-475b-911e-09fce4013b87
+314,POUBELLE,,MEUNG-SUR-LOIRE,Les Mauves,,,357d35b6-3aa9-4248-bf05-76f4401b1241
+315,POUBELLE,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,e8c8868d-ca39-46ad-8921-11e960d3ac9a
+316,POUBELLE,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,f4a976e0-68e8-4499-9653-2968fc6780fc
+317,BARRIERE,,MEUNG-SUR-LOIRE,Les Mauves,Relevé terrain,,20f4df9c-f121-407d-b241-65ee6fc73cab
+318,BANC,,,,,,466325f7-6229-4828-8a4b-fe9dbb7fd0ea
+319,BANC,,,,,,2c0fab4b-802d-4c76-9589-118d31097cae
+321,BANC,,,,,,71a86fa8-c183-445d-acfb-eda3b5ae5068
+322,BANC,,,,,,55da08ed-7098-4b10-955e-4e89406c9605
+323,BANC,,,,,,41d60988-a49c-4c42-9294-747d2052a47a
+324,BANC,,,,,,c3d21ce0-95be-4161-b662-9b9682624784
+325,BANC,,CHÂTEAUNEUF-SUR-LOIRE,Parc de Châteauneuf,Relevé terrain,"Ciment, sans dossier",db5fe5a4-827b-4c97-9afe-9fdac1703fd9
+326,BANC,,,,,,6d0147cd-eeb0-4172-ac5c-1fdd4dba07a9
+327,BANC,,,,,,1e021eb3-5469-4f25-af86-0145e9ce43d1
+328,BANC,,,,,,4222e05a-929b-4cf3-a6b9-9226261aefe9
+329,BANC,,,,,,2ddb5a03-ee1f-40eb-8142-062182f923e1
+330,BANC,,,,,,19c20b10-50c0-49b1-adbf-81400e3c64fa
+331,VELO,,,,,,feb59972-b79f-4ebb-9c6a-b2be9e8bb19f
+332,TABLE,,,,,,da261df1-9e67-4fe9-8422-2fea7511e2e1
+333,BANC,,,,,,823b67bf-4559-4322-8a77-dc1e9788b3b6
+334,BANC,,,,,,05945953-4baf-4cc0-97af-cef92d64fd6a
+335,TABLE,,,,,,eec917be-cdc3-4bcb-9768-a91c89b8d7f9
+336,BANC,,,,,,0d706423-3367-48f8-92bf-da40f318ca50
+337,TABLE,,,,,,cc6c94ae-f399-43a4-9a0c-a3c9db799519
+338,TABLE,,,,,,b4637d64-6f03-4b92-95e1-31110d1f8b54
+339,TABLE,,,,,,29ea7644-2abb-45c5-bbd4-d79fa6e560e1
+340,TABLE,,,,,,3a1476d5-f5d2-4cb6-9eef-5f86b3eca2bb
+341,VELO,,,,,,b0e8844e-e08c-46d9-b817-b0a95eb588aa

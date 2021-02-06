@@ -1,0 +1,31 @@
+Nom de la colonne,Type de donnees,Contenu
+ID,Identifiant de l'offre,Champ systeme
+DATE_DERNIERE_MAJ,Date de la derniere mise à jour,Champ systeme
+TYPE,Type de l'offre,Champ texte
+NOM_OFFRE,"Nom de la fiche (raison sociale, nom de la manifestation ou du produit,nom du site, …)",Champ texte
+PORTE_ESCALIER,Adresse 1,Champ texte
+BATIMENT_RESIDENCE,Adresse 1 suite,Champ texte
+RUE,Adresse 2,Champ texte
+LIEUDIT_BP,Adresse 3,Champ texte
+CODE_POSTAL,Code Postal,Champ texte
+COMMUNE,Commune,Champ texte
+COMMUNE_INSEE,INSEE commune,Code INSEE de la commune
+TEL,Moyens de communication grand public,Numeros de telephone separe par #
+TEL_MOB,Moyens de communication grand public,Numeros de telephone mobile separe par #
+SITE_WEB,Moyens de communication grand public,Adresse du (des) site(s) internet separee par #
+LONGITUDE,Geolocalisation,Coordonnee au format  Googlemap
+LATITUDE,Geolocalisation,Coordonnee au format  Googlemap
+MARQUES_LABELS,Liste de marques et/ou labels,Liste d’items separes par #
+INFOS_COMPLEMENTAIRES,Infos diverses (nom variable suivant l'objet),Liste d’items separes par #
+LABEL_TOURISME_HANDICAP,Type de label tourisme et handicap,Liste d’items separes par #
+LABELS_CLASSEMENT,Classement label,Liste d’items separes par #
+LABELS_THEMES,Theme,Liste d’items separes par #
+CLASSEMENT,Classement de l'hebergement,Item de liste
+CHAINES,Chaîne,Liste d’items separes par #
+LOGIS_CLASSEMENT,Classement pour la chaîne Logis,Liste d’items separes par #
+LOGIS_THEMES,Thematique pour la chaîne Logis,Liste d’items separes par #
+CAPACITE,Capacite (nom variable suivant l'objet),Champ numerique
+OUVERTURE,"Periodes, jours et horaires d'ouverture","Date d’ouverture et date de fermeture (au format jj/mm/aaaa),heure d’ouverture 1, heure de fermeture 1, heure d’ouverture 2 et heure de fermeture 2 (au format hh:mm) et  jours de fermeture  separes par |, chaque periode d’ouverture etant separee par #"
+TARIFS,Tarifs,"Intitule du tarif, tarif minimum et maximum, complement d'information sur le tarif separes par |, chaque ligne etant separee par #"
+EQUIPEMENTS,Liste des equipements,Liste d'items separes par #
+SERVICES,Liste des services proposes,Liste d'items separes par #

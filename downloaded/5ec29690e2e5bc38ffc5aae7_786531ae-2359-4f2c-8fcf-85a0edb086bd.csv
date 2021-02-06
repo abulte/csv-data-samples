@@ -1,0 +1,4 @@
+﻿Colonne;Type ;Description_FR;Description_EN;Exemple
+covid_cedc_certif;Integer;Nombre cumulé d'établissements/médecins non affiliés ayant certifié au moins 1 décès associé au Covid-19;Cumulative number of non-affiliated establishments / doctors having certified at least 1 death associated with Covid-19;12
+covid_cedc_quot;Integer;Nombre cumulé de décès par âge;Cumulative number of deaths by age;42
+covid_cedc_sex_quot;Integer;Nombre cumulé de décès par sexe;Cumulative number of deaths by sex;113

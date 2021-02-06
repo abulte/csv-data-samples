@@ -1,0 +1,362 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+    
+
+    
+        <title>Page D&#39;accueil &mdash; AtelierOpendata</title>
+        <link rel="stylesheet" type="text/css" href="/static/vendor/font-awesome-4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="/static/vendor/normalize/normalize.css">
+        <link rel="stylesheet" href="/static/pictos/odsui/odsui.css" type="text/css">
+
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="Content-Language" content="fr">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        
+<link rel="shortcut icon" href="/assets/favicon?tstamp=156622918562">
+
+
+
+        <!--[if lte IE 9]>
+            <script>
+            // Stub the console object to avoid accidental leftover logs breaking IE <=9
+            if (!window.console) window.console = {};
+            if (!window.console.log) window.console.log = function () { };
+            </script>
+            <script src="/static/vendor/base64-polyfill/base64.min.js" type="text/javascript"></script>
+        <![endif]-->
+    
+
+    
+    
+
+    <link rel="canonical" href="https://opendata.bordeaux-metropole.fr/pages/accueil/">
+
+    
+
+    <link rel="stylesheet" href="/static/compressed/css/068c385fa986.css" type="text/css" />
+
+    <link rel="stylesheet" type="text/css" href="/assets/stylesheet/94.css">
+
+    <base href="/pages/accueil/">
+        
+    
+<script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-41201218-1', {'name': 'ods'});
+    ga('create', 'UA-146616679-1', {'name': 'custom'});
+    ga(function() {
+    var trackers = ga.getAll();
+    for (var i=0; i<trackers.length; ++i) {
+        var tracker = trackers[i];
+        if (tracker.get('name') == 'ods') {
+            tracker.set('dimension1', 'scnbdx');
+        }
+        
+        tracker.send('pageview');
+        
+    }
+});
+
+</script>
+
+
+    
+    </head>
+    <body class="">
+        <div class="ods-content">
+            
+
+<header class="ng-cloak" ng-controller="HeaderController">
+
+    
+
+    
+        
+            <nav class="ods-front-header" ods-responsive-menu breakpoint="1000">
+    <ods-responsive-menu-placeholder>
+        <a class="ods-front-header__portal-brand" href="/">
+            <img src="/assets/theme_image/LOGO_OPENDATA.svg" style="width:140px;">
+        </a>
+    </ods-responsive-menu-placeholder>
+    <ods-responsive-menu-collapsible>
+        
+
+
+
+
+        <a class="ods-front-header__portal-brand" href="/">
+            <img src="/assets/theme_image/LOGO_OPENDATA.svg" style="width:230px;">
+        </a>       
+        <div ng-init="dropdown_actif = 'inactif'">
+            <div style="position:relative;">
+                <div ng-class="{'dropdown_close_actif': dropdown_actif == 'actif','dropdown_close_inactif': dropdown_actif == 'inactif'}" ng-click="dropdown_actif = 'inactif'" class="umami-dropdown" style="z-index:9;"></div> 
+                <div class="hide-mobile">
+                    
+<ul class="ods-front-header__menu">
+    
+
+
+
+<li ng-non-bindable class="ods-front-header__menu-item ods-front-header__menu-item--active">
+    <a class="ods-front-header__menu-item-link ods-front-header__menu-item-link--active" href="/pages/accueil/" aria-current="page" >
+        Accueil
+    </a>
+</li><li ng-non-bindable class="ods-front-header__menu-item">
+    <a class="ods-front-header__menu-item-link" href="/explore/">
+        Données
+    </a>
+</li><li ng-non-bindable class="ods-front-header__menu-item">
+    <a class="ods-front-header__menu-item-link" href="/pages/accueil/#openfab">
+        Open Fab
+    </a>
+</li><li ng-non-bindable class="ods-front-header__menu-item">
+    <a class="ods-front-header__menu-item-link" href="/pages/reutilisation/">
+        Réutilisations
+    </a>
+</li><li ng-non-bindable class="ods-front-header__menu-item">
+    <a class="ods-front-header__menu-item-link" href="/pages/a-propos/">
+        À propos
+    </a>
+</li><li ng-non-bindable class="ods-front-header__menu-item">
+    <a class="ods-front-header__menu-item-link" href="/pages/contact/">
+        Contact
+    </a>
+</li>
+
+</ul>
+                </div>
+                <div class="hide-desktop">
+                    <ul class="ods-front-header__menu">
+                        <li ng-non-bindable class="ods-front-header__menu-item">
+                            <a href="/" class="ods-front-header__menu-item-link">Accueil</a></li>
+                        <li ng-non-bindable class="ods-front-header__menu-item">
+                            <a href="/explore/" class="ods-front-header__menu-item-link">Données</a></li>
+                        <li ng-non-bindable class="ods-front-header__menu-item">     
+                            <a class="ods-front-header__menu-item-link">Open Fab</a></li>
+                        <div class="umami-dropdown-responsive">
+                            <li ng-non-bindable class="ods-front-header__menu-item">                                                                  
+                                <a href="/api/" class="ods-front-header__menu-item-link">API Requeteur</a></li>
+                            <li ng-non-bindable class="ods-front-header__menu-item">
+                                <a href="/pages/api-carto/" class="ods-front-header__menu-item-link">API Carto</a></li>
+                            <li ng-non-bindable class="ods-front-header__menu-item">
+                                <a href="/pages/webservice-ogc/" class="ods-front-header__menu-item-link">Webservice OGC</a></li>
+                            <li ng-non-bindable class="ods-front-header__menu-item">
+                                <a href="/map" class="ods-front-header__menu-item-link">Création de carte</a></li>
+                            <li ng-non-bindable class="ods-front-header__menu-item">
+                                <a href="/chart" class="ods-front-header__menu-item-link">Création de graphique</a></li>
+                            <li ng-non-bindable class="ods-front-header__menu-item">
+                                <a href="https://bordeaux-metropole.umamidata.com/partagez-une-reutilisation" target="_blank" class="ods-front-header__menu-item-link">Je partage une réutilisation</a></li>
+                            <li ng-non-bindable class="ods-front-header__menu-item">
+                                <a href="/pages/reutilisation" class="ods-front-header__menu-item-link">Toutes les réutilisations</a></li>
+                            <li ng-non-bindable class="ods-front-header__menu-item">
+                                <a href="https://data.bordeaux-metropole.fr/forum/" class="ods-front-header__menu-item-link" target="_blank">Le forum</a></li>
+
+                        </div>                        
+                        <li ng-non-bindable class="ods-front-header__menu-item">
+                            <a href="/pages/reutilisation" class="ods-front-header__menu-item-link">Réutilisation</a></li>
+                        <li ng-non-bindable class="ods-front-header__menu-item">
+                            <a href="/pages/a-propos" class="ods-front-header__menu-item-link">À propos</a></li>
+                        <li ng-non-bindable class="ods-front-header__menu-item">
+                            <a href="/pages/contact" class="ods-front-header__menu-item-link">Contact</a></li>
+
+                    </ul>
+                </div>
+
+                <div ng-click="dropdown_actif = 'actif'" class="umami-dropdown"></div>                
+
+                <div ng-if="dropdown_actif == 'actif'" class="dropdown-content" style="z-index:9">
+
+                    <div style="filter:drop-shadow(0 2px 6px rgba(0,0,0,0.2));position:absolute;top:-34px;right:428px;width: 0;  height: 0;   border-left: 25px solid transparent;border-right: 25px solid transparent;border-bottom: 25px solid #fff;">
+
+                    </div>
+                    <div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="dropdown-box dropdown-anim-1">
+                                    <h3>Utilisez nos API</h3>
+                                    <p>L'Atelier Open Data vous met à disposition tous les outils nécessaires pour requêter les données en dynamique ainsi que les afficher sur n'importe quel site dans différents formats</p>
+                                    <a href="/api/" class="bouton blue">Requêteur</a><a href="/pages/api-carto/" class="bouton blue">API Carto</a><a href="/pages/webservice-ogc/" class="bouton blue">Webservice OGC</a>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="dropdown-box dropdown-anim-2">
+                                    <h3>Exploitez les données</h3>
+                                    <p>Avec l'Atelier Open Data, créez vos propres cartes ou graphiques en combinant des jeux de données entre eux</p>
+                                    <a href="/map/" class="bouton blue">Création de carte</a><a href="/chart/" class="bouton blue">Création de graphique</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="dropdown-box dropdown-anim-3">
+                                    <h3>Partagez vos réutilisations</h3>
+                                    <p>Soyez acteur de la dymanique d'ouverture des données publiques du territoire en faisant connaître vos propres réutilisations</p>
+                                    <a href="https://bordeaux-metropole.umamidata.com/partagez-une-reutilisation" target="_blank" class="bouton blue">Je partage</a> <a href="/pages/reutilisation" class="bouton blue">Toutes les réutilisations</a>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="dropdown-box dropdown-anim-3">
+                                    <h3>Dialoguez</h3>
+                                    <p>L'Atelier Open Data est un espace d'échanges autour des questions, des bonnes pratiques et idées alors n'hésitez pas à consulter notre forum ou à nous contacter !</p>
+                                    <a target="_blank" href="https://data.bordeaux-metropole.fr/forum/" class="bouton blue">Le forum</a><a href="/pages/contact" class="bouton blue">Contactez nous</a>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+
+            <div ng-class="{'dropdown_close_actif': dropdown_actif == 'actif','dropdown_close_inactif': dropdown_actif == 'inactif'}"  ng-click="dropdown_actif = 'inactif'" style="z-index:8;position:absolute;left:0;height:800px;background-color:transparent;;width:100%;"></div>
+        </div>
+
+    </ods-responsive-menu-collapsible>
+</nav>
+
+
+        
+    
+
+</header>
+
+<main class="main--page">
+    <div id="page-" ng-app="ods.frontend" ng-controller="PageController">
+        <div class="page-layout ng-cloak">
+            <style type="text/css" ods-bind-angular-content="blocks.css"></style>
+            <div ods-bind-angular-content="blocks.html"></div>
+        </div>
+    </div>
+</main>
+
+
+
+        </div>
+
+
+        
+    <footer ng-controller="FooterController">
+    
+            <div class="ods-front-footer"> 
+	<a href="/pages/mentions-legales">Mentions Légales</a> <a href="/pages/contact">Contact</a><a href="/backoffice/" class="bouton">
+    Backoffice
+    </a>
+    <a href="https://data.bordeaux-metropole.fr/rss" target="_blank"><img src="/assets/theme_image/rss.png" alt="Flux RSS du site OpenData Bordeaux Métropole" title="Flux RSS du site OpenData Bordeaux Métropole"></a>
+</div>
+    
+    </footer>
+
+
+        <script type="text/javascript" src="/static/compressed/js/44d5e84a4730.js"></script>
+
+        <script type="text/javascript" src="/static/compressed/js/a095778f67a4.js"></script>
+
+        <script type="text/javascript">
+            var app = angular.module('ods.core.config', []);
+
+            
+            app.factory("domainConfig", [function() {
+                return {"explore.dataset_catalog_separate_languages": null, "explore.catalog.geonavigation": null, "explore.disable_analyze": null, "languages": ["fr"], "explore.dataset_catalog_default_source_shared": null, "explore.enable_api_tab": true, "explore.reuse": true};
+            }]);
+            
+
+            app.factory("config", [function() {
+                return {
+                    DATASET_ID: '',
+                    LANGUAGE: 'fr',
+                    AVAILABLE_LANGUAGES: ["fr"],
+                    USER: null,
+                    FQ_USERNAME: null,
+                    BRAND_HOSTNAME: "opendatasoft.com",
+                    DEFAULT_BASEMAP: {"jawg_apikey": "4cKtE4Rze1HrvxWa9a7mdolSk10lVThTFC8zadQYMIMxTjkpTeIDJAAmhReDGnCH", "jawg_odsdomain": "scnbdx", "provider": "jawg.streets"},
+                
+                    DOMAIN_ID: 'scnbdx',
+                    ANONYMOUS_ACCESS_ENABLED: 'true',
+                    FEEDBACK: false,
+                    RESOURCE_DOWNLOAD_CONDITIONS: false,
+                    PARENT_DOMAIN: false,
+                    
+                    
+                    MINUTE_LEVEL_SCHEDULING: true,
+                    CATALOG_SEARCH_BOOSTING_ENABLED: false,
+                    
+                    CSV_DELIMITER: ';',
+                
+                    CENTRALSTORE: true,
+                    FORCE_DEBUG_LOGGER: false,
+                    RECAPTCHA_PUBLIC_KEY: '6LflroEUAAAAAH1LD8LksjNLDrYFfDp1_bf-D_RD',
+                    REQUEST_ID: '32921cc1629139cdcbfddd1c3a10e3b5'
+                }
+            }]);
+        </script>
+
+        <script type="text/javascript" src="/static/compressed/js/74f5ca2ace74.js"></script>
+
+        
+
+
+
+        
+
+
+
+        
+
+
+
+
+
+        
+
+
+        <script src="/static/ods/js/supported-browsers-message.js" type="text/javascript"></script>
+
+        
+    
+    
+
+    <script type="text/javascript" src="/static/compressed/js/bffc26755f1d.js"></script>
+
+    <script type="text/javascript" src="/static/compressed/js/561ebf4e228e.js"></script>
+
+    <script type="text/javascript">
+        var app = angular.module('ods.frontend', ['ods', 'ods.core']);
+
+        app.value('PageConfig', {
+            pageId: 'accueil',
+        });
+
+        app.controller('PageController', function ($scope, domainConfig, config) {
+            $scope.blocks = {"html": "&lt;div style=&quot;background-image: linear-gradient(-59deg, #5993BA 0%, #508FB8 10%, #0067A5 100%);&quot;&gt;\n    &lt;div class=&quot;top row maxwidth padding-section&quot;&gt;\n        &lt;div class=&quot;col-md-7&quot;&gt;\n            &lt;h1 style=&quot;text-shadow:0 2px 6px rgba(0,0,0,0.4)&quot;&gt;D\u00e9couvrez l\u2019Atelier Open Data de Bordeaux M\u00e9tropole !&lt;/h1&gt;\n            &lt;p  style=&quot;text-shadow:0 1px 0px rgba(0,0,0,1)&quot;&gt;&lt;strong&gt;L\u2019Atelier Open Data &lt;/strong&gt;est un espace interactif de diffusion et de valorisation des donn\u00e9es publiques de la m\u00e9tropole et ses communes\n            &lt;/p&gt;     \n            &lt;a href=&quot;/explore/&quot; class=&quot;bouton blue bouton-top&quot;&gt;Toutes les donn\u00e9es&lt;/a&gt;\n        &lt;/div&gt;   \n        &lt;div class=&quot;col-md-5&quot; style=&quot;text-align:center&quot;&gt;\n            &lt;img src=&quot;/assets/theme_image/mascotte-od.svg&quot;&gt;\n        &lt;/div&gt;\n    &lt;/div&gt;\n&lt;/div&gt;\n&lt;img src=&quot;/assets/theme_image/courbe-blanc.svg&quot; class=&quot;hide-mobile&quot; style=&quot;width:100%;margin-top:-300px;position:relative;z-index:2&quot;&gt;\n\n&lt;div style=&quot;position:relative;&quot; class=&quot;back-gris padding-t-lg&quot;&gt;\n    &lt;img src=&quot;/assets/theme_image/ligne-metro.png&quot; class=&quot;hide-mobile&quot; style=&quot;position: absolute;top:104px;left:-370px&quot; class=&quot;padding-t-lg&quot;&gt;\n    &lt;div class=&quot;maxwidth&quot;&gt;\n        &lt;ods-catalog-context context=&quot;catalog&quot; \n                             ods-domain-statistics&gt;\n            \n        &lt;h2&gt;Explorez le territoire \u00e0 travers les &lt;strong&gt;{{catalog.stats.dataset}} jeux de donn\u00e9es Publiques&lt;br /&gt;&lt;/strong&gt; rassembl\u00e9s en 4 univers th\u00e9matiques\n        &lt;/h2&gt;\n        &lt;/ods-catalog-context&gt;\n        \n        &lt;div ng-init=&quot;onglet_actif = &#39;categorie_1&#39;&quot;&gt;\n\n\n            &lt;div class=&quot;row theme-switch padding-t-xl&quot; style=&quot;margin-bottom:10px&quot;&gt;\n\n                &lt;div ng-click=&quot;onglet_actif = &#39;categorie_1&#39;&quot; class=&quot;col-md-3 col-xs-6&quot;&gt; &lt;a ng-class=&quot;{&#39;classe_actif&#39;: onglet_actif == &#39;categorie_1&#39;}&quot; class=&quot;mobilite&quot;&gt; Mobilit\u00e9&lt;/a&gt;&lt;/div&gt;\n\n                &lt;div ng-click=&quot;onglet_actif = &#39;categorie_2&#39;&quot; class=&quot;col-md-3 col-xs-6&quot;&gt;   &lt;a ng-class=&quot;{&#39;classe_actif&#39;: onglet_actif == &#39;categorie_2&#39;}&quot; class=&quot;citoyennete&quot;&gt;Citoyennet\u00e9&lt;/a&gt;&lt;/div&gt;                \n                \n                &lt;div ng-click=&quot;onglet_actif = &#39;categorie_3&#39;&quot; class=&quot;col-md-3 col-xs-6&quot;&gt;  &lt;a ng-class=&quot;{&#39;classe_actif&#39;: onglet_actif == &#39;categorie_3&#39;}&quot; class=&quot;territoire&quot;&gt;Territoire&lt;/a&gt;&lt;/div&gt;\n\n                &lt;div ng-click=&quot;onglet_actif = &#39;categorie_4&#39;&quot; class=&quot;col-md-3 col-xs-6&quot;&gt;  &lt;a ng-class=&quot;{&#39;classe_actif&#39;: onglet_actif == &#39;categorie_4&#39;}&quot; class=&quot;societe&quot;&gt;Soci\u00e9t\u00e9&lt;/a&gt;&lt;/div&gt;\n\n            &lt;/div&gt;\n\n            &lt;div ng-class=&quot;{&#39;classe_actif&#39;: onglet_actif == &#39;categorie_1&#39;}&quot; ng-if=&quot;onglet_actif == &#39;categorie_1&#39;&quot; class=&quot;mobilite theme shadow&quot;&gt; \n                &lt;div class=&quot;theme-titre box&quot;&gt;\n                    &lt;div class=&quot;row&quot;&gt;                                 \n                        &lt;div class=&quot;col-md-9&quot;&gt;\n                            &lt;h3&gt;Mobilit\u00e9&lt;/h3&gt;\n                            &lt;p&gt;Cet univers accueille les jeux de donn\u00e9es li\u00e9s \u00e0 tous les modes de d\u00e9placement de nos habitants, visiteurs, touristes, professionnels\u2026 : tram, bus, voiture, v\u00e9lo, pi\u00e9ton, bateau, etc.&lt;/p&gt;\n                        &lt;/div&gt;\n                        &lt;div class=&quot;col-md-3&quot;&gt;\n                            &lt;div class=&quot;float-right&quot;&gt;\n                                &lt;ods-dataset-context context=&quot;reuses&quot;\n                                                     reuses-dataset=&quot;reutilisations&quot;\n                                                     reuses-parameters=&quot;{&#39;refine.univers&#39;: &#39;Mobilit\u00e9&#39;}&quot;&gt;\n\n                                    &lt;ods-catalog-context context=&quot;catalog&quot; \n                                                         catalog-parameters=&quot;{&#39;refine.theme&#39;: &#39;D\u00e9placement&#39;}&quot;\n                                                         ods-domain-statistics&gt;\n\n                                        &lt;a class=&quot;bouton outline gradient&quot;\n                                           href=&quot;/explore/?disjunctive.theme&amp;sort=title&amp;refine.theme=D\u00e9placement&quot;\n                                           target=&quot;_blank&quot;&gt;\n                                            &lt;div class=&quot;gradient-content&quot;&gt;\n                                                &lt;span class=&quot;lg-number&quot;&gt;{{catalog.stats.dataset}}&lt;/span&gt; Jeux de donn\u00e9es &lt;/div&gt;&lt;/a&gt;\n                                        &lt;a class=&quot;bouton outline gradient&quot;\n                                           href=&quot;/pages/reutilisation/?refine.univers=Mobilit\u00e9&quot;\n                                           target=&quot;_blank&quot;\n                                           ods-results=&quot;reuses_list&quot;\n                                           ods-results-context=&quot;reuses&quot;\n                                           ods-results-max=&quot;500&quot;&gt;\n                                            &lt;div class=&quot;gradient-content&quot;&gt;\n                                                &lt;span class=&quot;lg-number&quot;&gt;{{reuses_list.length}}&lt;/span&gt; R\u00e9utilisations &lt;/div&gt;&lt;/a&gt;\n                                    &lt;/ods-catalog-context&gt;\n                                &lt;/ods-dataset-context&gt;\n                            &lt;/div&gt;\n                        &lt;/div&gt;\n                    &lt;/div&gt;\n                &lt;/div&gt;\n                &lt;div class=&quot;theme-descriptif box &quot;&gt;\n                    &lt;div class=&quot;row&quot;&gt;\n                        &lt;div class=&quot;col-md-6&quot;&gt;\n                            &lt;h4&gt;&lt;span style=&quot;font-weight:300&quot;&gt;\u00c0 la une : &lt;br /&gt;&lt;/span&gt;\n                                Disponibilit\u00e9 des parkings en temps r\u00e9el\n                            &lt;/h4&gt;\n                            &lt;p&gt;A tout moment, consultez en temps r\u00e9el gr\u00e2ce \u00e0 cette carte interactive le niveau de disponibilit\u00e9 des places de parking souterrains de la m\u00e9tropole\n                            &lt;/p&gt;\n                            &lt;a class=&quot;bouton&quot;\n                               href=&quot;/pages/parking-disponibilite/&quot;\n                               target=&quot;_blank&quot;&gt;Agrandir&lt;/a&gt;\n                        &lt;/div&gt;\n                        &lt;div class=&quot;col-md-6&quot;&gt;\n\n                            &lt;a href=&quot;/pages/parking-disponibilite/&quot; target=&quot;_blank&quot; class=&quot;viz&quot; style=&quot;background-image: url(/assets/theme_image/preview-parking.jpg)&quot;&gt;\n                            &lt;/a&gt;\n                        &lt;/div&gt;\n                    &lt;/div&gt;\n                &lt;/div&gt;\n            &lt;/div&gt;\n\n\n            &lt;div ng-class=&quot;{&#39;classe_actif&#39;: onglet_actif == &#39;categorie_2&#39;}&quot; ng-if=&quot;onglet_actif == &#39;categorie_2&#39;&quot; class=&quot;citoyennete theme shadow&quot;&gt; \n                &lt;div class=&quot;theme-titre box&quot;&gt;\n                    &lt;div class=&quot;row&quot;&gt;                                 \n                        &lt;div class=&quot;col-md-9&quot;&gt;\n                            &lt;h3&gt;Citoyennet\u00e9&lt;/h3&gt;\n                            &lt;p&gt;Cet univers accueille les jeux de donn\u00e9es li\u00e9s \u00e0 l\u2019administration de la cit\u00e9 et, en tant que citoyen, aux d\u00e9marches publiques : budgets, \u00e9tat civil, \u00e9lections, march\u00e9s publics, etc.&lt;/p&gt;\n                        &lt;/div&gt;\n                        &lt;div class=&quot;col-md-3&quot;&gt;\n                            &lt;div  class=&quot;float-right&quot;&gt;\n                                &lt;ods-dataset-context context=&quot;reuses&quot;\n                                                     reuses-dataset=&quot;reutilisations&quot;\n                                                     reuses-parameters=&quot;{&#39;refine.univers&#39;: &#39;Citoyennet\u00e9&#39;}&quot;&gt;\n                                    &lt;ods-catalog-context context=&quot;catalog&quot; \n                                                         catalog-parameters=&quot;{&#39;disjunctive.theme&#39;: true, &#39;refine.theme&#39;: &#39;Citoyennet\u00e9 et administration&#39;}&quot;\n                                                         ods-domain-statistics&gt;\n                                        &lt;a class=&quot;bouton outline gradient&quot;\n                                           href=&quot;/explore/?disjunctive.theme&amp;sort=title&amp;refine.theme=Citoyennet\u00e9 et administration&quot;\n                                           target=&quot;_blank&quot;&gt;\n                                            &lt;div class=&quot;gradient-content&quot;&gt;\n                                                &lt;span class=&quot;lg-number&quot;&gt;{{catalog.stats.dataset}}&lt;/span&gt; Jeux de donn\u00e9es &lt;/div&gt;&lt;/a&gt;\n                                        &lt;a class=&quot;bouton outline gradient&quot;\n                                           href=&quot;/pages/reutilisation/?refine.univers=Citoyennet\u00e9&quot;\n                                           target=&quot;_blank&quot;\n                                           ods-results=&quot;reuses_list&quot;\n                                           ods-results-context=&quot;reuses&quot;\n                                           ods-results-max=&quot;500&quot;&gt;\n                                            &lt;div class=&quot;gradient-content&quot;&gt;\n                                                &lt;span class=&quot;lg-number&quot;&gt;{{reuses_list.length}}&lt;/span&gt; R\u00e9utilisations &lt;/div&gt;&lt;/a&gt;\n                                    &lt;/ods-catalog-context&gt;   \n                                &lt;/ods-dataset-context&gt;\n                            &lt;/div&gt;\n                        &lt;/div&gt;\n                    &lt;/div&gt;\n                &lt;/div&gt;\n                &lt;div class=&quot;theme-descriptif box &quot;&gt;\n                    &lt;div class=&quot;row&quot;&gt;\n                        &lt;div class=&quot;col-md-6&quot;&gt;\n                            &lt;h4&gt;&lt;span style=&quot;font-weight:300&quot;&gt;\u00c0 la une : &lt;br /&gt;&lt;/span&gt;\n                                Subventions\n                            &lt;/h4&gt;\n                            &lt;p&gt;\n                                D\u00e9couvrez toute la dynamique du territoire \u00e0 travers la ventilation des subventions, par ann\u00e9e et par montant, accord\u00e9es aux associations par la M\u00e9tropole de Bordeaux.\n                            &lt;/p&gt;\n                           &lt;a class=&quot;bouton&quot;\n                               href=&quot;/pages/subventions/&quot;\n                               target=&quot;_blank&quot;&gt;Agrandir&lt;/a&gt;\n                        &lt;/div&gt;\n                        &lt;div class=&quot;col-md-6&quot;&gt;\n                             &lt;a href=&quot;/pages/subventions/&quot; target=&quot;_blank&quot; class=&quot;viz&quot; style=&quot;background-image: url(/assets/theme_image/preview-sub.jpg)&quot;&gt;\n                            &lt;/a&gt;\n                        &lt;/div&gt;\n                    &lt;/div&gt;\n                &lt;/div&gt;\n            &lt;/div&gt;\n\n            \n            &lt;div ng-class=&quot;{&#39;classe_actif&#39;: onglet_actif == &#39;categorie_3&#39;}&quot; ng-if=&quot;onglet_actif == &#39;categorie_3&#39;&quot; class=&quot;territoire theme shadow&quot;&gt; \n                &lt;div class=&quot;theme-titre box&quot;&gt;\n                    &lt;div class=&quot;row&quot;&gt;                                 \n                        &lt;div class=&quot;col-md-9&quot;&gt;\n                            &lt;h3&gt;Territoire&lt;/h3&gt;\n                            &lt;p&gt;Cet univers accueille les jeux de donn\u00e9es li\u00e9s \u00e0 l&#39;attractivit\u00e9 du territoire \u00e0 travers son am\u00e9nagement : d\u00e9veloppement durable, infrastructures r\u00e9seaux, mobilier urbain, documents d&#39;urbanisme, espaces verts, etc.\n\n                            &lt;/p&gt;\n                        &lt;/div&gt;\n                        &lt;div class=&quot;col-md-3&quot;&gt;\n                            &lt;div  class=&quot;float-right&quot;&gt;\n                                &lt;ods-dataset-context context=&quot;reuses&quot;\n                                                     reuses-dataset=&quot;reutilisations&quot;\n                                                     reuses-parameters=&quot;{&#39;refine.univers&#39;: &#39;Territoire&#39;}&quot;&gt;\n                                    &lt;ods-catalog-context context=&quot;catalog&quot; \n                                                         catalog-parameters=&quot;{&#39;disjunctive.theme&#39;: true, &#39;refine.theme&#39;: [&#39;Cadre de vie&#39;, &#39;Cartographie de r\u00e9f\u00e9rence&#39;, &#39;Nature - Eau assainissement&#39;, &#39;Urbanisme - Am\u00e9nagement&#39;, &#39;Voirie - Espaces publics&#39;, &#39;D\u00e9veloppement durable&#39;]}&quot;\n                                                         ods-domain-statistics&gt;\n                                        &lt;a class=&quot;bouton outline gradient&quot;\n                                           href=&quot;/explore/?disjunctive.theme&amp;sort=title&amp;refine.theme=Cadre de vie&amp;refine.theme=Cartographie de r\u00e9f\u00e9rence&amp;refine.theme=Nature - Eau assainissement&amp;refine.theme=Urbanisme - Am\u00e9nagement&amp;refine.theme=Voirie - Espaces publics&amp;refine.theme=D\u00e9veloppement durable&quot;\n                                           target=&quot;_blank&quot;&gt;\n                                            &lt;div class=&quot;gradient-content&quot;&gt;\n                                                &lt;span class=&quot;lg-number&quot;&gt;{{catalog.stats.dataset}}&lt;/span&gt; Jeux de donn\u00e9es &lt;/div&gt;&lt;/a&gt;\n                                        &lt;a class=&quot;bouton outline gradient&quot;\n                                           href=&quot;/pages/reutilisation/?refine.univers=Territoire&quot;\n                                           target=&quot;_blank&quot;\n                                           ods-results=&quot;reuses_list&quot;\n                                           ods-results-context=&quot;reuses&quot;\n                                           ods-results-max=&quot;500&quot;&gt;\n                                            &lt;div class=&quot;gradient-content&quot;&gt;\n                                                &lt;span class=&quot;lg-number&quot;&gt;{{reuses_list.length}}&lt;/span&gt; R\u00e9utilisations &lt;/div&gt;&lt;/a&gt;\n                                    &lt;/ods-catalog-context&gt;\n                                &lt;/ods-dataset-context&gt;\n                            &lt;/div&gt;\n                        &lt;/div&gt;\n                    &lt;/div&gt;\n                &lt;/div&gt;\n                &lt;div class=&quot;theme-descriptif box &quot;&gt;\n                    &lt;div class=&quot;row&quot;&gt;\n                        &lt;div class=&quot;col-md-6&quot;&gt;\n                            &lt;h4&gt;&lt;span style=&quot;font-weight:300&quot;&gt;\u00c0 la une : &lt;br /&gt;&lt;/span&gt;\n                                Carte des \u00e9quipements par th\u00e8me\n                            &lt;/h4&gt;\n                            &lt;p&gt;Identifiez l&#39;emplacement de chaque \u00e9quipement public du territoire m\u00e9tropolitain gr\u00e2ce \u00e0 une recherche par mot cl\u00e9 ou grandes th\u00e9matiques : transport, sant\u00e9, social, sports &amp;amp; loisirs, etc.\n                            &lt;/p&gt;\n                            &lt;a class=&quot;bouton&quot;\n                               href=&quot;/pages/equipements/&quot;\n                               target=&quot;_blank&quot;&gt;Agrandir&lt;/a&gt;\n                        &lt;/div&gt;\n                        &lt;div class=&quot;col-md-6&quot;&gt;\n                             &lt;a href=&quot;/pages/equipements/&quot;  target=&quot;_blank&quot; class=&quot;viz&quot; style=&quot;background-image:url(/assets/theme_image/preview-equipements.jpg)&quot;&gt;\n                            &lt;/a&gt;\n                        &lt;/div&gt;\n                    &lt;/div&gt;\n                &lt;/div&gt;\n            &lt;/div&gt;\n            \n            \n            &lt;div ng-class=&quot;{&#39;classe_actif&#39;: onglet_actif == &#39;categorie_4&#39;}&quot; ng-if=&quot;onglet_actif == &#39;categorie_4&#39;&quot; class=&quot;societe theme shadow&quot;&gt; \n                &lt;div class=&quot;theme-titre box&quot;&gt;\n                    &lt;div class=&quot;row&quot;&gt;                                 \n                        &lt;div class=&quot;col-md-9&quot;&gt;\n                            &lt;h3&gt;Soci\u00e9t\u00e9&lt;/h3&gt;\n                            &lt;p&gt;Cet univers accueille les jeux de donn\u00e9es li\u00e9s \u00e0 la vie en soci\u00e9t\u00e9 : service de vie quotidienne, culture, sport, association, enfance, loisirs, etc.&lt;/p&gt;\n                        &lt;/div&gt;\n                        &lt;div class=&quot;col-md-3&quot;&gt;\n                            &lt;div  class=&quot;float-right&quot;&gt;\n                                &lt;ods-dataset-context context=&quot;reuses&quot;\n                                                     reuses-dataset=&quot;reutilisations&quot;\n                                                     reuses-parameters=&quot;{&#39;refine.univers&#39;: &#39;Soci\u00e9t\u00e9&#39;}&quot;&gt;\n                                    &lt;ods-catalog-context context=&quot;catalog&quot; \n                                                         catalog-parameters=&quot;{&#39;disjunctive.theme&#39;: true, &#39;refine.theme&#39;: [&#39;Culture, sports et loisirs&#39;, &#39;D\u00e9veloppement \u00e9conomique&#39;]}&quot;\n                                                         ods-domain-statistics&gt;\n                                        &lt;a class=&quot;bouton outline gradient&quot;\n                                           href=&quot;/explore/?disjunctive.theme&amp;sort=title&amp;refine.theme=Culture, sports et loisirs&amp;refine.theme=D\u00e9veloppement \u00e9conomique&quot;\n                                           target=&quot;_blank&quot;&gt;\n                                            &lt;div class=&quot;gradient-content&quot;&gt;\n                                                &lt;span class=&quot;lg-number&quot;&gt;{{catalog.stats.dataset}}&lt;/span&gt; Jeux de donn\u00e9es &lt;/div&gt;&lt;/a&gt;\n                                        &lt;a class=&quot;bouton outline gradient&quot;\n                                           href=&quot;/pages/reutilisation/?refine.univers=Soci\u00e9t\u00e9&quot;\n                                           target=&quot;_blank&quot;\n                                           ods-results=&quot;reuses_list&quot;\n                                           ods-results-context=&quot;reuses&quot;\n                                           ods-results-max=&quot;500&quot;&gt;\n                                            &lt;div class=&quot;gradient-content&quot;&gt;\n                                                &lt;span class=&quot;lg-number&quot;&gt;{{reuses_list.length}}&lt;/span&gt; R\u00e9utilisations &lt;/div&gt;&lt;/a&gt;\n                                    &lt;/ods-catalog-context&gt; \n                                &lt;/ods-dataset-context&gt;\n                            &lt;/div&gt;\n                        &lt;/div&gt;\n                    &lt;/div&gt;\n                &lt;/div&gt;\n                &lt;div class=&quot;theme-descriptif box &quot;&gt;\n                    &lt;div class=&quot;row&quot;&gt;\n                        &lt;div class=&quot;col-md-6&quot;&gt;\n                            &lt;h4&gt;&lt;span style=&quot;font-weight:300&quot;&gt;\u00c0 la une : &lt;br /&gt;&lt;/span&gt;\n                                Les entreprises de la M\u00e9tropole\n                            &lt;/h4&gt;\n                            &lt;p&gt;\n                                Gr\u00e2ce \u00e0 cette s\u00e9rie d\u2019infographies, d\u00e9couvrez toute l\u2019activit\u00e9 \u00e9conomique du territoire, par commune et par secteur d\u2019activit\u00e9.\n                            &lt;/p&gt;\n                            &lt;a href=&quot;/pages/entreprises/&quot;\n                               target=&quot;_blank&quot;\n                               class=&quot;bouton&quot;&gt;Agrandir&lt;/a&gt;\n                        &lt;/div&gt;\n                        &lt;div class=&quot;col-md-6&quot;&gt;\n                            &lt;a href=&quot;/pages/entreprises/&quot; target=&quot;_blank&quot; class=&quot;viz&quot; style=&quot;background-image:url(/assets/theme_image/preview-entreprise.jpg) &quot;&gt;\n                            &lt;/a&gt;\n                        &lt;/div&gt;\n                    &lt;/div&gt;\n                &lt;/div&gt;\n            &lt;/div&gt;\n\n        &lt;/div&gt;\n\n        &lt;div class=&quot;commune padding-b-xl&quot;&gt;\n            &lt;div class=&quot;row padding-t-lg&quot;&gt;\n                &lt;div class=&quot;col-md-6&quot;&gt;\n                    &lt;h2 class=&quot; margin-t-l padding-t-xl&quot; style=&quot;text-align:left;&quot;&gt;Retrouvez les donn\u00e9es de &lt;strong&gt;votre commune !&lt;/strong&gt;\n                    &lt;/h2&gt;\n                    &lt;p style=&quot;text-align:left;color:#484848&quot;&gt;L&#39;Atelier Open Data est avant tout un espace collaboratif d\u00e9di\u00e9 aux donn\u00e9es communales. Il vous suffit de cliquer sur l&#39;emplacement d&#39;une commune pour d\u00e9couvrir tous les jeux de donn\u00e9es qui la concernent ainsi que les r\u00e9utilisations d\u00e9j\u00e0 r\u00e9alis\u00e9es. Les communes color\u00e9es participent activement \u00e0 cette d\u00e9marche en tant que villes pilotes engag\u00e9es.\n                    &lt;/p&gt;\n                &lt;/div&gt;\n                &lt;div class=&quot;col-md-6&quot;&gt;\n                    &lt;img class=&quot;hide-mobile&quot; style=&quot;width:100%;&quot; src=&quot;/assets/theme_image/logo-bdx-metro.png&quot;&gt;\n                &lt;/div&gt;\n            &lt;/div&gt;\n\n            &lt;div class=&quot;row map-commune margin-t-negat&quot;&gt;\n                &lt;ods-dataset-context context=&quot;communes,selection,reuses,communesnonpilote,communespilote&quot; \n                                     communes-dataset=&quot;fv_commu_s&quot;\n                                     communespilote-dataset=&quot;fv_commu_s&quot;\n                                     communesnonpilote-dataset=&quot;fv_commu_s&quot;\n                                     selection-dataset=&quot;fv_commu_s&quot;\n                                     reuses-dataset=&quot;reutilisations&quot;\n                                     communespilote-parameters=&quot;{&#39;q&#39;: &#39;gid:18 or gid:15 or gid:16 or gid:21 or gid:12 or gid:4&#39;}&quot;\n                                     communesnonpilote-parameters=&quot;{&#39;refine.gid&#39;: 0}&quot;&gt;\n\n                    &lt;ods-catalog-context context=&quot;catalog&quot;\n                                         ods-domain-statistics&gt;\n\n                        {{catalog.parameters[&#39;refine.territoire&#39;] = selection.parameters[&#39;refine.nom&#39;];&quot;&quot;}}\n                        {{reuses.parameters[&#39;refine.territoire&#39;] = selection.parameters[&#39;refine.nom&#39;];&quot;&quot;}}\n\n                        &lt;!--communes.parameters: {{communes.parameters}}&lt;br /&gt;\n                        selection.parameters: {{selection.parameters}}&lt;br /&gt;\n                        catalog.parameters: {{catalog.parameters}}&lt;br /&gt;\n                        reuses.parameters: {{reuses.parameters}}--&gt;\n\n                        &lt;div class=&quot;col-md-8&quot;&gt;\n                            &lt;div class=&quot;viz shadow&quot;&gt;\n\n                                &lt;ods-map scroll-wheel-zoom=&quot;false&quot;&gt;\n                                    &lt;ods-map-layer show-if=&quot;catalog.parameters[&#39;refine.territoire&#39;]&quot; context=&quot;selection&quot; shape-opacity=&quot;0.8&quot; color=&quot;#8ED4D9&quot; point-opacity=&quot;0&quot; border-color=&quot;#000000&quot; border-opacity=&quot;0.5&quot; border-size=&quot;1&quot; &gt;&lt;/ods-map-layer&gt;\n                                    &lt;ods-map-layer context=&quot;communespilote&quot; shape-opacity=&quot;0.5&quot; color=&quot;#1D8D9F&quot; point-opacity=&quot;0&quot; border-color=&quot;#fff&quot; border-opacity=&quot;0.5&quot; border-size=&quot;1&quot; &gt;&lt;/ods-map-layer&gt;\n                                    &lt;ods-map-layer context=&quot;communesnonpilote&quot; shape-opacity=&quot;0.5&quot; color=&quot;transparent&quot; point-opacity=&quot;0&quot; border-color=&quot;transparent&quot; border-opacity=&quot;0.5&quot; border-size=&quot;1&quot; &gt;&lt;/ods-map-layer&gt;\n                                    &lt;ods-map-layer context=&quot;communespilote&quot; \n                                                   color=&quot;#fff&quot;\n                                                   border-opacity=&quot;0&quot;\n                                                   shape-opacity=&quot;0&quot;\n                                                   border-color=&quot;#fff&quot;\n                                                   border-size=&quot;1&quot;\n                                                   refine-on-click-context=&quot;selection&quot;\n                                                   refine-on-click-selection-map-field=&quot;nom&quot;\n                                                   refine-on-click-selection-context-field=&quot;nom&quot;\n                                                   refine-on-click-replace-refine=&quot;true&quot;\n                                                   &gt;&lt;/ods-map-layer&gt;\n                                &lt;/ods-map&gt;\n\n                            &lt;/div&gt;\n                        &lt;/div&gt;\n                        &lt;div class=&quot;col-md-4&quot;&gt;\n                            &lt;div ng-if=&quot;!catalog.parameters[&#39;refine.territoire&#39;]&quot; class=&quot;box shadow&quot;&gt;\n                                &lt;img src=&quot;/assets/theme_image/icone-pilote.png&quot;&gt;\n                                &lt;h3 class=&quot;padding-t-lg&quot; style=&quot;;font-weight:400&quot;&gt;\n                                    Selectionnez votre territoire sur la carte\n                                &lt;/h3&gt;  &lt;/div&gt;\n                            &lt;div ng-if=&quot;catalog.parameters[&#39;refine.territoire&#39;]&quot;&gt;\n                                &lt;div class=&quot;box shadow anim-territoire&quot; \n                                     ods-results=&quot;catalog_list&quot;\n                                     ods-results-context=&quot;catalog&quot;\n                                     ods-results-max=&quot;500&quot;&gt;\n                                    &lt;div \n                                         ods-results=&quot;reuses_list&quot;\n                                         ods-results-context=&quot;reuses&quot;\n                                         ods-results-max=&quot;500&quot;\n                                         class=&quot;select-commmune&quot;&gt;\n                                        &lt;p&gt;S\u00e9lection :&lt;/p&gt;\n                                        &lt;h3&gt;{{catalog.parameters[&#39;refine.territoire&#39;][0].length == 1 ? catalog.parameters[&#39;refine.territoire&#39;] : catalog.parameters[&#39;refine.territoire&#39;][0]}}&lt;/h3&gt;\n\n\n                                        &lt;p ng-if=&quot;(catalog.parameters[&#39;refine.territoire&#39;][0].length == 1 ? catalog.parameters[&#39;refine.territoire&#39;] : catalog.parameters[&#39;refine.territoire&#39;][0]) == &#39;Bordeaux&#39;&quot;&gt;&lt;img src=&quot;/assets/theme_image/logo-commune-bordeaux.png&quot;&gt;&lt;/p&gt;\n                                        &lt;p ng-if=&quot;(catalog.parameters[&#39;refine.territoire&#39;][0].length == 1 ? catalog.parameters[&#39;refine.territoire&#39;] : catalog.parameters[&#39;refine.territoire&#39;][0]) == &#39;Pessac&#39;&quot;&gt;&lt;img src=&quot;/assets/theme_image/logo-commune-pessac.png&quot;&gt;&lt;/p&gt;\n                                        &lt;p ng-if=&quot;(catalog.parameters[&#39;refine.territoire&#39;][0].length == 1 ? catalog.parameters[&#39;refine.territoire&#39;] : catalog.parameters[&#39;refine.territoire&#39;][0]) == &#39;Talence&#39;&quot;&gt;&lt;img src=&quot;/assets/theme_image/logo-commune-talence.png&quot;&gt;&lt;/p&gt;\n                                        &lt;p ng-if=&quot;(catalog.parameters[&#39;refine.territoire&#39;][0].length == 1 ? catalog.parameters[&#39;refine.territoire&#39;] : catalog.parameters[&#39;refine.territoire&#39;][0]) == &#39;M\u00e9rignac&#39;&quot;&gt;&lt;img src=&quot;/assets/theme_image/logo-commune-merignac.png&quot;&gt;&lt;/p&gt;\n                                        &lt;p ng-if=&quot;(catalog.parameters[&#39;refine.territoire&#39;][0].length == 1 ? catalog.parameters[&#39;refine.territoire&#39;] : catalog.parameters[&#39;refine.territoire&#39;][0]) == &#39;B\u00e8gles&#39;&quot;&gt;&lt;img src=&quot;/assets/theme_image/logo-commune-begles.png&quot;&gt;&lt;/p&gt;\n                                        &lt;p ng-if=&quot;(catalog.parameters[&#39;refine.territoire&#39;][0].length == 1 ? catalog.parameters[&#39;refine.territoire&#39;] : catalog.parameters[&#39;refine.territoire&#39;][0]) == &#39;Le Taillan-M\u00e9doc&#39;&quot;&gt;&lt;img src=&quot;/assets/theme_image/logo-commune-taillan.svg&quot;&gt;&lt;/p&gt;\n\n\n                                        &lt;a class=&quot;bouton outline gradient&quot;\n                                           href=&quot;/explore/?sort=title{{catalog.parameters[&#39;refine.territoire&#39;] ? &#39;&amp;refine.territoire=&#39; + catalog.parameters[&#39;refine.territoire&#39;] : &#39;&#39;}}&quot;\n                                           target=&quot;_blank&quot;&gt;\n                                            &lt;div class=&quot;gradient-content&quot;&gt;\n                                                &lt;span class=&quot;lg-number&quot;&gt;{{catalog_list.length}}&lt;/span&gt; Jeux de donn\u00e9es &lt;/div&gt;&lt;/a&gt;\n                                        &lt;a class=&quot;bouton outline gradient&quot;\n                                           href=&quot;/pages/reutilisation/?{{catalog.parameters[&#39;refine.territoire&#39;] ? &#39;&amp;refine.territoire=&#39; + catalog.parameters[&#39;refine.territoire&#39;] : &#39;&#39;}}&quot;\n                                           target=&quot;_blank&quot;&gt;\n                                            &lt;div class=&quot;gradient-content&quot;&gt;\n                                                &lt;span class=&quot;lg-number&quot;&gt;{{reuses_list.length}}&lt;/span&gt; R\u00e9utilisations &lt;/div&gt;&lt;/a&gt;                                \n                                    &lt;/div&gt;\n                                &lt;/div&gt;\n                            &lt;/div&gt;\n\n                        &lt;/div&gt;\n                    &lt;/ods-catalog-context&gt;\n                &lt;/ods-dataset-context&gt;\n\n            &lt;/div&gt;\n        &lt;/div&gt;\n\n\n    &lt;/div&gt;\n    &lt;div id=&quot;openfab&quot; class=&quot;bottom padding-t-xl&quot; style=&quot;position:relative;background-image: linear-gradient(179deg, #0067A5 0%, #558EB8 86%);&quot;&gt;\n        &lt;img src=&quot;/assets/theme_image/ligne-metro.png&quot; class=&quot;hide-mobile&quot; style=&quot;transform:scaleX(-1);position: absolute;top:134px;right:-300px&quot; class=&quot;padding-t-xl&quot;&gt;\n        &lt;div class=&quot;maxwidth&quot;&gt;\n            &lt;h2 class=&quot;txt-shadow&quot; style=&quot;color:#fff&quot;&gt;\n                Vous \u00eates r\u00e9utilisateur ?&lt;br /&gt;\n                Rejoignez l\u2019OpenFab\n            &lt;/h2&gt;\n            &lt;p style=&quot;color:#fff&quot;&gt;L&#39;OpenFab est l&#39;espace d\u00e9di\u00e9 aux r\u00e9utilisations et valorisations des donn\u00e9es : requ\u00eates, analyses, \u00e9changes entre sp\u00e9cialistes, vous y trouverez tous les outils pour cr\u00e9er vos applis et partagez vos cr\u00e9ations. \n            &lt;/p&gt;\n\n            &lt;div class=&quot;row padding-t-lg padding-b-xs&quot;&gt;\n                &lt;div class=&quot;col-md-6&quot;&gt;\n                    &lt;div class=&quot;box shadow&quot;&gt;\n                        &lt;h3&gt;Utilisez nos API&lt;/h3&gt;\n                        &lt;p&gt;L&#39;Atelier Open Data vous met \u00e0 disposition tous les outils n\u00e9cessaires pour requ\u00eater les donn\u00e9es en dynamique ainsi que les afficher sur n&#39;importe quel site dans diff\u00e9rents formats&lt;/p&gt;\n                        &lt;a href=&quot;/api/&quot; class=&quot;bouton blue&quot; target=&quot;_blank&quot;&gt;Requ\u00eateur&lt;/a&gt;&lt;a href=&quot;/pages/api-carto/&quot; class=&quot;bouton blue&quot; target=&quot;_blank&quot;&gt;API Carto&lt;/a&gt;&lt;a href=&quot;/pages/webservice-ogc/&quot; class=&quot;bouton blue&quot; target=&quot;_blank&quot;&gt;Webservice OGC&lt;/a&gt;\n                    &lt;/div&gt;\n                &lt;/div&gt;\n                &lt;div class=&quot;col-md-6&quot;&gt;\n                    &lt;div class=&quot;box shadow&quot;&gt;\n                        &lt;h3&gt;Exploitez les donn\u00e9es&lt;/h3&gt;\n                        &lt;p&gt;Avec l&#39;Atelier Open Data, cr\u00e9ez vos propres cartes ou graphiques en combinant des jeux de donn\u00e9es entre eux&lt;/p&gt;\n                        &lt;a href=&quot;/map/&quot; class=&quot;bouton blue&quot; target=&quot;_blank&quot;&gt;Cr\u00e9ation de carte&lt;/a&gt;&lt;a href=&quot;/chart/&quot; class=&quot;bouton blue&quot; target=&quot;_blank&quot;&gt;Cr\u00e9ation de graphique&lt;/a&gt;\n                    &lt;/div&gt;\n                &lt;/div&gt;\n\n            &lt;/div&gt;\n            \n            &lt;div class=&quot;row padding-t-xs padding-b-lg&quot;&gt;\n                &lt;div class=&quot;col-md-6&quot;&gt;\n                    &lt;div class=&quot;box shadow&quot;&gt;\n                        &lt;h3&gt;Partagez vos r\u00e9utilisations &lt;/h3&gt;\n                        &lt;p&gt;Soyez acteur de la dymanique d&#39;ouverture des donn\u00e9es publiques du territoire en faisant conna\u00eetre vos propres r\u00e9utilisations&lt;/p&gt;\n                        &lt;a href=&quot;https://bordeaux-metropole.umamidata.com/partagez-une-reutilisation&quot; target=&quot;_blank&quot; class=&quot;bouton blue&quot;&gt;Je partage&lt;/a&gt;&lt;a href=&quot;/pages/reutilisation&quot; class=&quot;bouton blue&quot; target=&quot;_blank&quot;&gt;Toutes les r\u00e9utilisations&lt;/a&gt;\n                    &lt;/div&gt;\n                &lt;/div&gt;\n                &lt;div class=&quot;col-md-6&quot;&gt;\n                    &lt;div class=&quot;box shadow&quot;&gt;\n                        &lt;h3&gt;Dialoguez&lt;/h3&gt;\n                        &lt;p&gt;L&#39;Atelier Open Data est un espace d&#39;\u00e9changes autour des questions, des bonnes pratiques et id\u00e9es alors n&#39;h\u00e9sitez pas \u00e0 consulter notre forum ou \u00e0 nous contacter !&lt;/p&gt;\n                        &lt;a target=&quot;_blank&quot; href=&quot;https://data.bordeaux-metropole.fr/forum/&quot; class=&quot;bouton blue&quot; target=&quot;_blank&quot;&gt;Le forum&lt;/a&gt;&lt;a href=&quot;/pages/contact&quot; class=&quot;bouton blue&quot; target=&quot;_blank&quot;&gt;Contactez nous&lt;/a&gt;\n                    &lt;/div&gt;\n                &lt;/div&gt;\n            &lt;/div&gt;    \n\n          \n\n        &lt;/div&gt;\n    &lt;/div&gt;\n\n\n\n\n", "css": ".main--page {margin:0px;position:relative;overflow:hidden}\n\nhtml{font-size:14px;scroll-behavior: smooth;}\nh1, p, a{color:#fff;}\nh1 {font-size:4.2rem;padding-top:90px;padding-bottom:20px;line-height:5.5rem}\nh1 + p {font-size:1.5rem;margin-bottom:40px;max-width:400px;line-height:2.8rem;font-weight:100}\n\nh2 {text-align: center;font-size:3.2rem;max-width:760px;margin:auto;font-weight:400;color:#333333;letter-spacing:1px}\nh2 + p {font-size:1.2rem;text-align: center;max-width:600px;margin:30px auto;line-height:2rem}\n\na:hover {text-decoration:none}\n\n.maxwidth{max-width:1100px;padding:0px 10px;margin:auto;}\n.padding-t-xs {padding-bottom:0px;}\n.padding-t-lg {padding-top:50px;}\n.padding-t-xl {padding-top:110px;}\n.padding-b-xl {padding-bottom:150px;}\n.padding-b-lg {padding-bottom:50px;}\n.padding-b-xs {padding-bottom:0px;}\n.padding-section {padding-top:50px;padding-bottom: 100px}\n.margin-t-negat:{margin-top:-150px}\n.back-gris {background-color: #F7F7F7}\n\n\n.txt-shadow{text-shadow:0 2px 6px rgba(0,0,0,0.4)}\n\n.box {padding:50px ;background-color:#fff;}\n.shadow {box-shadow:0 1px 4px rgba(0,0,0,0.11);}\n\n.bottom .shadow{box-shadow:0 2px 6px rgba(0,0,0,0.4);}\n\n.theme-switch{}\n.theme-switch a{;border-bottom:solid 4px;color:#4D4D4D;font-size:1.5rem;;display:block;padding:5px;}\n.theme-switch .col-md-3 {text-align:center}\n.theme-switch .mobilite{border-color:#44AAC9;transition: 0.2s linear;transform:translateY(0px);background-color:transparent;}\n.theme-switch .territoire{border-color:#8A6CA1;transition: 0.2s linear;transform:translateY(0px);background-color:transparent}\n.theme-switch .citoyennete{border-color:#1C9919;transition: 0.2s linear;transform:translateY(0px);background-color:transparent}\n.theme-switch .societe{border-color:#F0A151;transition: 0.2s linear;transform:translateY(0px);background-color:transparent}\n\n\n.theme-switch .mobilite.classe_actif{background-color:#44AAC9;color:#fff;border-radius:5px;}\n.theme-switch .territoire.classe_actif{background-color:#8A6CA1;color:#fff;border-radius:5px;}\n.theme-switch .citoyennete.classe_actif{background-color:#1C9919;color:#fff;border-radius:5px}\n.theme-switch .societe.classe_actif{background-color:#F0A151;color:#fff;border-radius:5px}\n\n.theme-switch .mobilite:hover,.theme-switch .territoire:hover,.theme-switch .citoyennete:hover,.theme-switch .societe:hover{\n   transition: 0.2s linear;border-radius:5px;transform:translateY(-2px);box-shadow:0 2px 6px rgba(0,0,0,0.2)\n}\n\n.mobilite h3 {color:#44AAC9;}\n.mobilite .theme-descriptif {background-color:#F4F8FA}\n.mobilite .bouton {background-color:#44AAC9;;}\n.theme-switch .mobilite:hover {background-color:#44AAC9;color:#fff;}\n\n\n.territoire h3 {color:#8A6CA1;}\n.territoire .theme-descriptif {background-color:#F4F8FA}\n.territoire .bouton {background-color:#8A6CA1;;}\n.theme-switch .territoire:hover {background-color:#8A6CA1;color:#fff;}\n\n.citoyennete h3 {color:#1C9919;}\n.citoyennete .theme-descriptif {background-color:#F4F8FA}\n.citoyennete .bouton {background-color:#1C9919;;}\n.theme-switch .citoyennete:hover {background-color:#1C9919;color:#fff;}\n\n.societe h3{color:#F0A151;}\n.societe .theme-descriptif {background-color:#F4F8FA}\n.societe .bouton {background-color:#F0A151;;}\n.theme-switch .societe:hover {background-color:#F0A151;color:#fff;}\n\n\n\n.theme h3 {font-size:3rem;margin-bottom:20px;}\n.theme h4 {color:#484848;font-size:2rem;;margin-bottom:10px;font-weight:500}\n.theme p {color:#494949;font-size:1rem;}\n.theme h4 + p {margin-bottom:30px}\n\n.theme-titre.box {padding:50px 50px 40px 50px}\n\n.viz {background-image:url(&#39;/assets/theme_image/map-bdx-metro.jpg&#39;);background-size:cover;background-position:center;height:350px}\n.theme-descriptif .viz {;box-shadow: inset 0 0 16px rgba(0,0,0,0.3);border:solid 1px #999}\n\n\n\n.commune .box {text-align:center}\n.commune p {color:#1D8D9F;margin-bottom:0px;font-weight:100}\n.commune p:nth-child(4){border-bottom:solid 1px #B5DAE0;margin-bottom:35px;padding-bottom:20px}\n.commune h3 {margin-top:5px;font-size:2.3rem;color:#1D8D9F;margin-bottom:30px}\n.commune img {width:60px;margin-bottom:10px}\n.commune .bouton {margin:18px auto }\n.commune .viz {;height:551px}\n\n\n.bottom .box {background-color: #fff;text-align: center;padding:60px 40px;margin:20px 10px;border-radius:5px; min-height: 350px;}\n.bottom h3{font-size:2.3rem;color:#333333;margin-bottom:30px}\n.bottom .box p {color:#5A5A5A;line-height:2rem;margin-bottom:30px}\n.bottom .bouton.outline{display: inline-block;width:initial;padding:8px 35px;margin:0px 15px} \n\n.switch-theme a{color:black;}\n\n.theme{display:none}\n.theme.classe_actif {display:block;animation:umami-move 1s cubic-bezier(.25,.8,.25,1)}\n.theme.classe_actif h3,.theme.classe_actif p,.theme.classe_actif h4,.theme.classe_actif p,.theme.classe_actif h3,.theme.classe_actif p,.theme.classe_actif .viz{display:block;animation:umami-move-1 1.5s cubic-bezier(.25,.8,.25,1)}\n.theme.classe_actif .bouton.outline {animation:umami-move-2 1s cubic-bezier(.25,.8,.25,1);}\n.theme.classe_actif .theme-descriptif.box, .theme.classe_actif h4, .theme.classe_actif h4 + p, .theme.classe_actif .viz {animation:umami-move-3 1.5s cubic-bezier(.25,.8,.25,1)}\n.theme.classe_actif .bouton{animation:umami-move-3 2.5s cubic-bezier(.25,.8,.25,1)}\n\n\n.anim-territoire {animation:umami-territoire 1.5s cubic-bezier(.25,.8,.25,1)}\n@keyframes umami-territoire {\n    0% {margin-top: 40px;opacity:0}\n    100% {margin-top: 0px;opacity:1}\n}\n\n\n@keyframes umami-move {\n    0% {margin-top: 40px;opacity:0}\n    100% {margin-top: 0px;opacity:1}\n}\n\n@keyframes umami-move-1 {\n    0% {transform:translatey(20px);opacity:0;}\n    100% {transform:translatey(0px);;opacity:1}\n}\n\n@keyframes umami-move-2 {\n    0% {transform:translatey(20px);opacity:0;}\n    40% {transform:translatey(20px);opacity:0;}\n    100% {transform:translatey(0px);;opacity:1}\n}\n\n@keyframes umami-move-3 {\n    0% {transform:translatey(20px);opacity:0;}\n    50% {transform:translatey(20px);opacity:0;}\n    100% {transform:translatey(0px);;opacity:1}\n}\n\n.bouton-top {position:relative;z-index:9;box-shadow:0 2px 6px rgba(0,0,0,0.4)}\n.bouton {transition: 0.2s linear;transform:translateY(0px);cursor:pointer;display:inline-block; padding:8px 25px;font-size:1rem;border-radius:100px;text-align:center}\n.bouton:hover {transition: 0.2s linear;;transform:translateY(-2px)}\n.bouton.blue{color:#fff;background-color:#44AAC9;;}\n.mobilite .bouton {color:#fff;background-color:#44AAC9;}\n.bouton.outline {color:#494949;background-color:transparent;;display: block;margin-bottom:20px;;}\n.bouton .lg-number {font-weight:bold;transform:translateY(4px);;display:inline-block;font-size:2rem;margin-right:5px}\n\n\n.bouton.outline.gradient{padding:2px;background-image: linear-gradient(90deg, #8ED4D9 3%, #B9D276 100%);\n}\n.bouton.outline.gradient {box-shadow:0 2px 6px rgba(0,0,0,0.1)}\n\n.bouton.outline.gradient:hover {box-shadow:0 2px 16px rgba(0,0,0,0.2)}\n\n.commune .odswidget-map {min-height:initial;height:551px}\n.commune .odswidget-map__map {min-height:initial}\n#openfab .bouton {margin :5px}\n\n.gradient-content{background-color:#fff;border-radius:50px;padding:0px 30px 6px 30px}\n\n.select-commmune img {width:initial;max-height:100px;max-width:90%}\n\n.float-right {float:right}\n\n.margin-t-l {margin-top:100px;}\n.commune .box {height:551px}\n\n\n\n@media screen and (max-width: 991px) {\n    \n    h1 {font-size:3rem;line-height:initial;padding-top:initial}\n    h1 + p {font-weight:300}\n    .top img {width:200px;transform:translateY(60px)}\n    \n    h2 {font-size:2.2rem;line-height:3rem;max-width:initial}\n h2 + p {max-width:initial-}\n\n\n    \n    .theme-switch a{margin-bottom:10px}\n    .theme-titre.box {padding:30px 20px}\n    .theme-descriptif.box {padding:0px 20px 20px 20px}\n    .theme-descriptif .bouton {margin-bottom:20px}\n     \n    .commune .padding-t-xl {padding-top:60px}\n    \n    .map-commune {margin-top:20px}\n    .commune .odswidget-map {min-height:initial;height:251px}\n    .commune .viz {height:initial}\n    .commune .box {height:initial;padding:30px}\n    .commune .padding-t-lg {padding-top:20px}\n    \n    .bottom .padding-t-lg {padding-top:0px}\n    .bottom .box {padding:30px;min-height:initial}\n\n    \n    .padding-section {padding-bottom:0px}\n    .hide-mobile {display:none}\n    .float-right {float:none;margin-top:20px}\n    \n    \n\n\n}"};
+            $scope.pageId = 'accueil';
+            $scope.reusesEnabled = domainConfig['explore.reuse'];
+            $scope.user = {
+                is_authenticated: config.USER !== null,
+            };
+            $scope.domain = {
+                languages: config.AVAILABLE_LANGUAGES,
+                current_language: config.LANGUAGE
+            };
+        });
+
+        var widgetsApp = angular.module('ods-widgets');
+        widgetsApp.config(function (ODSWidgetsConfigProvider) {
+            ODSWidgetsConfigProvider.setConfig({
+                customAPIHeaders: {
+                    "ODS-API-Analytics-App": "page-accueil"
+                }
+            });
+        });
+    </script>
+    <script type="text/javascript" src="/static/compressed/js/edb7e1a93cd8.js"></script>
+
+    </body>
+</html>

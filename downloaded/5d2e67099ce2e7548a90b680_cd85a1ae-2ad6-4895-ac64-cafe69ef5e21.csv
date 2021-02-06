@@ -1,0 +1,63 @@
+﻿OBJECTID,created_user,created_date,last_edited_user,last_edited_date,INDEX_PM,GlobalID,FK_RUE
+1,mickael.delaere,1509617845277,mickael.delaere,1509621863210,2,4f37e0a2-8a98-44d4-8547-726611e2d809,Rue Raspail
+2,mickael.delaere,1509617851716,mickael.delaere,1509621863507,49,2721fb32-caf0-4bc7-975b-ede1a2bba032,Rue Raspail
+3,mickael.delaere,1509617917266,mickael.delaere,1509621863744,48,bf4b280d-87f5-434a-aaac-31da1c5c6245,Rue Raspail
+4,mickael.delaere,1509618001083,mickael.delaere,1509621863946,47,9ee2f2e9-6def-4bf6-909f-5ecb19433393,Rue Raspail
+5,mickael.delaere,1509618023353,mickael.delaere,1509621864196,45,c640b8e4-fca2-4bad-a732-29789085fb67,Rue du Gouvernement
+6,mickael.delaere,1509618037579,mickael.delaere,1509621864578,46,ff4657a5-3f4e-4cdb-99df-9d29a59e48d8,Rue des Jacobins
+7,mickael.delaere,1509618113182,mickael.delaere,1509621864933,44,8065a64d-57bc-4fcb-9c6e-cb367c5e03de,Rue Saint-Rémy
+8,mickael.delaere,1509618123890,mickael.delaere,1509621865144,43,dc27fa57-f238-487a-84df-43fe9b683f5b,Place de la Basilique
+9,mickael.delaere,1509618147907,mickael.delaere,1509621865347,40,a9b86577-4fcf-4329-b3d3-87c1c01c718f,Square Quentin de la Tour
+10,mickael.delaere,1509618159426,mickael.delaere,1509621865639,41,121240c6-deb5-4c9b-a3d0-efac3a6d6c99,Place de la Basilique
+11,mickael.delaere,1509618182083,mickael.delaere,1509621865988,42,1a298c41-4707-4d6f-9fda-03fc4ce1a717,Rue Quentin de la Tour
+12,mickael.delaere,1509618205384,mickael.delaere,1509621866232,39,57761b89-b9da-499a-8a89-932cbecb49a6,Rue du Moine de Beauvais
+13,mickael.delaere,1509618255919,mickael.delaere,1509621866795,36,bc1299ac-357a-4c48-ad1d-eba6ddb2793d,Rue de Lyon
+14,mickael.delaere,1509618272876,mickael.delaere,1509621867014,38,bf8223b6-a4fb-4fb3-881d-23b5ffbe230e,Rue de Vesoul
+15,mickael.delaere,1509618283898,mickael.delaere,1509621867221,35,6129adc1-3833-4d7a-834c-a8981fea6ae9,Rue de la Sous-Préfecture
+16,mickael.delaere,1509618333154,mickael.delaere,1509621867426,34,c9b493b9-753d-490e-8d9e-453748b8a0a4,Rue de la Sous-Préfecture
+17,mickael.delaere,1509618427266,mickael.delaere,1509621867624,33,e0774951-a426-49b8-9693-96e0a6335e2f,Rue d'Isle
+18,mickael.delaere,1509618497945,mickael.delaere,1509621867863,51,c438abc5-807e-42fd-9608-4247e8d9991e,Rue des États Généraux
+19,mickael.delaere,1509618506367,mickael.delaere,1509621868110,52,049fc830-621c-4ae5-aa52-27e61271b23d,Rue des États Généraux
+20,mickael.delaere,1509618557336,mickael.delaere,1509621868354,10,c93b2c82-1ecc-466b-a6b4-d42194ec3587,Rue Longueville
+21,mickael.delaere,1509618565824,mickael.delaere,1509621868567,11,1b6c8e3a-64d3-4472-be78-5091b3bec83e,Rue du Docteur Claude Mairesse
+22,mickael.delaere,1509618576539,mickael.delaere,1509621868786,12,c1351b18-8139-4a3a-8259-28150344cc68,Rue Victor Basch
+23,mickael.delaere,1509618587377,mickael.delaere,1509621869065,13,27566318-ea31-4523-8c66-b918a21c5be7,Rue des Bouchers
+24,mickael.delaere,1509618601873,mickael.delaere,1509621869323,14,38dfd593-e715-4845-b39f-569efd41ac1c,Place Gracchus Babeuf
+25,mickael.delaere,1509618610655,mickael.delaere,1509621869515,15,eb2b0d91-e7b0-44c1-a2e4-209c71934ff9,Place Gaspard de Coligny
+26,mickael.delaere,1509618617628,mickael.delaere,1509621869723,16,c6f9544b-d673-44ab-9954-1029a9c33304,Place Gaspard de Coligny
+27,mickael.delaere,1509618627665,mickael.delaere,1509621870005,17,847bf935-fd27-4d02-afb2-d35e645be894,Place Noël Régnier
+28,mickael.delaere,1509618638696,mickael.delaere,1509621870204,18,4fbde693-9386-4a4f-a938-52297b83f392,Parking de la Criée
+29,mickael.delaere,1509618667101,mickael.delaere,1509621870405,28,3f6f8722-8eb9-4c20-9a85-065d320d623c,NR
+30,mickael.delaere,1509618814789,mickael.delaere,1509621870662,37,9988d5be-187e-4ea0-834b-ebf8a4568d33,Rue de Lyon
+31,mickael.delaere,1509619041229,mickael.delaere,1509621870923,54,9ef666b7-1f63-45f4-83ef-952400a12d48,Rue de la Sellerie
+32,mickael.delaere,1509619175284,mickael.delaere,1509621871252,53,166ad895-a53a-4513-ab2a-9c311f2029a1,Rue Anatole France
+33,mickael.delaere,1509619298022,mickael.delaere,1509621871466,1,bd64ff72-f634-4f35-b85b-007cc6b9fd05,Rue Voltaire
+34,mickael.delaere,1509619307907,mickael.delaere,1509621871685,50,47a2d5e6-22c8-425c-9cda-615d58c81eaf,Rue des Patriotes
+35,mickael.delaere,1509619333437,mickael.delaere,1509621871896,27,2f8bc1ec-df35-45eb-bb56-9c2c92a6775e,Rue des Trois Savoyards
+36,mickael.delaere,1509619343401,mickael.delaere,1509621872099,20,28753985-cac2-476f-a4cf-8addec86ac97,Rue de l'Abbaye d'Isle
+37,mickael.delaere,1509619349488,mickael.delaere,1509621872302,33,ef454f05-42d4-45ab-84af-62c4c21225e7,Rue d'Isle
+38,mickael.delaere,1509619359551,mickael.delaere,1509621872569,21,3fc6e4b7-ac52-4ace-ad46-10c90bc4c321,Rue Anatole de la Forge
+39,mickael.delaere,1509619419229,mickael.delaere,1509621872804,3,91d8fc66-578c-4d47-9a3c-f6252ec2a30e,Rue des Canonniers
+40,mickael.delaere,1509619433126,mickael.delaere,1509621873006,7,df80b9d3-fa0b-44fc-89f8-ac92b2e68986,Rue Émile Zola
+41,mickael.delaere,1509619442281,mickael.delaere,1509621873209,6,8f41c80a-7dfc-4703-b91c-036bb8b1227e,NR
+42,mickael.delaere,1509619469850,mickael.delaere,1509621873398,4,54e2f39e-56e4-40b7-bcf7-80bff3e5fc50,Avenue Louis Faidherbe
+43,mickael.delaere,1509619491530,mickael.delaere,1509621873600,19,bb2ada93-8c3a-4492-8a89-fba6bac3465b,Rue Victor Basch
+44,mickael.delaere,1509619521342,mickael.delaere,1509621873820,8,cde0442f-0369-473e-9b6b-016e9a7dd124,Rue Renan
+45,mickael.delaere,1509619547806,mickael.delaere,1509621874691,56,5bf95ea4-b1bc-4738-b59e-7cf33b56bcd8,Square André Malraux
+46,mickael.delaere,1509619563964,mickael.delaere,1509621875115,5,22bfbdd9-a766-4f65-808d-c76a7b6d7854,Avenue Louis Faidherbe
+47,mickael.delaere,1509619915256,mickael.delaere,1509621875894,58,940effa4-2305-4559-9659-729429ea3b83,Rue du Jeu de Battoir
+48,mickael.delaere,1509619929543,mickael.delaere,1509621876645,59,2b413f8a-7a99-4f39-ac13-6645f729195b,Rue du Général Leclerc
+49,mickael.delaere,1509619940511,mickael.delaere,1509621876947,60,64a1dead-b779-479d-aa1a-838682e7ff70,Rue du Général Leclerc
+50,mickael.delaere,1509619953121,mickael.delaere,1509621877368,61,616694cb-769b-4f7a-ba14-4862cc34ba5b,Rue du Général Leclerc
+51,mickael.delaere,1509619989135,mickael.delaere,1509621877863,62,a30e7ec7-6a9c-46ce-90f7-92701ebf2030,Rue Cronstadt
+52,mickael.delaere,1509620034385,mickael.delaere,1509621878317,20,fdb79702-2ca8-40ec-aff2-130424d85c08,Rue de l'Abbaye d'Isle
+53,mickael.delaere,1509620045540,mickael.delaere,1509621878600,21,c60b8fce-10e8-4781-9bf2-4f842e72f225,Rue Anatole de la Forge
+54,mickael.delaere,1509620060992,mickael.delaere,1509621879150,22,01d22664-cbf0-43a1-a4eb-7092803f9f80,Rue d'Isle
+55,mickael.delaere,1509620073290,mickael.delaere,1509621880004,32,f33c5474-d671-426b-bffb-3e410eb7b519,Rue des Cordeliers
+56,mickael.delaere,1509620082514,mickael.delaere,1509621880973,31,48c46d0f-b7e1-4e07-9c3f-b79c5d3a5742,Rue Wager
+57,mickael.delaere,1509620092112,mickael.delaere,1509621881348,55,8486afd4-d1c4-4bc7-959e-97b0bc0cb8d0,Rue d'Isle
+58,mickael.delaere,1509620107992,mickael.delaere,1509621881676,25,f67c8fac-53ee-423a-b8c6-3e4b00167686,Boulevard Léon Blum
+59,mickael.delaere,1509620114958,mickael.delaere,1509621882192,26,addb02e3-d9b0-49f4-beed-725e54f85796,Boulevard Léon Blum
+60,mickael.delaere,1509620122214,mickael.delaere,1509621883286,57,d91733ea-80f2-4ee4-906a-6934d1493bb4,Boulevard Léon Blum
+61,mickael.delaere,1509620129484,mickael.delaere,1509621884244,24,736fef00-082c-4c72-a852-bcf8c464e4de,Boulevard Léon Blum
+62,mickael.delaere,1509620138034,mickael.delaere,1509621884976,29,ab6f9a56-8904-471d-8deb-abcec4a5fca9,Rue du Général Leclerc

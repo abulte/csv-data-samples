@@ -1,0 +1,3 @@
+﻿n_amenageur;"	n_operateur";"	n_enseigne";"	id_station";"	n_station";"	ad_station";"	code_insee";"	Xlongitude";"	Ylatitude";"	nbre_pdc";"	id_pdc";"	puiss_max";"	type_prise";"	acces_recharge";accéssibilité;observation;"	date_maj"
+Ville de Beauvais;"	Ville de Beauvais";;;"			mairie";"	1 Rue Desgroux, 60000 Beauvais";"	60057";"	2.081495";"	49.429745";2;;"		22";E/F-T2;"	gratuit";"	24/24 7/7 jours";Accès par badge RFID fournis gratuitement par la mairie de Beauvais sur présentation de la CG.;20/03/2017
+Ville de Beauvais;"	Ville de Beauvais";;;"			mairie";"	1 Rue Desgroux, 60000 Beauvais";"	60057";"	2.081495";"	49.429745";2;;"		22";E/F-T3;"	gratuit";"	24/24 7/7 jours";Accès par badge RFID fournis gratuitement par la mairie de Beauvais sur présentation de la CG.;20/03/2017

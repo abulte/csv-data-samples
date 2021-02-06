@@ -1,0 +1,37 @@
+% Requête :select s.senmat as "Matricule", s.quacod as "Qualité", s.sennomuse as "Nom usuel", s.senprenomuse as "Prénom usuel", s.etasencod as "État Sénateur",
+%   etr.eluid as "Identifiant mandat",
+%   etr.eludatelu as "Date d'élection", etr.eludatdeb as "Date de début de mandat", etr.eluanndeb as "Année de début de mandat",
+%   etr.eludatfin as "Date de fin de mandat", etr.eluannfin as "Année de fin de mandat",
+%   atr.ASSTERART as "Article assemblée territoriale", atr.ASSTERLIB as "Assemblée territoriale"
+% from senateurs.sen s
+% inner join senateurs.eluter etr ON s.senmat = etr.senmat
+% inner join senateurs.typman tm on etr.typmancod = tm.TYPMANCOD
+% inner join senateurs.asster atr on etr.ASSTERCOD = atr.ASSTERCOD
+% where s.etasencod in ('ACTIF', 'ANCIEN') and etr.evetempub='OUI'
+% order by s.sennomuse, s.senprenomuse, s.senmat, etr.eluid
+% Aucun paramètre
+% 23 ligne(s) de résultat
+Matricule,Qualité,Nom usuel,Prénom usuel,État Sénateur,Identifiant mandat,Date d'élection,Date de début de mandat,Année de début de mandat,Date de fin de mandat,Année de fin de mandat,Article assemblée territoriale,Assemblée territoriale
+19717B,M.,Artano,Stéphane,ACTIF,51506,2017-10-23 00:00:00.0,2017-10-23 00:00:00.0,,,,"d'une ",Autre assemblée territoriale
+19295A,Mme,Conconne,Catherine,ACTIF,50797,2015-10-01 00:00:00.0,2015-10-01 00:00:00.0,,,,"d'une ",Autre assemblée territoriale
+98052V,M.,Flosse,Gaston,ANCIEN,5805,,,1984,,1987,"du ",Gouvernement de Polynésie Française
+98052V,M.,Flosse,Gaston,ANCIEN,5806,,,1991,2004-06-14 00:00:00.0,2004,"du ",Gouvernement de Polynésie Française
+98052V,M.,Flosse,Gaston,ANCIEN,6314,,2001-05-06 00:00:00.0,2001,,2003,"du ",Gouvernement de Polynésie Française
+98052V,M.,Flosse,Gaston,ANCIEN,11377,,2013-05-17 00:00:00.0,,,,"du ",Gouvernement de Polynésie Française
+98052V,M.,Flosse,Gaston,ANCIEN,11378,,2008-02-23 00:00:00.0,2008,2008-04-15 00:00:00.0,2008,"du ",Gouvernement de Polynésie Française
+01057W,M.,Guené,Charles,ACTIF,15289,2016-01-11 00:00:00.0,2016-01-11 00:00:00.0,,2018-01-01 00:00:00.0,,"d'une ",Autre assemblée territoriale
+20016T,M.,Kulimoetoke,Mikaele,ACTIF,52250,,2012-03-15 00:00:00.0,,2012-12-15 00:00:00.0,,"d'une ",Autre assemblée territoriale
+20016T,M.,Kulimoetoke,Mikaele,ACTIF,52251,,2013-12-15 00:00:00.0,,2014-12-15 00:00:00.0,,"d'une ",Autre assemblée territoriale
+20016T,M.,Kulimoetoke,Mikaele,ACTIF,52252,,2014-12-15 00:00:00.0,,2017-03-15 00:00:00.0,,"d'une ",Autre assemblée territoriale
+20016T,M.,Kulimoetoke,Mikaele,ACTIF,52253,,2017-03-15 00:00:00.0,,,,"d'une ",Autre assemblée territoriale
+14277B,M.,Laurey,Nuihau,ANCIEN,15201,,2013-05-01 00:00:00.0,,2017-01-14 00:00:00.0,,"du ",Gouvernement de Polynésie Française
+14277B,M.,Laurey,Nuihau,ANCIEN,51702,,2017-01-15 00:00:00.0,,,,"du ",Gouvernement de Polynésie Française
+92033R,M.,Loueckhote,Simon,ANCIEN,5807,,,1983,,2004,"du ",Territoire de Nouvelle Calédonie
+92033R,M.,Loueckhote,Simon,ANCIEN,11912,,,1988,,1989,"du ",Territoire de Nouvelle Calédonie
+98008R,M.,Natali,Paul,ANCIEN,5810,,,,2020-03-31 00:00:00.0,1998,de l',Assemblée Territoriale de Corse
+20148F,Mme,Petrus,Annick,ACTIF,52069,,2017-03-15 00:00:00.0,,2020-10-15 00:00:00.0,,"d'une ",Autre assemblée territoriale
+20148F,Mme,Petrus,Annick,ACTIF,52310,,2020-10-16 00:00:00.0,,,,"d'une ",Autre assemblée territoriale
+20146D,Mme,Phinera-Horth,Marie-Laure,ACTIF,52007,2015-12-15 00:00:00.0,2015-12-15 00:00:00.0,,,2016,"d'une ",Autre assemblée territoriale
+19319Q,M.,Poadja,Gérard,ACTIF,51062,,2012-08-29 00:00:00.0,,2013-08-08 00:00:00.0,,"du ",Territoire de Nouvelle Calédonie
+14275Y,Mme,Tetuanui,Lana,ACTIF,15199,,2014-05-01 00:00:00.0,,2015-04-30 00:00:00.0,,"du ",Gouvernement de Polynésie Française
+14275Y,Mme,Tetuanui,Lana,ACTIF,51674,,2015-05-01 00:00:00.0,,2017-09-30 00:00:00.0,,"du ",Gouvernement de Polynésie Française

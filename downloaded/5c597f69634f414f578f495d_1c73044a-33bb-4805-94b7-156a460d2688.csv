@@ -1,0 +1,20 @@
+NAME;LABEL
+finess;Finess du TAS
+Raison_sociale;
+Enquete_obligatoire;
+Participation;
+Resultat_tda;TDA Résultat du contrôle
+tda_c_den_etbt;TDA_C Dénominateur
+tda_c_etbt;Tenue du dossier d’anesthésie
+tda_c_icbas_etbt;TDA_C Intervalle de confiance bas
+tda_c_ichaut_etbt;TDA_C Intervalle de confiance haut
+tda_c_pos_seuil_etbt;TDA_C Positionnement par rapport à l'objectif de performance
+tda_c_pos_evol_etbt;TDA_C Evolution par rapport au recueil précédent
+Resultat_trd;TRD  Résultat du contrôle
+trd_c_den_etbt;TRD_C Dénominateur
+trd_c_etbt;Traçabilité de l évaluation de la douleur post opératoire avec une échelle en SSPI
+trd_c_icbas_etbt;TRD_C Intervalle de confiance bas
+trd_c_ichaut_etbt;TRD_C Intervalle de confiance haut
+trd_c_pos_seuil_etbt;TRD_C Positionnement par rapport à l'objectif de performance
+trd_c_pos_evol_etbt;TRD_C Evolution par rapport au recueil précédent
+Lib_reg;

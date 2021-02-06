@@ -1,0 +1,417 @@
+Id,DATE_DERNIERE_MAJ,TYPE,NOM_OFFRE,PORTE_ESCALIER,BATIMENT_RESIDENCE,RUE,LIEUDIT_BP,CODE_POSTAL,COMMUNE,COMMUNE_INSEE,TEL,TEL_MOB,SITE_WEB,LONGITUDE,LATITUDE,GEOLOC_MANUELLE,INFOS_COMPLEMENTAIRES_1,INFOS_COMPLEMENTAIRES_2,INFOS_COMPLEMENTAIRES_3,LABEL_TOURISME_HANDICAP,MARQUES_LABELS,OUVERTURE,TARIFS,VISITE_CONDITIONS_IND,VISITE_LANGUES_PARLEES,EQUIPEMENTS,SERVICES
+ASCAQU040FS001H2,19/05/2015,Activité sportive,Art et spectacle à la Ferme de l'Hecso avec le grand frison,"Houns de Menauton
+",,,,40240,BETBEZER-D'ARMAGNAC,40039,+33 5 58 44 66 42,,, -0.1722654,43.9747394,Oui,"
+",Equitation # Equitation,,,Bienvenue à la Ferme,01/05/2015|31/10/2015|||15:30|18:00|Dimanche - Jeudi - Lundi - Mardi - Mercredi - Samedi,"Tarif de base|8,00|8,00|Adultes  # Tarif réduit|4,00|4,00|enfants de 3 à 12 ans",,,,
+ASCAQU047FS000AJ,02/01/2015,Activité sportive,Association Attelage et Découverte,,,,Patot,47110,DOLMAYRAC,47081,+33 5 53 01 31 50,,www.attelage-et-decouverte.ffe.com,0.594336,44.3685029,Oui,"
+",Attelage,,,,01/01/2014|31/12/2014|||||Dimanche - Jeudi - Lundi - Vendredi,"Tarif de base|12,00||la séance de voltige # Tarif de base|40,00||la séance d'attelage et la promenade attelée pour les non adhérents # Tarif de base|40,00||La promenade attelée",,,,
+ASCAQU033FS0015H,06/05/2015,Activité sportive,Association Equestre Sud Gironde,"Mouréou
+",,,,33730,VILLANDRAUT,33547,,+33 6 10 51 27 20,www.assoequestresudgironde.ffe.com, -0.377577,44.447746,Oui,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,"Tarif de base|10,00||Balade en main # Tarif de base|18,00||Balade en forêt # Tarif de base|14,00||Cours d'équitation  # Tarif de base|12,00||Cours baby",,,,
+ASCAQU04001WBG3F,11/02/2015,Activité sportive,Attelages de l'Adour,,,1065 avenue de l'Abbé Bordes,,40380,MONTFORT EN CHALOSSE,40194,+33 5 58 98 67 73,,, -0.8471464,43.7181057,,"
+",Equitation,,,,,,,,,
+ASCAQU040FS00020,25/02/2015,Activité sportive,Attelages des Vallées de la Leyre,"Airial de Lavigne
+",,,,40410,MOUSTEY,40200,+33 5 58 07 75 60,+33 6 80 92 03 59,www.taristourisme.com, -0.7517654,44.3661360,Oui,"
+",Randonnée équestre # Attelage # Equitation,Anes porteurs Anes porteurs,,,,,,,,
+ASCAQU024V50385F,05/05/2015,Activité sportive,au cheval qui brouste ,,,,Brouste haut ,24170,SAINTE-FOY-DE-BELVES,24406,+33 5 53 29 86 71,+33 6 82 53 29 49,,,,,"
+",Equitation,,,,01/01/2015|31/12/2015|09:00|||20:00|,"Tarif de base|20,00||par heure  # Tarif de base|35,00||pour 2 heures # Tarif de base|170,00||Carte 10 heures # Tarif réduit|17,00||pour 1 heure par enfant # Tarif réduit|30,00||pour 2 heures par enfant # Tarif réduit|145,00||pour la carte 10 heures par enfant # Tarif réduit|10,00||30 minutes a partir de 2 ans  et demi  # Tarif réduit|100,00||Carte 10 heures a partir de 2 ans et demi ",,,,
+ASCAQU040FS001GM,16/04/2015,Activité sportive,Babylone Poneys,,,Chemin de la Bidassoa,,40220,TARNOS,40312,,+33 6 24 43 19 44,www.poneys-tarnos.fr, -1.4761664,43.5525130,Oui,"
+",Randonnée équestre,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU033FS0008M,18/05/2015,Activité culturelle # Activité sportive,Balade en calèche,"Office de Tourisme Médoc Océan
+",Place de l'Europe,,,33680,LACANAU,33097,+33 5 56 03 21 01,,www.medococean.com, -1.134118,45.063502,Oui,"Faune flore
+",Attelage,,,,01/07/2015|31/08/2015|||||,"Gratuit|||pour les moins de 2 ans # Tarif de base|28,00||Tarif adulte # Tarif réduit|14,00||Tarif enfant (2 à 11 ans)",,,,
+ASCAQU024FS000AG,11/02/2015,Formule itinérante,Balade en poney,"L'Hermitage des 4 saisons
+",,,,24310,SAINT-JULIEN-DE-BOURDEILLES,24430,+33 5 53 08 28 93,,www.lhermitage.eu ,0.5898850,45.3604930,,"
+",Equitation,,,,,,,,,
+ASCAQU047FS0004C,27/05/2015,Activité sportive,Base municipale de Rogé,,,,La Grâce,47300,VILLENEUVE-SUR-LOT,47323,+33 5 53 70 48 13,,,0.76792716,44.3995096,Oui,"
+",Canoé kayak # Equitation # Tir à l’arc # Escrime # Ski nautique,,,,01/07/2015|30/08/2015|09:00|||17:00| # 01/01/2015|30/06/2015|09:00|12:00|14:00|17:00| # 01/09/2015|31/12/2015|09:00|12:00|14:00|17:00|,,,,,
+ASCAQU04001WBCYV,11/02/2015,Activité sportive,Canenx équitation,,,1243 route de Brocas,lieu dit La Clotte,40090,CANENX-ET-REAUT,40064,+33 5 58 51 64 45,,http://canenx-equitation.pagesperso-orange.fr/, -0.4489803,44.0081879,Oui,"
+",Equitation # Equitation # Randonnée équestre,,,,,,,,,
+ASCAQU047FS00048,26/03/2015,Activité sportive,Cap Cauderoue,,,,Pin,47230,BARBASTE,47021,+33 5 53 65 52 74,+33 6 48 16 60 90,www.cap-cauderoue.com,0.29046177,44.1370540,Oui,"
+",Canoé kayak # Tir à l’arc # Randonnée équestre # Orientation # Balade à poney # Accro-branches # Beach volley # Escalade # Orientation # Canoé kayak # Pétanque # Orientation # VTT,,,Sourire du Lot-et-Garonne,,,,,,
+ASCAQU047FS0000W,16/02/2015,Activité sportive,CDT 47 - Service Itinérance,,,271 rue de Péchabout,BP 30158,47005,AGEN,47001,+33 5 53 66 13 33,+33 6 71 27 48 52,www.tourisme-lotetgaronne.com/fr/rando.php,0.64055442,44.1933744,Oui,"
+",Randonnée pédestre # Randonnée équestre # Cyclotourisme # VTT,,,,,,,,,
+ASCAQU024FS0000J,03/06/2015,Activité sportive,Centre cheval Poney,,Ferme équestre Le Cros,,,24330,SAINT-ANTOINE-D'AUBEROCHE,24369,+33 5 53 04 46 48,,www.centre-cheval-poney.fr,0.9434720,45.1426590,,"
+",Equitation,,,Bienvenue à la Ferme,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU024FS0000W,11/02/2015,Activité sportive,Centre de Tourisme Equestre de Beaurecueil,,,,,24340,SAINT-SULPICE-DE-MAREUIL,24503,+33 5 53 60 99 84,,,0.5046540,45.4663700,,"
+",Equitation,,,,,,,,,
+ASCAQU047FS0000Q,11/02/2015,Activité sportive # Formule itinérante,Centre de Tourisme Equestre Missandre,,,,Saint-Pierre-de-Caubel,47380,PINEL-HAUTERIVE,47206,+33 5 53 49 02 86 # +33 5 53 41 87 66,,www.missandre-cheval.com,0.5582857,44.4840973,Oui,"
+",Randonnée équestre # Randonnée équestre # Randonnée équestre # Randonnée équestre # Equitation,Equestre,,,,,,,,
+ASCAQU064FS00009,11/02/2015,Activité sportive,Centre de Tourisme Équestre Olhaldea Zalditokia,,Olhaldea,Chemin de Ste Catherine,,64310,SARE,64504,+33 5 59 54 28 94,,www.olhaldea.com, -1.5604984,43.3165604,Oui,"
+",Equitation # Randonnée équestre,Equestre,,Bienvenue à la Ferme # Qualité Tourisme,06/01/2015|24/12/2015|||||Lundi,"Tarif de base|25,00|758,00|",,,,
+ASCAQU064FS000FU,11/02/2015,Activité sportive,Centre Équestre,,,200 rue Planté,,64170,SERRES-SAINTE-MARIE,64521,+33 5 59 83 33 45,+33 6 19 45 40 64,, -0.5511403,43.4153804,,"
+",Randonnée équestre,,,,,,,,,
+ASCAQU040FS001E4,11/02/2015,Activité sportive,Centre Equestre Biscarrosse Laouadie,,,Route de la plage,,40600,BISCARROSSE VILLE,40046,,+33 6 33 97 41 51,www.centreequestrebiscarrosse.com, -1.1762237,44.4115279,Oui,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,"Tarif de base|15,00|45,00|- Balade encadrée",,,,
+ASCAQU024FS00011,10/04/2015,Activité sportive,Centre équestre Club Point Vert - Tocane St-Apre,,,,Les Grands Champs de Baunac,24350,TOCANE-SAINT-APRE,24553,,+33 6 25 15 04 05,,0.5070288,45.2586011,,"
+",Equitation,,,,,,,,,
+ASCAQU04001NQOZS,11/02/2015,Activité sportive,Centre Equestre de Bellefontaine,,,,,40090,CAMPET-ET-LAMOLERE,40062,+33 5 58 52 05 08,,www.ce-bellefontaine.fr, -0.6047492,43.9177405,Oui,"
+",Equitation,,,,,,,,,
+ASCAQU047FS0005P,11/02/2015,Activité sportive,Centre Equestre de Cazettes,,,,Domaine de Cazette,47230,LAVARDAC,47143,+33 6 10 52 37 99,,,0.29319763,44.1968513,Oui,"
+",Equitation # Equitation # Equitation,,,,,,,,,
+ASCAQU047FS000A9,03/03/2015,Activité sportive,Centre Equestre de Clairac,,,,Cambes,47320,CLAIRAC,47065,,+33 6 11 41 31 26,,0.388838,44.370285,Oui,"
+",Equitation # Equitation # Equitation # Equitation # Equitation,,,,01/01/2015|31/12/2015|09:00|||20:00|Jeudi,"Tarif de base|8,00||enfant de 2 à 12 ans :  8 euros  les 30 minutes # Tarif de base|13,00||enfant de 2 à 12 ans : 13 euros pour 1 heure # Tarif de base|35,00||enfant de 2 à 12 ans : Carte 5 X 30 minutes # Tarif de base|63,00||enfant de 2 à 12 ans : carte 5 X 1 heure # Tarif de base|16,00||pour les plus de 13 ans : tarif 1 heure # Tarif de base|75,00||pour les plus de 13 ans : 5 x 1 heure",,,,
+ASCAQU024FS00010,11/02/2015,Activité sportive,Centre Equestre de Favard,,,,,24260,TAMNIES,24544,+33 5 53 29 68 62,+33 6 80 26 65 51,,1.1479780,44.9657890,,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU040FS000RP,11/02/2015,Activité sportive,Centre Equestre de Gaujacq,"Chemin du Cabos
+",,,,40330,GAUJACQ,40109,,+33 6 70 85 34 80,http://gaujacq2.skyrock.com/, -0.7602958,43.6304950,,"
+",Equitation,,,,,,,,,
+ASCAQU047FS0000C,11/02/2015,Activité sportive,Centre équestre de Gramont,,,,Le Coin,47140,FRESPECH,47105,+33 5 53 49 03 01,+33 6 89 51 88 54,www.centre-equestre-gramont.fr,0.8251600,44.3106560,,"
+",Equitation,,,,,,,,,
+ASCAQU033FS000DQ,11/02/2015,Activité sportive,Centre équestre de la Base,"Cité militaire
+",Cité de Verdun,,,33260,CAZAUX,33529,,+33 6 75 20 19 88,, -1.1588001,44.5313457,Oui,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU024FS0000G,11/02/2015,Activité sportive,Centre Equestre de la Cavale,,,,Haras des Valences,24560,PLAISANCE,24168,+33 5 53 24 30 91,,www.lacavale.fr,0.5633000,44.7058000,,"
+",Equitation # Equitation # Equitation,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU024FS00008,02/06/2015,Activité sportive,Centre Equestre de la Haute Yerle,,,,,24480,ALLES-SUR-DORDOGNE,24005,+33 5 53 63 35 85,,www.rando-equestre-hauteyerle.com,0.8678690,44.8597790,,"
+",Equitation,,,Bienvenue à la Ferme,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU024FS00013,10/04/2015,Activité sportive,Centre Equestre de la Meyfrenie - Verteillac,,,,,24350,VERTEILLAC,24573,+33 5 53 91 69 38,,,0.2823887,45.2123840,,"
+",Equitation,,,,,,,,,
+ASCAQU04001UADGB,11/02/2015,Activité sportive,Centre équestre de la Prade,"1801, route des lacs
+",,Quartier de la Prade,,40660,MESSANGES,40181,+33 9 81 32 32 35 # +33 6 75 37 05 86,,www.centreequestredelaprade.ffe.com/, -1.3717460,43.8306880,Oui,"
+",Equitation # Equitation # Randonnée équestre,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU033FS000C8,22/04/2015,Activité sportive,Centre équestre de La Réole,"Route de Monségur
+",,,,33190,LA REOLE,33352,+33 5 56 61 19 85,+33 6 85 29 01 81,www.centreequestrelareole.com, -0.027767,44.594580,Oui,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,"Tarif de base|20,00|20,00|1 séance 1 heure # Tarif de base|85,00|90,00|carte de 5 heures # Tarif de base|30,00|30,00|stage découverte demi journée # Tarif de base|50,00|50,00|stage découverte journée",,,,
+ASCAQU040016JXIP,23/02/2015,Activité sportive,Centre équestre de Labenne,"Le Pelic
+",,,,40530,LABENNE OCEAN,40133,+33 5 59 45 45 54,,http://equitationlabenne.fr, -1.4519815,43.6044676,Oui,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU040FS001CC,11/02/2015,,Centre équestre de Laugeron,"419 chemin de Laugeron 
+",,,,40280,BENQUET,40037,+33 5 58 71 16 29,,, -0.5005267,43.8312909,Oui,"
+",Equitation,,,,,,,,,
+ASCAQU033FS0011Q,11/02/2015,Activité sportive,Centre Equestre de Lescarran ,"Chemin de Mérot
+",,,,33680,LE PORGE,33333,,+33 6 64 43 56 68,www.poney-plage.com, -1.0808658,44.8794105,Oui,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,"Tarif de base|40,00|40,00|Cotisation (tarif préférentiel sur stage,animation …)  # Tarif de base|36,00|36,00|Tarif de la licence FFE pour les plus de 18 ans  # Tarif de base|25,00|25,00|Tarif de la licence FFE pour les moins de 18 ans # Tarif de base|390,00|390,00|Forfait baby 45 mn /semaine - Tarif pour 33 semaines # Tarif de base|480,00|480,00|Forfait juniors/adultes 1h/semaine - Tarif pour 33 semaines  # Tarif de base|12,00|12,00|Cours collectif d'une heure # Tarif de base|40,00|40,00|Leçon particuliére 1h # Tarif de base|10,00|10,00|Baptême poney 30 minutes (sous responsabilité des parents)  # Tarif de base|17,00|17,00|Baptême poney 1h (sous responsabilité des parents) ",,,,
+ASCAQU024FS000DL,11/02/2015,Activité sportive,Centre Equestre de Merigaud,,,,Merigaud,24360,SAINT-ESTEPHE,24398,+33 5 53 56 86 96,,www.merigaud.ffe.com,0.66986216,45.6082783,Oui,"
+",Equitation,,,,,,,,,
+ASCAQU024FS000EB,22/05/2015,Activité sportive,Centre Equestre de Neuvic,"Les Coutis Nord
+",,,,24190,NEUVIC,24309,+33 5 53 81 76 45,+33 6 15 36 85 77,www.centreequestredeneuvic.ffe.com,0.49472,45.096142,Oui,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU033FS000LQ,11/02/2015,Activité sportive,Centre équestre de Saint-Yzan de Soudiac,"26 route du Pas de Méric
+",,,,33920,SAINT-YZAN-DE-SOUDIAC,33492,+33 5 57 58 02 02,,www.centre-equestre-saint-yzan.com , -0.4123950,45.1542764,Oui,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU047FS0000E,11/02/2015,Activité sportive,Centre Equestre des Cèdres,,,,Chaneau Bas,47400,VILLETON,47325,+33 5 53 79 55 70,,,0.25508880,44.3524550,Oui,"
+",Equitation # Equitation,,,,01/01/2015|31/12/2015|09:00|12:00|14:00|19:00|Lundi,,,,,
+ASCAQU064FS0000V,11/02/2015,Activité sportive,Centre Équestre d'Orthez,,,Route de Mont de Marsan,,64300,ORTHEZ,64430,+33 5 59 69 34 79,+33 6 10 34 84 07,www.societe-hippique-orthez.ffe.com, -0.7476282,43.5014995,Oui,"
+",Randonnée équestre # Randonnée équestre # Randonnée équestre # Randonnée équestre,,,,01/01/2015|31/12/2015|||||,"Tarif de base|20,00||Tarif à l'heure",,,,
+ASCAQU033FS0000Q,02/06/2015,Activité sportive,Centre équestre du Cardin,"520 chemin de Bécassine
+",,,,33990,HOURTIN PORT,33203,+33 5 56 09 20 75,,www.ceducardin.com, -1.0759735,45.1780589,Oui,"
+",Equitation # Randonnée équestre,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU040FS001EE,11/02/2015,,Centre équestre du Larriou,"479, rte du larriou
+",,,,40090,SAINT-PERDON,40280,+33 6 89 89 96 19,,http://www.ce-du-larriou.ffe.com/ , -0.6038857,43.8692894,Oui,"
+",Equitation,,,,,,,,,
+ASCAQU047FS0003K,19/03/2015,Activité sportive,Centre Equestre du Marescot,,,,Marescot,47310,MOIRAX,47169,+33 5 53 87 05 71,+33 7 87 51 69 47,www.ecuriesdemarescot.com,0.6083470,44.1414560,,"
+",Equitation # Equitation # Equitation # Equitation # Equitation,,,,,,,,,
+ASCAQU024FS0009S,11/02/2015,Activité sportive,Centre Equestre du Pays Beaumontois,,,,Penlaud,24440,BEAUMONT-DU-PERIGORD,24028,+33 5 53 22 50 99,+33 6 82 34 28 92 # +33 6 78 65 44 67,http://cepb.free.fr,0.7693340,44.7700520,,"
+",Equitation,,,,,,,,,
+ASCAQU04001VH8M0,19/05/2015,Activité sportive,Centre Equestre du Pourquera,"1189 rue Louis Pesquidous
+",,,Le Pourquéra,40240,SAINT-JUSTIN,40267,+33 5 58 44 08 69,,www.cheval-landes.com, -0.2265754,43.9882762,Oui,"
+",Equitation # Equitation # Equitation # Equitation,,,Bienvenue à la Ferme,01/01/2015|31/12/2015|09:00|||18:00|,"Tarif de base|25,00|| Tarif à l'heure # Tarif de base|350,00||Tarif à la semaine",,,,
+ASCAQU04001K7IO2,11/02/2015,Activité sportive,Centre équestre du Vieux-Port,,,Camping le Vieux-Port,,40660,MESSANGES,40181,+33 5 58 48 93 64,+33 6 70 19 34 69,, -1.4033317,43.8026948,Oui,"
+",Equitation # Randonnée équestre,,,,01/04/2015|30/09/2015|||||,,,,,
+ASCAQU040FS001G5,11/02/2015,,Centre équestre Ella Es,"Lieu dit « Bazy » - chemin de Latrillett
+",,,,40280,SAINT-PIERRE-DU-MONT,40281,,+33 6 87 20 84 77,www.ecuries-d-ella-es.com, -0.5190940,43.8814640,,"
+",Equitation,,,,,,,,,
+ASCAQU024FS00065,11/02/2015,Activité sportive,Centre Equestre et Poney Club La Métairie du Roc,,,,La Métairie du Roc,24560,FAUX,24177,+33 5 53 24 32 57,,http://lametairieduroc.ffe.com/,0.64201354,44.7871959,Oui,"
+",Equitation # Randonnée équestre,,,,,,,,,
+ASCAQU040014XAM1,11/02/2015,Activité sportive,Centre équestre Kerdoen,,,849 route du Bayle,,40170,SAINT-JULIEN-EN-BORN,40266,+33 5 58 42 74 84,+33 6 28 65 14 87,www.kerdoen.com, -1.2160760,44.0707771,Oui,"
+",Equitation # Equitation # Equitation # Randonnée équestre,,,Bienvenue à la Ferme,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU047FS0000O,11/02/2015,Activité sportive,Centre équestre La Ballarade,,,,La Ballarade,47360,LACEPEDE,47125,+33 5 53 47 19 69,+33 6 83 01 70 42,www.laballarade.fr,0.45854508,44.3311661,Oui,"
+",Equitation # Equitation # Equitation # Equitation,,,,01/01/2015|31/12/2015|||||,"Tarif de base|23,00|23,00|Séance adulte 1 heure # Tarif réduit|17,00|17,00|Séance enfant 1 heure",,,,
+ASCAQU04001PADOX,11/02/2015,Activité sportive # Formule itinérante,Centre équestre l'Appaloosa,,,Boulevard des Cigales,Zone de loisirs du Gaillou,40130,CAPBRETON,40065,+33 5 58 41 80 30,,www.centre-equestre-appaloosa.fr, -1.4270210,43.6314160,Oui,"
+",Equitation # Randonnée équestre # Equitation # Equitation,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU040FS0003P,02/03/2015,Activité sportive,Centre Equestre Le Corral,,,Route de la Plage,,40560,VIELLE-SAINT-GIRONS,40326,,+33 6 14 52 33 63,, -1.3528633,43.9526641,Oui,"
+",Equitation,,,,01/07/2015|31/08/2015|||||,,,,,
+ASCAQU033FS000DS,11/02/2015,Activité sportive,Centre équestre Le Pas du Marquis,"Villemarie
+",,,,33260,LA TESTE-DE-BUCH,33529,+33 5 56 54 18 05,+33 6 62 22 27 06,, -1.1138248,44.5993905,Oui,"
+",Equitation # Randonnée équestre,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU040FS000A9,11/02/2015,Activité sportive,Centre équestre le Ranch Amadeus,,,1129 route de Mimizan,,40200,SAINT-PAUL-EN-BORN,40278,+33 6 80 21 41 48,,www-ranchamadeus-com.acheval.pro/, -1.1597442,44.2207841,Oui,"
+",Equitation # Equitation,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU040FS0017I,11/02/2015,Activité sportive,Centre équestre Le Shet Landes,"330 Rte Duprat
+",,,,40230,SAUBRIGUES,40292,+33 5 58 72 26 83,,, -1.3001203,43.5925762,Oui,"
+",Equitation # Randonnée équestre,,,,,,,,,
+ASCAQU033FS000SC,02/06/2015,Activité sportive,Centre Equestre Le Village Western,"180 chemin de Becassine
+",,,,33990,HOURTIN PORT,33203,+33 5 56 09 10 60,,www.village-western.com, -1.0740852,45.1788605,Oui,"
+",Equitation # Randonnée équestre,,,Famille Plus,01/01/2015|31/12/2015|||||,"Tarif de base|8,00||Baptême poney # Tarif de base|23,00||Cours collectif 1h # Tarif de base|131,00||Stage perfectionnement 5h adulte # Tarif de base|83,00||Stage perfectionnement 3h adulte # Tarif de base|104,00||Stage perfectionnement 5h (7 à 12 ans) # Tarif de base|12,00||Balade en main # Tarif de base|66,00||Stage initiation 3h (7 à 12 ans) # Tarif de base|29,00||Cours collectif 1h",,,,
+ASCAQU024FS0003W,11/02/2015,Activité sportive,Centre Equestre l'Eperon Laurentais,,,,Les Laurents,24230,SAINT-ANTOINE-DE-BREUILH,24370,+33 5 53 24 80 36,+33 6 77 18 89 15,http://eperonlaurentais.ffe.com,0.17238872,44.8371311,Oui,"
+",Equitation,,,,,,,,,
+ASCAQU040FS0003Q,11/02/2015,Activité sportive,Centre Equestre Les Centaures,,,1350 route de l'Etang,,40560,VIELLE-SAINT-GIRONS,40326,+33 5 58 42 98 60,,, -1.3119006,43.9042623,Oui,"
+",Equitation,,,,28/06/2015|05/10/2015|||||,,,,,
+ASCAQU024FS0000E,10/04/2015,Activité sportive,Centre équestre Les Chevauchées du Périgord - Lisle,,,,Perdillotte,24350,LISLE,24243,+33 5 53 04 44 28,,www.zero-infini.com/perdillotte,0.5728793,45.2740377,,"
+",Equitation,,,,,,,,,
+ASCAQU024FS0000U,03/06/2015,Activité sportive,Centre équestre Les Ecuries du Rosier,,,,Le rosier,24380,SAINT-PAUL-DE-SERRE,24480,+33 5 53 03 93 18,+33 6 88 87 88 20,,4.0837466,44.1363313,,"
+",Equitation # Equitation # Equitation,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU040FS00137,11/02/2015,Activité sportive,Centre équestre Les écuries Olivier Bauer,,,203 route de Pegulhet,Quartier Leych,40200,ST PAUL EN BORN,40184,+33 5 58 09 26 30 # +33 6 24 43 74 64,,ecuriesolivierbauerlandes.ffe.com, -1.1370849,44.1772796,Oui,"
+",Equitation # Equitation # Equitation # Equitation # Equitation # Equitation,,,,01/01/2015|31/12/2015|||||,"Tarif de base|12,63|25,00|cours: CSO, dressage, balade # Tarif de base|40,00|40,00|Adhésion annuelle au club, valable un an à partir de la date de paiement -18ans # Tarif de base|45,00|45,00|Adhésion annuelle au club, valable un an à partir de la date de paiement +18ans # Tarif de base|62,00|62,00|Adhésion annuelle familiale (entre 1/10 et 30/04) pour 2 cavaliers # Tarif de base|25,00||Adhésion annuelle licence pratiquant : cavalier de moins de 18 ans # Tarif de base|36,00||Adhésion annuelle licence pratiquant : cavalier de plus de 18 ans # Tarif de base|159,00||Cavaliers adhérents : Carte fidélité n°1 : 10 cours d'environ 1h30 # Tarif de base|282,00||Cavaliers adhérents : Carte fidélité n°2 : 20 cours d'environ 1h30 # Tarif de base|379,00||Cavaliers adhérents : Forfait Carte fidélité n°3 : 30 cours d'environ 1h30 # Tarif de base|25,18||Adhérent hors carte fidélité : cours ou balades d'1h30 # Tarif de base|25,00||Balade 1h cavaliers non adhérents : de 1 à 3 cavaliers (prix par cavalier) # Tarif de base|22,00||Balade 1h cavaliers non adhérents : à partir de 4 cavaliers (prix par cavalier) # Tarif de base|43,00||Balade 2h cavaliers non adhérents : de 1 à 3 cavaliers (prix par cavalier) # Tarif de base|39,00||Balade 2h cavaliers non adhérents : à partir de 4 cavaliers (prix par cavalier) # Tarif de base||62,00|Balade 3h cavaliers non adhérents : de 1 à 3 cavaliers (prix par cavalier) # Tarif de base||57,00|Balade 3h cavaliers non adhérents : à partir de 4 cavaliers (prix par cavalier) # Tarif de base|25,00||Cours cavaliers non adhérents : de 1 à 3 cavaliers (prix par cavalier) # Tarif de base||22,00|Cours cavaliers non adhérents : à partir de 4 cavaliers (prix par cavalier) # Tarif de base|45,00|57,00|Session galop (examen théorique et pratique + diplôme fédéral) galops 1 à 3",,,,
+ASCAQU040FS0009K,12/05/2015,Activité sportive,Centre équestre Lous Chivaus,,,321 allée de Darricau,,40200,AUREILHAN,40019,+33 5 58 78 30 20 # +33 6 20 91 16 25,,http://centre-equestre-lous-chivaus.com, -1.2052345,44.2148787,Oui,"
+",Equitation # Equitation # Equitation,,,,01/01/2015|31/12/2015|||||Mardi # 14/02/2015|01/03/2015||||| # 18/04/2015|03/05/2015||||| # 04/07/2015|30/08/2015||||| # 17/10/2015|01/11/2015|||||,"Tarif de base|20,00||1 heure pour les - de 10 ans # Tarif de base|24,00||1 heure pour les + de 10 ans",,,,
+ASCAQU04001TXHII,08/05/2015,Activité sportive,Centre équestre Marina,,,route du chéou,,40200,MIMIZAN PLAGE,40184,+33 5 58 09 34 25,+33 6 81 27 15 01,www.centre-equestre-marina.com, -1.2134312,44.1855583,Oui,"
+",Equitation # Equitation # Equitation # Randonnée équestre,,,,,,,,,
+ASCAQU04001MTQ6X,11/02/2015,,Centre équestre Ous Pins,,,Route de Rion,,40400,TARTAS,40313,+33 5 58 73 44 65,,www.ouspins.fr , -0.8213248,43.8385355,,"
+",Equitation # Equitation,,,,,,,,,
+ASCAQU024FS0003O,11/02/2015,Activité sportive,Centre Equestre Pierrotin,,,,,24130,SAINT-PIERRE-D'EYRAUD,24487,+33 5 53 22 55 31,+33 0 67 97 88 08,http://centreequestrepierrotin.jimdo.com/,0.30305616,44.8767165,Oui,"
+",Equitation,,,,,,,,,
+ASCAQU024FS000EC,02/06/2015,Activité sportive,Centre Equestre Poney Club de Bourrou,"Elevage de l'Isle
+",Domaine de la Sudrie,,,24110,BOURROU,24061,+33 5 53 81 20 85,,www.centre-equestre-bourrou.ffe.com,0.6095,45.057068,Oui,"
+",Equitation # Randonnée équestre # Equitation # Equitation,,,Bienvenue à la Ferme,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU024FS0008P,11/02/2015,Activité sportive,Centre Equestre Poney-Club Saint Sauveur,,,,Combe brune,24520,SAINT-SAUVEUR,24499,+33 5 53 61 12 57,+33 6 74 28 64 43,www.poneyclubdesaintsauveur.fr,0.55846290,44.8775661,Oui,"
+",Equitation,,,Bienvenue à la Ferme,,,,,,
+ASCAQU064FS000QS,11/02/2015,Activité sportive,Centre équestre Sainte Hélène,,,RD 918 - Chemin de Serres,,64310,ASCAIN,64065,+33 5 59 43 90 42,,equitationpourtous.wix.com/ce-st-helene, -1.6356647,43.3625283,Oui,"
+",Equitation # Equitation,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU024FS0008M,11/02/2015,Activité sportive # Formule itinérante,Cercle hippique d'Antonne,,,,Les Bégoux,24420,ANTONNE-ET-TRIGONANT,24011,+33 5 53 35 22 14,+33 6 80 31 20 10,http://cheval-dordogne.fr/,0.85249011,45.2326016,Oui,"
+",Equitation # Randonnée équestre,Equestre,,Bienvenue à la Ferme,,,,,,
+ASCAQU040FS000JU,11/02/2015,Activité sportive,Cheval Nature,,,1085 route du Hourm,,40110,YGOS-SAINT-SATURNIN,40333,+33 6 20 87 33 27,,www.centre-equestre-landes.fr, -0.7340700,43.9749200,,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU040V50350P,30/04/2015,Activité sportive,Cheval Nature sur le site d'Arjuzanx,"Site d'Arjuzanx
+",,,,40110,ARJUZANX,40009,+33 6 20 87 33 27,,www.centre-equestre-landes.fr, -0.8536110,44.0211110,,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU047FS0000F,16/03/2015,Activité sportive # Formule itinérante,Cheval Voyages,,,,Tourette,47290,LOUGRATTE,47152,+33 5 53 41 66 50,+33 6 81 58 41 29,www.cheval-voyages.over-blog.com,0.6235880,44.5839190,,"
+",Equitation # Equitation # Equitation,Equestre Equestre,,,,,,,,
+ASCAQU064FS00097,07/05/2015,Activité sportive,Chevaux du Lac,,,Lac de Bious Artigues,,64440,GABAS,64320,+33 5 59 82 70 79,+33 6 76 34 06 12 # +33 6 45 23 33 10,http://www.lacabaline.ffe.com, -0.4530454,42.8678343,,"
+",Randonnée équestre # Randonnée avec âne porteur,Equestre,,,01/01/2015|01/06/2015||||| # 15/06/2015|15/09/2015||||| # 15/10/2015|31/12/2015|||||,"Tarif de base|17,00|17,00|Tour du Lac # Tarif de base|32,00|32,00|2 h # Tarif de base|45,00|45,00|1/2 journée # Tarif de base|80,00|80,00|1 journée # Tarif de base|165,00|165,00|Petite Rando Bivouac 1 jour 1/2 # Tarif de base|360,00|360,00|Rando  Transhumance 3 jours # Tarif de base|215,00|215,00|Rando 2 jours # Tarif de base|340,00|340,00|Rando 3 jours # Tarif de base|9,00|17,00|Location âne et poney  1/2h ou 1h # Tarif de base|50,00|50,00|Location âne et poney journée",,,,
+ASCAQU047FS00050,19/03/2015,Activité sportive,Club Hippique de Belloc,,,Route de Fals,,47390,LAYRAC,47145,+33 5 53 67 03 51,+33 6 48 77 92 24,http://clubhippiquedebelloc.e-monsite.com/,0.6606890,44.1346730,,"
+",Equitation # Equitation # Equitation # Equitation # Randonnée équestre # Balade à poney # Equitation,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU064FS00002,11/02/2015,Activité sportive,Club Hippique de Biarritz,,,Allée Gabrielle Dorziat,,64200,BIARRITZ,64122,+33 5 59 23 52 33 # +33 5 59 23 90 09,,www.biarritzcheval.com, -1.5647363,43.4596477,Oui,"
+",Equitation # Equitation # Equitation,,,,02/01/2015|24/12/2015||||| # 26/12/2015|31/12/2015|||||,,,,,
+ASCAQU040FS001I6,25/02/2015,Activité sportive,Club hippique de Lavigne,"Airial de Lavigne
+",,,,40410,MOUSTEY,40200,+33 5 58 07 75 60,+33 6 87 57 04 64,www.taristourisme.com, -0.7516260,44.3661130,Oui,"
+",Equitation # Randonnée équestre,,,,,,,,,
+ASCAQU047FS0000K,11/02/2015,Activité sportive,Club Hippique du Marmandais,,,,Les Barthes,47200,MONTPOUILLAN,47191,+33 5 53 93 65 82,+33 6 82 33 90 43,http://chmarmandais.free.fr,0.1036720,44.4689470,,"
+",Equitation,,,,01/01/2015|31/12/2015|09:00|12:00|14:00|20:00|Dimanche - Lundi,,,,,
+ASCAQU047FS00004,11/02/2015,Activité sportive,Club Hippique et Poney-Club de Poudenas,,,,L'Hoste,47170,POUDENAS,47211,,+33 6 86 70 38 25,elevagedelhoste.e-monsite.com,0.2085900,44.0448960,,"
+",Equitation # Equitation # Equitation # Equitation,,,Bienvenue à la Ferme,,,,,,
+ASCAQU033FS00159,26/02/2015,Activité sportive,Club Hippique La Gourmette,"Comète
+",BP 9,,,33210,LANGON,33227,+33 5 56 63 07 46,+33 6 61 59 12 38,www.la-gourmette-langon.com, -0.271135,44.536646,Oui,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,"Tarif de base|36,00|36,00|Promenade 1/2 journée cheval ou poney # Tarif de base|62,00|62,00|Promenade journée à cheval ou poney # Tarif de base|50,00|50,00|Stage à la journée",,,,
+ASCAQU024FS00066,16/02/2015,Activité sportive,Comptoir Sports Nature du Périgord Noir,,,,Montfort,24200,CARSAC-AILLAC,24082,,+33 6 71 76 34 01 # +33 6 15 94 77 82,www.sports-nature-perigord.com ,1.26462936,44.8632608,Oui,"
+",Canoé kayak # Equitation # Equitation # Escalade # Montgolfière  # Multisport # Orientation # Randonnée équestre # Randonnée pédestre # Spéléologie # Tir à l’arc # Tir à l’arc # VTT,,,,,,,,,
+ASCAQU047FS00054,11/02/2015,Activité sportive,Côté Poney,,,,Guillery,47230,POMPIEY,47207,+33 6 88 87 61 59,+33 6 84 04 70 45,www.coteponey-47.ffe.com,0.23103475,44.1858353,Oui,"
+",Equitation # Randonnée équestre # Balade à poney,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU04001QBI0Q,29/05/2015,Activité sportive,Domaine de Lassalle,,,Quartier Mines,,40300,SAINT-LON-LES-MINES,40269,,+33 6 87 56 11 91,centre.equestre.st-lon-les-mines.chez-alice.fr/, -1.1267740,43.6140720,,"
+",Equitation # Equitation # Equitation # Equitation,,,,02/01/2015|31/12/2015|||||,,,,,
+ASCAQU04001TC4TI,11/02/2015,,Domaine d'Equus ,,,Route des Bruyères,,40140,MAGESCQ,40310,+33 5 58 47 60 09,+33 6 60 17 56 12 # +33 6 12 41 07 35,, -1.1872427,43.7746879,,"
+",Equitation # Equitation # Equitation,,,,,,,,,
+ASCAQU024FS000E7,11/02/2015,Activité sportive,Domaine des Garennes SARL,,,,Les Garennes,24590,NADAILLAC,24301,+33 5 53 51 05 51,,www.domainedesgarennes.com ,,,,"
+",Equitation,,,,,,,,,
+ASCAQU040FS001OA,22/05/2015,Activité sportive,Domaine du Massey,,,2641 route du Massey,,40300,SAINT-CRICQ-DU-GAVE,40254,,+33 6 18 42 63 79,, -0.9960361,43.5126327,Oui,"
+",Equitation,,,,,,,,,
+ASCAQU024V502TYQ,10/03/2015,Activité sportive,EARL Les Flandres Occitanes,,,,,24290,AURIAC-DU-PERIGORD,24018,,+33 6 07 91 68 63,,1.1350540,45.1071720,,"
+",Attelage,,,Bienvenue à la Ferme,,,,,Point restauration,
+ASCAQU040015IQFM,11/02/2015,Activité sportive,Ecole d'équitation du Menusé,,,148 route de Caplanne,,40230,SAINT-JEAN-DE-MARSACQ,40264,+33 5 58 77 78 21,,http://www.le-menuse.ffe.com, -1.2558597,43.6277491,,"
+",Equitation # Equitation # Equitation # Randonnée équestre,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU040FS000S1,11/02/2015,Activité sportive,Ecole d'équitation western,"Wild Wild West Barn
+",373 avenue de l'océan,,,40270,BORDERES-ET-LAMENSANS,40049,+33 6 07 75 49 69,,laccalmie.com, -0.3628000,43.7739000,,"
+",Equitation,Equestre,,,,,,,,
+ASCAQU047FS0000R,11/02/2015,Activité sportive,Ecurie du Battan,,,,,47130,BAZENS,47022,+33 5 53 67 43 04,,,0.4322450,44.2618250,,"
+",Randonnée équestre # Randonnée équestre # Randonnée équestre,,,,,,,,,
+ASCAQU047FS0009R,05/03/2015,Activité sportive,Ecurie du Galop,,,,Le Forçat,47200,VIRAZEIL,47326,,+33 6 60 44 00 37,http://www.dugalop-47.ffe.com,0.235892,44.532472,Oui,"
+",Equitation,,,,01/01/2015|31/12/2015|09:00|12:00|14:00|19:00|Dimanche - Jeudi,,,,,
+ASCAQU040FS001P9,11/02/2015,,Ecurie Timaly,"Route de Boos
+",Lelanne,,,40370,RION-DES-LANDES,40243,+33 6 73 90 77 11,,, -0.9519481,43.9236772,Oui,"
+",Equitation,,,,,,,,,
+ASCAQU047FS00053,19/03/2015,Activité sportive,Ecuries Chevalons Ensemble,,,,Lazigoles,47240,BON-ENCONTRE,47032,,+33 6 22 24 60 42,http://chevalons-ensemble.e-monsite.com/,0.6684380,44.1861160,,"
+",Equitation # Randonnée équestre,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU024FS0000M,11/02/2015,Activité sportive,Ecuries de Camberoux,,,,,24510,SAINTE-FOY-DE-LONGAS,24407,+33 5 53 22 61 21,,,0.7501719,44.9258370,,"
+",Equitation,,,,,,,,,
+ASCAQU024FS000DR,11/02/2015,Activité sportive,Ecuries de Monsejour,,,,,24240,GAGEAC-ET-ROUILLAC,24193,+33 5 53 74 13 75,+33 6 78 82 21 68,,0.36024775,44.7971624,Oui,"
+",Equitation # Randonnée équestre,,,,,,,,,
+ASCAQU024FS000DT,22/05/2015,Activité sportive,Ecuries Loisirs de Chanterac,,,,Lieu dit Puybeaudeau,24190,CHANTERAC,24104,,+33 6 63 01 30 09,,0.44353006,45.1675456,Oui,"
+",Equitation # Randonnée équestre,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU024FS0008N,02/06/2015,Activité sportive,Elevage du Riol,,,,La Faye,24630,JUMILHAC-LE-GRAND,24218,+33 5 53 52 23 53,+33 6 86 78 50 19,www.riol24.com,1.0624740,45.4947210,,"
+",Equitation # Randonnée équestre,,,Bienvenue à la Ferme,01/01/2015|31/12/2015|09:00|12:00|14:00|18:00|,,,,,
+ASCAQU024FS000ES,11/02/2015,Activité sportive,Elevage et écuries d'Alemps,,,,Lieu dit Chignac,24460,SAINT-FRONT-D'ALEMPS,24408,+33 5 53 06 34 27,+33 6 82 13 24 77,,,,,"
+",Equitation,,,,,,,,,
+ASCAQU040FS000M4,11/02/2015,Activité sportive,Equi Aventure,,Bâtiment 6,1660 route de Biscarrosse,,40460,SANGUINET,40287,+33 5 58 08 96 52,+33 6 17 93 06 05,www.equiaventure.fr , -1.0896511,44.4630366,,"
+",Equitation # Equitation # Randonnée équestre,,,,,"|||forfait week end (hébergement, repas, matériel, cheval, accompagnateur) # |||forfait journée (repas, matériel,cheval et accompagnateur) # |||1h30 niveau confirmé # |||1h débutant # |||baptême adulte débutant # |||baptême enfant débutant",,,,
+ASCAQU024FS0006F,11/02/2015,Activité sportive # Formule itinérante,Espritrando et les Ecuries de Soupetard,,,Soupetard,,24560,BOUNIAGUES,24054,+33 6 81 03 06 31,,www.espritrando.com ,0.5428954,44.7620053,,"
+",Equitation,Equestre,,,,,,,,
+ASCAQU040FS001CA,11/02/2015,,Etrier du Marsan,"La Hiroire
+",Chemin des sports,,,40000,MONT-DE-MARSAN,40192,+33 5 58 06 34 18,,www.etrierdumarsan.com, -0.479674,43.894504,Oui,"
+",Equitation,,,,,,,,,
+ASCAQU024FS0004O,11/02/2015,Activité sportive,Ferme de Fonluc,,,,,24620,LES EYZIES-DE-TAYAC-SIREUIL,24172,+33 5 53 35 30 06,,www.fonluc.com,1.00181579,44.9494315,Oui,"
+",Equitation,,,,,|||/ 2 heures ,,,,
+ASCAQU024FS000DI,02/06/2015,Activité sportive # Formule itinérante,Ferme de Grand Jean,,,Chemin de Grand Jean,,24100,CREYSSE,24145,+33 5 53 74 02 18,+33 6 27 16 73 11,www.lafermedegrandjean.moonfruit.com,0.54131020,44.8774543,Oui,"
+",Equitation # Randonnée équestre,Equestre,,Bienvenue à la Ferme,,,,,,
+ASCAQU024FS0008Q,11/02/2015,Activité sportive,Ferme équestre,,,,Bord,24270,SAVIGNAC-LEDRIER,24526,+33 5 53 52 70 11,+33 6 66 88 22 88,,1.2200310,45.3633680,,"
+",Equitation,,,Bienvenue à la Ferme,,,,,,
+ASCAQU047FS0000M,11/02/2015,Activité sportive,"Ferme Equestre ""A SHIBAU""",,,,La Bourdette,47600,LE SAUMONT,47287,,+33 6 87 11 72 94,www.ashibau.fr,0.458190,44.121099,Oui,"
+",Randonnée équestre # Equitation,,,,,,,,,
+ASCAQU040FS0006D,11/02/2015,Activité sportive,Ferme équestre Bénesse Vieux,,,5376 route de Labernade,,40170,LIT-ET-MIXE,40157,+33 5 58 42 72 54,+33 6 89 13 00 71,http://ferme-equestre-benesse.jimdo.com/ , -1.1998701,44.0063051,Oui,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU040FS0010E,20/02/2015,Activité sportive,Ferme Equestre de Bertron,"350 Bertron
+",,,,40360,CASTELNAU-CHALOSSE,40071,+33 5 58 55 33 10,+33 6 85 26 10 86,https://www.fe-de-bertron.ffe.com, -0.8374094,43.6508303,,"
+",Equitation,,,,,,,,,
+ASCAQU024FS00009,02/06/2015,Activité sportive,Ferme Equestre de Gueyte,,,,,24100,BERGERAC,24037,,+33 6 88 18 21 28 # +33 6 89 33 13 10,www.fermeequestredegueyte.com,0.4833920,44.8538060,,"
+",Equitation,,,Bienvenue à la Ferme,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU024FS0000O,11/02/2015,Activité sportive,Ferme Equestre de la Franval,,,,La Franval,24260,SAINT-FELIX-DE-REILLAC-ET-MORTEMART,24404,+33 5 53 03 23 98 # +33 6 83 61 75 30,,www.fermelafranval.com,0.89100837,45.0362917,Oui,"
+",Equitation,,,Bienvenue à la Ferme,,,,,,
+ASCAQU04001WBBMK,11/02/2015,Activité sportive,Ferme Equestre de Peylin,,,191 impasse de Peylin,,40180,RIVIERE-SAAS-ET-GOURBY,40244,+33 5 58 97 51 04,+33 6 80 08 16 75,http://www.peylin-ferme.fr/, -1.1638777,43.6805755,,"
+",Equitation # Equitation # Randonnée équestre,,,Bienvenue à la Ferme,18/04/2015|04/05/2015||||| # 04/07/2015|31/08/2015||||| # 17/10/2015|02/11/2015|||||,,,,,
+ASCAQU024FS0000I,02/06/2015,Activité sportive,Ferme equestre de Sardin,"Ferme equestre de Sardin
+",,,,24580,ROUFFIGNAC-SAINT-CERNIN-DE-REILHAC,24356,+33 5 53 05 46 10,+33 6 81 22 49 99 # +33 6 86 41 14 38,www.sardin-equestre.com,0.92824280,45.0736948,Oui,"
+",Equitation,,,Bienvenue à la Ferme # Qualité Tourisme,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU024FS0000B,11/02/2015,Activité sportive,Ferme Equestre de Simon,,,,,24250,CENAC-ET-SAINT-JULIEN,24091,+33 5 53 28 23 94,,http://www.fesimon-24.ffe.com,1.2039645,44.7986657,,"
+",Equitation,,,,,,,,,
+ASCAQU040015IQFN,11/02/2015,Activité sportive,Ferme équestre Domaine de Las Peyres,,,Route de Tosse,,40230,SAUBION,40291,+33 5 58 77 44 82,,www.laspeyres.fr, -1.3411891,43.6793507,,"
+",Equitation # Randonnée équestre,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU033FS000S6,11/02/2015,Activité sportive,Ferme équestre du Branna,"1 le Branna
+",,,,33430,CUDOS,33144,,+33 6 76 49 83 30,, -0.1831624,44.3725562,,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,"Tarif de base|12,00|50,00|",,,,
+ASCAQU047V5030M0,04/06/2015,Activité sportive,Ferme équestre du Mail équitation western,,,,Moulin du mail,47300,PUJOLS,47215,+33 5 53 70 46 39,+33 7 82 67 97 27,,0.68467492,44.3684765,Oui,"
+",Equitation # Equitation # Equitation # Equitation,,,,01/01/2015|31/12/2015|09:00|||18:00|Lundi,"Tarif de base|15,00|25,00|cours adulte de 30 minutes à 1h # Tarif de base|150,00|250,00|carte adulte 10 leçons (+ 1 gratuite) de 30min ou 1h # Tarif de base|10,00|15,00|tarifs enfants de 30 minutes à 1h # Tarif de base|100,00|150,00|carte enfant 10 leçons (+ 1 gratuite) de 30min ou 1h # Tarif de base|20,00|35,00|Balade 1h ou 2h # Tarif de base|8,00||Tour en poney",,,,
+ASCAQU040015IQKR,11/02/2015,,Ferme équestre du Pouy,,,Route de l'Adour,,40390,SAINT-MARTIN-DE-HINX,40272,,+33 6 15 43 03 80,, -1.2568170,43.5845800,,"
+",Equitation # Equitation,,,Bienvenue à la Ferme,,,,,,
+ASCAQU024FS0004C,11/02/2015,Activité sportive # Formule itinérante,Ferme équestre HIPPOCAMP',,,,Pierre Edmond,24800,LEMPZOURS,24238,+33 5 53 52 61 99,+33 6 85 21 09 88,www.hippocamp.fr,0.83363056,45.3561034,Oui,"
+",Equitation # Randonnée équestre,Equestre,,Bienvenue à la Ferme,,,,,,
+ASCAQU047FS0006J,11/02/2015,Activité sportive,Ferme équestre La Gravade,,,,Bouillaguet,47110,SAINTE-LIVRADE-SUR-LOT,47252,,+33 6 84 51 42 84,www.ferme-equestre-lagravade.sitew.com,0.5880350,44.3978240,,"
+",Equitation # Randonnée équestre # Equitation # Equitation # Equitation,,,Bienvenue à la Ferme,01/01/2014|31/12/2014|09:00|12:00|14:00|18:30|Dimanche - Vendredi,"Tarif de base|14,00|18,00|14€ heure licencié, 18€ heure passager # Tarif de base|35,00|60,00|stage licencié demi-journée et journée # Tarif de base|40,00|70,00|stage demi-journée, journée non licencié # Tarif de base|10,00|100,00|10€ la demi-heure et 100€ l'abonnement de 10 séances de demi-heure # Tarif de base|139,00||Abonnement licencié 10h # Tarif de base|70,00||Abonnement découverte 4h",,,,
+ASCAQU024FS0007P,11/02/2015,Activité sportive,Ferme Equestre Le Bugou,,,,Le Bugou,24170,SAGELAT,24360,+33 5 53 28 27 94,+33 6 83 58 64 55,,1.020416,44.7739612,Oui,"
+",Equitation,,,,,,,,,
+ASCAQU033FS000HW,13/03/2015,Activité sportive,Ferme équestre Les Ecuries du Lac d'Hostens,"11 route de Louchats
+",,,,33125,HOSTENS,33202,+33 5 56 88 77 71,+33 6 85 53 19 97,www.equitation-aquitaine.com , -0.2393388,44.376646,Oui,"
+",Equitation # Randonnée équestre,,,Bienvenue à la Ferme,01/01/2015|31/12/2015|||||,"Tarif de base|12,00|55,00|",,,,
+ASCAQU064FS000CF,28/05/2015,Activité sportive,Ferme Équestre Lo Casau,,,7 RN 117,,64420,ARTIGUELOUTAN,64059,+33 5 59 81 86 86,+33 6 86 41 04 02,http://www.gites64.com/lo-casau, -0.2464895,43.2825669,,"
+",Equitation # Randonnée équestre,,,Bienvenue à la Ferme,01/01/2015|21/12/2015|||||,"Tarif de base|10,00||Promenade 1/2 heure # Tarif de base|18,00||Heure découverte # Tarif de base|20,00||Cours (non adhérents) # Tarif de base|27,00|47,00|mini 1/2 journée / maxi journée",,,,
+ASCAQU024FS0000L,16/03/2015,Activité sportive,Ferme Equestre/Poney-club de Belle Oreille,,,,Belle oreille,24260,SAINT-AVIT-DE-VIALARD,24377,+33 5 53 07 80 61,+33 6 19 85 00 19,www.belleoreille.com,0.85933685,44.9514360,Oui,"
+",Equitation,,,Bienvenue à la Ferme,,"Tarif de base|10,00|10,00|Tarif circuits balisés (pour les tout-petits) de 20 mn à 1h # Tarif de base|15,00|15,00|tarif membres leçons ou promenades : 1h # Tarif de base|17,00|17,00|Tarif passagers leçons ou promenades : 1h",,,,
+ASCAQU047V502SJ6,12/03/2015,Activité sportive,Haras d'Aeden,,,,La Dague,47230,FEUGAROLLES,47097,,+33 6 63 29 43 83,www.haras-daeden.fr,0.36739479,44.2249960,Oui,"
+",Equitation # Equitation # Equitation # Equitation # Equitation,,,,01/01/2015|31/12/2015|09:00|12:00|12:00|18:00|,"Tarif de base|25,00||Tarif balade, une heure adulte # Tarif réduit|20,00||Tarif une heure, enfant",,,,
+ASCAQU040FS0011C,15/04/2015,Activité sportive,Haras de Musemeou,"210 Chemin de Musemeou
+",,,,40120,SARBAZAN,40288,,+33 6 13 06 89 03,, -0.3223211,44.0284308,Oui,"
+",Equitation,Equestre,,,01/01/2015|31/12/2015|||||,|||se renseigner,,,,
+ASCAQU024FS00012,11/02/2015,Activité sportive,La Bride du Cazals,,,,,24540,VERGT-DE-BIRON,24572,+33 5 53 63 15 49,,,0.8415970,44.6333890,,"
+",Equitation,,,,,,,,,
+ASCAQU024FS0009D,11/02/2015,Activité sportive,La Ferme équestre du Naudonnet,,,,Le Naudonnet,24310,BOURDEILLES,24055,+33 5 53 08 66 74,,,0.58806353,45.3065266,Oui,"
+",Equitation,,,,,,,,,
+ASCAQU024FS00051,11/02/2015,Activité sportive,La Forêt a Cheval,"La Forêt
+",,,Brignac la Plaine,19310,TERRASSON-LAVILLEDIEU,24547,+33 5 55 85 29 32,+33 6 87 34 09 90,,1.3093707,45.2262486,Oui,"
+",Equitation,,,,,,,,,
+ASCAQU024FS0000A,11/02/2015,Activité sportive,La Vallée des Châteaux à cheval - Poney Club,,,,La Treille,24250,CASTELNAUD-LA-CHAPELLE,24086,+33 5 53 29 51 86,+33 6 07 38 14 88,http://www.la-vallee-des-chateaux.weonea.com,1.13219261,44.8308565,Oui,"
+",Equitation,,,Bienvenue à la Ferme,,,,,,
+ASCAQU033FS0005H,02/06/2015,Activité sportive,Lacanau Equi-passion,"114 avenue de Bordeaux
+",,,,33680,LACANAU VILLE,33214,,+33 6 77 75 97 28,www.lacanau-equipassion.fr, -1.0496556,44.9765059,Oui,"
+",Equitation,,,Famille Plus,01/01/2015|31/12/2015|||||,"Tarif de base|27,00||Cours ou balade 1h",,,,
+ASCAQU047FS0006K,11/02/2015,Activité sportive,le Centaure de Lamaurelle,,,,Borde basse de Lamaurelle,47110,DOLMAYRAC,47081,,+33 6 03 04 44 52 # +33 6 89 40 53 55,www.centaurelle.fr,0.5913210,44.3618170,,"
+",Equitation # Equitation # Equitation # Equitation,,,,01/01/2014|31/12/2014|08:00|||19:00|,,,,,
+ASCAQU04001NQOZN,11/02/2015,Activité sportive,Le Poun's Club,"381, chemin de l'airial
+",,,Quartier Jean Blanc,40280,BRETAGNE-DE-MARSAN,40055,+33 5 58 71 12 96,+33 6 64 70 11 11,www.lepounsclub.ffe.com, -0.4597906,43.8474047,Oui,"
+",Equitation,,,,,,,,,
+ASCAQU04001WBBMS,23/02/2015,Activité sportive,Le Ranch d'Elvire,"Route de Sore
+",Haras du Capdessus,,,40630,TRENSACQ,40319,+33 5 58 07 05 98,,www.leranch-elvire.ffe.com, -0.7454772,44.2148614,Oui,"
+",Equitation # Equitation # Randonnée équestre,,,,,,,,,
+ASCAQU047FS0007N,11/02/2015,Activité sportive,L'écurie des collines,,,,Bonnefous,47300,PUJOLS,47215,,+33 6 33 65 23 73,www.ecuriedescollines.com,0.6902110,44.3864820,,"
+",Equitation # Equitation,,,,01/01/2014|31/12/2014|09:00|||20:00|,"Tarif de base|15,00|35,00|selon la durée (1h, 2h ou 1/2 journée) # Tarif de base|55,00||journée # Tarif de base|200,00||week-end",,,,
+ASCAQU024FS0004M,11/02/2015,Activité sportive,Les Amis des chevaux,,,,Jayac,24530,QUINSAC,24346,,+33 6 85 05 60 72,,0.7192701,45.4185688,,"
+",Equitation # Equitation,,,,,,,,,
+ASCAQU033FS000WG,16/02/2015,Activité sportive,Les Balad'Anne,"11 chemin des Oiseaux
+",,,,33780,SOULAC-SUR-MER,33514,,+33 6 45 78 54 00,, -1.1133956,45.5002109,Oui,"
+",Equitation # Randonnée avec âne porteur,,,,01/04/2015|31/10/2015|||||,"Tarif de base|20,00|20,00|balade d'une heure en forêt # Tarif de base|30,00|30,00|balade de 2h en forêt et plage",,,,
+ASCAQU024FS0008J,11/02/2015,Activité sportive,Les Balzanes,,,,aux Aliziers,24300,ABJAT-SUR-BANDIAT,24001,+33 5 53 56 67 18,+33 6 70 28 14 77,www.les-balzanes.com,0.7581990,45.5856550,,"
+",Equitation,,,,,,,,,
+ASCAQU024FS0000T,11/02/2015,Activité sportive,Les Cavaliers de la Vezere,"Le Pré de Barre
+",,,,24290,SERGEAC,24531,+33 6 30 47 86 51,+33 6 75 24 25 03,,1.10691547,45.0132996,Oui,"
+",Equitation,,,Qualité Tourisme,01/01/2015|31/12/2015|09:00|12:00|14:00|18:00|,,,,,
+ASCAQU047FS000AO,11/02/2015,Activité sportive,Les chevaux d'Eole,,,,Lamartigne,47120,LOUBES-BERNAC,47151,,+33 6 45 89 10 34,www.leschevauxdeole.com,0.30661940,44.7320097,Oui,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU040FS001ML,11/02/2015,,"Les Ecuries ""EL CASERIO""",,,,,40300,SAINT-CRICQ-DU-GAVE,40254,,+33 6 51 22 92 13,, -1.0135740,43.5343380,,"
+",Equitation # Equitation # Equitation,,,,,,,,,
+ASCAQU033FS00015,11/02/2015,Activité sportive,Les Ecuries d'Andernos,"Route de Bordeaux
+",,,,33510,ANDERNOS-LES-BAINS,33005,+33 5 56 82 27 16,+33 6 95 76 72 74,, -1.072426,44.758052,Oui,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU064FS000RU,19/05/2015,Activité sportive,Les Ecuries de Barétous,"La Papeterie
+",Route de Barcus,,,64570,LANNE-EN-BARETOUS,64310,+33 5 59 34 51 58,+33 6 12 05 64 89,www.centre-equestre-pyrenees-atlantiques.fr, -0.758866,43.11284,Oui,"
+",Equitation # Balade à poney,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU040FS0018K,11/02/2015,,Les Ecuries de la Juzère,"Chemin de Parebille
+",,,,40390,SAINTE-MARIE-DE-GOSSE,40271,+33 6 19 88 98 08,,www.ecuriesdelajuzere-40.ffe.com, -1.2388410,43.5568100,,"
+",Equitation # Randonnée équestre,,,,,,,,,
+ASCAQU033FS00063,11/02/2015,Activité sportive,Les Ecuries de Libet,"3 lieu-dit Libet
+",,,,33430,BERNOS-BEAULAC,33046,+33 5 56 25 46 35,+33 6 80 59 19 97,www.lesecuriesdelibet.com, -0.2674484,44.3814162,Oui,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,"Tarif de base|27,00||l'heure de promanade pour cavalier confirmé à partir de 13 ans.",,,,
+ASCAQU033FS0017V,17/02/2015,Activité sportive,Les Ecuries de Louchats,"59 bis avenue François Mauriac
+",,,,33125,LOUCHATS,33251,,+33 6 61 41 69 24,www.equitation-louchats.com, -0.5645706,44.5016386,,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,"Tarif de base|15,00|15,00|Balade en main enfant # Tarif de base|30,00|30,00|Promenade adulte (1h30)",,,,
+ASCAQU024FS0005H,11/02/2015,Activité sportive,Les Ecuries de Milhac,,,,Mazerou,24470,MILHAC-DE-NONTRON,24271,,+33 6 88 33 25 57,www.lesecuriesdemilhac.fr,0.8157597,45.4868092,Oui,"
+",Equitation # Randonnée équestre,,,Bienvenue à la Ferme,,,,,,
+ASCAQU024FS0009E,11/02/2015,Activité sportive,Les Ecuries de Puynadal,,,,,24310,BRANTOME,24064,,+33 6 35 55 96 09,www.puynadal.ffe.com,0.6473940,45.3651870,,"
+",Equitation,,,,,,,,,
+ASCAQU047FS0002R,11/02/2015,Activité sportive,Les écuries de Saint Damien,,,,Saint-Damien,47270,LA SAUVETAT-DE-SAVERES,47289,,+33 6 83 34 17 03,http://ecuries-de-saint-damien.ffe.com/,0.78105926,44.2197307,Oui,"
+",Equitation # Equitation # Equitation # Equitation # Equitation # Balade à poney,,,Bienvenue à la Ferme,,,,,,
+ASCAQU040FS0015L,19/05/2015,Activité sportive,Les écuries de Vergoignan,,,,,32720,VERGOIGNAN,40001,+33 5 62 09 41 20,+33 6 80 14 36 12,www.ecuries-de-vergoignan.fr, -0.1986551,43.7200322,Oui,"
+",Equitation # Equitation # Equitation # Equitation # Equitation # Equitation # Equitation # Equitation,,,Bienvenue à la Ferme,01/01/2015|31/12/2015|08:00|12:30|13:30|20:00|,"Tarif de base|9,50|40,00|40€ pour la leçon particulière et 9,50€ par heure",,,,
+ASCAQU033FS000H7,03/04/2015,Activité sportive # Formule itinérante,Les Ecuries des Louves,"23 bis route de Touilla
+",,,,33210,FARGUES,33164,,+33 6 42 32 32 47,, -0.2955412,44.5479234,Oui,"
+",Equitation,Equestre,,Bienvenue à la Ferme,01/01/2015|31/12/2015|||||,"Tarif de base|17,00|17,00|1h de balade # Tarif de base|30,00|30,00|2h de balade # Tarif de base|90,00|90,00|Randonnée à la journée # Tarif de base|80,00|80,00|Journée de balade # Tarif de base|30,00|30,00|Attelage 1h # Tarif de base|8,00|8,00|Promenade en mains 30 minutes",,,,
+ASCAQU033FS000ST,11/02/2015,Activité sportive,Les Ecuries des Trias,,,,,33920,SAINT-CHRISTOLY-DE-BLAYE,33382,,+33 6 09 44 41 49,, -0.5081830,45.1299550,,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU033V504FU0,28/05/2015,Activité sportive,Les Ecuries du Bourdiou,,,80 route des Lacs,,33680,LE PORGE,33333,+33 5 56 26 63 74,+33 6 07 86 20 65,, -1.1057142,44.8902906,Oui,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,"Tarif de base|25,00|25,00|Balade en forêt du Porge. Durée 1 h # Tarif de base|45,00|45,00|Balade vers le canal des étangs. Durée 2h # Tarif de base|60,00|60,00|Balade à l’océan. Durée 3 h,  galop 4 au minimum",,,,
+ASCAQU047FS00005,11/02/2015,Activité sportive,Les Ecuries du Dropt,,,,Banarge,47120,SAINT-PIERRE-SUR-DROPT,47271,+33 5 53 83 84 14,,www.ecuries-du-dropt.com,0.18642425,44.6586412,Oui,"
+",Equitation # Equitation # Equitation # Equitation # Equitation # Balade à poney,,,,,,,,,
+ASCAQU040FS001CB,11/02/2015,,Les écuries du Grand Ruste,"595, rte de Mont-de-Marsan
+",,,,40120,POUYDESSEAUX,40234,+33 5 58 93 98 87,,http://legrandruste.fr, -0.3250966,43.9693693,Oui,"
+",Equitation,,,,,,,,,
+ASCAQU040FS0017C,11/02/2015,Activité sportive,Les Ecuries du Landran,,,2025 route du Landran,,40380,GAMARDE-LES-BAINS,40104,,+33 6 30 29 54 58 # +33 6 79 65 93 56,www.ecuries-landran.fr, -0.8976173,43.7154726,Oui,"
+",Equitation,,,,,,,,,
+ASCAQU033FS0002M,11/02/2015,Activité sportive,Les Lacs du Moulin Blanc,,,,,33920,SAINT-CHRISTOLY-DE-BLAYE,33382,+33 5 57 58 47 79,,www.cdc-saintsavin.fr, -0.4755878,45.1525665,Oui,"
+",Pêche # Multisport # Equitation,,,,01/01/2015|31/12/2015|||||,Gratuit|||,,,,
+ASCAQU033FS00048,11/02/2015,Activité sportive,Les Petits Chevaux,"Route des Lacs
+",,,,33780,SOULAC-SUR-MER,33514,+33 5 56 73 91 01,,www.les-petits-chevaux.com, -1.1198329,45.475781,Oui,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU024V502PQO,17/04/2015,Activité sportive,L'Eté actif sur Causses et Rivières en Périgord,,,,,24160,EXCIDEUIL,24164,+33 5 53 52 29 79,,www.naturellementperigord.fr,1.04914193,45.3352376,Oui,"
+",Canoé kayak # Equitation # Escalade # Tir à l’arc,,,,13/07/2015|28/08/2015|||||,"Tarif de base|8,00|18,00|plein # Tarif réduit|5,00|12,00|avec le Pass Dordogne",,,,
+ASCAQU047FS0000T,19/03/2015,Activité sportive,L'Etrier Agenais,,,25 route des Landes,,47310,ROQUEFORT,47225,+33 5 53 96 78 17,,www.etrier-agenais.ffe.com,0.587092,44.193383,Oui,"
+",Equitation # Equitation # Equitation,,,,,,,,,
+ASCAQU024FS000BP,17/04/2015,Activité sportive,L'étrier de Vitrac,,,,Route de Combelongue,24200,VITRAC,24587,,+33 6 87 76 90 34 # +33 6 86 66 72 06,http://etriervitrac.free.fr/,1.2219546,44.8703082,,"
+",Equitation,,,,01/01/2015|31/12/2015|09:00|12:00|14:00|18:00|,"Tarif de base||25,00|Tarif pour une heure",,,,
+ASCAQU033V504NAO,04/05/2015,Activité sportive,M3L au Galop,"52 rue du Général de Gaulle
+",,,,33740,ARES,33011,,+33 7 62 02 78 19,http://m3laugalop.eklablog.com, -1.1404210,44.7718995,,"
+",Balade à poney,,,,01/01/2015|31/12/2015|||||,"Tarif de base|30,00|30,00|Atelier de loisirs créatif - Forfait famille à partir de 3 enfants # Tarif de base|2,50|2,50|Balade en poneys (5 min) - Forfait famille à partir de 3 enfants # Tarif de base|10,00|10,00|Balade en poneys (30 min) - Forfait famille à partir de 3 enfants",,,,
+ASCAQU064FS000F7,25/03/2015,Activité sportive,Office de Tourisme / Point info montagne,,Maison de la Vallée d'Ossau,Place de la Mairie,,64440,LARUNS,64320,+33 5 59 05 48 94,,www.ossau-resa.com  # www.ossau-pyrenees.com, -0.4260397,42.9880997,,"
+",Randonnée pédestre # Escalade # Via ferrata # Canyoning # Canoé kayak # Hydrospeed # Rafting # Marche nordique # Raquettes # Ski de randonnée # Randonnée équestre # Remise en forme # Spéléologie # VTT,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU040FS000A4,20/05/2015,Activité sportive,Plage du lac d'Arjuzanx,,,,,40110,ARJUZANX,40009,+33 5 58 08 11 52,,, -0.8511829,44.0151633,Oui,"Faune flore
+",Randonnée équestre,,,,26/06/2015|06/09/2015|||||,,,,,
+ASCAQU047FS00008,11/02/2015,Activité sportive,Poney Club de la Marsale,,,,La Marsale,47300,VILLENEUVE-SUR-LOT,47323,+33 5 53 70 72 07,+33 6 81 44 65 42,http://poney-club-marsale.com/ ,0.75672626,44.4158502,Oui,"
+",Equitation # Attelage # Randonnée équestre # Balade à poney,,,Bienvenue à la Ferme # Sourire du Lot-et-Garonne,01/04/2015|30/09/2015||||| # 01/10/2015|31/12/2015|||||Dimanche - Jeudi - Lundi - Mardi - Vendredi # 01/01/2015|31/03/2015|||||Dimanche - Jeudi - Lundi - Mardi - Vendredi,"Tarif de base|443,00|948,00|Stage de 7 ou 15 jours # Tarif de base|20,00|36,00|activités équestres sur 1/2 journée ou journée en 1/2 pension # Tarif de base|5,00||balade de 30 minutes, à main en poney",,,,
+ASCAQU040FS00043,11/02/2015,Activité sportive,Poney club du Grand Lio,,,1343 chemin de Lio,,40170,SAINT-JULIEN-EN-BORN,40266,+33 5 58 42 42 88,+33 6 78 48 24 74,www.grandlio.com , -1.1991539,44.0719045,Oui,"
+",Equitation # Equitation # Equitation # Randonnée équestre,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU040FS000M0,11/02/2015,Activité sportive,Poney Club Le Manège Enchanté,,,Route de Tyrosse,,40150,ANGRESSE,40004,,+33 6 84 79 42 44,, -1.3450741,43.6577041,Oui,"
+",Equitation # Equitation # Equitation,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU033FS0005U,11/02/2015,Activité sportive,Poney-Club de Bazas,"lieu-dit Garlope
+",,,,33430,BAZAS,33036,+33 5 56 25 98 63,,http://poneyclubdebazas.com, -0.2581787,44.4440753,Oui,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,"Tarif de base|23,00|38,00|selon durée de la séance",,,,
+ASCAQU047FS0000P,19/03/2015,Activité sportive,Poney-Club de Darel en Agenais,,,,Darel,47480,PONT-DU-CASSE,47209,+33 5 53 96 90 33,,,0.6812780,44.2321170,,"
+",Equitation # Randonnée équestre # Equitation # Equitation # Equitation,,,,,,,,,
+ASCAQU033FS000VN,06/05/2015,Activité sportive,Poney-Club du Château Perron,"Château Perron
+",,,,33210,ROAILLAN,33357,,+33 6 14 51 20 64,www.poneyperron.com, -0.2760970,44.5067460,,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,"Tarif de base|38,00|38,00|1/2 journée # |55,00|55,00|Journée complète",,,,
+ASCAQU033FS000VM,13/03/2015,Activité sportive,Poney-Club les Galop-pins,"Chemin Bacquey
+",,,,33430,BERNOS-BEAULAC,33046,,+33 6 87 31 31 09,www.galop-pins.ffe.com, -0.2393388,44.376646,Oui,"
+",Equitation,,,Bienvenue à la Ferme,01/01/2015|31/12/2015|||||,"Tarif de base|10,00||promenade 1/2h (3 - 9 ans) # Tarif de base|14,00||cours 1h (4 - 5 ans) # Tarif de base|17,00|24,00|cours 1h (à partir de 6 ans)",,,,
+ASCAQU064FS000GT,11/02/2015,Activité sportive,Pottok land,,,,Quartier du lac,64310,SAINT-PEE-SUR-NIVELLE,64495,,+33 6 16 33 26 88,www.pottok-land.fr, -1.5264397,43.3440431,Oui,"
+",Randonnée équestre # Randonnée équestre # Equitation # Equitation,,,,,,,,,
+ASCAQU033FS0015B,11/02/2015,Activité sportive,Quali-Fourchon,"Majouraou
+",,,,33430,SAUVIAC,33507,+33 5 56 25 56 73,,www.quali-fourchon.weebly.com, -0.1763869,44.4104987,Oui,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,"Tarif de base|40,00||la balade par personne (durée 1h30 - 2h)",,,,
+ASCAQU033FS00062,07/05/2015,Activité sportive,Queyran'ch,"Lieu-dit Queyran
+",,,,33430,BERNOS-BEAULAC,33046,+33 5 56 25 41 33,+33 6 03 19 17 89,www.queyranch.com, -0.252989,44.379777,Oui,"
+",Equitation,,,,01/01/2015|31/12/2015|||||,"Tarif de base|28,00||l'heure de promenade # Tarif de base|28,00||(à partir de) cours d'équitation western / attelage",,,,
+ASCAQU047FS0000U,11/02/2015,Activité sportive # Formule itinérante,Ranch du Bel Air,,,,,47350,LABRETONIE,47122,,+33 6 74 87 46 39,www.ranch-du-bel-air.com,0.37714004,44.4912399,Oui,"
+",Balade à poney # Equitation # Equitation # Equitation # Equitation # Randonnée équestre,Equestre,,Bienvenue à la Ferme,01/01/2015|31/12/2015|||||,"Tarif de base|17,00||1 heure # Tarif de base|45,00||Demi-journée # Tarif de base|65,00||Journée # Tarif de base|10,00||Balade à poney # Tarif de base|180,00||Pension Poney # Tarif de base|220,00||Pension Cheval près # Tarif de base|250,00||Pension Chaval box # Tarif de base|40,00||Stage journée # Tarif de base|400,00||Stage semaine # Tarif de base|130,00||Carte de 10 heures # Tarif de base|29,00||Balade deux heures # Tarif de base|25,00||Licence - 16 ans # Tarif de base|36,00||Licence + 16 ans",,,,
+ASCAQU04001WV7JQ,11/02/2015,Activité sportive,Ranch Eldorado,,,1910 Chemin d'En Hill,,40600,BISCARROSSE VILLE,40046,+33 5 58 82 89 94,+33 6 81 67 77 50,www.rancheldorado.fr, -1.1197651,44.3998511,,"
+",Equitation # Equitation # Equitation,,,,01/01/2015|31/12/2015|||||,,,,,
+ASCAQU047FS0000V,09/03/2015,Activité sportive,Randonnées Equestres de Claverie ,,,,Claverie,47180,SAINT-SAUVEUR-DE-MEILHAN,47277,,+33 6 14 90 90 29,http://randoequestreclaverie.wifeo.com/    , -0.001525,44.481065,Oui,"
+",Equitation # Randonnée équestre,,,,01/01/2015|31/12/2015|||||,"Tarif de base|20,00||une heure adulte ou enfant",,,,
+ASCAQU064FS000B9,11/02/2015,Activité sportive,SCEA Les Trois Maisons,,,,,64490,OSSE-EN-ASPE,64433,+33 5 59 34 77 89,,www.lestroismaisons.com, -0.6333446,43.0011634,Oui,"
+",Equitation # VTT # Randonnée équestre,,,,01/01/2015|31/12/2015|||||,"Tarif de base|6,00|6,00|Location 2h # Tarif de base|10,00|10,00|Location 4h # Tarif de base|20,00|20,00|Location journée",,,,
+ASCAQU024FS0007G,11/02/2015,Formule itinérante,Travaux et Activités du Cheval en Traction,,,,Moncalou,24250,FLORIMONT-GAUMIER,24184,,+33 6 32 74 47 01,www.cheval-en-traction.com,1.22952461,44.7110001,Oui,"
+",Equitation,,,,,,,,,
+ASCAQU064FS000QT,11/02/2015,Activité sportive,Ttiki Poneys Côte Basque,"Centre équestre Sainte Hélène
+",,Chemin de Serres,,64310,ASCAIN,64065,+33 5 59 43 90 42,+33 6 66 88 99 81,www.poneycotebasque.fr, -1.6356593,43.3625497,Oui,"
+",Equitation,,,,,,,,,
+ASCAQU033FS0000G,27/03/2015,Activité sportive,Villetorte Loisirs,"30 rue du Pont Neuf
+",,,,33470,LE TEICH,33527,+33 5 56 22 66 80,+33 6 66 28 21 24,www.loisirs-arcachon.com # www.leteich-tourisme.com, -1.0140895,44.6377576,Oui,"
+",Canoé kayak # Randonnée équestre # Cyclotourisme,,,,15/06/2015|15/09/2015|||||,,,,,Location de vélo
+ASCAQU024FS000AE,11/02/2015,Formule itinérante,Visite en calèche,"Association Calbalade
+",,,,24310,SAINT-JULIEN-DE-BOURDEILLES,24430,+33 5 53 08 28 93,,,0.5898850,45.3604930,,"
+",Equitation,,,,,,,,,
+ASCAQU024FS000BN,02/06/2015,Activité sportive,West Wood Ranch,,,,La Donie,24530,CONDAT-SUR-TRINCOU,24129,,+33 6 88 49 58 75,www.vacances-enfants-western.fr,0.7075620,45.3815650,,"
+",Equitation,,,Bienvenue à la Ferme,01/01/2015|31/12/2015|||||,"Tarif de base|25,00|25,00|Pour les adultes # Tarif réduit|15,00|15,00|Pour les enfants jusqu'à 12 ans",,,Espace jeux,

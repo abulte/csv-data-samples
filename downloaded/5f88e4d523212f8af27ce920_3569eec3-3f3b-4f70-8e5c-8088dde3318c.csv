@@ -1,0 +1,103 @@
+﻿objectid,nom_vc,commune,inseecom,nature,proprietaire,commentaire,date_maj
+1,Rue du 21 Novembre,DANJOUTIN,90032,,Voie publique,,1970/01/01 00:00:00+00
+2,Voie Z.A.C. des Tourelles,MORVILLARS,90072,,Voie privée,,1970/01/01 00:00:00+00
+3,Voie communale Zone Industrielle,BOUROGNE,90017,,Voie privée,,1970/01/01 00:00:00+00
+4,,ANDELNANS,90001,,Voie privée,,1970/01/01 00:00:00+00
+5,Rue Jacqueline Auriol,BELFORT,90010,,Voie privée,,1970/01/01 00:00:00+00
+6,,ANDELNANS,90001,,Voie privée,,1970/01/01 00:00:00+00
+7,"Rue Antoine, Alexandre et Henri Becquerel",BELFORT,90010,,Voie privée communale,,1970/01/01 00:00:00+00
+8,Rue Edouard Belin,BELFORT,90010,,Voie privée,,1970/01/01 00:00:00+00
+9,Avenue des Usines,BELFORT,90010,,Voie publique,,1970/01/01 00:00:00+00
+12,,ARGIESANS,90004,,Voie privée,,1970/01/01 00:00:00+00
+13,Rue du Port,ESSERT,90039,,Voie privée,,1970/01/01 00:00:00+00
+14,Rue Thomas Edison,BELFORT,90010,,Voie publique,,1970/01/01 00:00:00+00
+15,Rue Xavier Bichat,BELFORT,90010,,Voie privée communale,,1970/01/01 00:00:00+00
+16,,ARGIESANS,90004,,Voie privée communale,,1970/01/01 00:00:00+00
+17,Voie ZAIC du Bois d'Arsot,VALDOIE,90099,,Voie privée communale,,2017/05/23 00:00:00+00
+18,Voie ZAIC du Bois d'Arsot,VALDOIE,90099,,Voie privée communale,,2017/05/23 00:00:00+00
+19,Rue René Cassin,BELFORT,90010,,Voie publique,,1970/01/01 00:00:00+00
+20,Rue Alfred Kastler,BELFORT,90010,,Voie privée,,1970/01/01 00:00:00+00
+22,Avenue Michel Page,VALDOIE,90099,,Voie publique,,1970/01/01 00:00:00+00
+23,Rue des Prés,ANDELNANS,90001,,Voie privée,,1970/01/01 00:00:00+00
+26,Rue Sophie Germain,BELFORT,90099,,Voie privée,,1970/01/01 00:00:00+00
+27,Rue du Chêne (cours),ARGIESANS,90004,,Voie privée communale,,1970/01/01 00:00:00+00
+28,Rue des Etangs,ANDELNANS,90001,,Voie privée,,1970/01/01 00:00:00+00
+29,Rue Alphonse Beau de Rochas,BELFORT,90010,,Voie privée,,1970/01/01 00:00:00+00
+30,,BELFORT,90010,,Voie privée,,1970/01/01 00:00:00+00
+34,Voie communale Zone Industrielle,BOUROGNE,90017,,Voie privée communale,,1970/01/01 00:00:00+00
+35,Avenue Michel Page,VALDOIE,90099,,Voie privée communale,,1970/01/01 00:00:00+00
+36,Avenue Michel Page,VALDOIE,90099,,Voie privée communale,,1970/01/01 00:00:00+00
+37,Rue du Port,ESSERT,90039,,Voie privée,,1970/01/01 00:00:00+00
+38,,DANJOUTIN,90032,,Voie privée communale,,1970/01/01 00:00:00+00
+39,Rue des Alisiers,ARGIIESANS,90004,,Voie privée communale,,1970/01/01 00:00:00+00
+41,Rue Gustave Lang,BELFORT,90010,,Voie privée,,1970/01/01 00:00:00+00
+42,Voie Z.A.C. des Tourelles,MORVILLARS,90072,,Voie privée,,1970/01/01 00:00:00+00
+43,Rue Georges Besse,BELFORT,90010,,Voie privée,,1970/01/01 00:00:00+00
+45,Avenue Michel Page,VALDOIE,90099,,Voie privée communale,,1970/01/01 00:00:00+00
+46,Rue des Noz,DANJOUTIN,90032,,Voie publique,,1970/01/01 00:00:00+00
+47,Rue des Courbes Fauchées,BAVILLIERS,90008,,Voie publique,,1970/01/01 00:00:00+00
+48,Avenue Michel Page,VALDOIE,90099,,Voie privée communale,,1970/01/01 00:00:00+00
+49,Rue des Courbes Fauchées,BAVILLIERS,90008,,Voie privée communale,,1970/01/01 00:00:00+00
+50,Rue Alfred Kastler,BELFORT,90010,,Voie privée,,1970/01/01 00:00:00+00
+51,Voie ZAIC du Bois d'Arsot,VALDOIE,90099,,Voie privée communale,,2017/05/23 00:00:00+00
+52,Chemin Z.A.C. des Saules,BOTANS,90015,,Voie publique,,1970/01/01 00:00:00+00
+53,Voie Z.A.C. des Tourelles,MORVILLARS,90072,,Voie privée,,1970/01/01 00:00:00+00
+54,Passage entre Beau de Rochas et Branly,BELFORT,90010,,Voie privée,,1970/01/01 00:00:00+00
+55,Passage entre Broglie et Eloy,BELFORT,90010,,Voie privée,,1970/01/01 00:00:00+00
+56,,DANJOUTIN,90032,,Voie privée,,1970/01/01 00:00:00+00
+57,Rue Edouard Branly,BELFORT,90010,,Voie privée,,1970/01/01 00:00:00+00
+58,Rue Xavier Bichat,BELFORT,90010,,Voie privée,,1970/01/01 00:00:00+00
+59,Rue Georges Besse,BELFORT,90010,,Voie privée,,1970/01/01 00:00:00+00
+60,Rue du Ballon ZAC du Ballon,OFFEMONT,90075,,Voie privée,,1970/01/01 00:00:00+00
+61,Rue du Chêne,ARGIESANS,90004,,Voie privée communale,,1970/01/01 00:00:00+00
+62,Rue du Ballon ZAC du Ballon,OFFEMONT,90075,,Voie privée,,1970/01/01 00:00:00+00
+63,Rue du Ballon ZAC du Ballon,OFFEMONT,90075,,Voie privée,,1970/01/01 00:00:00+00
+64,Allée Loris Séropian,BELFORT,90010,,Voie privée,,1970/01/01 00:00:00+00
+65,Voie Communale Zone Industrielle,MORVILLARS,90072,,Voie privée,,1970/01/01 00:00:00+00
+66,Chemin Z.A.C. des Saules,BOTANS,90015,,Voie publique,,1970/01/01 00:00:00+00
+67,Rue des Alisiers,BAVILLIERS,90008,,Voie publique,,1970/01/01 00:00:00+00
+68,Rue du Ballon ZAC du Ballon,OFFEMONT,90075,,Voie privée,,1970/01/01 00:00:00+00
+69,Voie parking entre Belin et Becquerel,BELFORT,90010,,Voie privée,,1970/01/01 00:00:00+00
+70,Rue de l'Initiative,BAVILLIERS,90008,,Voie privée,,1970/01/01 00:00:00+00
+71,Rue des Buchets,BAVILLIERS,90008,,Voie privée communale,,1970/01/01 00:00:00+00
+72,Rue Ernest Thierry-Mieg,BELFORT,90010,,Voie publique,,1970/01/01 00:00:00+00
+73,Rue des Merisiers,ARGIESANS,90004,,Voie privée,,1970/01/01 00:00:00+00
+76,,DANJOUTIN,90032,,Voie privée,,1970/01/01 00:00:00+00
+77,Rue Gustave Lang,BELFORT,90010,,Voie privée,,1970/01/01 00:00:00+00
+79,Rue Xavier Bichat,BELFORT,90010,,Voie privée,,1970/01/01 00:00:00+00
+80,Rue Thomas Edison,BELFORT,90010,,Voie privée,,1970/01/01 00:00:00+00
+81,Impasse des Buchets,BAVILLIERS,90008,,Voie privée communale,,1970/01/01 00:00:00+00
+82,,BAVILLIERS,90008,,Voie privée,,1970/01/01 00:00:00+00
+83,Rue des Tilleuls,ARGIESANS,90004,,Voie privée communale,,1970/01/01 00:00:00+00
+84,Rue du Port,ESSERT,90039,,Voie privée,,1970/01/01 00:00:00+00
+85,Rue Xavier Bichat,BELFORT,90010,,Voie privée,,1970/01/01 00:00:00+00
+86,Rue de Delle,BOUROGNE,90017,,Voie publique,,1970/01/01 00:00:00+00
+87,Voie ZAIC du Bois d'Arsot,VALDOIE,90099,,Voie privée communale,,2017/05/23 00:00:00+00
+88,Voie Communale Zone Industrielle,MORVILLARS,90072,,Voie privée communale,,1970/01/01 00:00:00+00
+89,,DANJOUTIN,90032,,Voie publique,,1970/01/01 00:00:00+00
+90,Voie ZAIC du Bois d'Arsot,VALDOIE,90099,,Voie privée communale,,2017/05/23 00:00:00+00
+91,Allée Jean-François Eloy,BELFORT,90010,,Voie privée,,1970/01/01 00:00:00+00
+92,,DANJOUTIN,90032,,Voie privée,,1970/01/01 00:00:00+00
+93,Rue Albert Camus,BELFORT,90010,,Voie privée,,1970/01/01 00:00:00+00
+95,Rue de l'Etang,BELFORT,90010,,Voie privée communale,,1970/01/01 00:00:00+00
+96,Voie communale Zone Industrielle,BOUROGNE,90017,,Voie privée communale,,1970/01/01 00:00:00+00
+97,Rue du BallonZAC du Ballon,OFFEMONT,90075,,Voie privée,,1970/01/01 00:00:00+00
+98,Rue Edouard Branly,BELFORT,90010,,Voie privée communale,,1970/01/01 00:00:00+00
+99,Rue des Courbes Fauchées,ARGIESANS,90004,,Voie privée communale,,1970/01/01 00:00:00+00
+100,Rue Maurice et Louis Ducs de Broglie,BELFORT,90010,,Voie privée,,1970/01/01 00:00:00+00
+102,Rue Louis Lacaille,BELFORT,90010,,Voie publique,,1970/01/01 00:00:00+00
+103,Rue René Cassin,BELFORT,90010,,Voie privée,,1970/01/01 00:00:00+00
+104,Allée Loris Séropian,BELFORT,90010,,Voie privée,,1970/01/01 00:00:00+00
+106,Sentier communal reliant l'Ecole au centre prériscolaire,EGUENIGUE,90036,,,,1970/01/01 00:00:00+00
+107,Rue des champs de la Vigne,BETHONVILLIERS,90013,,,,1970/01/01 00:00:00+00
+108,Rue du Saucy,BETHONVILLIERS,90013,,,,1970/01/01 00:00:00+00
+109,Impasse de la Meltière,MENONCOURT,90067,,,accès à une défence incendie,1970/01/01 00:00:00+00
+110,Rue Jean Moulin Jusqu a la RD83,EGUENIGUE,90036,,,,1970/01/01 00:00:00+00
+111,Rue de l'Etang,FRAIS,90050,,,,1970/01/01 00:00:00+00
+112,Rue du Fort de Senarmont,BESSONCOURT,90012,,,,1970/01/01 00:00:00+00
+321,Chemin Petite fin sur la Rivière,MONTREUX-CHATEAU,90071,,,Chemin menant à la STEP,1970/01/01 00:00:00+00
+322,Rue de la Libération,MONTREUX-CHATEAU,90071,,,Aire de stationnement de camping-car,1970/01/01 00:00:00+00
+641,Avenue du Tilleul,BESSONCOURT,90012,,,,1970/01/01 00:00:00+00
+961,Liaison Phaffans Lacollonge,PHAFFANS,90080,,,liaison sur 2 communes Phaffans et Lacollonge,1970/01/01 00:00:00+00
+1281,Rue des Grands Champs,LAGRANGE,90060,,,,1970/01/01 00:00:00+00
+1282,Rue des Grands Champs,LAGRANGE,90060,,,,1970/01/01 00:00:00+00

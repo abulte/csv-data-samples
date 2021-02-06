@@ -1,0 +1,8 @@
+Colonne,Type,Description_FR,Description_EN,Exemple
+dispositif,string,nom du dispositif d'aide aux entreprises,name of company help plan,Report d'Echéance
+nombre_report,integer,nombre de reports d'échéances fiscales attribuées,number of tax deferrals allocated,1397
+montant_total,integer,montant total des reports attribués (en euros),total amount of assigned defferals (in euros),21191.00 
+reg,string,numéro du département géographique,geographical sub-region ID number,84
+libelle_region,string,nom de la région,geographical region name,Auvergne-Rhône-Alpes
+code_section,string,Code de la section NAF (secteur d’activité),NAF code section (business sector),S
+libelle_section,string,Nom de la section NAF correspondante (secteur d’activité),NAF section name (business sector),Autres activités de services

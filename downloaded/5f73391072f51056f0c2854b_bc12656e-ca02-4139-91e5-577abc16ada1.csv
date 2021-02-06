@@ -1,0 +1,5 @@
+﻿Colonne;Type;Description_FR;Description_EN;Exemple
+dep;string;Code du département;Code of the department;51
+libelle;string;Nom du département;Name of the departement;Marne
+to;float;nombre de patients COVID+ sur le nombre total de lits occupés en réanimation;Number of COVID-positive patients out of the total number of beds occupied in intensive care units;12.6881720430108
+date;string($date);Date;Date;2020-10-14

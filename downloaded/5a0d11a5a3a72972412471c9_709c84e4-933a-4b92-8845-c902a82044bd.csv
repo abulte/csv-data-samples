@@ -1,0 +1,559 @@
+Id,DATE_DERNIERE_MAJ,TYPE,NOM_OFFRE,PORTE_ESCALIER,BATIMENT_RESIDENCE,RUE,LIEUDIT_BP,CODE_POSTAL,COMMUNE,COMMUNE_INSEE,TEL,TEL_MOB,MEL,SITE_WEB,LONGITUDE,LATITUDE,GEOLOC_MANUELLE,INFOS_COMPLEMENTAIRES_1,INFOS_COMPLEMENTAIRES_2,INFOS_COMPLEMENTAIRES_3,LABEL_TOURISME_HANDICAP,MARQUES_LABELS,OUVERTURE,TARIFS,VISITE_CONDITIONS_IND,VISITE_LANGUES_PARLEES,EQUIPEMENTS,SERVICES
+ASCAQU064V59TTC9,03/01/2020,Activité sportive,A bord du bâteau Degouzi,,,,Port,64500,SAINT-JEAN-DE-LUZ,64483,,+33 6 62 28 44 57,mintzabeti@hotmail.fr,, -1.6650707,43.3871661,Non,"
+",Pêche en mer,,,,01/04/2020|31/10/2020|||||,,,,,
+ASCAQU024V502DNN,03/01/2020,Activité culturelle # Activité sportive,A la découverte des gorges de l'Auvézère,,,,,24270,SAINT-MESMIN,24464,+33 5 53 52 29 79,,tourisme@naturellementperigord.fr,http://www.naturellementperigord.fr,1.20581500,45.352666,Oui,"Faune - flore # Géologie # Ornithologie
+",Randonnée pédestre # Randonnée équestre # VTT # Canoé kayak # Pêche,,,,,,,,,
+ASCAQU04001NS1T5,03/01/2020,Activité sportive,AAPPMA Grenade,Avenue de Villeneuve,Foyer Terra Granata,,,40270,GRENADE-SUR-L'ADOUR,40117,+33 5 58 45 45 98,,,, -0.4310530,43.7731060,,"
+",Pêche,,,,,,,,,
+ASCAQU04001QBHI0,03/01/2020,Activité sportive,AAPPMA PEYREHORADE,,,Mairie,,40300,PEYREHORADE,40224,,+33 6 71 10 99 50,aappma.peyrehorade@gmail.com,, -1.1119632,43.5486220,,"
+",Pêche,,,,01/01/2020|31/12/2020|||||,,,,,
+ASCAQU047V503RX1,03/01/2020,Activité culturelle # Activité sportive,Activités de plein air au Camping Saint-Louis,,,,Lac de Lamontjoie,47310,LAMONTJOIE,47133,+33 5 53 99 59 38,+33 6 41 46 11 36,contact@campingagen.fr,http://www.campingagen.fr # http://www.lacdepeche.jimdo.com,0.51731541,44.0776722,Oui,"Faune - flore
+",Canoé kayak # Pêche # Tir à l’arc # Arts martiaux # Natation # Ping-pong # Randonnée pédestre # Volley ball # Badminton # Orientation # Pétanque # Football # Randonnée pédestre,,,Qualité Tourisme # Sourire du Lot-et-Garonne,15/05/2020|30/09/2020|08:30|12:00|15:00|19:00|,"Tarif de base|5,00|5,00|Kayak monoplace 1h # Tarif de base|8,00|8,00|Canoë 2 à 4 places 1h # Tarif de base|12,00|12,00|Pédalo 4 places 1h # Gratuit|||Volley # Tarif de base|2,00|2,00|Tir à l'arc # Gratuit|||Pétanque # Tarif de base|5,00|7,00|Kart à pédales 30 minutes # Tarif de base|10,00|10,00|Paddle 1h # Tarif de base|||Badminton # Gratuit|||Ping-Pong # Tarif de base|||Forfait famile (4 à 6 personnes)",,,Bar # Espace jeux # Restauration,Wifi
+ASCAQU064FS000QN,03/01/2020,Activité sportive,Activités nautiques et de baignade ,,Base de Loisirs,Avenue Marcel Paul,,64300,ORTHEZ,64430,+33 5 59 60 55 06,,tourisme@cc-lacqorthez.fr,http://www.cc-lacqorthez.fr, -0.7594728,43.4742867,Oui,"
+",Randonnée pédestre # Volley ball # Tennis # Ski nautique # Pêche # Tir à l’arc # Pétanque,,,,27/06/2020|31/08/2020|11:00|||19:00|,"Tarif de base|3,00||Espace baignade adulte # Tarif réduit|1,50||Espace baignade (enfant de 2 à 12 ans) # Tarif réduit|2,50||Groupes et étudiants",,,,
+ASCAQU040FS001O3,14/01/2020,Activité sportive,Activités sur l'étang blanc  ,,Restaurant les Roseaux,4 Route Louis de Bourmont ,,40510,SEIGNOSSE,40296,+33 5 58 72 80 30,,restaurantlesroseaux@wanadoo.fr,http://www.restaurantlesroseaux.com, -1.3749069,43.7109805,Oui,"
+",Canoé kayak # Pêche,,,,,,,,Bar # Espace jeux # Restauration,
+LOIAQU064FS000D0,03/01/2020,Jeux pour enfants # Lac/Site de pêche,Aire de Jeux Lac Marion,,,Avenue du Lac Marion,,64200,BIARRITZ,64122,+33 5 59 41 59 41,,,, -1.5519690,43.4669209,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|Gratuit",,,,Espace jeux
+LOIAQU033FS00028,06/01/2020,Base de loisirs # Lac/Site de pêche,Aire de loisirs de Sainte-Terre,,,La Plage,,33350,SAINTE-TERRE,33485,+33 5 57 47 14 34 # +33 5 57 47 14 38,,,http://www.jardindelalamproie.fr, -0.1078891,44.8231863,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,Visite libre,,Aire de pique-nique # Bar # Restauration,Espace jeux
+LOIAQU064FS000J7,03/01/2020,Aire de pique-nique # Lac/Site de pêche,Aire de pique-nique,,,,Lac lou lacot,64170,ARTIX,64061,,,,, -0.56512,43.38287,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00||",,,Aire de pique-nique,
+LOIAQU064FS000KG,03/01/2020,Aire de pique-nique # Lac/Site de pêche,Aire de pique-nique,,,Camin de Gaston le Crotzat,,64150,SAUVELADE,64512,,,,, -0.70607,43.39543,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00||",,,Aire de pique-nique,
+LOIAQU064FS000K5,03/01/2020,Aire de pique-nique # Lac/Site de pêche,Aire de pique-nique,,,Chemin de journade,,64150,VIELLESEGURE,64556,,,,, -0.68672,43.34105,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00||",,,Aire de pique-nique,
+LOIAQU040V50CAVD,03/01/2020,Aire de pique-nique # Lac/Site de pêche,Aire de pique-nique au bord du Luy,Place des arènes,,,,40330,AMOU,40002,+33 5 58 89 02 25,,,, -0.7485653,43.5917296,Oui,"
+",,,,,,,,,Aire de pique-nique,
+LOIAQU033V507OZV,15/01/2020,Aire de pique-nique # Lac/Site de pêche,Aire de pique-nique de l'Etang de Caumont,,,Départementale 21,,33540,CAUMONT,33112,+33 5 56 71 53 45,,sauveterre@entredeuxmers.com,, -0.0062772,44.6908213,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,Gratuit|||,,,Aire de pique-nique,
+LOIAQU033FS000TI,15/01/2020,Aire de pique-nique # Lac/Site de pêche,Aire de pique-nique du Domaine Volny Favory,,,,,33540,BLASIMON,33057,+33 5 56 71 59 62 # +33 5 56 99 33 33,,,, -0.0865173,44.7539259,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,Gratuit|||,,,Aire de pique-nique,Espace jeux
+LOIAQU064V505G5B,03/01/2020,Aire de pique-nique # Lac/Site de pêche,Aire de pique-nique du moulin de Bellegarde,,,8 chemin du Bourg,,64350,LESPIELLE,64337,+33 5 59 68 50 06,+33 6 84 93 47 88,,, -0.1460998,43.4697810,,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,Aire de pique-nique,
+LOIAQU033FS000SH,10/01/2020,Aire de pique-nique # Lac/Site de pêche,Aire de pique-nique Lac de Saint-Martial,,,,,33490,SAINT-MARTIAL,33440,+33 5 56 76 42 93,,,, -0.1765322,44.6309017,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,Aire de pique-nique,
+LOIAQU064FS000P0,03/01/2020,Aire de pique-nique # Lac/Site de pêche,Aire de pique-nique le Saillet,,,,Quartier Saillet,64490,OSSE-EN-ASPE,64433,+33 5 59 34 70 84 # +33 5 59 34 57 57,,mairie-osse-en-aspe@wanadoo.fr,https://www.pyrenees-bearnaises.com/, -0.6102976,42.9914920,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|0,00",,,Aire de pique-nique,
+LOIAQU040V50GRYF,03/01/2020,Aire de pique-nique # Boulodrome # Jeux pour enfants # Lac/Site de pêche # Parcours de santé,Aire naturelle l'Etang des Forges ,190 rue Tapiot,,,,40420,BROCAS,40056,+33 5 58 51 40 23,+33 6 35 42 73 74,syndicat.initiative40420@gmail.com,, -0.5420522,44.0426124,Oui,"
+",,,,,15/04/2020|15/10/2020|||||,"Tarif de base|5,00||location vélo à la journée # Tarif de base|||locatbarque à la demi-heure # Tarif de base|||location pédalo à la demi-heure",,,Aire de pique-nique # Restauration,Espace jeux # Location de vélos # Wifi
+LOIAQU064FS000OW,03/01/2020,Aire de pique-nique # Lac/Site de pêche # Pontons handi-pêche,Aires de pique-nique de Bedous,,,,Bourg,64490,BEDOUS,64104,+33 5 59 34 70 45 # +33 5 59 34 57 57,,aspe@pyrenees-bearnaises.com,https://www.pyrenees-bearnaises.com/, -0.6007410,43.0521540,Non,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,Aire de pique-nique,Espace jeux
+ASCAQU047FS000AC,13/01/2020,Activité sportive,Alain BRIGAS ,,,32 avenue Gambetta,condat,47500,FUMEL,47106,+33 5 53 01 91 09,+33 6 30 31 55 17,brigas.peche@orange.fr,,0.985227,44.4979071,Oui,"
+",Pêche # Pêche # Pêche # Pêche # Pêche,,,,01/01/2020|31/12/2020|||||,"Tarif de base|100,00|100,00|1/2 journée / personne # Tarif de base|180,00|180,00|journée / personne # Tarif de base|180,00|180,00|1/2 journée / 2 personnes (environ 4h à 5h de pêche) # Tarif de base|250,00|250,00|journée / 2 personnes (environ 7h à 9h de pêche) # Tarif réduit|490,00|490,00|Week end de pêche pour 1 pêcheur en pension complète # Tarif réduit|690,00|690,00|Week end de pêche pour 2 pêcheurs en pension complète # Tarif réduit|||Stage de 3 journées de pêche en pension complète par peresonnes",,,,
+ASCAQU033V50TM9H,23/01/2020,Activité sportive,Aquitaine Pêches Sportives,,,,,33510,ANDERNOS-LES-BAINS,33005,,+33 6 72 74 06 91,contact@aquitaine-peches-sportives.fr,https://www.aquitaine-peches-sportives.fr, -1.100039,44.743736,Oui,"
+",Pêche en mer # Pêche,,,,01/04/2020|15/11/2020|||||,"Tarif de base|90,00|225,00|",,,,
+ASCAQU064FS000QK,03/01/2020,Activité sportive,Aspe Angler Flyshop,,,Chemin Poulit,,64570,ANCE FÉAS,64225,,+33 6 13 37 40 62,fab@aspe-angler.com,http://www.guidepyrenees.com, -0.6883621,43.1559818,Oui,"
+",Pêche,,,,,Tarif de base|||Base journée # Tarif de base|||Base 1/2 journée,,,,
+ASCAQU047V507POS,25/01/2020,Activité culturelle # Activité sportive,Association Acqua Viva - La Maison de la Pêche et de l'Eau,,,3 rue Séderie,,47600,NERAC,47195,,+33 6 61 69 39 75,contact@acqua-viva.com,www.acqua-viva.com,0.34197669,44.1359640,Oui,"Patrimoine
+",Pêche # Cyclotourisme,Cyclo # Cyclo,,,01/03/2020|31/10/2020|||||,,,,,Location de vélos
+ASCAQU040FS0001I,03/01/2020,Activité sportive,Association de pêche en eau douce - AAPPMA ,,,"22, Chemin vert",,40200,MIMIZAN,40184,,+33 6 22 29 47 09,aappma.mimizan@gmail.com,http://aappma.mimizan.free.fr, -1.2293100,44.2140175,Oui,"
+",Pêche # Pêche # Pêche # Pêche,,,,,,,,,
+ASCAQU04001TXKE3,17/03/2017,Activité sportive,Association de pêche en eau douce - Action Pêche,,,Bord du lac d'Aureilhan - Mimizan,,40200,MIMIZAN,40184,+33 5 58 09 35 29,,apmimizan@free.fr,http://apmimizan.free.fr, -1.2240314,44.2186927,Oui,"
+",Pêche,,,,,,,,,
+ASCAQU064V54LVBL,20/01/2020,Activité sportive,Association de pêche et de protection des milieux aquatiques ,,Chemin Igel Karrika,,,64310,SAINT-PEE-SUR-NIVELLE,64495,+33 5 59 54 58 24,+33 6 83 26 74 21 # +33 6 95 87 08 20,aappma.nivelle@wanadoo.fr,http://www.aappma-nivelle-cote-basque.com, -1.5661330,43.354555,Oui,"
+",Pêche,,,,02/01/2020|31/12/2020|||||,Tarif de base|||Ecole de pêche (enfant - adulte),,,,
+ASCAQU033FS0009C,03/01/2020,Activité sportive,Association des Pêcheurs Plaisanciers du Bassin d'Arcachon,,Maison de la Mer,Quai Goslar,,33120,ARCACHON,33009,+33 5 56 22 71 60,+33 6 99 12 90 86,info@a2pba.fr,http://www.a2pba.fr, -1.1466979,44.6580306,Oui,"
+",Pêche,,,,02/01/2020|31/12/2020|||||,,,,,
+LOIAQU040011PKS3,03/01/2020,Aire de pique-nique # Lac/Site de pêche,Autour des lacs de Nerbis... Balade et pêche,,,,,40250,NERBIS,40204,+33 5 58 97 77 00,,,, -0.7300186,43.7577845,Oui,"
+",,,,,,,Visite libre,,Aire de pique-nique,
+LOIAQU0240005287,30/01/2020,Base de loisirs # Jeux pour enfants # Lac/Site de pêche # Mini-golf # Parc à thèmes # Parc aquatique # Piscine # Plage surveillée,Aux Etangs du Bos,,,,Le Bos,24260,SAINT-CHAMASSY,24388,+33 5 53 54 74 60,+33 7 68 01 81 46,contact@le-bos.com,http://www.le-bos.com,0.97049215,44.8679186,Oui,"
+",,,,,13/06/2020|30/08/2020|11:00|20:00|||,"Tarif de base|10,00|10,00|Adultes et enfants de plus de 16 ans # Tarif de base|9,00|9,00|Enfant de moins de 16 ans # Gratuit|||Enfant de moins de 90 cms # Tarif de groupe|7,00|9,00|TARIF GROUPE PLUS DE 10 PERSONNES",,,Aire de pique-nique # Restauration,Espace jeux
+LOIAQU024V5003CP,03/01/2020,Lac/Site de pêche,Barrage de Miallet,,,,,24450,MIALET,24269,,,,,0.9042747,45.5496726,,"
+",,,,,,,,,,
+LOIAQU064FS0003M,20/01/2020,Base de loisirs # Jeux pour enfants # Lac/Site de pêche,Base de Loisirs,,,D 918,,64310,SAINT-PEE-SUR-NIVELLE,64495,+33 5 59 54 18 48 # +33 5 59 54 10 19,,dgs@senpere64.fr,, -1.6208279,43.3534594,,"
+",,,,,01/07/2020|06/09/2020|||||,"Tarif de base|10,00|10,00|Canoe # Tarif de base|8,00|8,00|Kayak # Tarif de base|10,00|15,00|Pédalos # Tarif de base|9,00|13,00|Stand up paddle # Tarif de base|13,00|81,00|Tennis",,,,
+LOIAQU024FS00060,03/01/2020,Base de loisirs # Lac/Site de pêche # Mini-golf # Plage surveillée,Base de loisirs de Chandos,,,avenue André Malraux,,24700,MONTPON-MENESTEROL,24294,+33 5 53 82 23 77,,,,0.16346454,45.0127535,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,Aire de pique-nique # Bar # Restauration,Espace jeux
+LOIAQU024V500LXS,17/01/2020,Aire de pique-nique # Base de loisirs # Boulodrome # Jeux pour enfants # Lac/Site de pêche # Mur d'escalade # Plage surveillée # Pontons handi-pêche # Slack lines,Base de Loisirs de Rouffiac,Rouffiac,,,,24270,ANGOISSE,24008,+33 5 53 52 68 79,,rouffiac@semitour.com,http://www.rouffiac-loisirs.com/,1.16543629,45.4143622,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,01/03/2020|30/11/2020|||||,"Tarif de base|14,00||Téléski nautique # Tarif de base|11,00||accro park",,,Aire de pique-nique # Restauration,Espace jeux # Wifi
+LOIAQU033FS0003M,06/01/2020,Aire de pique-nique # Base de loisirs # Jeux pour enfants # Lac/Site de pêche # Parcours de santé,Base de loisirs de Saint-Christophe-de-Double,,,,,33230,SAINT-CHRISTOPHE-DE-DOUBLE,33385,+33 5 57 69 51 11,,,http://www.saintchristophededouble.fr,0.01467704,45.0740661,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,Aire de pique-nique # Bar # Restauration,Espace jeux
+LOIAQU064FS000EO,03/01/2020,Aire de pique-nique # Base de loisirs # Boulodrome # Jeux pour enfants # Lac/Site de pêche # Parc aquatique # Parcours de santé # Plage surveillée # Pontons handi-pêche # Terrain(s) de tennis,Base de loisirs d'Orthez-Biron,,,Avenue Marcel Paul,,64300,ORTHEZ,64430,+33 5 59 60 55 06,,tourisme@cc-lacqorthez.fr,http://www.cc-lacqorthez.fr, -0.7195747,43.4586059,Oui,"
+",,,,,01/01/2020|31/12/2020|06:00|||22:00|,"Gratuit|0,00||",Visite libre,,Aire de pique-nique # Bar # Restauration,Espace jeux
+LOIAQU024V5079BA,03/01/2020,Base de loisirs # Lac/Site de pêche,Base de loisirs du coucou,,,,Etang du Coucou,24390,HAUTEFORT,24210,+33 5 53 50 86 97,,info@campingducoucou.com,https://www.etangducoucou.com/,1.13939511,45.2529846,Oui,"
+",,,,,,Tarif de base|||Baignade # Tarif de base|||Jeux aquatiques + baignade # Tarif de base|||Pêche - 1/2 journée ou journée,,,Aire de pique-nique # Bar # Restauration,
+ASCAQU064FS000OE,20/01/2020,Activité sportive,Base de loisirs du lac,,,RD 918,,64310,SAINT-PEE-SUR-NIVELLE,64495,+33 5 59 54 18 48 # +33 5 59 54 10 19,,contact@senpere64.fr,http(s)://www.saintpeesurnivelle.fr, -1.5216064,43.3464033,Oui,"
+",Canoé kayak # Tennis # Stand-up-paddle-board # Pêche,,,,27/06/2020|06/09/2020|||||,"Tarif de base|10,00|15,00|Pédalos # Tarif de base|9,00|13,00|Standuppaddle # Tarif de base|10,00|10,00|Canoé # Tarif de base|8,00|8,00|Kayak # Tarif de base|13,00|81,00|Tennis",,,Espace jeux,
+LOIAQU047FS00040,21/01/2020,Aire de pique-nique # Base de loisirs # Casino # Jeux pour enfants # Lac/Site de pêche # Parc aquatique # Parcours de santé # Plage surveillée # Pontons handi-pêche,Base de loisirs du Lac de Clarens,,,Route de Mont de Marsan,,47700,CASTELJALOUX,47052,+33 5 53 93 48 00,,,,0.07209777,44.2952885,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Tarif de base|2,50|2,50|Personnes à partir de 13 ans du 30 juin au 1e septembre # Gratuit|||De septembre à fin juin, et enfants jusqu'à 12 ans du 30 juin au 1er septembre",,,Aire de pique-nique # Bar # Restauration # Sentier de randonnée,Espace jeux
+LOIAQU040FS000AS,03/01/2020,Base de loisirs # Jeux pour enfants # Lac/Site de pêche # Parcours de santé # Plage surveillée,Base de Loisirs du Marsan,"D824 lieu dit ""Ménasse""",,,,40280,SAINT-PIERRE-DU-MONT,40281,+33 5 58 05 87 37,,contact@lemarsantourisme.fr,http://www.basedeloisirsdumarsan.fr , -0.5354772,43.8814809,Oui,"
+",,,,Accueil Vélo # Scandibérique,,,,,Aire de pique-nique # Bar # Restauration,Espace jeux
+LOIAQU033FS0002E,06/01/2020,Aire de pique-nique # Base de loisirs # Halte nautique # Lac/Site de pêche # Parcours de santé # Plage non surveillée,Base de loisirs et halte nautique de Saint-Seurin-sur-l'Isle,,,Rue Henry de Monfred,,33660,SAINT-SEURIN-SUR-L'ISLE,33478,+33 5 57 49 73 48,+33 6 88 02 24 87 # +33 6 73 57 03 56,contact@ckc-st-seurin.fr,http://www.ckc-st-seurin.fr, -0.0009226,45.0178654,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,Aire de pique-nique,Espace jeux
+LOIAQU064V5012AE,28/01/2020,Base de loisirs # Jeux pour enfants # Lac/Site de pêche # Parc aquatique # Plage surveillée # Tremplin,Base de Pop,,Lac des Arroques,136 chemin du lac,,64520,GUICHE,64250,+33 5 59 58 78 34,,contact@basedepop.fr,http://www.basedepop.fr, -1.1847291,43.5000330,Oui,"
+",,,,Qualité Tourisme,30/05/2020|20/09/2020|||||,"Tarif de base|10,00|23,00|Accr'eau Park # Tarif de base|15,00|29,00|Water Jump # Tarif réduit|22,00|35,00|Combo : accr'eau park + water jump # Tarif de base|10,00|10,00|Locations stand-up paddle, kayak, barque - Personne sup :  +3€ # Tarif réduit|35,00|35,00|Forfait journée # Gratuit|0,00|0,00|Baignade surveillée # Tarif de groupe|||Tarifs réduits pour enfants de moins de 1,50m, groupe de plus de 15 personnes.",Visite libre,,Accessible en poussette # Aire de pique-nique # Bar # Parking autocar # Restauration,Boutique # Espace jeux
+ASCAQU064FS000JM,03/01/2020,Activité sportive,Bateau Hendayais II - Pêche en Mer,,Embarquement ponton navettes maritimes,Port de Plaisance - Ponton O,Avenue des Mimosas,64700,HENDAYE,64260,,+33 6 50 67 03 44,contact@hendayais.com,http://www.hendayais.com, -1.7856484,43.3701173,Oui,"
+",Pêche en mer,Croisières maritimes,,,,Tarif de base|||Pêche en mer,,,,
+ASCAQU064FS0004S,03/01/2020,Activité sportive,Bateau Le Nivelle ,,,Port de Saint Jean de Luz,,64500,SAINT-JEAN-DE-LUZ,64483,,+33 6 09 73 61 81,luzcroisiere@gmail.com,http://www.croisiere-saintjeandeluz.com/fr/peche-en-mer, -1.6647076,43.3873822,Oui,"
+",Pêche en mer # Motonautisme (bateau à moteur),,,,,Tarif de base|||Promenade en mer,,,,
+ASCAQU040FS0003U,14/01/2019,Activité sportive # Formule itinérante,Bateau Le Roben,,,Port - Ponton B,Avenue du Président Georges Pompidou,40130,CAPBRETON,40065,+33 6 25 90 37 79,,,http://www.leroben.fr, -1.4395201,43.6535435,Oui,"
+",Pêche en mer,Bateaux à moteur habitables # Croisières maritimes,,,,,,,,
+ASCAQU064V506EBT,03/01/2020,Activité sportive,Bateau Ordagna,,,Port,,64500,SAINT-JEAN-DE-LUZ,64483,,+33 6 42 70 61 67,ordagna94@orange.fr,, -1.6658820,43.3875129,Oui,"
+",Pêche en mer,,,,01/01/2020|31/12/2020|||||,,,,,
+ASCAQU064FS000BP,03/01/2020,Activité sportive,C.A.S.P.A   NAUTIQUE,,Hangar 6,Chemin des blocs,,64500,CIBOURE,64189,,+33 6 08 61 12 41,caspanautique@aol.com,, -1.6849362,43.3908714,Oui,"
+",Pêche en mer,,,,,,,,,
+ASCAQU024V5024WN,31/12/2018,Activité sportive,Camping le Clupeau,Le Clupeau,,,,24390,CHERVEIX-CUBAS,24120,+33 5 53 51 66 26,+33 6 27 19 30 39,contact@camping-leclupeau.com,http://www.camping-leclupeau.com,1.13378299,45.301163,Oui,"
+",Pêche,,,,,,,,Bar # Espace jeux # Restauration # Salle hors sac,
+ASCAQU033V50UA5H,03/02/2020,Activité sportive,Cap Ô Large,,,Débarcadère Bélisaire,Cap Ferret,33950,LEGE-CAP-FERRET,33236,,+33 6 69 27 32 16,capolarge33@gmail.com,http://www.capolarge.com, -1.2295960,44.6984210,Non,"
+",Pêche en mer,,,,01/03/2020|30/11/2020|||||,,,,,
+ASCAQU040V50BK8H,16/01/2020,Activité sportive,Cap Pêche Loisirs,,,Port de Capbreton - Ponton G,Avenue Georges Pompidou,40130,CAPBRETON,40065,,+33 6 75 73 72 51,contact@cappecheloisirs.com,http://www.cappecheloisirs.com, -1.4375472,43.6525639,Oui,"Faune - flore
+",Motonautisme (bateau à moteur) # Pêche # Pêche # Pêche en mer,Bateaux à moteur habitables,,,28/03/2020|31/10/2020|||||,Tarif de base|||Balade en mer 1h d'avril à octobre # Tarif réduit|||Balade en mer -de 12 ans d'avril à octobre # Tarif de base|||Coucher de soleil 1h30 d'avril à octobre # Tarif réduit|||Coucher de soleil 1h30 - de 12ans d'avril à octobre # Tarif de base|||Croisière Pays e.Basque 5h de juin à septembr # Tarif réduit|||Croisière Pays Basque 5h - de 12 ans de juin à septembre # Tarif de base|||Inititation pêche 2h30 # Tarif réduit|||Initiation pêche tarif accompagant 2h30 # Tarif de base|||Demi journée guidage pêche sportive 5h # Tarif de base|||Journée guidage pêche sportive au thon 8 à 10h de juin à octobre,,,Parking,Wifi
+ASCAQU024V5087UY,03/01/2020,Activité sportive,Chasse au trésor sur les traces de la truite !,,,,Petit Boissonnie,24190,DOUZILLAC,24157,+33 5 53 81 53 41,,pisciculture24@orange.fr,http://www.pechealatruite24.com,0.38459130,45.0853863,Oui,"
+",Pêche,,,,,,,,,
+ASCAQU064FS0004I,03/01/2020,Activité sportive,Club Maritime Hendaye Txingudi,,,10 rue des Orangers,,64700,HENDAYE,64260,+33 5 59 20 03 02,,club@cmht.asso.fr,http://www.cmht.asso.fr, -1.7796698,43.3681777,Oui,"
+",Voile # Voile # Voile # Voile # Voile # Pêche en mer # Pêche en mer # Pêche en mer # Pêche en mer,,,,,Tarif de base|||Sortie 1/2 Journée,,,,
+ASCAQU064FS0007N,20/01/2020,Activité sportive,Cyclotourisme et autres activités en Forêt d'Iraty,,,,Col de Bagargi,64560,LARRAU,64316,+33 5 59 28 51 29,,info@chalets-iraty.com # josy@chalets-iraty.com,http://www.chalets-iraty.com, -1.0269360,43.0381682,Oui,"
+",Cyclotourisme # Pêche # Randonnée équestre # Randonnée pédestre # Vélo électrique # Pétanque,,,,01/05/2020|31/10/2020|08:30|12:00|13:30|19:00|,"Tarif de base|16,00||2 h vélo électrique # Tarif de base|25,00||4 h vélo électrique # Tarif de base|40,00||Journée 7 h vélo électrique",,,Bar # Restauration # Salle(s) de réunion,Location de vélos # Wifi
+ASCAQU000V501QTT,03/01/2020,Activité sportive,Découverte de la pêche - Hourtin,,,Ile aux enfants,,33990,HOURTIN,33203,+33 5 56 03 21 01,,info@oceanesque.fr,, -1.0829212,45.1842377,Oui,"
+",Pêche,,,,10/07/2020|24/08/2020|10:00|13:00|||Dimanche - Jeudi - Lundi - Mardi - Mercredi - Samedi,"Tarif de base|12,00||Location d'une canne à pêche pour 1h30",,,,
+ASCAQU033V50EXTJ,03/01/2020,Activité sportive,Découverte de la pêche à Carcans-Maubuisson,,,Le Montaut,,33121,CARCANS,33097,+33 5 56 03 21 01,,info@oceanesque.fr,, -1.1200761,45.0624100,Oui,"
+",Pêche,,,,10/07/2020|24/08/2020|10:00|13:00|||Dimanche - Jeudi - Lundi - Mardi - Vendredi,"Tarif de base|12,00||Location d'une canne à pêche pour 1h30",,,,
+ASCAQU000V501QTU,03/01/2020,Activité sportive,Découverte de la pêche à Lacanau,,,Port de Lacanau,,33680,LACANAU,33214,+33 5 56 03 21 01,,info@oceanesque.fr,, -1.0939385,44.9780864,Oui,"
+",Pêche,,,,10/07/2020|24/08/2020|10:00|13:00|||Dimanche - Lundi - Mardi - Mercredi - Samedi - Vendredi,"Tarif de base|12,00||Location d'une canne à pêche pour 1h30",,,,
+ASCAQU033FS0002M,03/01/2020,Activité sportive,Domaine de loisirs des Lacs du Moulin Blanc,,,Moulin Blanc,,33920,SAINT-CHRISTOLY-DE-BLAYE,33382,+33 5 57 42 12 09,,info@tourisme-blaye.com,https://www.bbte.fr/activites-sportives-et-culturelles/domaine-de-loisirs-des-lacs-du-moulin-blanc/, -0.4755878,45.1525665,Oui,"
+",Pêche,,,,01/01/2020|31/12/2020|||||,,,,Accessible en poussette # Aire de pique-nique # Bar # Espace jeux # Parking # Parking autocar # Restauration,
+LOIAQU033FS0002O,06/01/2020,Aire de pique-nique # Jeux pour enfants # Lac/Site de pêche # Parcours de santé,Domaine de loisirs des lacs du Moulin Blanc,,,Moulin Blanc,,33920,SAINT-CHRISTOLY-DE-BLAYE,33382,+33 5 57 42 12 09,,,http://www.tourisme-blaye.com/activites-nature/base-de-loisirs-des-lacs-du-moulin-blanc, -0.4752445,45.1526875,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,Visite libre,,Aire de pique-nique # Bar # Restauration,Espace jeux
+LOIAQU033FS0006E,15/01/2020,Base de loisirs # Lac/Site de pêche,Domaine départemental de Blasimon,,,,,33540,BLASIMON,33057,+33 5 56 71 59 62,,dgaj-hostens-blasimon@gironde.fr,https://www.gironde.fr/sport-loisirs/domaine-de-loisirs-de-blasimon, -0.096397,44.701535,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,Gratuit|||,Visite libre,,Aire de pique-nique # Restauration,Espace jeux
+LOIAQU033FS0009K,10/01/2020,Base de loisirs # Lac/Site de pêche,Domaine Départemental Gérard Lagors,,,54 route de Bazas,,33125,HOSTENS,33202,+33 5 56 88 55 65,,,http://www.gironde.fr, -0.6565049,44.4990848,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU024FS0005G,03/01/2020,Lac/Site de pêche,Dordogne Pêche Passion,Les Doulets,,,,24140,QUEYSSAC,24345,,+33 6 62 03 95 90,christophe-berland@orange.fr,,0.550497,44.902325,Oui,"
+",,,,,,,,,,
+ASCAQU064V505GP8,06/01/2020,Activité sportive,Eauxskadi,,,Port de Larraldenia,,64500,CIBOURE,64189,,+33 6 87 10 44 18 # +33 6 88 56 26 73,eauxskadi@gmail.com,http://www.eaux-skadi.com, -1.6666257,43.3851728,Oui,"
+",Pêche en mer,,,,01/01/2020|31/12/2020|||||,"Tarif de base|75,00||",,,,
+LOIAQU024V5071ZL,13/03/2018,Lac/Site de pêche,Enclos du Gauthier,,,,Lieu dit Gauthier ,24400,SAINT-GERY,24420,,,,,0.3268620,44.9836400,,"
+",,,,,,,,,,
+LOIAQU064FS0003S,03/01/2020,Aire de pique-nique # Base de loisirs # Jeux pour enfants # Lac/Site de pêche,Espace Naturel du Lac de Castet,,,,Quartier Ayguelade,64260,BIELLE,64127,+33 5 59 05 66 77,,infofunvalley@gmail.com,http://www.valleedossau-tourisme.com/, -0.4321950,43.0551060,,"
+",,,,,01/01/2020|31/12/2020|||||,"Tarif de base|9,00|13,00|Barque # Tarif de base|7,00|11,00|Kayak # Tarif de base|8,00|14,00|ânes # Tarif de base|5,00|10,00|Kart à pédales",,,Aire de pique-nique # Bar,Boutique # Espace jeux
+LOIAQU040V503QWO,03/01/2020,Lac/Site de pêche,Etang Classé,,,,,40190,SAINTE-FOY,40258,,,,, -0.3323480,43.9358239,,"
+",,,,,,,,,Aire de pique-nique,
+LOIAQU033V50CE8F,06/01/2020,Lac/Site de pêche,Etang de Beauchamps ,,,Lacanau de Mios,,33380,MIOS,33284,+33 5 56 26 66 21,,,, -0.8660553,44.6215406,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,Gratuit|||Accès libre,,,,
+LOIAQU033FS000TL,06/01/2020,Lac/Site de pêche,Etang de Brondeau,,,,,33350,SAINTE-TERRE,33485,+33 5 57 84 45 61,,,, -0.1293039,44.8343260,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU033V50PHQ5,06/01/2020,Lac/Site de pêche,Etang de Bronturon,,,Route de la Gravière Bleue,,33480,AVENSAN,33022,+33 5 56 58 17 07,,mairie.avensan@mairie-avensan.fr,http://www.mairie-avensan.fr, -0.7373414,45.0462208,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,Visite libre,,Aire de pique-nique,
+LOIAQU024V5003CL,03/01/2020,Lac/Site de pêche,Etang de La Barde,,,,La Barde,24450,LA COQUILLE,24133,,+33 6 73 98 06 70,,,1.0029210,45.5569820,Non,"
+",,,,,,,,,,
+LOIAQU024V50018W,03/01/2020,Aire de pique-nique # Lac/Site de pêche,Etang de la Brâme,,,,,24200,SAINT-VINCENT-LE-PALUEL,24512,,+33 6 81 44 44 21,labrame@free.fr,http://www.labrame.ovh,1.28263,44.88385,Oui,"
+",,,,,15/01/2020|15/12/2020|||||,"Tarif de base|10,00|15,00| # Tarif réduit|5,00|7,50|Enfant moins de 8 ans. # Tarif de groupe|5,00|7,50|",,,Aire de pique-nique # Salle hors sac,
+LOIAQU040V503QX1,13/03/2018,Lac/Site de pêche,Etang de la Gaube,,,,,40190,ARTHEZ-D'ARMAGNAC,40013,,,,, -0.2652318,43.8882045,Oui,"
+",,,,,,,,,,
+LOIAQU033V50PDT9,06/01/2020,Lac/Site de pêche,Etang de la Levade,,,Route de Lacanau,,33480,SAINTE-HELENE,33417,+33 5 56 58 58 22,,mairie@ville-sainte-helene.fr,www.ville-sainte-helene.fr, -0.9773366,44.9578266,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU040FS0009O,24/01/2020,Lac/Site de pêche,Etang de pêche,,,Avenue de la plage,,40440,ONDRES,40209,,,,https://www.cartedepeche.fr/, -1.4546851,43.5669791,Oui,"
+",,,,,,,,,,
+LOIAQU04001ODHED,03/01/2020,Jeux pour enfants # Lac/Site de pêche,Etang de pêche ,route de l'étang,,Etang communal,,40190,SAINTE-FOY,40258,+33 5 58 45 26 39,,,, -0.3338942,43.9381200,Oui,"
+",,,,,,,,,Aire de pique-nique,
+LOIAQU04001ODHIQ,24/08/2016,Aire de pique-nique # Lac/Site de pêche,Etang de pêche de La Gaube,Route de Perquie,,,,40190,ARTHEZ-D'ARMAGNAC,40013,,,,, -0.2652318,43.8882045,Oui,"
+",,,,,,,Visite libre,,Aire de pique-nique,
+LOIAQU04001VH8F6,03/01/2020,Fronton # Jeux pour enfants # Lac/Site de pêche # Parcours de santé # Salle à louer # Terrain(s) de tennis,Etang de pêche de Mouneyre,,,,,40120,SARBAZAN,40288,+33 5 58 45 64 93,,,, -0.3114688,44.0195689,,"
+",,,,,,,,,Aire de pique-nique # Sentier de randonnée,Espace jeux
+LOIAQU024FS0006T,01/01/2017,Lac/Site de pêche,Etang de pêche du Bugue,Etang de la Granelle,,,,24260,LE BUGUE,24067,,,,,0.91087818,44.9121523,Oui,"
+",,,,,,,,,,
+LOIAQU047FS000BN,13/01/2020,Lac/Site de pêche,Etang de pêche Jocal,,,Toupinerie-Bas,,47350,MONTIGNAC-TOUPINERIE,47189,+33 5 53 93 30 79 # +33 9 52 72 19 83,+33 6 78 48 31 76,,,0.36151885,44.5465026,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Tarif de base|8,00|8,00|La 1/2 journée, par personne",,,Aire de pique-nique,
+LOIAQU033V50CE8L,06/01/2020,Lac/Site de pêche,Etang de Surgenne,,,,,33380,MIOS,33284,+33 5 56 26 66 21,,,, -0.8480523,44.6053951,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,Gratuit|||Accès libre,,,,
+LOIAQU033V50FZXT,06/01/2020,Lac/Site de pêche,Étang Saint-Michel,,,Praderon Est,Quartier Saint-Michel,33430,BAZAS,33036,+33 5 56 25 25 84,,bazas@tourisme-sud-gironde.com,http://www.tourisme-sud-gironde.com, -0.1876888,44.4466495,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,Visite libre,,,
+LOIAQU033V505C6C,06/01/2020,Lac/Site de pêche,Etangs de la Barreyre,,,9 route des Lacs,,33590,GRAYAN-ET-L'HOPITAL,33193,+33 5 56 09 44 43,,etangsdelabarreyre@wanadoo.fr,http://www.etangsdelabarreyre.fr, -1.0917995,45.4249913,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU033V50CE96,06/01/2020,Lac/Site de pêche,Etangs de l'Estauleyre ,,,,,33380,MIOS,33284,+33 5 56 26 66 21,,,, -0.9081251,44.6313235,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,Gratuit|||Accès libre,,,,
+LOIAQU040FS000IF,29/01/2020,Lac/Site de pêche,Etangs de pêche,,,,,40220,TARNOS,40312,,,,https://www.cartedepeche.fr/, -1.4610447,43.5244086,Oui,"
+",,,,,,,,,,
+ASCAQU047V508FGP,28/01/2020,Activité sportive,Fun-Grave,,,Quai du Lot - Le bourg,,47260,FONGRAVE,47099,,+33 6 09 95 82 29 # +33 6 17 17 61 60,fungrave@sfr.fr,https://fungrave.jimdo.com,0.53566173,44.3931453,Oui,"Faune - flore # Patrimoine
+",Canoé kayak # Cyclotourisme # Motonautisme (bateau à moteur) # Canoé kayak # VTT # Stand-up-paddle-board # Motonautisme (bateau à moteur) # VTT électrique # Gyropode # Pêche # Randonnée pédestre # Stand-up-paddle-board # Vélo électrique,Cyclo # Canoë,,,01/07/2020|31/08/2020|||13:30|17:00|Samedi,"Tarif de base|10,00|25,00|location de canoë, kayak et sup tarifs adultes de 1h à la journée # Tarif de base|40,00|40,00|barque électrique et thermique de 1h à 4h # Tarif de base|||location de vélos base tarif adulte de la 1/2 journée à la semaine",,,,
+ASCAQU064V56HWUF,06/01/2020,Activité sportive,"Glenn Delporte, Made in River - Guide de pêche",,,34 avenue du Président JF Kennedy,,64200,BIARRITZ,64122,,+33 6 66 60 84 42,glenn@madeinriver.fr,http://www.madeinriver.fr/, -1.5648487,43.4834944,Oui,"
+",Pêche,,,,01/01/2020|31/12/2020|||||,"Tarif de base|90,00|200,00| Stages pêche adultes",,,,
+ASCAQU064FS000F3,03/01/2020,Activité sportive,Grégory Dolet - Guide de pêche,,,20 chemin de la Plane,,64300,LOUBIENG,64349,,+33 6 79 01 42 12,pyrenea.ffe@gmail.com,http://www.pyrenea-flyfishing.com, -0.7397762,43.4395473,Non,"
+",Pêche # Pêche,,,,,Tarif de base|||Forfait 1/2 journée base 1 personne,,,,
+ASCAQU064FS000MA,21/01/2020,Activité sportive,Guillaume CHAVANNE Moniteur guide de pêche,,Bask Pêche,,Chemin de Larraldea,64310,SARE,64504,,+33 6 15 04 17 42,chavanne.guillaume@gmail.com,https://www.guide-bask-peche.com/, -1.5868143,43.3112009,Non,"
+",Pêche # Pêche en mer,,,,01/03/2020|31/12/2020|||||,"Tarif de base|32,00|360,00|",,,,
+LOIAQU033FS0013O,14/01/2020,Aire de pique-nique # Base de loisirs # Halte nautique # Jeux pour enfants # Lac/Site de pêche # Port de plaisance,Halte nautique de Fontet,,,Base de loisirs,,33190,FONTET,33170,+33 5 56 61 08 30 # +33 5 56 61 23 81,,,, -0.0297970,44.559845,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,Gratuit|||,,,Aire de pique-nique # Bar,Espace jeux
+ASCAQU064FS0007E,03/01/2020,Activité sportive,Hervé Baltar,,Moulin Labat Gougy,7 chemin des Tuileries,,64190,SUSMIOU,64530,+33 5 59 66 04 39,+33 6 47 71 70 37,herve.baltar@peche-pyrenees.com,https://www.peche-pyrenees.com, -0.7853829,43.3109230,,"
+",Pêche # Pêche # Pêche # Pêche,,,,14/03/2020|20/09/2020|||||,"Tarif de base|130,00|130,00|forfait 1/2journée base 1 personne # Tarif de base|200,00|200,00|forfait journée base 1 personne",,,,
+ASCAQU064FS000DR,03/01/2020,Activité sportive,Iktus centre de pêche,,Maison des lacs,,,64110,LAROIN,64315,+33 5 59 83 81 20,+33 6 44 35 96 35,iktus@orange.fr,https://www.iktus-carpe.com, -0.4335543,43.3064003,Oui,"
+",Pêche,,,,01/01/2020|31/12/2020|09:00|12:30|13:30|18:00|,"Tarif de base|7,00|20,00|demi journée",,,Bar # Restauration,Wifi
+ASCAQU064V500PRV,22/01/2020,Activité sportive,Jean Houret - Guide de pêche,,Maison Iputxainia,Bourg,,64220,ASCARAT,64066,,+33 6 89 66 43 45,errekafishing@gmail.com # Jean.houret@gmail.com,http://www.erreka-fishing-guidepeche.fr, -1.2535787,43.1681887,Oui,"
+",Pêche # Pêche # Pêche # Pêche # Pêche # Fly Fish # Fly Fish # Fly Fish # Fly Fish # Fly Fish,,,,,Tarif de base|||Tarif 1/2 journée par personne # Tarif de base|||Tarif journée par personne # Tarif de base|||Tarif 2 jours par personne,,,,
+ASCAQU047FS00028,03/01/2020,Activité culturelle # Activité sportive,La Base - Le Temple-sur-Lot,,,,La Base,47110,LE TEMPLE-SUR-LOT,47306,+33 5 53 01 08 33,,contact@la-base.com,http://www.la-base.com,0.52150726,44.3804347,Oui,"Faune - flore
+",Remise en forme # Cyclotourisme # Cyclotourisme # Pêche # Randonnée pédestre # Fitness # Cyclotourisme # Basket # Aviron # VTT électrique # Canoé kayak # VTT électrique # VTT électrique # Beach-volley # Aviron # Natation,Cyclo,,,01/01/2020|31/12/2020||||| # ||09:00|12:00|13:30|18:00|,"Tarif de groupe|115,00|115,00|2h d'activités nautiques pour 8 à 16 personnes # Tarif de base|34,00|34,00|Cours fitness ou aquagym en illimité. Par mois. # Tarif de base|110,00|110,00|Formule 3 jours/2 nuits cyclotourisme en pension complète. Par personne.",,,,
+ASCAQU033FS0018C,03/01/2020,Activité sportive,La Gaule Cazaline ,,,La Gemeyre,,33260,LA TESTE-DE-BUCH,33529,,+33 6 18 39 16 76,gaulecazaline@peche33.com,, -1.1729621,44.5253951,Oui,"
+",Pêche,,,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU040V506P0E,07/02/2019,Lac/Site de pêche,La pêche au Cap de Gascogne,,,,,40500,SAINT-SEVER,40282,+33 5 58 76 18 92 # +33 5 58 76 23 66,,,http://aappma-de-saint-sever-40500.e-monsite.com/   # http://www.peche-landes.com/, -0.5742210,43.7591370,,"
+",,,,,,,,,,
+ASCAQU040FS000SC,04/03/2019,Activité sportive,La Pêche en bord de mer,,,,,40600,BISCARROSSE,40046,,+33 6 03 61 39 21,sccbiscarrosse@gmail.com,https://sites.google.com/site/surfcastingclubbiscarrosse/, -1.2570118,44.4443357,Oui,"
+",Pêche en mer,,,,,,,,,
+ASCAQU040FS000S5,04/03/2019,Activité sportive,La Pêche en eau douce,,,,,40460,SANGUINET,40287,+33 5 58 78 05 01,,aappmabiscarrosse@gmail.com,https://www.aappma40.com/, -1.1628447,44.4738439,Oui,"
+",Pêche,,,,,,,,,
+LOIAQU064FS0001T,21/01/2020,Ferme de découverte # Jeux pour enfants # Lac/Site de pêche # Zoo - parc animalier,La Pêcherie d’Aurit et l'arche d'Olivier,,,150 chemin labataille,,64370,HAGETAUBIN,64254,+33 5 59 67 51 62,+33 6 72 66 62 01,olivier.broca@orange.fr,http://www.lapecheriedaurit.fr, -0.6071662,43.5111486,Oui,"
+",,,,Bienvenue à la ferme,01/03/2020|17/04/2020||||| # 18/04/2020|04/05/2020|10:00|||18:00| # 05/05/2020|03/07/2020|||||Jeudi - Lundi - Mardi - Vendredi # 04/07/2020|01/09/2020|10:00|||19:00| # 02/09/2020|16/10/2020|||||Lundi - Mardi # 17/10/2020|02/11/2020|10:00|||18:00| # 03/11/2020|30/11/2020|||||Jeudi - Lundi - Mardi - Vendredi,"Tarif de base|6,00|| # Tarif réduit|2,50||",Visite libre,Français,Aire de pique-nique # Bar,Espace jeux
+LOIAQU033FS000CU,06/01/2020,Base de loisirs # Lac/Site de pêche # Plage surveillée,La Plaine des Dagueys,,,Les Dagueys,,33500,LIBOURNE,33243,+33 5 57 51 15 04,,contact@tourisme-libournais.com,http://www.tourisme-libournais.com, -0.235056,44.946177,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,Aire de pique-nique # Restauration,Espace jeux
+LOIAQU024V50CE07,31/12/2018,Lac/Site de pêche,La Vézère,,,Terrasson-Lavilledieu,,24120,TERRASSON-LAVILLEDIEU,24547,,,,,1.300507,45.129145,Oui,"
+",,,,,,,,,,
+LOIAQU064FS000FI,03/01/2020,Lac/Site de pêche,Lac Ayguelongue,,,Route du Lac,,64230,MAZEROLLES,64374,+33 5 58 46 18 70,,secretariat@institution-adour.fr,, -0.4601383,43.4192632,Oui,"
+",,,,,,,,,Aire de pique-nique,
+LOIAQU064FS000FL,30/01/2020,Lac/Site de pêche,Lac d'Arzacq,,AAPPMA Le Pesquit,4 place de la République,,64410,ARZACQ-ARRAZIGUET,64063,+33 5 59 04 59 36,,le-pesquit@wanadoo.fr,http://www.le-pesquit.fr, -0.4178237,43.5356694,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|Gratuit",Visite libre,,Aire de pique-nique,
+LOIAQU064V505K5Y,03/01/2020,Lac/Site de pêche,Lac d'Aydie,,,,,64330,AYDIE,64084,+33 5 59 04 59 36,,le-pesquit@wanadoo.fr,http://www.association-peche-le-pesquit.fr/ , -0.116934,43.574919,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",Visite libre,,,
+LOIAQU047FS0004O,17/01/2020,Lac/Site de pêche,Lac de Bajamont,,,,,47480,BAJAMONT,47019,+33 5 53 95 62 48 # +33 5 53 66 16 68,,accueil.mairie@bajamont.com # federation.peche.47@wanadoo.fr,http://www.bajamont.com/fr/la-commune/le-lac/le-reglement-du-lac.html # http://www.peche47.com,0.71058690,44.2638646,Oui,"
+",,,,,,,,,,
+LOIAQU064V505K6B,03/01/2020,Lac/Site de pêche,Lac de Bassillon,,,Route du Lac,,64350,BASSILLON-VAUZE,64098,+33 5 59 04 59 36,,le-pesquit@wanadoo.fr,http://www.association-peche-le-pesquit.fr/ , -0.0775820,43.4706590,,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",Visite libre,,Aire de pique-nique,
+LOIAQU047FS0004G,03/01/2020,Base de loisirs # Boulodrome # Jeux pour enfants # Lac/Site de pêche # Parcours de santé,Lac de Beaupuy,,,,Longchamp,47200,BEAUPUY,47024,+33 5 53 64 40 46,,contact@vg-agglo.com,https://www.vg-agglo.com/a-la-decouverte-du-val-de-garonne/lac-de-beaupuy/,0.12697577,44.5410964,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,Aire de pique-nique,Espace jeux
+LOIAQU064FS000GP,09/01/2020,Lac/Site de pêche,Lac de Bious-Artigues,,,RD 231,,64440,LARUNS,64320,+33 5 59 05 31 41,,,, -0.4542600,42.8667655,Oui,"
+",,,,,01/05/2020|15/11/2020|||||,"Gratuit|0,00|0,00|Accès au site libre ",,,,
+LOIAQU064V505KRB,03/01/2020,Lac/Site de pêche,Lac de Boueilh-Boueilho-Lasque ,,,D946,,64330,BOUEILH-BOUEILHO-LASQUE,64141,+33 5 59 04 59 36,,le-pesquit@wanadoo.fr,http://www.association-peche-le-pesquit.fr/ , -0.3216394,43.5488986,,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",Visite libre,,,
+LOIAQU064V505KRV,03/01/2020,Lac/Site de pêche,Lac de Cadillon,,,D13,,64330,CADILLON,64159,+33 5 59 04 59 36,,le-pesquit@wanadoo.fr,http://www.association-peche-le-pesquit.fr/ , -0.1551877,43.5241009,,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",Visite libre,,,
+LOIAQU064V5AD1PD,14/01/2020,Lac/Site de pêche,Lac de Camou,,,,,64120,AICIRITS-CAMOU-SUHAST,64010,+33 5 59 65 71 78,,saintpalais@otpaysbasque.com,, -1.0146474,43.3605392,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU033V50G510,06/01/2020,Aire de pique-nique # Lac/Site de pêche,Lac de Castagnet,,,Bois de Castagnet,,33730,VILLANDRAUT,33547,,+33 6 12 56 74 73 # +33 6 02 52 38 30,lacdecastagnet33730@gmail.com,, -0.3972605,44.4476753,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Tarif de base|12,00|| # Tarif de base|2,00||",Visite libre,Français,Aire de pique-nique # Bar # Restauration # Salle hors sac,
+LOIAQU064V505KSU,03/01/2020,Lac/Site de pêche,Lac de Castillon-de-Lembeye,,,Chemin du Lac ,,64350,CASTILLON (CANTON DE LEMBEYE),64182,+33 5 59 04 59 36,,le-pesquit@wanadoo.fr,http://www.association-peche-le-pesquit.fr/ , -0.0998860,43.4617660,,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",Visite libre,,,
+LOIAQU047FS0004K,03/01/2020,Lac/Site de pêche,Lac de Charlotte,,,,,47400,GRATELOUP-SAINT-GAYRAND,47112,+33 5 53 66 16 68,,federation.peche.47@wanadoo.fr,http://www.federationpeche.com/47/,0.40535688,44.4150839,Oui,"
+",,,,,,,,,,
+LOIAQU064V505KTA,03/01/2020,Lac/Site de pêche,Lac de Corbère-Abères,,,4 chemin rural d'Arnaud,,64350,CORBERE-ABERES,64193,+33 5 59 04 59 36,,le-pesquit@wanadoo.fr,http://www.association-peche-le-pesquit.fr/ , -0.0903089,43.4635099,,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",Visite libre,,,
+LOIAQU033V50IR7J,06/01/2020,Lac/Site de pêche,Lac de Croix d'Hins,,,Rue de la Cité Croix d'Hins,,33380,MARCHEPRIME,33555,+33 5 57 71 18 70,,,, -0.8179862,44.7064947,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,Aire de pique-nique,
+LOIAQU047FS0004I,21/01/2020,Lac/Site de pêche # Mini-golf # Plage surveillée # Terrain(s) de tennis,Lac de Damazan,,,Route de Buzet,,47160,DAMAZAN,47078,+33 5 53 79 40 15,,mairie.damazan@orange.fr,http://www.ville-damazan.fr,0.27505517,44.2817485,Oui,"
+",,,,,,Gratuit|||Accès au site et baignade,,,Aire de pique-nique # Bar # Restauration,Boutique # Espace jeux # Wifi
+LOIAQU064FS000GR,03/01/2020,Lac/Site de pêche,Lac de Fabrèges,,,D 934,,64440,LARUNS,64320,+33 5 59 05 31 41,,,, -0.4006139,42.8813649,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,,
+LOIAQU047FS0007K,03/01/2020,Lac/Site de pêche,Lac de Feytous,,,,,47260,LAPARADE,47135,+33 6 60 11 06 36 # +33 5 53 66 16 68,,federation.peche.47@wanadoo.fr,http://www.federationpeche.fr/47 # http://www.cartedepeche.fr,0.43232917,44.3923956,Oui,"
+",,,,,,,,,,
+LOIAQU047FS0007L,03/01/2020,Lac/Site de pêche,Lac de Ganet,,,,,47190,GALAPIAN,47107,+33 5 53 64 17 39 # +33 5 53 66 16 68,+33 6 81 18 53 27,jppiboyeux@orange.fr,https://www.peche47.com # http://www.cartedepeche.fr,0.42833805,44.2927389,Oui,"
+",,,,,,,,,,
+LOIAQU047FS0007B,03/01/2020,Lac/Site de pêche,Lac de Graoussettes,,,,,47410,SAINT-COLOMB-DE-LAUZUN,47235,+33 5 53 66 16 68,,,http://www.peche47.com # http://www.cartedepeche.fr,0.50229728,44.6055589,Oui,"
+",,,,,,Tarif de base|||Carte  annuelle personne majeur Interfederale # Tarif de base|||Carte annuelle personne majeure  # Tarif réduit|||Carte annuelle découverte femme # Tarif réduit|||Carte annuelle personne mineure # Tarif réduit|||Carte annuelle découverte enfant # Tarif de base|||Carte hebdomadaire 7 jours consécutifs  # Tarif de base|||Carte journalière,,,,
+LOIAQU047FS0006J,03/01/2020,Lac/Site de pêche # Pontons handi-pêche,Lac de Guitard,,,,Guitard,47250,ARGENTON,47013,+33 5 53 94 54 30,,laurent.marrot@sfr.fr,,0.07372856,44.3883475,Oui,"
+",,,,,01/01/2020|01/03/2020|08:00|||18:00|Mardi # 01/03/2020|31/08/2020|08:00|||18:00| # 01/09/2020|31/12/2020|08:00|||18:00|Mardi,"Tarif de base|15,00|22,00|1/2 journée ou journée de pêche",,,Aire de pique-nique # Bar # Restauration,
+LOIAQU024FS0004S,03/01/2020,Base de loisirs # Jeux pour enfants # Lac/Site de pêche # Plage surveillée,Lac de Gurson,,Plan d'eau de Gurson,,,24610,VILLEFRANCHE-DE-LONCHAT,24584,+33 5 53 82 53 15 # +33 5 53 06 82 70,,cg24.sites.loisirs.baignade@dordogne.fr,https://www.dordogne.fr/servir_les_citoyens/culture_&_sport/le_sport_pour_tous/les_sites_sportifs_et_de_pleine_nature/631-4,0.07415704,44.9391788,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,01/01/2020|31/12/2020|||||,,,,Aire de pique-nique # Restauration,Espace jeux
+LOIAQU033FS000MW,06/01/2020,Lac/Site de pêche,Lac de Hourtin,,,,,33990,HOURTIN,33203,+33 5 56 73 28 43,,,, -1.0572020,45.1860890,Non,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU047FS0008Q,03/01/2020,Lac/Site de pêche,Lac de la Ganne,,,,,47210,RAYET,47219,+33 5 53 66 16 68,+33 6 76 06 40 68,bellanger.greg173@gmail.com # federation.peche.47@wanadoo.fr,https://www.peche47.com # http://www.cartedepeche.fr,0.78221797,44.6755806,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,Visite libre,,,
+LOIAQU033V50KM47,06/01/2020,Aire de pique-nique # Lac/Site de pêche,Lac de la Magdeleine,,,Chemin du Loup,,33470,GUJAN-MESTRAS,33199,+33 5 56 66 12 65,,,, -1.0937393,44.6160545,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,Aire de pique-nique # Restauration,Espace jeux
+LOIAQU033FS000L1,06/01/2020,Aire de pique-nique # Lac/Site de pêche,Lac de la Prade,,,,,33430,BAZAS,33036,+33 5 56 25 25 84,,bazas@tourisme-sud-gironde.com,, -0.1687431,44.4421144,,"
+",,,,,01/01/2020|31/12/2020|||||,,Visite guidée # Visite libre,,Aire de pique-nique # Restauration,
+LOIAQU047FS0004P,03/01/2020,Lac/Site de pêche,Lac de Labarthe-bas,,,,,47140,PENNE-D'AGENAIS,47203,+33 5 53 70 55 08 # +33 5 53 66 16 68,,federation.peche.47@wanadoo.fr,http://www.peche47.com # http://www.cartedepeche.fr,0.85107564,44.3486651,Oui,"
+",,,,,,,,,,
+LOIAQU047FS000A9,03/01/2020,Lac/Site de pêche,Lac de Labarthe-haut (pêche mouche),,,,,47140,PENNE-D'AGENAIS,47203,+33 5 53 70 55 08 # +33 5 53 66 16 68,,federation.peche.47@wanadoo.fr,http://www.peche47.com,0.85122585,44.3485424,Oui,"
+",,,,,,,,,,
+LOIAQU047FS0004S,16/01/2020,Lac/Site de pêche,Lac de Lambronne,,,,,47310,LAMONTJOIE,47133,+33 5 53 65 23 59 # +33 5 53 66 16 68,,federation.peche.47@wanadoo.fr,http://www.peche47.com # http://www.cartedepeche.fr,0.51113784,44.0734191,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,Gratuit|||,Visite libre,,,
+LOIAQU047FS0007U,03/01/2020,Lac/Site de pêche,Lac de Laroque-Timbaut,,,,,47340,LAROQUE-TIMBAUT,47138,+33 5 53 66 16 68,,federation.peche.47@wanadoo.fr,http://www.peche47.com # http://www.cartedepeche.fr,0.75782060,44.2809574,Oui,"
+",,,,,,,,,Aire de pique-nique,
+LOIAQU047FS0007Q,03/01/2020,Lac/Site de pêche,Lac de Lartel,,,,,47370,MASQUIERES,47160,+33 5 53 66 16 68,+33 6 85 32 86 23,jeanmarie.vial@yahoo.fr,https://www.peche47.com # http://www.cartedepeche.fr,1.03565454,44.3978078,Oui,"
+",,,,,,,,,,
+LOIAQU047FS0007J,03/01/2020,Lac/Site de pêche,Lac de Latapie,,,,,47320,CLAIRAC,47065,+33 5 53 66 16 68,,federation.peche.47@wanadoo.fr,http://www.federationpeche.com/47/ # http://www.cartedepeche.fr,0.40597915,44.3874122,Oui,"
+",,,,,,,Visite libre,,,
+LOIAQU033FS0010V,15/01/2020,Aire de pique-nique # Lac/Site de pêche,Lac de Laubesc,,,Laubesc,,33760,CESSAC,33121,+33 5 56 23 97 78 # +33 5 56 71 53 45 # +33 5 56 23 63 69,,,, -0.1869392,44.7439900,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,Gratuit|||,,,Aire de pique-nique,
+LOIAQU047FS0007A,03/01/2020,Lac/Site de pêche,Lac de Lauzun,,,,,47410,LAUZUN,47142,+33 5 53 66 16 68,,federation.peche.47@wanadoo.fr,http://www.peche47.com # http://www.cartedepeche.fr,0.45765995,44.6281377,Oui,"
+",,,,,,Tarif de base|||Carte annuelle interfederale personne majeure # Tarif de base|||Carte annuelle personne majeur  # Tarif de base|||Carte annuelle découverte femme # Tarif réduit|||Carte annuelle personne mineure  # Tarif réduit|||Carte annuelle découverte enfant # Tarif de base|||Carte hebdomadaire 7 jours consécutifs # Tarif de base|||Carte journalière,,,Aire de pique-nique # Bar # Restauration,Espace jeux # Wifi
+LOIAQU047FS0004C,03/01/2020,Lac/Site de pêche,Lac de Lescouroux,,,,,47800,LA SAUVETAT-DU-DROPT,47290,+33 5 53 66 16 68,,federation.peche.47@wanadoo.fr,http://www.peche47.com # http://www.cartedepeche.fr,0.34971713,44.6708197,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Tarif de base|77,00|77,00|Carte “Personne Majeure” annuelle # Tarif de base|100,00|100,00|Carte Interfédérale “Personne majeure” annuelle  # Tarif de base|21,00|21,00|Carte “Personne Mineure” annuelle # Tarif de base|6,00|6,00|Carte “Découverte Enfant” annuelle  # Tarif de base|35,00|35,00|Carte “Découverte Femme” annuelle  # Tarif de base|33,00|33,00|Carte “Hebdomadaire” 7 jours consécutifs # Tarif de base|13,00|13,00|Carte “Journalière”",,,,
+LOIAQU047FS0003W,21/01/2020,Aire de pique-nique # Base de loisirs # Jeux pour enfants # Lac/Site de pêche # Parcours de santé # Plage surveillée,Lac de Lougratte,,,Route du Lac,,47290,LOUGRATTE,47152,+33 5 53 01 70 05 # +33 5 53 01 64 95,,mairie.lougratte@wanadoo.fr,http://www.lougratte.com,0.61950444,44.5797236,Oui,"
+",,,,Pavillon bleu,01/01/2020|31/12/2020|||||,"Tarif de base|2,70|2,70|Entrée adulte # Tarif réduit|1,70|1,70|Entrée enfant # Tarif de base|22,00|22,00|Carte 10 entrées adultes # Tarif réduit|12,00|12,00|Carte 10 entrées enfant",,,Accessible en poussette # Aire de pique-nique # Bar # Restauration,Espace jeux # Wifi
+LOIAQU040V506OEQ,13/03/2018,Base de loisirs # Lac/Site de pêche,Lac de Luc,,,route du Lac,,40350,POUILLON,40233,,,,, -1.0179110,43.5937590,,"
+",,,,,,,Visite libre,,Aire de pique-nique # Restauration,Espace jeux
+LOIAQU047FS0007I,03/01/2020,Lac/Site de pêche,Lac de Magre,,,,,47380,MONCLAR,47173,+33 5 53 66 16 68,,federation.peche.47@wanadoo.fr,http://www.federationpeche.fr/47 # http://www.cartedepeche.fr,0.53502559,44.4363462,Oui,"
+",,,,,,,,,,
+LOIAQU047FS0007F,03/01/2020,Lac/Site de pêche,Lac de Marcachaud,,,,,47180,SAINTE-BAZEILLE,47233,+33 5 53 66 16 68,+33 6 85 68 69 44,federation.peche.47@wanadoo.fr,http://www.federationpeche.com/47/ # http://www.cartedepeche.fr,0.09348034,44.5306345,Oui,"
+",,,,,,,,,,
+LOIAQU047FS0007O,03/01/2020,Lac/Site de pêche,Lac de Marou - Association La truite lémançaise,,,,,47500,CUZORN,47077,+33 5 53 66 16 68 # +33 5 53 40 95 95,,federation.peche.47@wanadoo.fr,http://www.peche47.com # http://www.cartedepeche.fr,0.92903137,44.5483682,Oui,"
+",,,,,,,,,,
+LOIAQU047FS0007T,03/01/2020,Lac/Site de pêche,Lac de Monbalen,,,,,47340,MONBALEN,47171,+33 5 53 66 16 68,,federation.peche.47@wanadoo.fr,http://www.peche47.com # http://www.cartedepeche.fr,0.72837531,44.3036236,Oui,"
+",,,,,,,,,,
+LOIAQU047FS0004L,03/01/2020,Lac/Site de pêche,Lac de Monflanquin,,,,,47150,MONFLANQUIN,47175,+33 5 53 66 16 68,,federation.peche.47@wanadoo.fr,http://www.peche47.com # http://www.cartedepeche.fr,0.75277268,44.5285885,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,Aire de pique-nique # Sentier de randonnée,
+LOIAQU047FS0007P,03/01/2020,Lac/Site de pêche,Lac de Nautet,,,,,47370,TOURNON-D'AGENAIS,47312,+33 5 53 66 16 68,+33 6 85 32 86 29,jeanmarie.vial@yahoo.fr,http://www.peche47.com # http://www.cartedepeche.fr,1.00576400,44.3745147,Oui,"
+",,,,,,,,,,
+LOIAQU047FS0007D,03/01/2020,Lac/Site de pêche,Lac de Nette,,,,,47330,CAVARC,47063,+33 5 53 36 84 69 # +33 5 53 66 16 68,,federation.peche.47@wanadoo.fr,federation.peche.47@wanadoo.fr # http://www.cartedepeche.fr,0.62574863,44.7020024,Oui,"
+",,,,,,,Visite libre,,,
+LOIAQU047V502XVK,03/01/2020,Lac/Site de pêche,Lac de pêche de Cancon,,,Jeanmetge,,47290,CANCON,47048,+33 5 53 66 16 68,,,http://www.federationpeche.fr/47/,0.63954831,44.5246702,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,Aire de pique-nique,
+LOIAQU040V502HNF,31/12/2018,Lac/Site de pêche,Lac de pêche de Jouandet,,,,,40310,ESCALANS,40093,,,,,0.04256098,43.9766952,Oui,"
+",,,,,,,,,,
+LOIAQU040V502HOR,24/08/2016,Lac/Site de pêche,Lac de pêche de l'Armanon,,,,,40310,PARLEBOSCQ,40218,,,,,0.03780000,43.9481,Oui,"
+",,,,,,,,,,
+LOIAQU040V502HP7,24/08/2016,Lac/Site de pêche,Lac de pêche de Tailluret,Route de Cazaubon,,,,40240,LABASTIDE-D'ARMAGNAC,40131,,,,, -0.1599780,43.9520560,Oui,"
+",,,,,,,,,,
+LOIAQU047FS0004R,16/01/2020,Lac/Site de pêche,Lac de pêche de Villeneuve de Mézin,,,,Villeneuve de Mézin,47170,LANNES,47134,+33 5 53 66 16 68,+33 6 79 38 31 35,federation.peche.47@wanadoo.fr,http://www.peche47.com # http://www.cartedepeche.fr,0.24650573,44.0152868,Oui,"
+",,,,,,Gratuit|||,Visite libre,,,
+LOIAQU047FS0007S,16/01/2020,Lac/Site de pêche,Lac de pêche des 3 chênes,,,,,47600,FRANCESCAS,47102,+33 5 53 66 16 68,+33 6 79 38 31 35,federation.peche.47@wanadoo.fr,http://www.peche47.com # http://www.cartedepeche.fr,0.41939020,44.0696189,Oui,"
+",,,,,,Gratuit|||,Visite libre,,Aire de pique-nique,
+LOIAQU033FS000DF,06/01/2020,Lac/Site de pêche,Lac de Pêche des Dagueys,,,,,33500,LIBOURNE,33243,,,,, -0.2439850,44.9129980,,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU047FS00059,03/01/2020,Lac/Site de pêche,Lac de pêche du camping Ululle,,,,,47370,TOURNON-D'AGENAIS,47312,+33 6 85 32 86 23 # +33 5 53 71 39 53 # +33 5 53 66 16 68 # +33 5 53 40 90 12,,jeanmarie.vial@yahoo.fr,http://www.tournondagenais.com # http://www.ullule.fr,0.99759936,44.4078185,Oui,"
+",,,,,,,,,,
+LOIAQU064FS000NH,03/01/2020,Base de loisirs # Lac/Site de pêche,Lac de pêche Harrieta,,Domaine du Lac d'Harrieta,,,64220,SAINT-JEAN-LE-VIEUX,64484,+33 5 59 37 26 10,+33 6 18 42 23 25,lacharrieta@hotmail.com,http://www.lac-harrieta.fr, -1.2022733,43.1529606,Oui,"
+",,,,,,,Visite libre,,Aire de pique-nique # Bar # Restauration,
+LOIAQU047FS0007H,03/01/2020,Lac/Site de pêche,Lac de Platan,,,,,47400,GRATELOUP-SAINT-GAYRAND,47112,+33 5 53 66 16 68,,federation.peche.47@wanadoo.fr,http://www.federationpeche.com/47/ # http://www.cartedepeche.fr,0.3872290,44.4221150,,"
+",,,,,,,,,,
+LOIAQU024V505YMQ,03/01/2020,Base de loisirs # Jeux pour enfants # Lac/Site de pêche # Plage surveillée,Lac de Pombonne,,,Route de Podestat,,24100,BERGERAC,24037,+33 5 53 74 66 92,,maire@mairie-bergerac.fr,http://www.bergerac.fr,0.49421623,44.8704374,Oui,"
+",,,,,,,,,Restauration,
+LOIAQU047FS0007G,03/01/2020,Lac/Site de pêche,Lac de Pradignas,,,,,47400,VARES,47316,+33 5 53 66 16 68,,federation.peche.47@wanadoo.fr,http://www.federationpeche.com/47/ # http://www.cartedepeche.fr,0.35754919,44.4453468,Oui,"
+",,,,,,,,,,
+LOIAQU047FS0007C,03/01/2020,Lac/Site de pêche,Lac de Queille,,,,,47330,SAINT-QUENTIN-DU-DROPT,47272,+33 5 53 36 84 69 # +33 5 53 66 16 68,,federation.peche.47@wanadoo.fr,http://www.peche47.com # http://www.cartedepeche.fr,0.62265872,44.6793112,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU047FS0004Q,03/01/2020,Lac/Site de pêche,Lac de Riconne,,,,,47140,PENNE-D'AGENAIS,47203,+33 5 53 70 55 08 # +33 5 53 66 16 68,,federation.peche.47@wanadoo.fr,http://www.peche47.com # http://www.cartedepeche.fr,0.88903427,44.3711710,Oui,"
+",,,,,,,,,,
+LOIAQU047FS0007M,03/01/2020,Lac/Site de pêche,Lac de Saint-Sardos,,,,,47360,SAINT-SARDOS,47276,+33 5 53 66 16 68,+33 6 07 14 55 20,federation.peche.47@wanadoo.fr,http://www.peche47.com # http://www.cartedepeche.fr,0.46786307,44.3354828,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU064V505KU8,03/01/2020,Lac/Site de pêche,Lac de Séméacq-Blachon ,,,,,64350,SEMEACQ-BLACHON,64517,+33 5 59 04 59 36,,le-pesquit@wanadoo.fr,http://www.association-peche-le-pesquit.fr/ , -0.1116220,43.5000260,,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",Visite libre,,,
+LOIAQU033V50FBIJ,06/01/2020,Lac/Site de pêche,Lac de Sigalens,,,,,33690,SIGALENS,33512,+33 5 56 25 25 84,,,, -0.0557168,44.4538432,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,Visite libre,,Aire de pique-nique,
+LOIAQU047FS0004N,16/01/2020,Lac/Site de pêche,Lac de Talives,,,,,47510,FOULAYRONNES,47100,+33 5 53 66 94 62 # +33 5 53 66 16 68,,federation.peche.47@wanadoo.fr,http://www.ville-foulayronnes.fr/Le-lac-de-Talives.html # http://www.peche47.com,0.63019037,44.2534067,Oui,"
+",,,,,,,,,,
+LOIAQU033V50CG0X,06/01/2020,Lac/Site de pêche # Parcours de santé # Ponton,Lac de Taste,,,Taste,,33840,CAPTIEUX,33095,+33 5 56 25 25 84,,bazas@tourisme-sud-gironde.com,, -0.2334847,44.2882930,,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU047FS00079,03/01/2020,Lac/Site de pêche,Lac de Terme-Gros,,,,,47800,ALLEMANS-DU-DROPT,47005,+33 5 53 20 20 04 # +33 5 53 66 16 68,,federation.peche.47@wanadoo.fr,http://www.peche47.com # http://www.cartedepeche.fr,0.2889370,44.6278460,,"
+",,,,,,Tarif de base|||Carte annuelle interfédérale personne majeure annuelle # Tarif de base|||Carte annuelle personne majeure annuelle # Tarif de base|||Carte annuelle personne mineure annuelle # Tarif de base|||Carte annuelle découverte enfant annuelle # Tarif de base|||Carte annuelle découverte femme annuelle # Tarif de base|||Carte hebdomadaire 7 jours # Tarif de base|||Carte journalière,,,,
+LOIAQU033V507LOG,15/01/2020,Aire de pique-nique # Lac/Site de pêche # Pontons handi-pêche,Lac des 9 fontaines,,,Charlot,,33580,NEUFFONS,33304,+33 5 56 71 32 23,,neuffons@wanadoo.fr,,0.01930958,44.6367594,Oui,"
+",,,,,01/01/2020|31/01/2020|||||,Gratuit|||,,,Aire de pique-nique,
+LOIAQU047FS0007R,16/01/2020,Lac/Site de pêche,Lac des Marais,,,,,47130,MONTESQUIEU,47186,+33 5 53 66 16 68,,federation.peche.47@wanadoo.fr,https://www.peche47.com # http://www.cartedepeche.fr,0.43254375,44.2259508,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,Gratuit|||Accès gratuit,,,Aire de pique-nique,
+LOIAQU064FS000FH,03/01/2020,Lac/Site de pêche # Parcours de santé # Pontons handi-pêche,Lac du Balaing,,,Chemin de Haut,,64450,NAVAILLES-ANGOS,64415,,,,, -0.3562831,43.4444444,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,,,,,,
+LOIAQU047FS0004F,03/01/2020,Lac/Site de pêche,Lac du Brayssou,,,,,47210,TOURLIAC,47311,+33 5 53 66 16 68,+33 6 76 06 40 68,bellanger.greg173@gmail.com # federation.peche.47@wanadoo.fr,http://www.peche47.com # http://www.cartedepeche.fr,0.79972743,44.6682255,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU064V505KTL,03/01/2020,Lac/Site de pêche,Lac du Gabassot,,,Chemin Bouyaguet ,,64330,GARLIN,64233,+33 5 59 04 59 36,,le-pesquit@wanadoo.fr,http://www.association-peche-le-pesquit.fr/ , -0.2716800,43.5458740,,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",Visite libre,,,
+LOIAQU047FS0004J,03/01/2020,Lac/Site de pêche,Lac du Saut du Loup,,,,,47800,MIRAMONT-DE-GUYENNE,47168,+33 5 53 66 16 68,,federation.peche.47@wanadoo.fr,http://www.peche47.com # http://www.cartedepeche.fr,0.37284851,44.5895808,Oui,"
+",,,,,,"Tarif de base|77,00|77,00|Carte personne majeure annuelle # Tarif de base|100,00|100,00|Carte interfédérale personne majeure annuelle # Tarif de base|21,00|21,00|Carte personne mineure annuelle # Tarif de base|6,00|6,00|Carte découverte enfant annuelle # Tarif de base|35,00|35,00|Carte découverte femme annuelle # Tarif de base|33,00|33,00|Carte hebdomadaire 7 jours consécutifs # Tarif de base|13,00|13,00|Carte journalière",,,Aire de pique-nique # Restauration # Salle(s) de réunion,
+LOIAQU064FS000FF,03/01/2020,Aire de pique-nique # Lac/Site de pêche # Pontons handi-pêche,Lac Ducrest,,,,,64260,ARUDY,64062,+33 5 59 05 80 44,,contact@arudy.fr,, -0.4284760,43.1055430,,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",Visite libre,,Aire de pique-nique,
+LOIAQU033FS0010W,16/01/2020,Lac/Site de pêche,Lac Targonnais,,,Allées d'Amour,,33760,TARGON,33523,+33 5 56 23 63 69,,targon@entredeuxmers.com,http://www.cartedepeche.fr, -0.2616303,44.7352035,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,Gratuit|||Accès promeneurs,,,,
+LOIAQU033V50IR45,06/01/2020,Lac/Site de pêche,Lac Vert - Delcampo,,,Avenue de la Côte d'Argent,,33380,BIGANOS,33051,+33 5 56 03 94 50,,,, -0.9575927,44.6443323,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,Gratuit|||accès libre,,,,
+LOIAQU064FS000G4,03/01/2020,Lac/Site de pêche,Lacs de pêche,,,,,64440,EAUX-BONNES,64204,+33 5 59 05 12 17,,,, -0.3247295,42.9315055,Oui,"
+",,,,,01/05/2020|15/10/2020|||||,"Gratuit|0,00|0,00|",,,,
+ASCAQU040FS001BM,26/09/2018,Activité sportive,Landes Pêches,Route des Lacs,,,,40170,LIT-ET-MIXE,40157,+33 5 58 42 47 60,,landes-peches@club-internet.fr ,http://www.landespeches.com , -1.2471199,44.0340792,Oui,"
+",Pêche,,,,,,,,,
+LOIAQU024V50CE0N,20/05/2019,Lac/Site de pêche,Le Coly,,,Coly,,24120,COLY-SAINT-AMAND,24364,,,,,1.267511,45.085408,Oui,"
+",,,,,,,,,,
+ASCAQU064V56K5SP,03/01/2020,Activité sportive,Le Corsaire Basque,,Port d'attache du Poyel,Fontarrabie,,64500,SAINT-JEAN-DE-LUZ,64483,,+33 6 45 07 35 53,piloulatrim@icloud.com,, -1.6650371,43.3873182,Oui,"
+",Voile # Voile # Pêche en mer,,,,,Tarif de base|||Demi-journée,,,,
+LOIAQU024V50CE0Q,31/12/2018,Lac/Site de pêche,Le Douime,,,Azerat,,24210,AZERAT,24019,,,,,1.122965,45.149715,Oui,"
+",,,,,,,,,,
+ASCAQU047V502OKZ,03/01/2020,Activité sportive,Le Goujon Tonneinquais,Centre Administratif,,3 boulevard Charles de Gaulle,,47400,TONNEINS,47310,+33 5 53 84 66 34,+33 6 43 23 66 90,,,0.30908639,44.3899876,Oui,"
+",Pêche,,,,01/01/2020|31/12/2020|||||,,,,,
+ASCAQU024V502HXK,02/01/2018,Activité culturelle # Activité sportive,Le Parc en famille,Maison du Parc,,,La Barde,24450,LA COQUILLE,24133,+33 5 53 55 36 00,,info@pnrpl.com,,0.9789600,45.5405919,Oui,"Faune - flore
+",Pêche,,,,,,,,,
+LOIAQU047FS0006W,03/01/2020,Lac/Site de pêche,Le Poisson d'Argent,,,Route de Saint Léon,,47160,VILLEFRANCHE-DU-QUEYRAN,47320,,+33 7 71 60 48 18,phlarrat@yahoo.fr,,0.20581126,44.2987478,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Tarif de base|||Formule découverte # Tarif de base|||Du mardi au jeudi, limité à 10 truites # Tarif de base|||Les week-end et jours fériés, prises illimitées",,,Aire de pique-nique,
+LOIAQU033V50DSBT,22/01/2020,Jeux pour enfants # Lac/Site de pêche # Parc à thèmes,Le p'tit cro-magnon,,,1 Barrail Chevalier,,33230,SAINT-MEDARD-DE-GUIZIERES,33447,+33 5 24 08 41 97,+33 6 69 61 00 02,auptitcromagnon@yahoo.com,http://www.auptitcromagnon.wixite.com, -0.0779833,45.0151441,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU024FS0004L,03/02/2020,Lac/Site de pêche,Les Eaux de Queyssac,Les Doulets,,,,24140,QUEYSSAC,24345,,+33 6 87 67 96 37,fredodhermy@gmail.com,http://www.leseauxdequeyssac.com,0.54888725,44.9065295,Oui,"
+",,,,,09/03/2020|03/04/2020|08:00|||18:00|Lundi - Mardi # 04/04/2020|03/05/2020|08:00|||18:00| # 04/05/2020|03/07/2020|08:00|||18:00|Lundi - Mardi # 04/07/2020|30/08/2020|08:00|||18:00| # 31/08/2020|30/09/2020|08:00|||18:00|Lundi - Mardi,Tarif de base|||,,,Bar # Restauration # Salle(s) de réunion,
+ASCAQU047FS0006T,25/01/2020,Activité sportive,Les Tilleuls de la Voie Verte,,,Route de Thouars,Maintenant,47230,FEUGAROLLES,47097,+33 5 53 95 30 27,+33 6 35 21 18 33,frisonclaude@free.fr # contact@lestilleulsdelavoieverte.fr,http://www.lestilleulsdelavoieverte.fr,0.33868789,44.2332695,Oui,"
+",Cyclotourisme # VTT # Pêche # Randonnée pédestre,,,,01/03/2020|31/10/2020|||||,"Tarif de base|8,00|8,00|La 1/2 journée # Tarif de base|12,00|12,00|La journée # Tarif de base|8,00|8,00|Remorque 2 enfants",,,,Location de vélos
+ASCAQU064FS0008F,03/01/2020,Activité sportive,Les Truites du Haut-Barétous,,,Route de la Pierre St-Martin,Quartier Létonne,64570,ARETTE,64040,+33 5 59 88 91 18,+33 6 85 36 83 45,,http://www.vallee-baretous.com, -0.7402038,43.0751890,Oui,"
+",Pêche,,,,,Tarif de base|||Le kilo de truites pêchées # Tarif de base|||Le kilo de truites ou truitelles,,,Bar # Restauration,
+LOIAQU024V50CE1C,31/12/2018,Lac/Site de pêche,L'étang de Fossemagne,,,Fossemagne,,24210,FOSSEMAGNE,24188,,,,,0.985061,45.126594,Oui,"
+",,,,,,,,,,
+LOIAQU047V50A4XO,25/01/2020,Lac/Site de pêche,Maison de la Pêche et de la Nature,,,,Caillauet,47130,BRUCH,47041,+33 6 87 74 49 78,,,http://www.federationpeche.com/47/apn.php?atelier=308&referer=%3Fmode%3Dsearch%26type%3Dform,0.40934096,44.2172989,Oui,"
+",,,,,01/01/2020|31/12/2020||||| # 01/07/2020|31/08/2020|||14:30|16:30|Dimanche - Jeudi matin - Lundi matin - Mardi matin - Mercredi matin - Samedi - Vendredi matin,"Tarif de base|5,00|5,00|Animations d'été # Tarif de base|100,00|100,00|Ateliers modulable pour écoles et centres de loisirs sur place # Tarif de base|120,00|120,00|Ateliers modulables (demi-journée) pour écoles et centres de loisirs déplcament",,,,
+ASCAQU064FS000AU,14/01/2020,Activité sportive,Mendi Gaiak - Les accompagnateurs du Pays Basque ,,,35 route de bayonne,,64220,UHART-CIZE,64538,+33 5 59 49 17 64,+33 6 45 16 51 86,mendi-gaiak@orange.fr,http://www.mendi-gaiak.fr, -1.3009357,43.2329941,Oui,"
+",Escalade # Escalade # Escalade # Canyoning # Canyoning # Canyoning # Randonnée pédestre # Randonnée pédestre # Randonnée pédestre # Raquettes # Raquettes # VTT # VTT # VTT # Orientation # Pêche # Pêche # Pêche # Pelote basque # Tyrolienne # Grimpe d'arbre # Spéléologie,,,,,,,,,
+ASCAQU064FS000J9,03/01/2020,Activité sportive,Monsieur Benjamin CHARRON - Guide de pêche ,,,Legarreko bidea,,64480,LARRESSORE,64317,,+33 6 04 07 26 53,benjacharron@gmail.com,http://www.pechesport-paysbasque.com, -1.4359500,43.3721901,,"
+",Pêche # Fly Fish # Pêche # Pêche # Fly Fish,,,,,"Tarif de base|||Initiation pêche, guidage pêche et stage de perfectionnement sur 1/2 journée # Tarif de base|||Initiation pêche, guidage pêche, stage de perfectionnement sur la journée # Tarif de base|||Initiation pêche, guidage pêche, stage de perfectionnement 1/2 journée 2 pers. # Tarif de base|||Initiation pêche, guidage pêche, stage de perfectionnement journée 2 pers.",,,,
+ASCAQU064FS000H6,03/01/2020,Activité sportive,Monsieur Yvon ZILL - Moniteur - Guide de pêche,,Maison Biscaya,,Quartier Ondarolle,64220,ARNEGUY,64047,+33 5 59 37 34 96,+33 6 28 37 39 75,yvon.zill@basquecountry-fishing-guide.com,http://www.basquecountry-fishing-guide.com, -1.2331080,43.1664920,Oui,"
+",Pêche # Pêche # Pêche # Pêche,,,,14/03/2020|14/09/2020|||||,"Tarif de base|100,00|250,00|",,,,
+LOIAQU047FS0006K,25/01/2020,Lac/Site de pêche,Moulin de Campech,,,Route de Damazan,,47160,VILLEFRANCHE-DU-QUEYRAN,47320,+33 5 53 88 72 43 # +33 5 53 79 37 64,,camping@moulindecampech.co.uk # contact@moulindecampech.com,http://www.moulindecampech.com,0.19072651,44.2727074,Oui,"
+",,,,,01/04/2020|30/09/2020|||||,"Tarif de base|8,00|8,00|La journée # Tarif de base|6,00|6,00|La journée, tarif campeur # Tarif de base|8,00|8,00|Le kilo de truites",,,,
+LOIAQU024V50CYCG,03/01/2020,Lac/Site de pêche,Moulin du Châtain,,,,Le Châtain,24270,PAYZAC,24320,,+33 6 28 26 45 33 # +33 6 50 24 71 77,moulinduchatain@sfr.fr,http://www.moulinduchatain.com,1.24955923,45.3914388,Oui,"
+",,,,,,,,,Bar # Restauration,Boutique # Espace jeux
+ASCAQU040FS001JG,03/01/2020,Activité sportive,Océan.com - Pêche,,20 rue des lacs,,,40200,MIMIZAN,40184,+33 5 58 09 20 61,,ocean.com@laposte.net,, -1.2958192,44.2088449,Oui,"
+",Pêche,,,,,,,,,
+ASCAQU064V508WFQ,29/01/2020,Activité sportive,OTF : Obsession Tuna Fishing Pierre Pomme,Ponton n°2,Port de Larraldenia,Quai Maurice Ravel ,,64500,CIBOURE,64189,,+33 6 16 17 98 82,otf@obsessiontunafishing.com,http://www.obsessiontunafishing.com/, -1.6667587,43.3850824,Oui,"
+",Pêche en mer # Pêche,,,,,,,,,
+LOIAQU064FS000P8,03/01/2020,Aire de pique-nique # Lac/Site de pêche # Parcours de santé,Parcours santé de Saint-Pée,,,Chemin du pont noir,Quartier Saint Pée,64400,OLORON-SAINTE-MARIE,64422,+33 5 59 39 98 00,,oloron@pyrenees-bearnaises.com,http://www.pyrenees-bearnaises.com, -0.6478926,43.1840445,Oui,"
+",,,,,,,,,Aire de pique-nique,Espace jeux
+ASCAQU040V5079ZG,03/01/2020,Activité sportive,Pêche - AAPPMA l'Arribouille,,,168 Impasse Harlan,,40400,TARTAS,40313,+33 0 55 87 33 99,,tourisme.tarusate@wanadoo.fr,, -0.8108053,43.8313116,Oui,"
+",Pêche,,,,,Tarif de base|||Personne Majeur # Tarif réduit|||Découverte femme # Tarif réduit|||Personne mineure # Tarif réduit|||Découverte - de 12 ans # Tarif de base|||Formule hebdomadaire # Tarif de base|||Formule journalière # Tarif de base|||Hebdomadaire membre AAPPMA # Tarif de base|||Personne majeure interfédérale,,,,
+ASCAQU040V5009JA,03/01/2020,Activité sportive,Pêche à la truite,La Pave,2869 bis route de Pontenx,Route de Mimizan - D46,,40160,PARENTIS-EN-BORN,40217,,+33 6 04 03 91 55,,http://www.pechealatruite-parentis.com, -1.0811624,44.3421717,,"
+",Pêche,,,,15/03/2020|31/10/2020|||||,,,,,
+ASCAQU033V50POC4,03/01/2020,Activité sportive,Pêche à pied,,,Avenue du Commandant David Allègre,,33510,ANDERNOS-LES-BAINS,33005,+33 5 56 82 02 95,,juliengiraudr@gmail.com,, -1.110716,44.744096,Oui,"
+",Pêche,,,,01/07/2020|28/08/2020|||||,"Tarif de base|5,50|8,50|A partir de 6 ans",,,,
+ASCAQU033V50K401,03/01/2020,Activité sportive,Pêche Arcachon,,,331 route de Saint Hélène de l’Etang,,33121,CARCANS,33097,,+33 6 51 86 21 64,juliengiraudr@gmail.com,https://www.peche-arcachon.com/, -1.0678530,45.1109596,Oui,"
+",Pêche en mer,,,,15/04/2020|31/12/2020|||||,"Tarif de base|130,00||Pêche au bar en bateau (par personne) # Tarif de base|130,00||Pêche sur épave en bateau # Tarif de base|160,00||Pêche au requin au large # Tarif de base|220,00||Pêche au thon au large # Tarif de base|95,00||Pêche en lac Carcans/Hourtin : 1/2 journée # Tarif de base|160,00||Pêche en lac Carcans/Hourtin : la journée",,,,
+LOIAQU047V5044AU,03/01/2020,Aire de pique-nique # Base de loisirs # Boulodrome # Espace de réunions # Jeux pour enfants # Lac/Site de pêche,Pêche au Lac de Lamontjoie,,Camping Sites et Paysages Saint-Louis,,Lac de Lamontjoie,47310,LAMONTJOIE,47133,+33 5 53 99 59 38,+33 6 41 46 11 36,contact@campingagen.fr,http://www.campingagen.fr # http://www.lacdepeche.jimdo.com,0.51736399,44.0777140,Oui,"
+",,,,Sourire du Lot-et-Garonne,01/01/2020|31/12/2020|||||,"Tarif de base|6,00|10,00|journée pêche/personne # Tarif de base|15,00|20,00|24h # Tarif de base|2,00|2,00|entrée promenade et pique-nique # Gratuit|||Pêche aux écrevisses",,,Aire de pique-nique # Bar # Restauration,Espace jeux # Wifi
+ASCAQU024V50CZR8,03/01/2020,Activité sportive,Pêche au Moulin du Châtain,,,Le Châtain,,24270,PAYZAC,24320,,+33 6 28 26 45 33 # +33 6 50 24 71 77,moulinduchatain@sfr.fr,http://www.moulinduchatain.com,1.24954850,45.3914162,Oui,"
+",Pêche # Pêche,,,,,,,,,
+ASCAQU040V50HFQ7,03/01/2020,Activité sportive,Pêche au thon Christian Jouve,Halte nautique,Avenue du courant,,,40200,MIMIZAN,40184,+33 6 07 78 37 80,,christian.jouve3@wanadoo.fr,, -1.2893184,44.2081946,Oui,"
+",Pêche en mer,,,,,,,,,
+ASCAQU033V50POBF,03/01/2020,Activité sportive,Pêche aux crabes,,,Avenue du Commandant David Allegre,,33510,ANDERNOS-LES-BAINS,33005,+33 5 56 82 02 95,,juliengiraudr@gmail.com,, -1.110716,44.744096,Oui,"
+",Pêche,,,,03/07/2020|28/08/2020|||||,"Tarif de base|5,50|8,50|A partir de 6 ans",,,,
+ASCAQU033FS0014G,03/02/2020,Activité sportive,Pêche aux crabes,,Office de Tourisme Coeur du Bassin,1 route du Stade,,33138,LANTON,33229,+33 57 70 67 56,,info@tourisme-coeurdubassin.com,http://www.tourisme-coeurdubassin.com , -1.0152911,44.6835373,Oui,"
+",Pêche,,,,01/04/2020|31/08/2020|||||,"Tarif de base|9,00|9,00|tarif adulte # Tarif réduit|6,50|6,50|tarif enfant de 6 à 12 ans",,,,
+LOIAQU064FS000O1,03/02/2020,Lac/Site de pêche,Pêche du lac de Sames,,Lac de Sames,,787 chemin de Bourouilla,64520,SAMES,64502,,+33 6 73 41 27 34,syl64520@hotmail.fr,http://locasames.com/crbst_25.html, -1.1701512,43.5290890,Oui,"
+",,,,,,"Tarif de base|||Adultes : Carte pêche au coup, au leurre par pêcheur la journée # Tarif réduit|||Pêche à la carpe, la journée # Tarif réduit|||Carte à l'année adulte # Tarif réduit|||Carte à l'année mineur # Tarif réduit|||Pêche à la carpe, forfait semaine # Tarif réduit|||Pêche à la carpe, forfait 24h # Tarif de base|||Accompagnants non pêcheurs par jours (accès plage, WC, douches) # Tarif de base|||Location float tubes, barques, moteurs élestrique/la journée",Visite guidée uniquement sur rendez-vous,,Aire de pique-nique # Bar # Restauration,
+ASCAQU040FS00095,31/12/2018,Activité sportive,Pêche en bord de mer Bias,,Mairie de Bias,,,40200,BIAS,40184,,+33 6 16 06 79 80,v.lafitte40@laposte.net,, -1.3037681,44.1642281,Oui,"
+",Pêche # Pêche,,,,,,,,,
+LOIAQU024FS0006W,03/02/2020,Lac/Site de pêche,Pêche en étang moulin de Boissonnie,Pisciculture,Moulin de Boissonnie,,,24190,DOUZILLAC,24157,+33 5 53 81 53 41,,pisciculture24@orange.fr,http://www.pechealatruite24.com,0.38469851,45.0852443,Oui,"
+",,,,,10/01/2020|21/02/2020|08:00|||18:00| # 22/02/2020|30/06/2020|08:00|||18:00| # 01/07/2020|31/08/2020|08:00|||18:00| # 01/09/2020|02/11/2020|08:00|||18:00| # 03/11/2020|31/12/2020|08:00|||18:00|,"Tarif de base|15,00|27,00|",,Français,Aire de pique-nique,Boutique
+ASCAQU040V50IICA,03/01/2020,Activité sportive,Pêche sur les étangs de Moïsan et de la Prade,,,,,40660,MESSANGES,40181,+33 5 58 48 93 10,,messanges@landesatlantiquesud.com,, -1.3783975,43.8147703,Oui,"
+",Pêche,,,,,Tarif de base|||La carte DÉCOUVERTE - 12 ans # Tarif de base|||La carte JOURNALIÈRE # Tarif de base|||La carte MINEURE # Tarif de base|||La carte HEBDOMADAIRE # Tarif de base|||La carte MAJEURE # Tarif de base|||La carte INTERFEDERALE MAJEURE,,,,Wifi
+ASCAQU040FS00147,03/01/2020,Activité sportive,Pêche sur les étangs de Moliets et de La Prade,,,,,40660,MOLIETS-ET-MAA,40187,+33 5 58 48 56 58,,,http://www.cartedepeche.fr, -1.3665103,43.8495698,Oui,"
+",Pêche,,,,,Tarif de base|||Carte découverte moins de 12 ans # Tarif de base|||Carte journalière # Tarif de base|||Carte mineure de 12 à 18 ans # Tarif de base|||Carte hebdomadaire # Tarif de base|||Carte découverte Femme # Tarif de base|||Carte Interfédérale Majeure,,,,
+ASCAQU040FS001IC,03/01/2020,Activité sportive,Pêche sur l'Etang Blanc ,,,4 Route Louis de Bourmont,,40510,SEIGNOSSE,40296,+33 5 58 72 80 30,,restaurantlesroseaux@wanadoo.fr,http://www.restaurantlesroseaux.com, -1.3749432,43.7109593,Oui,"
+",Pêche,,,,,,,,Restauration,
+LOIAQU040011PL0L,03/01/2020,Lac/Site de pêche,Pêcher et se balader sur le site de la Saucille,,,,,40250,MUGRON,40201,+33 5 58 97 71 26,,communication@mugron.fr,, -0.7534646,43.7586966,Oui,"
+",,,,,,,,,Aire de pique-nique,
+ASCAQU040V501FCW,22/01/2020,Activité sportive,Pescatourisme,,,Avenue Georges Pompidou ,Port de Capbreton,40130,CAPBRETON,40065,,+33 6 85 21 34 34 # +33 6 77 87 80 40 # +33 6 88 96 73 07,,, -1.4400483,43.6539242,Oui,"
+",Pêche en mer,,,,01/01/2020|31/12/2020|||||,,,,,
+ASCAQU033V507ZNY,03/01/2020,Activité sportive,Petite pêche en mare,,Office de Tourisme Coeur du Bassin,20 allées de Boissière,,33980,AUDENGE,33019,+33 5 57 70 67 56,,,http://www.tourisme-coeurdubassin.com, -1.0153617,44.6834580,Oui,"
+",Pêche,,,,01/04/2020|31/10/2020|||||,"Tarif de base|7,00|7,00|tarif enfant de 5 à 12 ans # Gratuit|||pour le 1er parent accompagnant # Tarif réduit|2,00|2,00|pour le 2ème accompagnateur",,,,
+LOIAQU024V5003C5,31/12/2018,Lac/Site de pêche,Pisciculture,Le Breuilh,,,,24450,SAINT-PIERRE-DE-FRUGIE,24486,,,,,1.00887699,45.567811,Oui,"
+",,,,,,,,,,
+ASCAQU064V50F9J0,03/01/2020,Activité sportive,Pisciculture de Pédéhourat,,,Chemin de durieu,Pédéhourat,64260,LOUVIE-JUZON,64353,+33 5 64 11 07 58,+33 6 22 26 26 33,pisciculturedepedehourat@gmail.com,, -0.417490,43.086811,Oui,"
+",Pêche,,,,02/01/2020|31/12/2020|||||,,,,,
+ASCAQU064FS0008H,09/01/2020,Activité sportive,Pisciculture des Sources,,,,Quartier Geteu,64440,LARUNS,64320,+33 5 59 05 30 32,+33 6 89 88 56 64,pisciculturedessources@gmail.com,http://pecheossaupyrenees.unblog.fr, -0.4234960,43.0124831,Oui,"
+",Pêche,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|Pêche gratuite",,,,
+LOIAQU04001644ZN,21/01/2020,Lac/Site de pêche # Plage surveillée,Plage de Caton,,,Chemin de Sabas,,40460,SANGUINET,40287,,+33 6 80 22 24 00,,, -1.0771691,44.4942996,Oui,"
+",,,,,,,,,Aire de pique-nique # Bar,
+LOIAQU04001WV7OY,21/01/2020,Lac/Site de pêche # Plage surveillée,Plage de Maguide,,,Maguide,,40600,BISCARROSSE,40046,+33 5 58 09 83 27,,,, -1.2003421,44.4554565,Oui,"
+",,,,,,,,,Bar # Restauration,Espace jeux
+LOIAQU04001WV7OZ,03/01/2020,Lac/Site de pêche # Plage surveillée,Plage de Navarrosse,,,Navarrosse,,40600,BISCARROSSE,40046,+33 5 58 09 80 15,,,, -1.1774253,44.4324314,Oui,"
+",,,,,,,,,,
+LOIAQU04001WBCEC,21/01/2020,Lac/Site de pêche # Plage surveillée,Plage de Sainte Eulalie en Born,,,,,40200,SAINTE-EULALIE-EN-BORN,40257,+33 5 58 09 73 48,,,http://www.sainteeulalieenborn.fr , -1.1822304,44.3085428,Oui,"
+",,,,,,,,,Aire de pique-nique # Bar # Parking autocar # Restauration,Espace jeux # Location de vélos
+LOIAQU0400175CZE,03/01/2020,Lac/Site de pêche # Plage surveillée,Plage du lac d'Arjuzanx et activités nautiques,Route de choux,,,,40110,MORCENX-LA-NOUVELLE,40197,+33 5 58 08 11 52,+33 6 80 16 74 59 # +33 6 01 78 32 33,,http://www.reserve-arjuzanx.fr , -0.8485961,44.0168059,Oui,"
+",,,,,,,Visite libre,,Accessible en poussette # Aire de pique-nique # Bar # Parking autocar # Restauration # Salle de projection # Sentier de randonnée,Boutique
+LOIAQU064V54ZGXM,08/01/2020,Lac/Site de pêche # Plage surveillée,Plage du Lac des Arroques,,Lac des Arroques,136 chemin du lac,,64520,GUICHE,64250,+33 5 59 56 03 49 # +33 5 59 56 78 34,,lucien@basedepop.fr,http://www.basedepop.fr, -1.1852066,43.5000602,Oui,"
+",,,,,15/06/2020|15/09/2020|14:00||19:00||,"Gratuit|0,00|0,00|baignade",,,Aire de pique-nique # Bar # Restauration,Boutique # Espace jeux
+LOIAQU033FS0007P,06/01/2020,Lac/Site de pêche # Plage surveillée,Plage du Moulleau,,,,,33120,ARCACHON,33009,+33 5 57 52 97 97,,,, -1.2042181,44.6411231,Oui,"
+",,,,,01/01/2020|31/12/2020||||| # 01/01/2020|31/12/2020|||||,,Visite libre,,Bar # Restauration,
+LOIAQU04001644ZP,21/01/2020,Lac/Site de pêche # Plage surveillée,Plage du Pavillon,,,Avenue de Losa,,40460,SANGUINET,40287,,+33 6 79 89 26 64,,, -1.0845291,44.4867379,Oui,"
+",,,,,,,,,Aire de pique-nique,
+LOIAQU04001WBCEE,21/01/2020,Lac/Site de pêche # Plage surveillée,Plage du Port de Gastes,,,,,40160,GASTES,40108,+33 5 58 09 75 03,,gastes.mairie@wanadoo.fr ,, -1.1470670,44.3254260,,"
+",,,,,,,,,Aire de pique-nique # Bar # Restauration,Espace jeux # Wifi
+LOIAQU040FS0007I,03/01/2020,Lac/Site de pêche # Plage surveillée,Plage Moutéou Pipiou,,,Route des Campings,,40160,PARENTIS-EN-BORN,40217,+33 5 58 78 49 23 # +33 5 58 78 40 02,,mairie@parentis.com ,, -1.1037420,44.3473670,,"
+",,,,,,,,,Aire de pique-nique,Espace jeux
+LOIAQU024FS00065,03/01/2020,Aire de pique-nique # Jeux pour enfants # Lac/Site de pêche # Plage surveillée,Plan d'eau de loisirs de Saint-Saud-Lacoussière,,,,,24470,SAINT-SAUD-LACOUSSIERE,24498,+33 5 53 56 97 03,+33 6 73 80 37 23,mairie.saint-saud@wanadoo.fr,http://www.saintsaud.fr,0.81968307,45.5441702,Oui,"
+",,,,,,,,,Aire de pique-nique # Bar # Restauration,
+LOIAQU033FS0010E,06/01/2020,Lac/Site de pêche,Plan d'eau de Meilhac,,,8 rue De Meillac ,,33240,CUBZAC-LES-PONTS,33143,+33 5 57 43 02 11,,mairie.cubzac@wanadoo.fr,http://www.mairie-cubzaclesponts.com/, -0.4260635,44.9738913,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,Visite libre,,,
+LOIAQU0240004493,03/01/2020,Lac/Site de pêche # Plage surveillée,Plan d'eau de Tamniès,,,,Etang de Tamnies,24620,TAMNIES,24544,+33 5 53 29 65 98 # +33 5 53 29 68 95,,mairie.tamnies@wanadoo.fr,http://www.tamnies.fr,1.1601963,44.9646833,,"
+",,,,,,"Tarif de base|2,00|| # Tarif de groupe|1,00|| # Gratuit|||enfant - 5 ans",,,Aire de pique-nique # Bar # Restauration # Sentier de randonnée,Espace jeux
+LOIAQU040FS000OF,03/01/2020,Lac/Site de pêche,Points où pêcher sur la communauté de communes d'Aire sur l'Adour,,,,,40800,AIRE-SUR-L'ADOUR,40001,,,,, -0.2622940,43.7000620,,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU033V50TI7Y,14/01/2020,Pontons handi-pêche,Ponton de pêche à Fontet,,,Base de loisirs,,33190,FONTET,33170,+33 5 56 61 08 30,,mairie.de.fontet@wanadoo.fr,http://cartedepeche.fr, -0.0227354,44.5611369,Non,"
+",,,,,01/01/2020|31/12/2020|||||,,,,Accessible en poussette # Aire de pique-nique # Sentier de randonnée,Espace jeux # Wifi
+LOIAQU040FS000MG,03/01/2020,Pontons handi-pêche,Ponton de pêche de l'étang d'Aureilhan - St Paul en Born,,,Anse de St Paul,Route du Talucat,40200,SAINT PAUL EN BORN,40278,+33 5 58 09 11 20,,contact@mimizan-tourisme.com,http://www.mimizan-tourisme.com, -1.1870867,44.2318935,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,,,,,Aire de pique-nique,Espace jeux
+LOIAQU040FS000MH,03/01/2020,Pontons handi-pêche,Ponton de pêche de l'étang d'Aureilhan à Mimizan,,Promenade fleurie,Conche de Bourgerain,,40200,MIMIZAN,40184,+33 5 58 09 11 20,,contact@mimizan-tourisme.com,http://www.mimizan-tourisme.com, -1.2241226,44.2178161,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,,,,,Aire de pique-nique,Espace jeux
+LOIAQU064V54SVL2,03/01/2020,Pontons handi-pêche,Ponton de pêche du Baniou,,,Avenue du Lac,,64800,BAUDREIX,64101,+33 5 59 13 94 99,,accueil@tourisme-bearn-paysdenay.com,http://www.tourisme-bearn-paysdenay.com, -0.2606003,43.203685,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,Aire de pique-nique,
+LOIAQU040FS000ML,03/01/2020,Pontons handi-pêche,Ponton de pêche du canal de l'anguillère,,,Amont pont RD26,,40440,ONDRES,40209,+33 5 59 45 19 19,,contact@seignanx-tourisme.com,, -1.4536426,43.5679134,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,,,,,,
+LOIAQU040FS000M9,03/01/2020,Pontons handi-pêche,Ponton de pêche du canal du littoral des Landes,,,Rue Marcel Moine - Latécoère,,40600,BISCARROSSE,40046,+33 5 58 78 20 96,,biscarrosse@biscarrosse.com,, -1.1832618,44.3902336,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,,,,,,
+LOIAQU040FS000MI,03/01/2020,Pontons handi-pêche,Ponton de pêche du courant de Mimizan,,,Les anguillons,,40200,MIMIZAN,40184,+33 5 58 09 11 20,,contact@mimizan-tourisme.com,http://www.mimizan-tourisme.com, -1.2281620,44.2141636,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,,,,,Aire de pique-nique,Espace jeux
+LOIAQU040FS000M8,03/01/2020,Pontons handi-pêche,Ponton de pêche du lac de Biscarrosse ,,Canal du littoral des landes,Port de Lily,,40600,BISCARROSSE,40046,+33 5 58 78 20 96,,biscarrosse@biscarrosse.com,, -1.1813628,44.3929552,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,,,,,,
+LOIAQU040FS000MJ,03/01/2020,Pontons handi-pêche,Ponton de pêche du lac de Léon,,,Pas du moulin,,40550,LEON,40150,+33 5 58 48 63 36,,contact@cotelandesnaturetourisme.com,, -1.3133490,43.8870100,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,,,,,,
+LOIAQU033V50TR4S,15/01/2020,Lac/Site de pêche # Ponton # Pontons handi-pêche,Ponton de pêche du lac de Neuffons,,,,,33580,NEUFFONS,33304,+33 5 56 71 32 23,,,http://cartedepeche.fr,0.0059200,44.6498280,Non,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU040FS000MB,03/01/2020,Pontons handi-pêche,Ponton de pêche du lac de Parentis Biscarrosse,,,Digue du Piaou ,,40160,PARENTIS-EN-BORN,40217,+33 5 58 78 43 60,,oft@parentis.com,, -1.0981875,44.3410500,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,,,,,,
+LOIAQU040FS000MA,03/01/2020,Pontons handi-pêche,Ponton de pêche du lac de Parentis Biscarrosse,,,Port du Piaou est,,40160,PARENTIS-EN-BORN,40217,+33 5 58 78 43 60,,oft@parentis.com,, -1.1003708,44.3401791,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,,,,,,
+LOIAQU040FS000MF,03/01/2020,Pontons handi-pêche,Ponton de pêche du lac de Parentis Biscarrosse,Lac de Parentis Biscarrosse,,Port des perches - est,,40160,GASTES,40108,+33 5 58 09 75 03,,,, -1.1534142,44.3276511,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,,,,,,
+LOIAQU040FS000ME,03/01/2020,Pontons handi-pêche,Ponton de pêche du lac de Parentis Biscarrosse,Lac de Parentis Biscarrosse,,Port des perches - ouest,,40160,GASTES,40108,+33 5 58 09 75 03,,,, -1.1538970,44.3279696,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,,,,,,
+LOIAQU040FS000MD,03/01/2020,Pontons handi-pêche,Ponton de pêche du lac de Parentis Biscarrosse,Lac de Parentis Biscarrosse,Côté lac,Port des sandres,,40160,GASTES,40108,+33 5 58 09 75 03,,,, -1.1490690,44.3295659,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,,,,,,
+LOIAQU040FS000MC,03/01/2020,Pontons handi-pêche,Ponton de pêche du Nasseys,,,Bassin désableur du Nasseys,Pont des Espalanques,40160,PARENTIS-EN-BORN,40217,+33 5 58 78 43 60,,oft@parentis.com,, -1.0513508,44.3372938,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,,,,,,
+LOIAQU040FS000MK,03/01/2020,Pontons handi-pêche,Ponton de pêche du ruisseau du moulin,,,Bassin Dessableur du moulin,,40140,AZUR,40021,+33 5 58 41 52 62,,tourisme@soustons.fr ,, -1.3042241,43.7809380,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,,,,,,
+LOIAQU047FS0009R,03/01/2020,Pontons handi-pêche,Ponton Handi pêche,,,,Cadamas,47500,MONTAYRAL,47185,+33 5 53 71 39 53,,jeanmarie.vial@yahoo.fr,,0.98969220,44.491791,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,,
+LOIAQU047FS000CL,03/01/2020,Pontons handi-pêche,Ponton Handi pêche,,,Rue Jean-Jacques Rousseau,Condat,47500,FUMEL,47106,+33 6 85 32 86 23,,jeanmarie.vial@yahoo.fr,,0.98866224,44.4947451,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,,
+LOIAQU040FS000JC,03/01/2020,Pontons handi-pêche,Ponton handipêche,,,Rue des Graviers,,40800,AIRE-SUR-L'ADOUR,40001,+33 5 58 71 64 70,,accueil-aire@tourisme-aire-eugenie.fr,, -0.2559363,43.7036069,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU040FS000M5,16/01/2020,Pontons handi-pêche,Ponton Handipêche,Allée du Plumet,,Lac de Christus,,40990,SAINT-PAUL-LES-DAX,40279,+33 5 58 91 60 01,,contact@stpaullesdaxtourisme.fr,, -1.0681629,43.7262661,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,,,,,Aire de pique-nique # Restauration,
+LOIAQU040FS000M7,03/01/2020,Pontons handi-pêche,Pontons de pêche du lac de Biscarrosse - Sanguinet,,,Lac de Biscarrosse - Sanguinet,Trou de Navarosse,40600,BISCARROSSE,40046,+33 5 58 78 20 96,,biscarrosse@biscarrosse.com,, -1.1752688,44.4280606,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,,,,,,
+LOIAQU040FS000M6,03/01/2020,Pontons handi-pêche,Pontons de pêche du lac de Cazaux Sanguinet,,,Port de Beau Rivage,,40460,SANGUINET,40287,+33 5 58 78 67 72,,officedutourisme@sanguinet.fr ,, -1.0752707,44.4869653,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,,,,,,
+LOIAQU033FS0000S,06/01/2020,Aire de pique-nique # Halte nautique # Lac/Site de pêche,Port de Barsac,,,,,33720,BARSAC,33030,+33 5 56 27 43 00,,mairie@barsac.fr,http://www.barsac.fr, -0.303298,44.602487,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,Aire de pique-nique,
+ASCAQU040FS001NG,03/01/2020,Activité sportive,Pratiquer la pêche en Terres de Chalosse,,,,,40250,MUGRON,40201,,,,http://www.cartedepeche.fr # http://www.federationpeche.fr/40/, -0.8949099,43.7634959,Oui,"
+",Pêche # Pêche,,,,,Tarif de base|||Carte Personne majeure ou Interfédérale CHI # Tarif de base|||Carte Personne majeure # Tarif de base|||Carte Découverte Femme # Tarif de base|||Carte Personne mineure # Tarif de base|||Carte promotionnelle Découverte -12 ans # Tarif de base|||Carte Hebdomadaire 2018 # Tarif de base|||Carte Journalière 2018,,,,
+ASCAQU040FS0018M,02/01/2018,Activité sportive,Pratiquez la Pêche à Amou,,,,,40330,AMOU,40002,,,aappma.amou@gmail.com,http://aappma.amou40.over-blog.fr/, -0.7471870,43.5930040,,"
+",Pêche,,,,,,,,,
+ASCAQU040FS001QJ,15/01/2020,Activité sportive,Rico Vélo - Location de vélos,,,Camping Campéole Les Tourterelles,,40560,VIELLE-SAINT-GIRONS,40326,,+33 6 44 12 10 62,ricovelo@live.fr,http://www.ricovelo.com, -1.363952,43.951503,Oui,"
+",Cyclotourisme # Pêche # Pêche en mer,,,,05/04/2020|01/11/2020|||||,,,,,Location de vélos
+LOIAQU040V502HQ2,03/01/2020,Lac/Site de pêche,Rivière de pêche sur la Douze,,,,,40120,ROQUEFORT,40245,,,,, -0.3183110,44.0311287,Oui,"
+",,,,,,,,,Aire de pique-nique,
+LOIAQU040V502HPF,24/08/2016,Lac/Site de pêche,Rivière de pêche sur l'Estampon,,,,,40120,ROQUEFORT,40245,,,,, -0.3217443,44.0377004,Oui,"
+",,,,,,,,,,
+ASCAQU064V5A1ARY,08/01/2020,Activité sportive # Formule itinérante,Saint-Ann sorties en mer,Port de Brises-Lames,Ponton C,118 avenue de l'Adour,,64600,ANGLET,64024,,+33 6 06 85 22 40,Jean.latapy@neuf.fr,http://saint-ann.fr, -1.5090505,43.5256428,Oui,"
+",Pêche en mer,Bateaux à moteur habitables,,,01/01/2020|31/01/2020|||||,"Tarif de base|40,00||Visite simple de 2h. ",,,,
+ASCAQU064V57BDIN,03/01/2020,Activité sportive,Samathéo II,Port,,,,64500,SAINT-JEAN-DE-LUZ,64483,,+33 6 09 73 61 81,luzcroisiere@gmail.com,http://www.croisiere-saintjeandeluz.com, -1.6637416,43.3865539,Oui,"
+",Pêche en mer,,,,,"Tarif de base|||Sortie pêche au thon # Tarif de base|||Sortie pêche à la dorade, pagre, lieu # Tarif de base|||1/2 journée",,,,
+ASCAQU033V50C46U,03/01/2020,Activité sportive,Sébastien THILL,,,,,33260,LA TESTE-DE-BUCH,33529,,+33 6 16 07 62 49,sebastienthill777@gmail.com,http://www.fishermaster33.fr, -1.1443312,44.6390822,Oui,"
+",Pêche,,,,01/03/2020|15/11/2020|||||,,,,,
+LOIAQU024FS0002M,03/01/2020,Base de loisirs # Plage surveillée # Pontons handi-pêche,Site Départemental du grand étang de Saint Estèphe,,,,,24360,SAINT-ESTEPHE,24398,+33 5 53 56 73 66,,,https://www.dordogne.fr/les_sites_sportifs_et_de_pleine_nature/le_grand_etang_de_saint-estephe/631-2,0.67200793,45.5919665,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,Flow Vélo,,,,,Aire de pique-nique # Restauration,Espace jeux
+LOIAQU064FS000PS,03/01/2020,Pontons handi-pêche,Site environnement pêche,,,,Base de Loisirs,64300,ORTHEZ,64430,+33 5 59 60 55 06,,,, -0.7561683,43.4731967,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,01/01/2020|31/12/2020|||||,"Gratuit|0,00||",Visite libre,,Aire de pique-nique # Bar # Restauration,
+ASCAQU064V597N4Y,03/02/2020,Activité sportive,Site environnement pêche,,,Rue de la Fontaine,,64420,ESLOURENTIES-DABAN,64211,+33 5 59 04 59 36,+33 6 38 59 57 94,le-pesquit@wanadoo.fr,https://le-pesquit.fr, -0.1535476,43.2968985,Oui,"
+",Pêche,,,,,Tarif de base|||carte journalière pêche à la truite # Tarif de base|||par jour de stage,,,Aire de pique-nique # Parking,
+LOIAQU064FS000MK,03/01/2020,Lac/Site de pêche # Pontons handi-pêche,Site environnement pêche,Lac de l'Aubin,,,,64370,DOAZON,64200,+33 5 59 12 30 40,,contact@coeurdebearn.com,http://www.coeurdebearn.com, -0.5523540,43.4543230,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,01/01/2020|31/12/2020|||||,"Gratuit|0,00||",Visite libre,,,
+LOIAQU047V504HIJ,03/01/2020,Base de loisirs # Lac/Site de pêche,Site Nature des étangs de Ferrié - Maison de la pêche,,,,Ferrié,47140,PENNE-D'AGENAIS,47203,+33 5 53 49 58 84 # +33 5 53 66 16 68,+33 6 75 10 96 88,alexandre.peche47@orange.fr,,0.81048394,44.3854744,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Tarif de base|8,00|17,00|Séance ou journée # Tarif de base|60,00|60,00|Passeport 10 séances",Visite libre,,Aire de pique-nique # Restauration # Salle de projection,Espace jeux
+LOIAQU047V504FDG,03/01/2020,Base de loisirs # Jeux pour enfants # Lac/Site de pêche # Parc aquatique # Terrain omnisports,Site Nature des Etangs Ferrié,,,,Ferrié,47140,PENNE-D'AGENAIS,47203,+33 5 53 40 46 70,+33 6 27 28 14 54,ccfl@cc-dufumelois.fr,,0.81056977,44.3853517,Oui,"
+",,,,,,,,,Aire de pique-nique # Bar # Restauration,
+ASCAQU064V56JEXV,31/12/2018,Activité sportive,Sortie bateau - Pêche en mer,,Port de Plaisance,,,64700,HENDAYE,64260,+33 7 69 07 85 93,+33 7 69 07 85 93,sortie.bateau@gmail.com,http://www.sortie-bateau.fr, -1.7866139,43.3688069,Oui,"
+",Pêche en mer,Croisières maritimes,,,,,,,,
+ASCAQU064FS00053,03/12/2018,Activité sportive,Surf Casting Club Hendaye,,Maison du Port,10 rue des Orangers,,64700,HENDAYE,64260,+33 5 59 20 23 13,,titigot@aol.com,, -1.7799978,43.3685317,,"
+",Pêche # Pêche,,,,,,,,,
+ASCAQU04001TXHDB,03/01/2020,Activité sportive,Surf Casting Club Mimizanais,,,57 rue du Pignada,,40200,MIMIZAN,40184,,,a.tauzia@sfr.fr,, -1.2990903,44.2053120,Oui,"
+",Pêche # Pêche en mer,,,,,Gratuit|||prix des appâts,,,,
+ASCAQU04001WV9C0,03/01/2020,Activité sportive,Surfcasting Club Biscarrosse,,,133 rue des Palombes,Palges Océanes,40600,BISCARROSSE,40046,,+33 6 03 61 39 21,surfcastingclubbiscarrosse@gmail.com,https://sites.google.com/site/surfcastingclubbiscarrosse, -1.2463247,44.4420315,Non,"
+",Pêche en mer,,,,03/07/2020|31/08/2020|||||,,,,,
+ASCAQU033FS0009F,03/01/2020,Activité sportive,Union des Bateliers Arcachonnais,,,76 boulevard de la Plage,,33120,ARCACHON,33009,+33 5 57 72 28 28,,lesbateliers@orange.fr,http://www.bateliers-arcachon.com, -1.153371,44.659934,Oui,"
+",Pêche,,,,06/04/2020|02/11/2020||||| # 15/04/2020|30/10/2020||||| # 07/06/2020|28/06/2020||||| # 06/09/2020|27/09/2020||||| # 05/07/2020|31/08/2020|||||,"Tarif de base|30,00|30,00|Individuel adulte-20 pêcheurs maxi + 15 accompagnateurs # Tarif de base|9,60||Cannes # Tarif de base|6,60||Appâts # Tarif réduit|20,00|20,00|Individuel enfant/accompagnateur # Tarif de groupe|960,00||20 pêcheurs maxi + 15 accompagnateurs- journée # Gratuit|640,00||20 pêcheurs maxi + 15 accompagnateurs-1/2 journée",,,,
+ASCAQU033V50CWBF,03/01/2020,Activité sportive,Vedettes La Bohême - Pêche en mer,,,Port Médoc,,33123,LE VERDON-SUR-MER,33544,+33 5 56 09 62 93,+33 6 09 73 30 84,contact@vedette-laboheme.com,http://www.vedette-laboheme.com/, -1.0633823,45.5582549,Oui,"
+",Pêche en mer,,,,07/04/2020|29/09/2020|||||,"Tarif de base|35,00||Sortie 4h environ : enfant de 2 à 12 ans # Tarif de base|50,00||Sortie 4h environ : adulte",,,,
+LOIAQU064FS0003N,28/01/2020,Base de loisirs # Lac/Site de pêche # Plage surveillée,Water park de Sames,,Le Moura,789 chemin Bourouilla,Lac de Sames,64520,SAMES,64502,,+33 6 80 10 10 00 # +33 6 79 80 39 50,michel.othax@hotmail.fr,http://waterparkdesames.com, -1.1730040,43.5296140,Non,"
+",,,,,15/06/2020|15/09/2020||||| # 15/06/2020|30/06/2020||11:00||20:00|Jeudi - Lundi - Mardi - Mercredi - Vendredi # 01/09/2020|15/09/2020||11:00||20:00|Jeudi - Lundi - Mardi - Mercredi - Vendredi # 01/07/2020|31/08/2020||11:00||19:00|,"Tarif de base|4,00|4,00|Baignade à partir de 12 ans et adultes # Gratuit|0,00|0,00|Baignade moins de 3 ans # Tarif réduit|2,50|2,50|Baignade de 3 à 11 ans # Tarif réduit|7,00|7,00|Toboggans aquatiques à volonté, de 3 à 11 ans # Tarif réduit|8,00|8,00|Toboggans aquatiques à partir 12 ans et adultes # Tarif réduit|8,00|8,00|l'heure, structure de parcours aquatique, moins de 11 ans # Tarif de base|9,00|9,00|l'heure, structure de parcours aquatique, à partir de 12 ans et adultes  # Tarif de base|14,00|14,00|Forfait toutes activités jusqu'à 11ans # Tarif de base|17,00|17,00|Forfait toutes activités à partir de 12 ans # Tarif de groupe|||sur devis",,,Aire de pique-nique,
+ASCAQU040V50GQKD,22/01/2020,Activité sportive,www.bigfishs.fr,,,Quai de la pêcherie,Port de Capbreton,40130,CAPBRETON,40065,,+33 6 24 35 11 47,denis.desbuards@orange.fr,http://www.bigfishs.fr, -1.4375901,43.6526881,Oui,"
+",Pêche en mer,,,,01/01/2020|31/12/2020|||||,Tarif de base|||Prix par personne Peche au thon journée complète # Tarif de base|||Prix par personne Peche au requin journée complète # Tarif de base|||A partir de 90€/pers Peche verticale Possibilité 1/2 journée ou journée # Tarif de base|||A partir de 90€/pers Peche soutenir Possibilité 1/2 journée ou journée # Tarif de base|||A partir de 90€/pers Peche multiple Possibilité 1/2 journée ou journée # Tarif de base|||A partir de 250€/pers pêche au thon blanc; 4 pers. mini; 18/20heures,,,,
+ASCAQU040V5018LL,11/01/2020,Activité sportive,XCAT',Ponton B,,Avenue du Président Georges Pompidou,Port de Capbreton,40130,CAPBRETON,40065,,+33 6 34 33 27 74,contact@xcat.fr,http://www.xcat.fr, -1.4394784,43.6535265,Oui,"Faune - flore
+",Motonautisme (bateau à moteur) # Pêche en mer # Pêche en mer # Pêche en mer,,,,04/04/2020|03/11/2020|||||,"Tarif de base|12,00|15,00|X-Plorer Adulte # Tarif réduit|20,00|25,00|X-Plorer adulte 1H # Tarif de groupe|200,00|250,00|X-Plorer Groupe 12 personnes 1H # Tarif de base|||X-Sunset # Tarif de base|||X-FISH 3H # Tarif de base|||X-Fish 4H # Tarif de base|||X-Tuna 8H # Tarif de base|50,00|50,00| # Tarif de base|65,00|65,00|X-Fish Matinée 4H # Tarif de base|65,00|65,00|X-Dolphin 2H # Tarif de base|60,00|60,00|X-TAPAS 2H",,,Accessible en poussette,
+ASCAQU064FS000AD,03/01/2020,Activité sportive,Yacht Club Adour Atlantique,,Section pêche,118 avenue de l'Adour,,64600,ANGLET,64024,+33 5 59 63 60 31,,ycaa.peche@orange.fr,http://www.ycaa-peche.fr, -1.5079950,43.5249109,Oui,"
+",Pêche en mer # Pêche en mer # Pêche en mer # Pêche en mer # Pêche en mer,,,,01/01/2020|31/12/2020|||||,"Tarif de base|60,00|60,00|",,,Parking,
+ASCAQU033FS000AU,17/01/2020,Activité sportive,Yacht Club du Bassin d'Arcachon,,Maison de la Mer,Quai Goslar,,33120,ARCACHON,33009,+33 5 56 83 22 11,,ycba@orange.fr,http://www.ycba.fr, -1.1459255,44.6573896,Oui,"
+",Pêche en mer # Pêche,,,,02/01/2020|31/12/2020|||||,,,,,
+ASCAQU064FS00055,16/07/2019,Activité sportive,Yacht Club Hendaye,Station Littorale,,Port de Plaisance,,64700,HENDAYE,64260,+33 5 59 48 06 70,,info@yachtclubhendaye.com,http://www.yachtclubhendaye.com, -1.7661480,43.3593990,,"
+",Voile # Pêche en mer,,,Ecole Française de Voile,,,,,,

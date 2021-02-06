@@ -1,0 +1,8 @@
+Colonne,Type,Description_FR,Description_EN,Exemple
+numero_semaine,integer,numero de la semaine,week number,15
+code_departement,string,code département,department code,75
+classe_age,string,classe d'âge,age_range,from_50_to_64
+nombre_reponses,integer,nombre de réponses,number of responses,21
+nombre_orientation_samu,integer,nombre d'orientations SAMU,number of emergency orientations,4
+nombre_orientation_surveillance,integer,nombre d'orientations surveillance,number of surveillance orientations,8
+nombre_orientation_consultation,integer,nombre d'orientations consultation médecin,number of doctor consultation orientations,12

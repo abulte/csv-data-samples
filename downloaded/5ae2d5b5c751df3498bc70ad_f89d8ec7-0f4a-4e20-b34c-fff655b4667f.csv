@@ -1,0 +1,14 @@
+"id_tut";"tut_libelle";"tut_commentaire";"tut_ordre";"count";
+"15";"Artisanat - Bâtiment";"uniquement visible pour els web services";"0";"1218";"";"";"";
+"16";"Artisanat - Fabrication";"uniquement visible pour els web services";"0";"1301";"";"";"";
+"17";"Artisanat - Alimentation";"uniquement visible pour els web services";"0";"1233";"";"";"";
+"18";"Artisanat - Services";"uniquement visible pour les web services";"0";"1217";"";"";"";
+"4";"PME tous secteurs";"Coché dans tous les cas (sauf si l'aide concerne uniquement une coopérative-ESS, un artisan, une ETI et grandes entreprises, les collectivités territoriales ou un organisme d'accompagnement)";"1";"2069";"";"";"";
+"14";"Industrie";"";"2";"1353";"";"";"";
+"5";"Artisanat";"";"3";"1416";"";"";"";
+"6";"Commerce de proximité";"";"4";"1034";"";"";"";
+"8";"Hôtellerie-Restauration-Tourisme";"Coché quand tous les secteurs d'activité sont concernés (seulement si explicitement indiquées)";"5";"1041";"";"";"";
+"11";"Autres services, professions libérales";"Les PL sont assimilées à des entreprises donc elles sont cochées même si elles ne sont pas spécifiées comme bénéficiaires (sauf exclues spécifiquement)";"6";"945";"";"";"";
+"9";"Culture-Médias";"Coché même si elles ne sont pas explicitement indiquées (sauf exclues explicitement)";"7";"874";"";"";"";
+"7";"Economie Sociale et Solidaire";"Coché même si elles ne sont pas explicitement indiquées (sauf si exclues explicitement)";"8";"971";"";"";"";
+"10";"ETI et grande entreprise";"";"9";"560";"";"";"";

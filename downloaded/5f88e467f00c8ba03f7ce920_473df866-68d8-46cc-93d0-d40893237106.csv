@@ -1,0 +1,5 @@
+﻿id_zas,lib_zas,type_za,annee,pop_insee_hab,id_poll_ue,nom_poll,valeur_reg,pop_exp_hab,surf_en_depassement,surf_totale,gid,ESRI_OID,Shape__Area,Shape__Length
+FR34A01,ZAG_ORLEANS,ZAG,2016,266762,5,PM10,40 µg/m³ en moyenne annuelle en PM10,0,0,340,1,1,0.0409571128007329,1.31149825010689
+FR34A02,ZAG_TOURS,ZAG,2016,349173,5,PM10,40 µg/m³ en moyenne annuelle en PM10,0,0,856,2,2,0.102173767483709,1.80549989110634
+FR34N10,ZUR_CENTRE,ZUR,2016,402076,5,PM10,40 µg/m³ en moyenne annuelle en PM10,0,0,1409,3,3,0.168091676641986,6.19209012998643
+FR34N20,ZR_CENTRE,ZR,2016,1506727,5,PM10,40 µg/m³ en moyenne annuelle en PM10,0,0,36868,4,4,4.4133930079085,23.25361870574

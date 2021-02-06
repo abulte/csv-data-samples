@@ -1,0 +1,52 @@
+id,codegare,nomgare,nomgare_mi,type,code_uic7,type_pem
+1,87281006,DUNKERQUE,Dunkerque,GARE,8728100,PEM régional
+2,87317263,CALAIS-VILLE,Calais-Ville,GARE,8731726,PEM régional
+3,87281071,CALAIS-FRETHUN,Calais-Frethun,GARE,8728107,PEM régional
+4,87317586,BOULOGNE-VILLE,Boulogne-Ville,GARE,8731758,PEM régional
+5,87317065,ETAPLES-LE TOUQUET,Etaples-Le-Touquet,GARE,8731706,PEM régional
+6,87342014,ARRAS,Arras,GARE,8734201,PEM régional
+7,87345025,LENS,Lens,GARE,8734502,PEM régional
+8,87342006,BETHUNE,Béthune,GARE,8734200,PEM régional
+9,87286302,HAZEBROUCK,Hazebrouck,GARE,8728630,PEM régional
+10,87281444,ST-OMER,St-Omer,GARE,8728144,PEM de rabattement vers les métropoles
+11,87342436,LA BASSEE-VIOLAINES,La Bassée-Violaines,GARE,8734243,PEM de rabattement vers les métropoles
+12,87286435,DON-SAINGHIN,Don-Sainghin,GARE,8728643,PEM de rabattement vers les métropoles
+13,87286005,LILLE-FLANDRES,Lille-Flandres,GARE,8728600,PEM régional
+14,87223263,LILLE-EUROPE,Lille-Europe,GARE,8722326,PEM régional
+15,87286583,ORCHIES,Orchies,GARE,8728658,PEM de rabattement vers les métropoles
+16,87286625,TEMPLEUVE,Templeuve,GARE,8728662,PEM de rabattement vers les métropoles
+17,87286179,BAILLEUL,Bailleul,GARE,8728617,PEM de rabattement vers les métropoles
+18,87286146,ARMENTIERES,Armentières,GARE,8728614,PEM de rabattement vers les métropoles
+19,87286542,TOURCOING,Tourcoing,GARE,8728654,PEM de rabattement vers les métropoles
+20,87286518,SECLIN,Seclin,GARE,8728651,PEM de rabattement vers les métropoles
+21,87345256,LIBERCOURT,Libercourt,GARE,8734525,PEM de rabattement vers les métropoles
+22,87345157,HENIN-BEAUMONT,Hénin-Beaumont,GARE,8734515,PEM de rabattement vers les métropoles
+23,87345009,DOUAI,Douai,GARE,8734500,PEM régional
+24,87343103,ST-AMAND-LES-EAUX,St-Amand-les-Eaux,GARE,8734310,PEM de rabattement vers les métropoles
+25,87345520,CAMBRAI-VILLE,Cambrai-Ville,GARE,8734552,PEM régional
+26,87343004,VALENCIENNES,Valenciennes,GARE,8734300,PEM régional
+27,87295857,LE QUESNOY,Le Quesnoy,GARE,8729585,PEM de rabattement vers les métropoles
+28,87295600,AULNOYE-AYMERIES,Aulnoye-Aymeries,GARE,8729560,PEM de rabattement vers les métropoles
+29,87295006,MAUBEUGE,Maubeuge,GARE,8729500,PEM régional
+30,87317362,ABBEVILLE,Abbeville,GARE,8731736,PEM régional
+31,87296616,CHAUNY,Chauny,GARE,8729661,PEM de rabattement vers les métropoles
+32,87313874,AMIENS,Amiens,GARE,8731387,PEM régional
+33,87313049,LONGUEAU,Longueau,GARE,8731304,PEM de rabattement vers les métropoles
+34,87313304,CLERMONT-DE-L'OISE,Clermont-de-l'Oise,GARE,8731330,PEM de rabattement vers les métropoles
+35,87276279,ORRY-LA-VILLE-COYE,Orry-la-Ville-Coye,GARE,8727627,PEM de rabattement vers les métropoles
+36,87276329,PONT-STE-MAXENCE,Pont-ste-Maxence,GARE,8727632,PEM de rabattement vers les métropoles
+37,87313882,TGV-HAUTE-PICARDIE,Tgv-Haute-Picardie,GARE,8731388,PEM régional
+38,87313510,BEAUVAIS,Beauvais,GARE,8731351,PEM régional
+39,87271817,SOISSONS,Soissons,GARE,8727181,PEM régional
+40,87296004,ST-QUENTIN,St-Quentin,GARE,8729600,PEM régional
+41,87296012,LAON,Laon,GARE,8729601,PEM régional
+42,87276006,CREIL,Creil,GARE,8727600,PEM régional
+43,87276113,CHANTILLY-GOUVIEUX,Chantilly-Gouvieux,GARE,8727611,PEM de rabattement vers les métropoles
+44,87276691,COMPIEGNE,Compiègne,GARE,8727669,PEM régional
+45,87116582,CHATEAU-THIERRY,Château-Thierry,GARE,8711658,PEM régional
+46,87271593,CREPY-EN-VALOIS,Crépy-en-Valois,GARE,8727159,PEM de rabattement vers les métropoles
+47,87313668,MERU,Méru,GARE,8731366,PEM de rabattement vers les métropoles
+48,87313270,ST-JUST-EN-CHAUSSEE,St-Just-en-Chaussée,GARE,8731327,PEM de rabattement vers les métropoles
+49,87276782,NOYON,Noyon,GARE,8727678,PEM de rabattement vers les métropoles
+50,87271734,VILLERS-COTTERETS,Villers-Cotterêts,GARE,8727173,PEM de rabattement vers les métropoles
+51,87296442,TERGNIER,Tergnier,GARE,8729644,PEM de rabattement vers les métropoles

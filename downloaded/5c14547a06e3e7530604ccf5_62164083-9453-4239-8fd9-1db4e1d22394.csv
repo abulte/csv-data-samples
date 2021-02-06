@@ -1,0 +1,132 @@
+﻿X,Y,OBJECTID,ID_PAV,TOURNEE,ADRESSE,D_COMMUNE,DATE_AMENAG,JOUR,VERRE,PAPIER,TEXTILE,TYPE_TEXTILE,CARTO_SMARTPHONE,NOM,CODE_ICONE
+799982.007399999,6874530.411,1,01,54,Avenue de Valmy (Maison des Syndicats),Châlons-en-Champagne,2006,Mercredi,1,1,0,-,Oui,01,110
+801321.735600002,6874164.3592,2,02,35,Rue de Ceux de la Libération / Avenue de Metz,Châlons-en-Champagne,2006,Mardi,1,1,0,-,Oui,02,110
+801326.838500001,6872451.3168,3,03,24,Capitole en Champagne,Châlons-en-Champagne,NR,Lundi,1,0,0,-,Oui,03,100
+800343.516400002,6872377.7033,4,04,10,Cente Commercial du Verbeau / Rue Georges Barbier,Châlons-en-Champagne,2005,Lundi,1,1,1,-,Oui,04,111
+800674.536700003,6872191.7834,5,05,11,Boulevard Kennedy / Fosse aux Brebis,Châlons-en-Champagne,2005,Lundi,1,1,1,-,Oui,05,111
+801018.676299997,6871976.5723,6,06,12,Rue Duclos / Rue Colluel,Châlons-en-Champagne,2006,Lundi,1,1,0,-,Oui,06,110
+801047.2962,6871665.0167,7,07,13,Rue du Groupe Libération Nord,Châlons-en-Champagne,2005,Lundi,1,1,1,Le Relais,Oui,07,111
+801484.298500001,6871345.1233,8,08,14,Rue Edouart Manet,Châlons-en-Champagne,2006,Lundi,1,1,1,ABI 51,Oui,08,111
+801961.504199997,6871853.8712,9,09,,Rue Paul Verlaine (à côté arrêt de bus),Châlons-en-Champagne,NR,,0,0,0,-,Oui,09,000
+799552.236299999,6873315.2714,10,10,8,Grand Jard (Kiosque),Châlons-en-Champagne,NR,Lundi,1,0,0,-,Oui,10,100
+803149.511200003,6869644.4431,11,11,17,Rue du Thermot,Sarry,NR,Lundi,1,1,0,-,Non,11,110
+802217.781099997,6871596.2652,12,12,20,Chemin de St Thiebault,Châlons-en-Champagne,NR,Lundi,1,1,0,-,Oui,12,110
+801669.908600003,6871817.4597,13,13,21,Rue de la Trussonnerie,Châlons-en-Champagne,2006,Lundi,1,1,0,-,Oui,13,110
+801762.113300003,6872307.8575,14,14,22,Centre Commercial Carrefour N°1,Châlons-en-Champagne,2005,Lundi,0,1,1,ECotextile,Oui,14,011
+801393.648100004,6872540.4013,15,15,96,Buffalo Grill,Châlons-en-Champagne,NR,Lundi,1,0,0,-,Oui,15,100
+798279.252099998,6874526.2059,16,16,76,Déchèterie de Châlons-en-Champagne,Châlons-en-Champagne,NR,Jeudi,1,0,1,Le Relais,Oui,16,101
+798150.035400003,6873627.9877,17,17,94,Avenue Daniel Simonnot,Châlons-en-Champagne,2005,Jeudi,1,1,1,Le Relais,Oui,17,111
+800500.260799997,6873108.3178,18,18,26,Rue de la Fontaine (Stade des Frères Lauvaux),Châlons-en-Champagne,2005,Lundi,1,1,1,-,Oui,18,111
+799836.033,6873315.0454,19,19,27,Boulevard Vaubécourt - Cours d'Ormesson,Châlons-en-Champagne,NR,Lundi,1,1,1,Le Relais,Oui,19,111
+799558.285400003,6873608.1564,20,20,7,Rue Récamier / Rue des Cordeliers,Châlons-en-Champagne,2005,Lundi,1,1,1,Le Relais,Oui,20,111
+799932.417900003,6873829.0069,21,21,28,Rue des Fripiers (Parking),Châlons-en-Champagne,2006,Lundi,1,1,1,-,Oui,21,111
+800315.613399997,6873511.2321,22,22,31,Place des Buttes,Châlons-en-Champagne,NR,Lundi,1,1,1,ABI51,Oui,22,111
+800747.456799999,6873637.8192,23,23,36,Rue des Vieilles Postes,Châlons-en-Champagne,2006,Mardi,1,1,0,-,Oui,23,110
+801291.6109,6872856.8098,24,24,38,Chemin du Carpion,Saint-Memmie,2005,Mardi,0,1,0,-,Non,24,010
+798679.209600002,6873512.002,25,25,95,Rue des Brasseries / Rue du Temple,Châlons-en-Champagne,2005,Jeudi,1,1,1,-,Oui,25,111
+797753.2733,6873843.7476,26,26,93,Rue Pâture d'Arras,Châlons-en-Champagne,2006,Jeudi,1,1,1,-,Oui,26,111
+796571.901000001,6874154.657,27,27,91,Centre Commercial Leclerc,Fagnières,2005,Jeudi,1,1,0,-,Non,27,110
+801651.115699999,6873542.6386,28,28,41,Boulevard Vauban / Rue Lamartine,Saint-Memmie,2005,Mardi,1,1,1,-,Non,28,111
+801867.978,6872725.7629,29,29,40,Centre de Loisirs,Saint-Memmie,2005,Mardi,1,1,1,Le Relais,Non,29,111
+801835.968800001,6872610.4608,30,30,39,Chemin du Terme Lanternier,Saint-Memmie,NR,Mardi,1,0,0,-,Non,30,100
+800723.1888,6873800.5378,31,31,32,Impasse Saint-Jean,Châlons-en-Champagne,2006,Lundi,1,1,1,Le Relais,Oui,31,111
+800337.1668,6873910.2524,32,32,30,Place des Ursulines,Châlons-en-Champagne,2006,Lundi,1,1,0,-,Oui,32,110
+800366.1263,6874107.4089,33,33,50,Rue Chevalier / Boulevard Anatole France,Châlons-en-Champagne,2006,Mardi,1,1,1,Le Relais,Oui,33,111
+800116.190200001,6873924.5423,34,34,29,Rue du Flocmagny / Rue Garinet,Châlons-en-Champagne,2006,Mardi,1,1,0,-,Oui,34,110
+800814.159500003,6873828.0013,35,35,44,Boulevard Emile Zola / Quinconces Gouraud,Châlons-en-Champagne,NR,Mardi,1,1,1,ABI 51,Oui,35,111
+801087.223899998,6874550.9672,36,36,45,Rue Sabathier / Avenue de Sainte-Menehould,Châlons-en-Champagne,2006,Mardi,1,1,1,ABI 51,Oui,36,111
+798881.600299999,6871935.8248,37,37,80,Rue Jules Ferry,Compertrix,2005,Mercredi,1,1,0,-,Non,37,110
+797033.289499998,6873719.913,38,38,92,Rue des Postes,Fagnières,2005,Jeudi,1,1,0,-,Non,38,110
+800590.391599998,6874830.4928,39,39,47,Rue du Camp d'Attila / Chemin du Mont Bernard,Châlons-en-Champagne,2005,Mardi,1,1,0,-,Oui,39,110
+800459.632299997,6874531.2815,40,40,48,Avenue de Sainte-Menehould (Commerce ED),Châlons-en-Champagne,2005,Mardi,1,1,0,-,Oui,40,110
+800201.946400002,6874423.7735,41,41,49,Rue Kellermann,Châlons-en-Champagne,2006,Mardi,1,1,1,ABI51,Oui,41,111
+796522.354000002,6874409.7316,42,42,90,Avenue Charles de Gaulle,Fagnières,NR,Jeudi,1,1,1,Le Relais,Non,42,111
+800272.296700001,6875507.8416,43,43,52,Centre Hospitalier de Châlons,Châlons-en-Champagne,NR,Mardi,1,0,0,-,Oui,43,100
+799954.225699998,6875351.7299,44,44,53,EPSDM ,Châlons-en-Champagne,NR,Mardi,1,0,0,-,Oui,44,100
+799372.248999998,6876300.8016,45,46,66,Parking Intermarché / Rue A-J Théroigne de Méricourt,Châlons-en-Champagne,NR,Mercredi,1,1,0,-,Oui,46,110
+799390.721699998,6875094.9474,47,49,56,Rue Emile Schmit / Rue Lavoisier,Châlons-en-Champagne,2006,Mercredi,1,1,1,Le Relais,Oui,49,111
+799412.443000004,6875217.3978,48,50,58,Rue Lavoisier / Rue Marc Berthelot,Châlons-en-Champagne,2006,Mercredi,1,1,0,-,Oui,50,110
+799456.419299997,6875568.4732,49,51,59,Avenue du 106éme R.I. / Rue Lavoisier,Châlons-en-Champagne,2005,Mardi,1,1,0,-,Oui,51,110
+799589.068000004,6875692.3923,50,52,60,Rue Clair Logis,Châlons-en-Champagne,2005,Mercredi,1,1,0,-,Oui,52,110
+799792.868100002,6875125.2475,51,53,62,Complexe Gérard Philippe,Châlons-en-Champagne,NR,Mercredi,1,0,0,-,Oui,53,100
+799841.030500002,6875054.3316,52,54,61,Avenue Sarrail (Commerce LIDL),Châlons-en-Champagne,2006,Mercredi,1,1,1,-,Oui,54,111
+799854.569799997,6875589.6731,53,55,63,Rue Maurice Genevoix,Châlons-en-Champagne,NR,Mercredi,1,1,0,-,Oui,55,110
+800021.012100004,6875936.1098,54,56,64,Rue Jean-Baptiste Drouet,Châlons-en-Champagne,2006,Mercredi,1,1,1,Le Relais,Oui,56,111
+799616.754799999,6875967.5617,55,57,65,Lycée Technique Oehmichen,Châlons-en-Champagne,NR,Mercredi,1,0,0,-,Oui,57,100
+799318.248899996,6875850.1733,56,58,67,Rue Ampère,Châlons-en-Champagne,2006,Mercredi,1,1,0,-,Oui,58,110
+799327.3508,6874268.4809,57,59,5,Rue Alexis Lepage / Rue du Docteur Auger,Châlons-en-Champagne,2006,Mercredi,1,1,0,-,Oui,59,110
+797468.482600003,6876326.396,58,60,71,Rue Robert Baudry,Saint-Martin,2006,Mercredi,1,1,0,-,Non,60,110
+799513.917900003,6873991.642,59,61,6,Rue de la Rochefoucault / Place des Arts,Châlons-en-Champagne,NR,Mercredi,1,1,1,Le Relais,Oui,61,111
+798864.172300003,6874426.8364,60,62,3,Avenue du Général Patton / Rue de la Briquetterie,Châlons-en-Champagne,2005,Mercredi,1,1,1,Le Relais,Oui,62,111
+798932.610699996,6874662.2627,61,63,2,Rue des Rouges-Gorges,Châlons-en-Champagne,2006,Mercredi,1,1,1,-,Oui,63,111
+798864.736100003,6873254.8808,62,64,77,Rue du Lieutenant Loyer / Rue Jules Lobet,Châlons-en-Champagne,2006,Mercredi,1,1,1,-,Oui,64,111
+799154.823899999,6873428.0311,63,65,75,Rue Clamart,Châlons-en-Champagne,2006,Mercredi,1,1,0,-,Oui,65,110
+798180.613700002,6872566.4313,64,66,83,Rue de Bretagne,Châlons-en-Champagne,2016,Jeudi,1,1,1,-,Oui,66,111
+798570.3825,6872423.8505,65,67,82,Avenue Pierre Brossolette,Châlons-en-Champagne,2006,Jeudi,1,1,1,Le Relais,Oui,67,111
+796466.033100002,6877545.8173,66,68,70,Chemin des Epinettes,Recy,2004,Mercredi,1,1,0,-,Non,68,110
+796173.405000001,6877236.8698,67,69,69,Rue de Châlons,Recy,2004,Mercredi,1,1,1,Le Relais,Non,69,111
+797816.349100001,6875971.4801,68,70,72,Chemin des Sports,Saint-Martin,2004,Mercredi,1,1,1,Le Relais,Non,70,111
+798154.076200001,6875878.4132,69,71,73,Rue Clovis Jacquiert,Saint-Martin,2004,Mercredi,1,1,1,ABI51,Non,71,111
+799670.275600001,6874373.4577,70,72,55,Avenue de Valmy / Rue du Général Jansen,Châlons-en-Champagne,2004,Mercredi,1,1,1,Le Relais,Oui,72,111
+800217.6351,6875031.7231,71,73,51,Rues du Commandant Derrien /  Groupe Bleu et Jonquilles,Châlons-en-Champagne,2005,Mardi,1,1,0,-,Oui,73,110
+801099.887900002,6874713.7911,72,74,46,Avenue Beethoven / Rue Jean-Sébastien Bach,Châlons-en-Champagne,2004,Mardi,1,1,1,Le Relais,Oui,74,111
+801659.416599996,6874013.0389,73,75,42,Boulevard Vauban / Rue du moulin à vent,Saint-Memmie,2004,Mardi,1,1,0,-,Non,75,110
+801177.516599998,6873905.9464,74,76,43,Rue Appolinaire,Saint-Memmie,2004,Mardi,1,1,1,Le Relais,Non,76,111
+801031.575599998,6873267.8771,75,77,37,Rue du Pont Alips,Saint-Memmie,2004,Lundi,1,1,0,-,Non,77,110
+800674.602700002,6872728.9685,76,78,25,Rond point Bagatelle,Châlons-en-Champagne,2004,Lundi,1,1,1,Le Relais,Oui,78,111
+799961.397399999,6872734.2694,77,79,9,Allées de Forêts / Allée Alphonse Karr,Châlons-en-Champagne,2004,Lundi,1,1,1,Le Relais,Oui,79,111
+802495.0458,6869709.8958,78,81,16,Route de Sogny,Sarry,2004,Lundi,1,1,0,-,Non,81,110
+798967.388499998,6873722.0581,79,82,74,Rue du Port de Marne / Rue Simon de Chaalons,Châlons-en-Champagne,2004,Mercredi,1,1,0,-,Oui,82,110
+797254.792199999,6873661.9278,80,83,86,Route d'Epernay,Fagnières,2004,Jeudi,1,1,0,-,Non,83,110
+795950.109200001,6874814.4639,81,84,88,Cimetière de Fagnières,Fagnières,2004,Jeudi,1,1,0,-,Non,84,110
+794870.053400002,6875750.9173,82,85,87,Chemin du stade,Saint-Gibrien,2004,Jeudi,1,1,1,Le Relais,Non,85,111
+797511.877300002,6873179.8562,83,86,85,Avenue du Luxembourg,Fagnières,2018,Jeudi,1,1,1,-,Non,86,111
+797960.107699998,6872940.3461,84,87,84,Avenue Pierre  Semard / Rue Puget,Châlons-en-Champagne,2004,Jeudi,1,1,1,Le Relais,Oui,87,111
+798513.843599997,6872017.7032,85,88,81,Cimetière de Compertrix,Compertrix,2004,Mercredi,1,1,0,-,Non,88,110
+798916.045100003,6871399.2727,86,89,78,Chemin du Voyeux,Compertrix,2004,Mercredi,1,1,0,-,Non,89,110
+799158.628300004,6870273.816,87,90,79,Rue Ampère,Coolus,2004,Mercredi,1,1,0,-,Non,90,110
+796435.756300002,6877005.2639,88,91,68,Salle Arnould,Recy,NR,Mercredi,1,1,0,-,Non,91,110
+798589.685999997,6875213.268,89,92,1,Rue Fréderic et Irène Juliot-Curie,Châlons-en-Champagne,2006,Mercredi,1,1,1,Le Relais,Oui,92,111
+804461.725299999,6868791.0363,90,93,19,Rue des Artisans,Moncetz-Longevas,2005,Lundi,1,1,0,-,Non,93,110
+807414.667199999,6876376.9179,91,94,34,Rue de la Chavée,L'Epine,2005,Jeudi,1,1,1,Le Relais,Non,94,111
+804431.688900001,6881787.4886,92,95,33,Rue Principale,Saint-Etienne-au-Temple,2005,Mardi,1,1,1,Le Relais,Non,95,111
+799037.922799997,6874286.987,93,96,4,CTM Avenue Patton,Châlons-en-Champagne,NR,Lundi,1,1,0,-,Oui,96,110
+801329.317500003,6872244.0254,94,97,23,CC Carrefour Croix Dampierre N°2,Châlons-en-Champagne,NR,Lundi,1,1,0,-,Oui,97,110
+796977.143399999,6882857.0201,96,99,,Rue de la Nau des Vignes,La Veuve,NR,Mardi,1,1,1,Le Relais,Non,99,111
+799913.168499999,6874017.225,97,100,,Impasse Moulinet,Châlons-en-Champagne,NR,,0,0,1,ABI 51,Oui,100,001
+799785.659400001,6876230.6958,98,101,,Rue de la Fraternité,Châlons-en-Champagne,NR,,0,0,1,ABI 51,Oui,101,001
+799082.982799999,6873534.0085,99,102,,Impasse des Mathurins,Châlons-en-Champagne,NR,,0,0,1,ABI 51,Oui,102,001
+803378.526500002,6869848.5253,403,11,17,Rue du Thermot,Sarry,NR,Lundi,1,1,0,-,Non,11,110
+801599.024300002,6871025.1946,801,103,15,Boulevard Croix Dampierre,Châlons-en-Champagne,NR,Lundi,1,1,0,,Oui,103,110
+788519.7126,6882510.4395,802,130,,Route des Grandes Loges,Aigny,,,1,1,0,-,Non,130,110
+788303.812200002,6879265.4508,803,131,,Rue du Pont,Aulnay-sur-Marne,,,1,0,0,,Non,131,100
+788927.700900003,6878574.3577,805,132,,A l'intérieur de la déchèterie,Aulnay-sur-Marne,,,1,0,0,-,Non,132,100
+792430.9111,6856611.9811,806,103,,Chemin de Sommesous,Bussy-Lettrée,,,1,0,0,,Non,103,100
+785107.997500002,6874898.9329,807,104,,A la salle polyvalente (entrée du village en venant de Pocancy),Champigneul-Champagne,,,1,0,0,-,Non,104,100
+791040.5814,6865623.0962,808,105,,"Rue Principale, à côté du transformateur",Cheniers,,,1,0,0,-,Non,105,100
+785245.4881,6880567.7078,809,106,,Angle Rue de l'Eglise / rue des Processions,Cherville,,,1,0,0,-,Non,106,100
+786039.647500001,6883427.4669,810,107,,A l'exétieur de la déchèterie (route d'Epernay),Condé-sur-Marne,,,1,1,0,-,Non,107,110
+786608.282399997,6883206.9803,811,108,,"Allée de l'Usine, près de l'arrêt de bus",Condé-sur-Marne,,,1,1,0,-,Non,108,110
+795263.363899998,6852555.0665,812,109,,"Rue de l'école, derrière la salle des fêtes",Dommartin-Lettrée,,,1,0,0,-,Non,109,100
+786020.329499997,6849843.1965,813,110,,"Direction le stade, sur le chemin en gravier après le stade",Haussimont,,,1,0,0,-,Non,110,100
+788136.223200001,6885931.1125,814,111,,"Chemin de Livry, direction Vaudemanges, près du château d'eau",Isse,,,1,1,0,-,Non,111,110
+786881.301899999,6879840.5855,815,112,,"Route Départementale RD 37, direction Condé-sur-Marne après la voie ferrée",Jâlons,,,1,0,0,-,Non,112,100
+792674.868299998,6881095.0834,816,113,,Déchèterie de Juvigny,Juvigny,,,1,1,0,-,Non,113,110
+792006.727899998,6880557.2505,817,114,,Voie de Matougues,Juvigny,,,1,1,0,-,Non,114,110
+792895.729699999,6880343.6432,818,115,,Route de Châlons,Juvigny,,,1,1,1,ABI51,Non,115,111
+781257.977200001,6852732.2926,819,116,,"Prendre direction Normée, puis Connantray. Au silo, prendre chemin à gauche",Lenharrée,,,1,0,0,-,Non,116,100
+794627.600400001,6885993.154,820,117,,"Rue des Jardins, près du château d'eau",Les Grandes-Loges,,,1,1,0,-,Non,117,110
+790559.158399999,6877604.729,821,118,,"Route du château d'eau, avant l'aire de jeux",Matougues,,,1,0,0,-,Non,118,100
+783724.551700003,6846317.8758,822,119,,Entre rue Pasquier et rue Clichat,Montépreux,,,1,0,0,-,Non,119,100
+791534.4639,6872939.4918,823,120,,Angle Grande Rue et Rue Nau Girat,Saint-Pierre,,,1,0,0,-,Non,120,100
+787921.444200002,6850098.4741,824,121,,Tout au bout de la rue du Châtel,Sommesous,,,1,0,0,-,Non,121,100
+796111.817100003,6850249.8189,825,122,,Notre-Dame - Au pied du château d'eau,Soudé,,,1,0,0,-,Non,122,100
+788269.375,6860670.8925,826,123,,Chemin de Châlons (sous l'Eglise),Soudron,,,1,0,0,-,Non,123,100
+789191.955899999,6870266.5547,827,124,,Sortie de village en direction de Cheniers,Soudron,,,1,0,0,-,Non,124,100
+784408.850400001,6852191.9626,828,125,,Tout au bout de la rue des Peupliers,Vassimont-et-Chapelaine,,,1,0,0,-,Non,125,100
+791518.981600001,6858944.0943,829,126,,Rue Principale,Vatry,,,1,0,0,-,Non,126,100
+789987.329800002,6854147.5358,830,127,,Déchèterie de Vatry - ZAC Europort,Bussy-Lettrée,,,1,0,0,-,Non,127,100
+793032.281800002,6874203.9894,831,128,,Rue du Château,Villers-le-Château,,,1,0,0,-,Non,128,100
+790786.935800001,6881281.9023,832,129,,Rue du Jard,Vraux,,,1,1,0,-,Non,129,110
+790712.385600001,6877711.5406,833,,,Route Départementale 3,Matougues,,,0,0,1,ABI51,,,001
+801352.5814,6873922.6999,834,,,Piscine Régis Fermier,Saint-Memmie,,,0,0,1,ABI51,,,001

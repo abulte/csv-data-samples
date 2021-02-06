@@ -1,0 +1,259 @@
+SITE;APPLICATION;ANNEE;MOIS;PREMIERE_VISITE;DERNIERE_VISITE;NB_VISITEURS;NB_VISITE;MOY_VISITEURS_VISITE;PAGES;MOY_PAGES_VISITE;HITS;MOY_HITS_VISITE;VOL_BANDEPASSANTE;MOY_BANDEPASSANTE_VISITE
+ac.national.agri;;2020;Décembre;01 Dec 2020 - 00:02;31 Dec 2020 - 23:56;848;1668;1,97;274060;164,30;477585;286,32;3449,44;2117,65
+agorha.agriculture;;2020;Décembre;01 Dec 2020 - 08:11;30 Dec 2020 - 17:21;104;173;1,66;15104;87,31;16070;92,89;211,06;1249,31
+agorha.agriculture.gouv.fr;;2020;Décembre;01 Dec 2020 - 05:11;31 Dec 2020 - 20:01;1875;4711;2,51;225184;47,80;1712702;363,55;8745,84;1901,03
+agorha.agriculture.gouv.fr_mobilite;mobilite;2020;Décembre;01 Dec 2020 - 05:11;31 Dec 2020 - 16:17;168;334;1,99;28993;86,81;32637;97,72;209,02;640,83
+agorha.agriculture_aia;aia;2020;Décembre;01 Dec 2020 - 09:08;30 Dec 2020 - 17:21;85;151;1,78;14121;93,52;14994;99,30;189,48;1284,93
+agorha.agriculture_atmp;atmp;2020;Décembre;01 Dec 2020 - 08:11;24 Dec 2020 - 08:19;21;22;1,05;932;42,36;1021;46,41;20,65;961,09
+agreste.agriculture.gouv.fr;;2020;Décembre;01 Dec 2020 - 00:00;31 Dec 2020 - 23:59;28204;72206;2,56;2788276;38,62;4021401;55,69;172076,28;2440,33
+agreste.agriculture.gouv.fr_agreste-saiku;agreste-saiku;2020;Décembre;01 Dec 2020 - 06:41;31 Dec 2020 - 23:15;2214;3373;1,52;90504;26,83;416068;123,35;30949,13;9395,76
+agreste.agriculture.gouv.fr_agreste-web;agreste-web;2020;Décembre;01 Dec 2020 - 00:00;31 Dec 2020 - 23:59;28095;71832;2,56;2697772;37,56;3605333;50,19;141127,15;2011,84
+alim.agriculture.gouv.fr;;2020;Décembre;01 Dec 2020 - 00:00;31 Dec 2020 - 23:36;10968;30475;2,78;26578198;872,13;30309445;994,57;82080,53;2758,01
+alim.agriculture.gouv.fr_TeleRuchers;TeleRuchers;2020;Décembre;NA;NA;0;0;0,00;0;0,00;270;0,00;5,53;0,00
+alim.agriculture.gouv.fr_Vivants;Vivants;2020;Décembre;NA;14 Dec 2020 - 16:55;4;4;1,00;37;9,25;1864;466,00;1,92;491,75
+alim.agriculture.gouv.fr_cepp;cepp;2020;Décembre;01 Dec 2020 - 04:12;31 Dec 2020 - 18:26;1130;1817;1,61;6496;3,58;35329;19,44;721,77;406,77
+alim.agriculture.gouv.fr_cepp-rs;cepp-rs;2020;Décembre;01 Dec 2020 - 04:12;31 Dec 2020 - 20:02;1097;1884;1,72;42477;22,55;42477;22,55;1939,03;1053,91
+alim.agriculture.gouv.fr_choral;choral;2020;Décembre;01 Dec 2020 - 08:35;31 Dec 2020 - 18:16;23;67;2,91;6510;97,16;33479;499,69;158,66;2424,85
+alim.agriculture.gouv.fr_epiphyt;epiphyt;2020;Décembre;01 Dec 2020 - 11:50;30 Dec 2020 - 18:46;29;70;2,41;2624;37,49;10124;144,63;152,93;2237,21
+alim.agriculture.gouv.fr_ift;ift;2020;Décembre;01 Dec 2020 - 00:54;31 Dec 2020 - 23:19;2439;3601;1,48;39993;11,11;87148;24,20;2210,32;628,54
+alim.agriculture.gouv.fr_ift-api;ift-api;2020;Décembre;01 Dec 2020 - 05:51;31 Dec 2020 - 19:52;2182;3298;1,51;195042;59,14;195866;59,39;525,69;163,22
+alim.agriculture.gouv.fr_sfb;sfb;2020;Décembre;01 Dec 2020 - 08:05;31 Dec 2020 - 10:00;48;81;1,69;202;2,49;5525;68,21;10,77;136,14
+alim.agriculture.gouv.fr_sial-bdni-consultation;sial-bdni-consultation;2020;Décembre;01 Dec 2020 - 04:58;31 Dec 2020 - 21:21;53;355;6,70;8338;23,49;9933;27,98;17,64;50,89
+alim.agriculture.gouv.fr_sial-bdni-equarrissage;sial-bdni-equarrissage;2020;Décembre;02 Dec 2020 - 12:27;17 Dec 2020 - 19:47;4;4;1,00;11;2,75;20;5,00;0,04;11,00
+alim.agriculture.gouv.fr_sial-bdni-statistiques;sial-bdni-statistiques;2020;Décembre;01 Dec 2020 - 04:55;31 Dec 2020 - 16:50;563;2896;5,14;82237;28,40;93140;32,16;165,96;58,68
+alim.agriculture.gouv.fr_sial-biovigilance;sial-biovigilance;2020;Décembre;01 Dec 2020 - 08:38;29 Dec 2020 - 12:44;63;160;2,54;92442;577,76;116503;728,14;576,02;3686,51
+alim.agriculture.gouv.fr_sial-nomenclatures;sial-nomenclatures;2020;Décembre;01 Dec 2020 - 08:58;31 Dec 2020 - 12:19;73;106;1,45;25033;236,16;29314;276,55;84,78;819,00
+alim.agriculture.gouv.fr_sial-portail;sial-portail;2020;Décembre;01 Dec 2020 - 00:00;31 Dec 2020 - 23:05;5192;14848;2,86;5955027;401,07;7184534;483,87;19091,21;1316,64
+alim.agriculture.gouv.fr_sial-usagers;sial-usagers;2020;Décembre;01 Dec 2020 - 00:00;31 Dec 2020 - 20:59;1837;4674;2,54;4757080;1017,77;5415109;1158,56;16248,22;3559,73
+alim.agriculture.gouv.fr_sigal-vsb;sigal-vsb;2020;Décembre;01 Dec 2020 - 06:13;31 Dec 2020 - 23:36;2146;9243;4,31;220289;23,83;778308;84,21;6982,95;773,62
+alim.agriculture.gouv.fr_spiral-m;spiral-m;2020;Décembre;NA;NA;0;0;0,00;0;0,00;0;0,00;0,00;0,00
+alim.agriculture.gouv.fr_vacc-fco;vacc-fco;2020;Décembre;NA;NA;0;0;0,00;0;0,00;0;0,00;0,00;0,00
+alim.national.agri;;2020;Décembre;01 Dec 2020 - 03:47;31 Dec 2020 - 19:19;623;3408;5,47;33531761;9839,13;34459935;10111,48;42003,60;12620,80
+alim.national.agri_expader;expader;2020;Décembre;01 Dec 2020 - 15:43;28 Dec 2020 - 09:45;7;12;1,71;13;1,08;493;41,08;0,27;23,33
+alim.national.agri_sial-habilitations;sial-habilitations;2020;Décembre;01 Dec 2020 - 08:51;31 Dec 2020 - 14:57;171;308;1,80;622812;2022,12;638048;2071,58;741,90;2466,59
+alim.national.agri_sial-inspections;sial-inspections;2020;Décembre;01 Dec 2020 - 09:15;31 Dec 2020 - 14:34;30;89;2,97;46519;522,69;49465;555,79;88,36;1016,64
+alim.national.agri_sial-methodes;sial-methodes;2020;Décembre;01 Dec 2020 - 15:35;17 Dec 2020 - 11:35;2;2;1,00;601;300,50;637;318,50;1,55;794,50
+alim.national.agri_sial-si2a;sial-si2a;2020;Décembre;01 Dec 2020 - 03:47;31 Dec 2020 - 16:02;73;295;4,04;32507176;110193,82;33348581;113046,04;38465,61;133521,30
+alim.national.agri_sial-usagers;sial-usagers;2020;Décembre;01 Dec 2020 - 17:18;28 Dec 2020 - 15:06;10;19;1,90;3650;192,11;4086;215,05;14,36;773,95
+alim.national.agri_sigal-asda-services-ws;sigal-asda-services-ws;2020;Décembre;01 Dec 2020 - 04:17;31 Dec 2020 - 15:16;6;240;40,00;33157;138,15;33157;138,15;8,69;37,10
+alim.national.agri_sigal_administration;sigal_administration;2020;Décembre;01 Dec 2020 - 09:56;30 Dec 2020 - 12:55;17;33;1,94;895;27,12;6863;207,97;24,47;759,45
+alim.national.agri_spiral;spiral;2020;Décembre;01 Dec 2020 - 08:57;31 Dec 2020 - 09:01;5;24;4,80;73;3,04;2179;90,79;6,55;279,54
+annuaire.agricoll.agriculture;;2020;Décembre;NA;NA;0;0;0,00;0;0,00;0;0,00;0,00;0,00
+annuaire.agricoll.agriculture.ader.gouv.fr;;2020;Décembre;01 Dec 2020 - 08:22;31 Dec 2020 - 08:31;5;97;19,40;1316;13,57;8992;92,70;40,30;425,39
+annuaire.agricoll.agriculture.gouv.fr;;2020;Décembre;01 Dec 2020 - 00:57;31 Dec 2020 - 19:04;2163;5463;2,53;113761;20,82;540436;98,93;2421,96;453,98
+annuaire.agricoll.national.agri;;2020;Décembre;01 Dec 2020 - 07:06;31 Dec 2020 - 19:53;464;1102;2,38;20264;18,39;75671;68,67;333,41;309,81
+appli.agriculture;;2020;Décembre;01 Dec 2020 - 09:03;31 Dec 2020 - 14:15;2;76;38,00;1366;17,97;9820;129,21;482,64;6502,88
+appli.agriculture.ader.gouv.fr;;2020;Décembre;01 Dec 2020 - 00:01;31 Dec 2020 - 23:59;34;2838;83,47;444734;156,71;1828425;644,27;69920,46;25228,52
+appli.agriculture_ideoproject;ideoproject;2020;Décembre;NA;NA;0;0;0,00;0;0,00;15;0,00;0,01;0,00
+appli.agriculture_nuxeo;nuxeo;2020;Décembre;NA;NA;0;0;0,00;0;0,00;0;0,00;0,00;0,00
+assistance.bmsq.auzeville.agri;;2020;Décembre;01 Dec 2020 - 07:52;31 Dec 2020 - 18:20;157;291;1,85;52695;181,08;238418;819,31;2883,32;10146,11
+assistance.rh.national.agri;;2020;Décembre;01 Dec 2020 - 08:13;31 Dec 2020 - 16:34;131;203;1,55;34989;172,36;214562;1056,96;1574,67;7943,18
+auth.agricoll.agriculture.gouv.fr;;2020;Décembre;01 Dec 2020 - 01:03;31 Dec 2020 - 17:58;661;1546;2,34;12986;8,40;46248;29,91;198,07;131,20
+cdp.national.agri;;2020;Décembre;01 Dec 2020 - 00:07;31 Dec 2020 - 23:59;875;3349;3,83;3683951;1100,02;3876764;1157,59;55465,78;16959,38
+cdp.national.agri_gedcdp;gedcdp;2020;Décembre;01 Dec 2020 - 13:50;30 Dec 2020 - 13:33;59;87;1,47;2422;27,84;9277;106,63;76,22;897,14
+cdp.national.agri_rundeck-zsg;rundeck-zsg;2020;Décembre;01 Dec 2020 - 08:42;31 Dec 2020 - 11:48;66;157;2,38;39005;248,44;55599;354,13;148,44;968,18
+cdp.national.agri_rundeck-zsi;rundeck-zsi;2020;Décembre;01 Dec 2020 - 11:11;30 Dec 2020 - 13:56;52;86;1,65;6273;72,94;11018;128,12;38,26;455,55
+ci.forge.agriculture;;2020;Décembre;NA;31 Dec 2020 - 08:53;2;2;1,00;187;93,50;281;140,50;0,42;214,50
+conf.proxy.national.agri;;2020;Décembre;01 Dec 2020 - 00:00;31 Dec 2020 - 23:59;11026;286833;26,01;3707496;12,93;3707496;12,93;27579,70;98,46
+data.agriculture.gouv.fr;;2020;Décembre;01 Dec 2020 - 00:00;31 Dec 2020 - 20:00;1492;5392;3,61;1398397;259,35;2580604;478,60;20383,75;3871,10
+data.agriculture.gouv.fr_bobi;bobi;2020;Décembre;01 Dec 2020 - 10:38;31 Dec 2020 - 10:56;37;110;2,97;267;2,43;1033;9,39;6,70;62,35
+e-phy.agriculture.gouv.fr;;2020;Décembre;01 Dec 2020 - 00:09;31 Dec 2020 - 23:59;7340;9628;1,31;30912;3,21;97845;10,16;208,89;22,22
+eau.agriculture.gouv.fr;;2020;Décembre;01 Dec 2020 - 00:04;31 Dec 2020 - 23:26;7642;15130;1,98;5487206;362,67;7532985;497,88;125015,21;8461,04
+eau.agriculture.gouv.fr_cascade;cascade;2020;Décembre;01 Dec 2020 - 05:01;31 Dec 2020 - 21:08;197;458;2,32;2139236;4670,82;2279073;4976,14;8278,81;18509,82
+eau.agriculture.gouv.fr_domineau;domineau;2020;Décembre;03 Dec 2020 - 08:55;21 Dec 2020 - 15:10;3;6;2,00;15;2,50;467;77,83;1,93;330,17
+eau.agriculture.gouv.fr_lanceleau;lanceleau;2020;Décembre;01 Dec 2020 - 00:04;31 Dec 2020 - 22:59;2491;6866;2,76;172347;25,10;1085587;158,11;6673,95;995,36
+eau.agriculture.gouv.fr_licorne;licorne;2020;Décembre;01 Dec 2020 - 07:59;31 Dec 2020 - 20:08;118;222;1,88;764936;3445,66;867946;3909,67;3361,33;15504,50
+eau.agriculture.gouv.fr_oasis;oasis;2020;Décembre;01 Dec 2020 - 08:34;31 Dec 2020 - 13:38;28;158;5,64;561019;3550,75;592569;3750,44;8961,09;58076,95
+eau.agriculture.gouv.fr_propluviaprive;propluviaprive;2020;Décembre;01 Dec 2020 - 13:19;31 Dec 2020 - 10:10;8;26;3,25;798;30,69;2983;114,73;34,12;1343,96
+eau.agriculture.gouv.fr_roseau;roseau;2020;Décembre;01 Dec 2020 - 03:50;31 Dec 2020 - 21:08;219;640;2,92;1078703;1685,47;1165547;1821,17;2676,24;4281,99
+eau.agriculture.gouv.fr_sillage;sillage;2020;Décembre;01 Dec 2020 - 11:37;30 Dec 2020 - 16:57;33;102;3,09;8523;83,56;18463;181,01;840,97;8442,64
+eau.agriculture.gouv.fr_telesillage;telesillage;2020;Décembre;01 Dec 2020 - 07:25;31 Dec 2020 - 23:04;3468;5290;1,53;198037;37,44;529312;100,06;40843,60;7906,21
+eau.agriculture.gouv.fr_telesillageprive;telesillageprive;2020;Décembre;01 Dec 2020 - 06:24;31 Dec 2020 - 23:04;1556;5103;3,28;320317;62,77;557375;109,22;48267,76;9685,71
+eau.agriculture.gouv.fr_verseau;verseau;2020;Décembre;01 Dec 2020 - 00:09;31 Dec 2020 - 22:53;718;1748;2,43;45268;25,90;223769;128,01;1619,87;948,94
+ecoagri.agriculture.gouv.fr;;2020;Décembre;01 Dec 2020 - 00:07;31 Dec 2020 - 19:10;722;1270;1,76;429191;337,95;483929;381,05;1850,05;1491,70
+ecoagri.agriculture.gouv.fr_calamnat-usager;calamnat-usager;2020;Décembre;01 Dec 2020 - 23:00;30 Dec 2020 - 19:48;71;80;1,13;327;4,09;7544;94,30;16,76;214,46
+ecoagri.agriculture.gouv.fr_logics-usager;logics-usager;2020;Décembre;01 Dec 2020 - 00:07;31 Dec 2020 - 19:10;610;985;1,61;389552;395,48;412338;418,62;1058,89;1100,82
+ecoagri.agriculture.gouv.fr_telecalam-usager;telecalam-usager;2020;Décembre;NA;NA;0;0;0,00;0;0,00;0;0,00;0,00;0,00
+ecoagri.national.agri;;2020;Décembre;01 Dec 2020 - 07:17;31 Dec 2020 - 16:40;104;367;3,53;180915;492,96;283342;772,05;4106,09;11456,78
+ecoagri.national.agri_calamnat-agent;calamnat-agent;2020;Décembre;01 Dec 2020 - 07:17;31 Dec 2020 - 16:40;55;290;5,27;49920;172,14;128319;442,48;2024,44;7148,37
+ecoagri.national.agri_calamnat-reprise-agent;calamnat-reprise-agent;2020;Décembre;03 Dec 2020 - 11:31;14 Dec 2020 - 15:18;1;3;3,00;112;37,33;681;227,00;3,14;1071,00
+ecoagri.national.agri_calamnat-suivi;calamnat-suivi;2020;Décembre;NA;23 Dec 2020 - 11:14;2;15;7,50;154;10,27;1639;109,27;11,74;801,67
+ecoagri.national.agri_calamnat-webmin;calamnat-webmin;2020;Décembre;02 Dec 2020 - 13:27;22 Dec 2020 - 12:09;9;14;1,56;408;29,14;4472;319,43;16,23;1186,86
+ecoagri.national.agri_logics-agent;logics-agent;2020;Décembre;01 Dec 2020 - 07:36;31 Dec 2020 - 14:45;21;73;3,48;97543;1336,21;103474;1417,45;1114,26;15630,14
+ecoagri.national.agri_logics-export;logics-export;2020;Décembre;01 Dec 2020 - 09:47;23 Dec 2020 - 16:59;5;17;3,40;3845;226,18;3982;234,24;7,73;465,94
+ecoagri.national.agri_logics-param;logics-param;2020;Décembre;NA;22 Dec 2020 - 20:11;8;8;1,00;1051;131,38;1133;141,62;3,89;498,38
+ecoagri.national.agri_logics-webmin;logics-webmin;2020;Décembre;NA;23 Dec 2020 - 12:02;6;6;1,00;2841;473,50;2921;486,83;5,95;1016,17
+ensagri.agriculture.gouv.fr;;2020;Décembre;01 Dec 2020 - 00:00;31 Dec 2020 - 18:20;3889;15683;4,03;10571055;674,05;11697529;745,87;34556,39;2256,31
+ensagri.agriculture.gouv.fr_alexia;alexia;2020;Décembre;01 Dec 2020 - 04:25;31 Dec 2020 - 15:22;67;119;1,78;5429;45,62;16425;138,03;278,54;2396,82
+ensagri.agriculture.gouv.fr_arpent-resultats-api;arpent-resultats-api;2020;Décembre;NA;NA;0;0;0,00;0;0,00;0;0,00;0,00;0,00
+ensagri.agriculture.gouv.fr_elena;elena;2020;Décembre;01 Dec 2020 - 07:52;22 Dec 2020 - 16:22;10;11;1,10;834;75,82;1088;98,91;14,89;1386,00
+ensagri.agriculture.gouv.fr_fregata;fregata;2020;Décembre;01 Dec 2020 - 03:08;31 Dec 2020 - 11:44;1229;4913;4,00;1578214;321,23;1700139;346,05;4301,68;896,59
+ensagri.agriculture.gouv.fr_guepard;guepard;2020;Décembre;01 Dec 2020 - 00:57;31 Dec 2020 - 18:01;845;2043;2,42;116057;56,81;426537;208,78;4223,73;2117,03
+ensagri.agriculture.gouv.fr_habilis;habilis;2020;Décembre;01 Dec 2020 - 16:06;28 Dec 2020 - 11:43;50;86;1,72;20292;235,95;22077;256,71;125,35;1492,58
+ensagri.agriculture.gouv.fr_indexa2acteur;indexa2acteur;2020;Décembre;01 Dec 2020 - 08:09;31 Dec 2020 - 17:43;120;136;1,13;13770;101,25;15244;112,09;82,58;621,77
+ensagri.agriculture.gouv.fr_indexa2assr;indexa2assr;2020;Décembre;01 Dec 2020 - 06:29;31 Dec 2020 - 18:20;389;1132;2,91;3158390;2790,10;3248745;2869,92;6957,17;6293,42
+ensagri.agriculture.gouv.fr_indexa2ccf;indexa2ccf;2020;Décembre;01 Dec 2020 - 00:00;31 Dec 2020 - 09:14;137;173;1,26;19522;112,84;20719;119,76;89,56;530,12
+ensagri.agriculture.gouv.fr_indexa2delib;indexa2delib;2020;Décembre;01 Dec 2020 - 00:23;24 Dec 2020 - 10:49;34;82;2,41;32466;395,93;33406;407,39;81,56;1018,45
+ensagri.agriculture.gouv.fr_indexa2etab;indexa2etab;2020;Décembre;NA;NA;0;0;0,00;0;0,00;0;0,00;0,00;0,00
+ensagri.agriculture.gouv.fr_indexa2inscription;indexa2inscription;2020;Décembre;01 Dec 2020 - 00:00;31 Dec 2020 - 18:08;1215;3183;2,62;1361256;427,66;1483787;466,16;3261,39;1049,22
+ensagri.agriculture.gouv.fr_indexa2jury;indexa2jury;2020;Décembre;01 Dec 2020 - 15:39;18 Dec 2020 - 15:46;4;4;1,00;130;32,50;142;35,50;1,67;428,00
+ensagri.agriculture.gouv.fr_indexa2resultat;indexa2resultat;2020;Décembre;01 Dec 2020 - 05:24;31 Dec 2020 - 09:14;217;304;1,40;144104;474,03;149598;492,10;717,23;2415,94
+ensagri.agriculture.gouv.fr_indexa2term;indexa2term;2020;Décembre;01 Dec 2020 - 00:16;22 Dec 2020 - 09:13;18;32;1,78;10415;325,47;10897;340,53;22,56;722,03
+ensagri.agriculture.gouv.fr_indexa2uc;indexa2uc;2020;Décembre;01 Dec 2020 - 04:53;31 Dec 2020 - 18:03;684;2367;3,46;178553;75,43;453953;191,78;5337,36;2309,02
+ensagri.agriculture.gouv.fr_iris;iris;2020;Décembre;01 Dec 2020 - 07:18;31 Dec 2020 - 16:59;267;387;1,45;18146;46,89;54803;141,61;571,79;1512,94
+ensagri.agriculture.gouv.fr_phoenix-admin;phoenix-admin;2020;Décembre;08 Dec 2020 - 15:27;16 Dec 2020 - 20:47;7;9;1,29;932;103,56;1170;130,00;6,83;777,11
+ensagri.agriculture.gouv.fr_phoenix-dotation;phoenix-dotation;2020;Décembre;01 Dec 2020 - 07:02;31 Dec 2020 - 16:09;595;1502;2,52;417607;278,03;456533;303,95;1862,04;1269,46
+ensagri.agriculture.gouv.fr_portailexamen;portailexamen;2020;Décembre;01 Dec 2020 - 00:00;31 Dec 2020 - 18:08;1927;6765;3,51;1555187;229,89;1593164;235,50;3086,87;467,25
+ensagri.agriculture.gouv.fr_portalis;portalis;2020;Décembre;01 Dec 2020 - 00:00;31 Dec 2020 - 17:10;1594;5915;3,71;1401282;236,90;1429472;241,67;1894,31;327,94
+ensagri.agriculture.gouv.fr_refea;refea;2020;Décembre;01 Dec 2020 - 07:52;31 Dec 2020 - 15:41;503;842;1,67;258951;307,54;280544;333,19;1082,06;1315,95
+ensagri.agriculture.gouv.fr_ti-etab;ti-etab;2020;Décembre;01 Dec 2020 - 10:03;30 Dec 2020 - 11:45;27;32;1,19;1125;35,16;1291;40,34;9,67;309,53
+ensagri.agriculture.gouv.fr_tr-etab;tr-etab;2020;Décembre;01 Dec 2020 - 16:46;22 Dec 2020 - 16:22;25;31;1,24;14290;460,97;14732;475,23;24,52;810,03
+ensagri.agriculture.gouv.fr_tr-usagers;tr-usagers;2020;Décembre;NA;NA;0;0;0,00;0;0,00;0;0,00;0,00;0,00
+ensagri.national.agri;;2020;Décembre;01 Dec 2020 - 08:09;31 Dec 2020 - 16:04;296;630;2,13;46675;74,09;93388;148,23;664,24;1079,66
+ensagri.national.agri_aeea;aeea;2020;Décembre;01 Dec 2020 - 08:27;31 Dec 2020 - 09:30;101;212;2,10;1710;8,07;13496;63,66;70,39;340,00
+ensagri.national.agri_arpent-api-sinex;arpent-api-sinex;2020;Décembre;NA;NA;0;0;0,00;0;0,00;0;0,00;0,00;0,00
+ensagri.national.agri_indexa2parametrage;indexa2parametrage;2020;Décembre;01 Dec 2020 - 08:09;24 Dec 2020 - 11:04;95;157;1,65;31952;203,52;35781;227,90;90,30;588,99
+foret.agriculture.gouv.fr;;2020;Décembre;01 Dec 2020 - 07:54;31 Dec 2020 - 16:10;133;366;2,75;335310;916,15;379332;1036,43;1921,28;5375,39
+foret.national.agri;;2020;Décembre;01 Dec 2020 - 00:00;31 Dec 2020 - 17:14;147;293;1,99;484098;1652,21;512136;1747,90;2099,14;7336,25
+foret.national.agri_sylvanat;sylvanat;2020;Décembre;01 Dec 2020 - 00:00;31 Dec 2020 - 17:14;85;181;2,13;426056;2353,90;443526;2450,42;1899,13;10744,23
+formation.alim.national.agri;;2020;Décembre;01 Dec 2020 - 08:54;31 Dec 2020 - 10:08;138;275;1,99;260808;948,39;277738;1009,96;613,95;2286,12
+formation.alim.national.agri_sial-habilitations-autoform;sial-habilitations-autoform;2020;Décembre;01 Dec 2020 - 16:21;31 Dec 2020 - 10:08;18;19;1,06;19240;1012,63;19470;1024,74;27,59;1486,68
+formation.alim.national.agri_sial-habilitations-stagiaire;sial-habilitations-stagiaire;2020;Décembre;01 Dec 2020 - 08:56;31 Dec 2020 - 08:57;6;25;4,17;6265;250,60;6500;260,00;10,72;439,20
+formation.alim.national.agri_sial-inspections-autoform;sial-inspections-autoform;2020;Décembre;NA;10 Dec 2020 - 16:50;3;3;1,00;172;57,33;224;74,67;1,05;360,00
+formation.alim.national.agri_sial-inspections-stagiaire;sial-inspections-stagiaire;2020;Décembre;01 Dec 2020 - 16:21;31 Dec 2020 - 10:08;18;19;1,06;19240;1012,63;19470;1024,74;27,59;1486,68
+formation.alim.national.agri_sial-methodes-autoform;sial-methodes-autoform;2020;Décembre;NA;23 Dec 2020 - 14:45;2;2;1,00;822;411,00;872;436,00;2,08;1065,50
+formation.alim.national.agri_sial-methodes-stagiaire;sial-methodes-stagiaire;2020;Décembre;01 Dec 2020 - 08:55;31 Dec 2020 - 08:57;6;25;4,17;1276;51,04;1443;57,72;7,36;301,52
+formation.alim.national.agri_sial-nomenclatures-stagiaire;sial-nomenclatures-stagiaire;2020;Décembre;01 Dec 2020 - 08:56;31 Dec 2020 - 08:57;5;24;4,80;942;39,25;1076;44,83;6,37;271,79
+formation.alim.national.agri_sial-si2a-autoform;sial-si2a-autoform;2020;Décembre;01 Dec 2020 - 10:01;24 Dec 2020 - 16:20;25;60;2,40;109275;1821,25;113875;1897,92;156,77;2675,47
+formation.alim.national.agri_sial-si2a-stagiaire;sial-si2a-stagiaire;2020;Décembre;01 Dec 2020 - 08:56;31 Dec 2020 - 08:57;16;44;2,75;52910;1202,50;55285;1256,48;95,78;2229,07
+formation.alim.national.agri_sial-usagers-autoform;sial-usagers-autoform;2020;Décembre;NA;29 Dec 2020 - 20:59;12;23;1,92;5921;257,43;6582;286,17;16,03;713,70
+formation.alim.national.agri_sial-usagers-stagiaire;sial-usagers-stagiaire;2020;Décembre;01 Dec 2020 - 08:56;31 Dec 2020 - 08:57;7;26;3,71;1429;54,96;1724;66,31;9,12;359,35
+ftp.agriculture.ader.gouv.fr;;2020;Décembre;NA;NA;0;0;0,00;0;0,00;0;0,00;0,00;0,00
+ftp.agriculture.gouv.fr;;2020;Décembre;01 Dec 2020 - 00:00;31 Dec 2020 - 23:59;46;118;2,57;146006;1237,34;146008;1237,36;4132,18;35858,96
+ftp.national.agri;;2020;Décembre;01 Dec 2020 - 11:19;28 Dec 2020 - 17:46;34;44;1,29;171;3,89;17383;395,07;18983,85;441805,89
+ged.agriculture;;2020;Décembre;01 Dec 2020 - 07:23;31 Dec 2020 - 15:37;353;580;1,64;24159;41,65;73609;126,91;2872,94;5072,23
+ged.agriculture.ader.gouv.fr;;2020;Décembre;NA;NA;0;0;0,00;0;0,00;0;0,00;0,00;0,00
+ged.agriculture.ader.gouv.fr_gednet;gednet;2020;Décembre;NA;NA;0;0;0,00;0;0,00;0;0,00;0,00;0,00
+ged.agriculture.gouv.fr;;2020;Décembre;01 Dec 2020 - 05:12;31 Dec 2020 - 16:58;289;679;2,35;34929;51,44;115536;170,16;5267,93;7944,56
+ged.agriculture.gouv.fr_gednet;gednet;2020;Décembre;01 Dec 2020 - 05:12;31 Dec 2020 - 16:58;280;648;2,31;34898;53,85;115505;178,25;5267,93;8324,62
+ged.agriculture_gedsi;gedsi;2020;Décembre;01 Dec 2020 - 07:23;31 Dec 2020 - 15:37;353;580;1,64;24159;41,65;73609;126,91;2872,94;5072,23
+ged.national.agri;;2020;Décembre;01 Dec 2020 - 00:01;31 Dec 2020 - 23:28;2332;6224;2,67;395115;63,48;1176494;189,03;124116,96;20420,27
+ged.national.agri_gedcourrier;gedcourrier;2020;Décembre;01 Dec 2020 - 04:34;31 Dec 2020 - 12:41;189;445;2,35;19872;44,66;57284;128,73;395,24;909,51
+ged.national.agri_gednet;gednet;2020;Décembre;01 Dec 2020 - 10:18;31 Dec 2020 - 11:58;39;56;1,44;1195;21,34;4040;72,14;51,93;949,61
+ged.national.agri_gedsi;gedsi;2020;Décembre;01 Dec 2020 - 00:01;31 Dec 2020 - 23:28;2191;5733;2,62;373997;65,24;1115119;194,51;123669,78;22089,28
+geo.national.agri;;2020;Décembre;01 Dec 2020 - 08:00;31 Dec 2020 - 19:34;19;374;19,68;300058;802,29;300094;802,39;1444,72;3955,61
+gestion.agriculture.gouv.fr;;2020;Décembre;01 Dec 2020 - 00:33;31 Dec 2020 - 20:23;243;1231;5,07;110044;89,39;290381;235,89;3918,07;3259,22
+gestion.agriculture.gouv.fr_darwin;darwin;2020;Décembre;01 Dec 2020 - 00:33;31 Dec 2020 - 20:23;187;498;2,66;54731;109,90;161849;325,00;2180,80;4484,22
+gestion.agriculture.gouv.fr_decouverte-mobile;decouverte-mobile;2020;Décembre;01 Dec 2020 - 10:26;31 Dec 2020 - 15:55;12;16;1,33;1888;118,00;1983;123,94;8,14;520,69
+gestion.agriculture.gouv.fr_elecprorh;elecprorh;2020;Décembre;02 Dec 2020 - 10:01;11 Dec 2020 - 08:11;2;3;1,50;497;165,67;518;172,67;2,05;699,33
+gestion.national.agri;;2020;Décembre;01 Dec 2020 - 04:00;31 Dec 2020 - 18:38;1389;4469;3,22;1035861;231,79;1347764;301,58;19055,48;4366,26
+gestion.national.agri_decouverte;decouverte;2020;Décembre;01 Dec 2020 - 07:09;31 Dec 2020 - 18:38;701;2257;3,22;174248;77,20;310228;137,45;11917,50;5406,97
+gestion.national.agri_escale;escale;2020;Décembre;01 Dec 2020 - 06:55;31 Dec 2020 - 15:31;55;177;3,22;8605;48,62;48352;273,18;241,16;1395,20
+gestion.national.agri_themis;themis;2020;Décembre;01 Dec 2020 - 08:06;31 Dec 2020 - 15:09;48;143;2,98;10416;72,84;27397;191,59;218,33;1563,41
+gestion.national.agri_themis-stats;themis-stats;2020;Décembre;NA;29 Dec 2020 - 09:22;2;2;1,00;10;5,00;249;124,50;0,44;224,00
+identification.agriculture.gouv.fr;;2020;Décembre;NA;22 Dec 2020 - 13:33;3;4;1,33;12;3,00;12;3,00;0,01;1,50
+info.agriculture.gouv.fr;;2020;Décembre;01 Dec 2020 - 00:00;31 Dec 2020 - 23:58;70452;121892;1,73;454033;3,72;1234176;10,13;189425,47;1591,34
+info.agriculture.gouv.fr_gedei;gedei;2020;Décembre;01 Dec 2020 - 00:00;31 Dec 2020 - 23:58;70452;121892;1,73;454033;3,72;1234176;10,13;189425,47;1591,34
+info.national.agri;;2020;Décembre;01 Dec 2020 - 08:25;31 Dec 2020 - 20:55;3773;8315;2,20;112414;13,52;331177;39,83;25513,50;3142,01
+info.national.agri_gedei;gedei;2020;Décembre;01 Dec 2020 - 08:25;31 Dec 2020 - 20:55;3773;8315;2,20;112414;13,52;331177;39,83;25513,50;3142,01
+mesdemarches.agriculture.gouv.fr;;2020;Décembre;01 Dec 2020 - 00:00;31 Dec 2020 - 23:57;16873;20580;1,22;72811;3,54;551301;26,79;4336,19;215,76
+moncompte.agriculture.gouv.fr;;2020;Décembre;01 Dec 2020 - 01:08;31 Dec 2020 - 23:59;5456;7040;1,29;607864;86,34;632436;89,83;1891,02;275,06
+moncompte.agriculture.gouv.fr_individus;individus;2020;Décembre;01 Dec 2020 - 01:08;31 Dec 2020 - 23:59;5456;7040;1,29;607864;86,34;632436;89,83;1891,02;275,06
+peche.agriculture.gouv.fr;;2020;Décembre;01 Dec 2020 - 00:14;31 Dec 2020 - 23:59;295;1271;4,31;400418;315,04;1249145;982,80;12270,92;9886,25
+peche.agriculture.gouv.fr_sati-v2;sati-v2;2020;Décembre;01 Dec 2020 - 00:22;31 Dec 2020 - 23:50;86;540;6,28;42656;78,99;809781;1499,59;9172,82;17394,38
+peche.agriculture.gouv.fr_telesisaap;telesisaap;2020;Décembre;01 Dec 2020 - 14:57;31 Dec 2020 - 23:38;53;67;1,26;22533;336,31;23700;353,73;61,36;937,81
+peche.national.agri;;2020;Décembre;01 Dec 2020 - 07:43;31 Dec 2020 - 17:51;41;143;3,49;324977;2272,57;679702;4753,16;3976,86;28477,62
+peche.national.agri_ersweb;ersweb;2020;Décembre;NA;29 Dec 2020 - 15:03;1;1;1,00;3;3,00;69;69,00;0,17;170,00
+peche.national.agri_sisaap;sisaap;2020;Décembre;01 Dec 2020 - 09:16;31 Dec 2020 - 09:55;9;62;6,89;4164;67,16;20978;338,35;292,74;4834,94
+perf.national.agri;;2020;Décembre;01 Dec 2020 - 00:00;31 Dec 2020 - 22:00;84;207;2,46;46834;226,25;60365;291,62;653,54;3232,98
+perf.national.agri_nomade;nomade;2020;Décembre;NA;NA;0;0;0,00;0;0,00;0;0,00;0,00;0,00
+perf.national.agri_nomade-gestion;nomade-gestion;2020;Décembre;01 Dec 2020 - 09:51;31 Dec 2020 - 16:32;56;115;2,05;36965;321,43;43241;376,01;383,29;3412,92
+perf.national.agri_nomade-habilitation;nomade-habilitation;2020;Décembre;04 Dec 2020 - 08:40;17 Dec 2020 - 09:26;6;9;1,50;1584;176,00;1761;195,67;9,16;1041,89
+perf.national.agri_nomade-pentaho;nomade-pentaho;2020;Décembre;01 Dec 2020 - 00:00;31 Dec 2020 - 22:00;63;147;2,33;7089;48,22;11938;81,21;219,03;1525,74
+perf.national.agri_p3-pentaho;p3-pentaho;2020;Décembre;NA;NA;0;0;0,00;0;0,00;0;0,00;0,00;0,00
+perf.national.agri_valse_bi;valse_bi;2020;Décembre;NA;NA;0;0;0,00;0;0,00;0;0,00;0,00;0,00
+portail.agricoll.agriculture.gouv.fr;;2020;Décembre;01 Dec 2020 - 00:16;31 Dec 2020 - 23:33;4471;12723;2,85;19311;1,52;254308;19,99;2324,04;187,05
+propluvia.developpement-durable.gouv.fr;;2020;Décembre;01 Dec 2020 - 00:17;31 Dec 2020 - 23:58;5548;11809;2,13;92185;7,81;593638;50,27;5031,87;436,33
+proxyvip.national.agri;;2020;Décembre;01 Dec 2020 - 00:15;31 Dec 2020 - 23:54;5059;23808;4,71;28145;1,18;246415;10,35;2038,74;87,69
+reports.forge.agriculture;;2020;Décembre;01 Dec 2020 - 09:01;30 Dec 2020 - 16:39;82;150;1,83;2293;15,29;16891;112,61;493,10;3366,21
+scm.forge.national.agri;;2020;Décembre;01 Dec 2020 - 03:00;31 Dec 2020 - 23:00;443;1591;3,59;13412584;8430,29;14475556;9098,40;155129,89;99844,75
+service.agriculture;;2020;Décembre;NA;NA;0;0;0,00;0;0,00;1;0,00;0,00;0,00
+service.agriculture.gouv.fr;;2020;Décembre;NA;NA;0;0;0,00;0;0,00;0;0,00;0,00;0,00
+stats.agriculture.gouv.fr;;2020;Décembre;01 Dec 2020 - 00:01;31 Dec 2020 - 22:52;4187;5745;1,37;118452;20,62;472879;82,31;12070,47;2151,46
+stats.agriculture.gouv.fr_a7matprem;a7matprem;2020;Décembre;01 Dec 2020 - 18:24;01 Dec 2020 - 18:24;1;1;1,00;1;1,00;1;1,00;0,01;7,00
+stats.agriculture.gouv.fr_calvaabatga;calvaabatga;2020;Décembre;01 Dec 2020 - 16:34;15 Dec 2020 - 16:23;7;8;1,14;86;10,75;473;59,12;94,01;12033,12
+stats.agriculture.gouv.fr_calvaabatvol;calvaabatvol;2020;Décembre;01 Dec 2020 - 09:15;28 Dec 2020 - 10:20;10;10;1,00;51;5,10;480;48,00;21,35;2186,10
+stats.agriculture.gouv.fr_calvaacc;calvaacc;2020;Décembre;01 Dec 2020 - 15:57;28 Dec 2020 - 12:24;4;4;1,00;48;12,00;380;95,00;3,05;779,50
+stats.agriculture.gouv.fr_calvahuile;calvahuile;2020;Décembre;08 Dec 2020 - 14:15;08 Dec 2020 - 14:15;1;1;1,00;3;3,00;94;94,00;0,09;96,00
+stats.agriculture.gouv.fr_calvamargarine;calvamargarine;2020;Décembre;01 Dec 2020 - 17:27;29 Dec 2020 - 14:51;3;3;1,00;11;3,67;204;68,00;0,45;152,00
+stats.agriculture.gouv.fr_calvasel;calvasel;2020;Décembre;04 Dec 2020 - 09:33;28 Dec 2020 - 11:26;3;3;1,00;21;7,00;294;98,00;0,75;255,33
+stats.agriculture.gouv.fr_calvausipa;calvausipa;2020;Décembre;08 Dec 2020 - 14:14;08 Dec 2020 - 14:15;1;1;1,00;3;3,00;94;94,00;0,09;94,00
+stats.agriculture.gouv.fr_cartostat;cartostat;2020;Décembre;01 Dec 2020 - 00:01;31 Dec 2020 - 22:52;1048;1305;1,25;28587;21,91;47973;36,76;1572,12;1233,60
+stats.agriculture.gouv.fr_decoupe;decoupe;2020;Décembre;NA;NA;0;0;0,00;0;0,00;0;0,00;0,00;0,00
+stats.agriculture.gouv.fr_disar;disar;2020;Décembre;01 Dec 2020 - 13:51;31 Dec 2020 - 20:39;73;88;1,21;94;1,07;94;1,07;0,28;3,25
+stats.agriculture.gouv.fr_disar-saiku;disar-saiku;2020;Décembre;NA;NA;0;0;0,00;0;0,00;0;0,00;0,00;0,00
+stats.agriculture.gouv.fr_disar-web;disar-web;2020;Décembre;NA;NA;0;0;0,00;0;0,00;0;0,00;0,00;0,00
+stats.agriculture.gouv.fr_eal;eal;2020;Décembre;01 Dec 2020 - 18:24;28 Dec 2020 - 15:12;23;32;1,39;371;11,59;3128;97,75;26,53;848,97
+stats.agriculture.gouv.fr_emlcollecte;emlcollecte;2020;Décembre;01 Dec 2020 - 07:52;31 Dec 2020 - 15:08;294;529;1,80;18850;35,63;59450;112,38;2596,63;5026,36
+stats.agriculture.gouv.fr_emlestim;emlestim;2020;Décembre;01 Dec 2020 - 08:36;30 Dec 2020 - 15:55;18;30;1,67;175;5,83;1654;55,13;446,77;15249,60
+stats.agriculture.gouv.fr_epciav2;epciav2;2020;Décembre;01 Dec 2020 - 07:47;31 Dec 2020 - 21:33;165;239;1,45;4522;18,92;29424;123,11;1275,96;5466,88
+stats.agriculture.gouv.fr_opagreg;opagreg;2020;Décembre;03 Dec 2020 - 09:08;17 Dec 2020 - 09:36;6;6;1,00;203;33,83;615;102,50;17,29;2950,00
+stats.agriculture.gouv.fr_prixgrumes;prixgrumes;2020;Décembre;01 Dec 2020 - 10:17;29 Dec 2020 - 18:13;15;16;1,07;83;5,19;891;55,69;4,75;304,12
+stats.agriculture.gouv.fr_prodcom;prodcom;2020;Décembre;01 Dec 2020 - 11:04;30 Dec 2020 - 22:48;22;23;1,05;46;2,00;1577;68,57;13,58;604,39
+stats.agriculture.gouv.fr_prodcomadepale;prodcomadepale;2020;Décembre;01 Dec 2020 - 15:10;17 Dec 2020 - 16:05;4;4;1,00;29;7,25;392;98,00;2,54;650,75
+stats.agriculture.gouv.fr_prodcomalliance7;prodcomalliance7;2020;Décembre;01 Dec 2020 - 09:50;15 Dec 2020 - 16:21;7;10;1,43;109;10,90;504;50,40;14,06;1439,80
+stats.agriculture.gouv.fr_prodcomcnva;prodcomcnva;2020;Décembre;01 Dec 2020 - 18:24;22 Dec 2020 - 16:00;6;8;1,33;139;17,38;521;65,12;6,80;869,75
+stats.agriculture.gouv.fr_prodcomcoopdeshy;prodcomcoopdeshy;2020;Décembre;01 Dec 2020 - 18:24;18 Dec 2020 - 09:27;2;2;1,00;7;3,50;106;53,00;0,65;333,00
+stats.agriculture.gouv.fr_prodcomfedalim;prodcomfedalim;2020;Décembre;01 Dec 2020 - 18:24;17 Dec 2020 - 19:42;4;4;1,00;31;7,75;359;89,75;2,48;634,50
+stats.agriculture.gouv.fr_prodcomfict;prodcomfict;2020;Décembre;01 Dec 2020 - 14:56;17 Dec 2020 - 19:37;4;4;1,00;9;2,25;193;48,25;1,08;276,50
+stats.agriculture.gouv.fr_prodcomhmf;prodcomhmf;2020;Décembre;01 Dec 2020 - 18:24;14 Dec 2020 - 10:44;2;2;1,00;10;5,00;125;62,50;0,45;229,00
+stats.agriculture.gouv.fr_prodcommalteurs;prodcommalteurs;2020;Décembre;01 Dec 2020 - 18:24;22 Dec 2020 - 10:53;2;2;1,00;6;3,00;152;76,00;0,71;361,00
+stats.agriculture.gouv.fr_prodcomsirops;prodcomsirops;2020;Décembre;01 Dec 2020 - 18:24;22 Dec 2020 - 11:21;3;3;1,00;18;6,00;230;76,67;4,14;1412,67
+stats.agriculture.gouv.fr_prodcomusipa;prodcomusipa;2020;Décembre;01 Dec 2020 - 18:24;01 Dec 2020 - 18:24;1;1;1,00;1;1,00;1;1,00;0,01;7,00
+stats.agriculture.gouv.fr_qualite;qualite;2020;Décembre;01 Dec 2020 - 18:24;18 Dec 2020 - 14:49;11;13;1,18;82;6,31;662;50,92;3,62;285,00
+stats.agriculture.gouv.fr_sesam;sesam;2020;Décembre;01 Dec 2020 - 05:53;31 Dec 2020 - 14:47;1047;1583;1,51;20495;12,95;125989;79,59;832,26;538,37
+stats.agriculture.gouv.fr_siqo;siqo;2020;Décembre;NA;23 Dec 2020 - 11:54;4;6;1,50;245;40,83;2957;492,83;76,52;13060,00
+stats.agriculture.gouv.fr_sriexf2017;sriexf2017;2020;Décembre;NA;NA;0;0;0,00;0;0,00;0;0,00;0,00;0,00
+stats.agriculture.gouv.fr_sriexf2018;sriexf2018;2020;Décembre;02 Dec 2020 - 14:57;22 Dec 2020 - 16:01;3;4;1,33;28;7,00;784;196,00;2,56;654,75
+stats.agriculture.gouv.fr_stkpompoir;stkpompoir;2020;Décembre;01 Dec 2020 - 09:01;31 Dec 2020 - 16:20;185;253;1,37;4394;17,37;27936;110,42;297,52;1204,18
+stats.agriculture.gouv.fr_suricate;suricate;2020;Décembre;01 Dec 2020 - 10:51;31 Dec 2020 - 11:39;85;146;1,72;2470;16,92;14086;96,48;146,93;1030,55
+stats.agriculture.gouv.fr_suricatetestgu;suricatetestgu;2020;Décembre;NA;21 Dec 2020 - 15:23;5;9;1,80;88;9,78;415;46,11;3,86;438,89
+stats.national.agri;;2020;Décembre;01 Dec 2020 - 00:00;31 Dec 2020 - 23:59;4178;15501;3,71;1668551;107,64;2400061;154,83;26640,49;1759,88
+stats.national.agri_agreste-saiku-stats;agreste-saiku-stats;2020;Décembre;01 Dec 2020 - 15:49;30 Dec 2020 - 14:49;69;88;1,28;3789;43,06;12221;138,88;65,82;765,95
+stats.national.agri_agreste-web-stats;agreste-web-stats;2020;Décembre;01 Dec 2020 - 03:53;31 Dec 2020 - 14:51;98;127;1,30;12899;101,57;17814;140,27;226,21;1823,97
+stats.national.agri_balsa-iaa;balsa-iaa;2020;Décembre;01 Dec 2020 - 08:00;21 Dec 2020 - 17:47;72;110;1,53;216723;1970,21;227328;2066,62;780,63;7266,93
+stats.national.agri_calvaa7;calvaa7;2020;Décembre;01 Dec 2020 - 15:44;29 Dec 2020 - 12:11;7;8;1,14;89;11,12;614;76,75;6,98;893,62
+stats.national.agri_calvaipi;calvaipi;2020;Décembre;01 Dec 2020 - 14:26;29 Dec 2020 - 15:12;17;23;1,35;357;15,52;1104;48,00;18,13;807,35
+stats.national.agri_cerise;cerise;2020;Décembre;01 Dec 2020 - 09:00;21 Dec 2020 - 09:03;9;9;1,00;561;62,33;1700;188,89;11,28;1283,89
+stats.national.agri_cheptels;cheptels;2020;Décembre;01 Dec 2020 - 13:52;22 Dec 2020 - 09:31;3;3;1,00;13;4,33;277;92,33;1,48;505,33
+stats.national.agri_disar-web-stats;disar-web-stats;2020;Décembre;NA;NA;0;0;0,00;0;0,00;0;0,00;0,00;0,00
+stats.national.agri_epciarefv2;epciarefv2;2020;Décembre;01 Dec 2020 - 14:16;30 Dec 2020 - 10:22;15;21;1,40;469;22,33;1333;63,48;16,58;808,29
+stats.national.agri_eppfruits;eppfruits;2020;Décembre;01 Dec 2020 - 08:24;29 Dec 2020 - 14:39;8;8;1,00;245;30,62;810;101,25;7,53;963,25
+stats.national.agri_epplegumes;epplegumes;2020;Décembre;01 Dec 2020 - 09:16;22 Dec 2020 - 14:14;28;43;1,54;1191;27,70;3729;86,72;40,71;969,35
+stats.national.agri_limande;limande;2020;Décembre;01 Dec 2020 - 09:06;29 Dec 2020 - 12:47;19;35;1,84;1032;29,49;4591;131,17;37,93;1109,83
+stats.national.agri_naskapi;naskapi;2020;Décembre;17 Dec 2020 - 09:26;17 Dec 2020 - 09:26;1;1;1,00;1;1,00;45;45,00;0,10;100,00
+stats.national.agri_orge;orge;2020;Décembre;NA;NA;0;0;0,00;0;0,00;0;0,00;0,00;0,00
+stats.national.agri_phytofruits2018;phytofruits2018;2020;Décembre;08 Dec 2020 - 10:03;10 Dec 2020 - 10:11;2;2;1,00;24;12,00;239;119,50;6,67;3413,50
+stats.national.agri_phytolegumes2018;phytolegumes2018;2020;Décembre;01 Dec 2020 - 16:31;01 Dec 2020 - 16:31;1;1;1,00;4;4,00;93;93,00;7,95;8139,00
+stats.national.agri_saam;saam;2020;Décembre;01 Dec 2020 - 07:55;30 Dec 2020 - 10:50;28;30;1,07;232;7,73;3167;105,57;46,58;1589,93
+stats.national.agri_terlab;terlab;2020;Décembre;01 Dec 2020 - 03:56;31 Dec 2020 - 18:45;1647;2682;1,63;63932;23,84;144926;54,04;2142,21;817,91
+teleservices-ea.agriculture.gouv.fr;;2020;Décembre;01 Dec 2020 - 00:06;31 Dec 2020 - 23:56;4690;7515;1,60;224964;29,94;391291;52,07;18001,68;2452,92
+teleservices-ea.agriculture.gouv.fr_arpent-examen;arpent-examen;2020;Décembre;01 Dec 2020 - 00:06;31 Dec 2020 - 23:00;2327;3647;1,57;147215;40,37;233655;64,07;13568,90;3809,86
+teleservices-ea.agriculture.gouv.fr_arpent-resultats;arpent-resultats;2020;Décembre;01 Dec 2020 - 00:08;31 Dec 2020 - 23:56;2474;3918;1,58;31729;8,10;111241;28,39;4365,75;1141,02
+usager.agriculture.gouv.fr;;2020;Décembre;01 Dec 2020 - 00:48;31 Dec 2020 - 23:31;399;4295;10,76;169655;39,50;273071;63,58;917,52;218,75
+usager.agriculture.gouv.fr_bdnu-services-marquage-ws-1.2;bdnu-services-marquage-ws-1.2;2020;Décembre;01 Dec 2020 - 06:11;31 Dec 2020 - 14:52;15;28;1,87;34;1,21;34;1,21;0,01;0,29
+usager.agriculture.gouv.fr_bdnu-services-recherche-ws;bdnu-services-recherche-ws;2020;Décembre;01 Dec 2020 - 00:48;31 Dec 2020 - 00:45;5;117;23,40;117;1,00;117;1,00;0,40;3,48
+usager.agriculture.gouv.fr_bdnu-services-recherche-ws-1.2;bdnu-services-recherche-ws-1.2;2020;Décembre;01 Dec 2020 - 03:30;31 Dec 2020 - 15:58;73;1240;16,99;3486;2,81;3486;2,81;10,73;8,86
+usager.agriculture.gouv.fr_bdnu-services-referentiels-ws;bdnu-services-referentiels-ws;2020;Décembre;01 Dec 2020 - 00:48;31 Dec 2020 - 23:31;44;2066;46,95;4286;2,07;4286;2,07;9,85;4,88
+usager.agriculture.gouv.fr_bdnu-services-referentiels-ws-1.2;bdnu-services-referentiels-ws-1.2;2020;Décembre;01 Dec 2020 - 04:02;31 Dec 2020 - 07:05;33;830;25,15;1897;2,29;1897;2,29;4,39;5,42
+usager.agriculture.gouv.fr_creation-collaborateur;creation-collaborateur;2020;Décembre;NA;NA;0;0;0,00;0;0,00;0;0,00;0,00;0,00
+usager.agriculture.gouv.fr_inscription_usager;inscription_usager;2020;Décembre;01 Dec 2020 - 07:54;31 Dec 2020 - 15:05;77;105;1,36;578;5,50;6137;58,45;18,10;176,51
+usager.agriculture.gouv.fr_interfacebdnu;interfacebdnu;2020;Décembre;01 Dec 2020 - 06:42;31 Dec 2020 - 17:25;176;729;4,14;30620;42,00;125888;172,69;716,29;1006,14
+usager.agriculture.gouv.fr_sirius-sea;sirius-sea;2020;Décembre;01 Dec 2020 - 08:31;31 Dec 2020 - 16:41;31;113;3,65;128637;1138,38;131226;1161,29;157,76;1429,65
+usager.national.agri;;2020;Décembre;01 Dec 2020 - 07:19;31 Dec 2020 - 17:51;150;409;2,73;596730;1459,00;625414;1529,13;1121,96;2809,00
+usager.national.agri_bacus-administration;bacus-administration;2020;Décembre;01 Dec 2020 - 09:33;31 Dec 2020 - 15:36;38;67;1,76;13534;202,00;14029;209,39;42,05;642,61
+usager.national.agri_bacus-api;bacus-api;2020;Décembre;NA;NA;0;0;0,00;0;0,00;0;0,00;0,00;0,00
+usager.national.agri_interfacebdnu;interfacebdnu;2020;Décembre;01 Dec 2020 - 09:29;31 Dec 2020 - 15:48;37;100;2,70;2927;29,27;14231;142,31;76,53;783,66
+usager.national.agri_sirius-api-2;sirius-api-2;2020;Décembre;NA;31 Dec 2020 - 14:30;2;3;1,50;6;2,00;15;5,00;1,70;581,33
+usager.national.agri_sirius-sea;sirius-sea;2020;Décembre;01 Dec 2020 - 07:19;31 Dec 2020 - 17:51;82;267;3,26;535098;2004,11;550592;2062,14;874,89;3355,39
+webstat.rmap.auzeville.agri;;2020;Décembre;08 Dec 2020 - 09:53;30 Dec 2020 - 16:16;6;7;1,17;81;11,57;340;48,57;2,56;374,57

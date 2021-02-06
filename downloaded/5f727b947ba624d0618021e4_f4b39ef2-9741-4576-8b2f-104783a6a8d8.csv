@@ -1,0 +1,13 @@
+id,antenne,adresse,adr_num,adr_suf,adr_voie,code_post,com,insee_com,ant_tel,ant_mail
+ar_01,AMIENS,15 mail Albert 1er ,15,,mail Albert 1er ,80000,Amiens ,80021,374273003,antenne-amiens@hautsdefrance.fr
+ar_02,CAMBRAI, 5 rue d'Alger,5,,r d'Alger,59400,Cambrai,59122,374278003,Antenne-Cambrai@hautsdefrance.fr
+ar_03,CHATEAU-THIERRY,2 avenue Ernest Couvrecelle,2,,av Ernest Couvrecelle,2400,Etampes-sur-Marne,2292,374273034,antenne-soissons@hautsdefrance.fr
+ar_04,CLERMONT,4 avenue des Déportés ,4,,av des Déportés ,60600,Clermont,60157,374273040,Antenne-Clermont@hautsdefrance.fr 
+ar_05,FOURMIES,1 place Georges Coppeaux,1,,pl Georges Coppeaux,59610,Fourmies,59249,374273020,antenne-fourmies@hautsdefrance.fr 
+ar_06,FREVENT,2 rue des Lombards,2,,r des Lombards,62270,Frévent,62361,374273070,Antenne-Frevent@hautsdefrance.fr 
+ar_07,HAZEBROUCK,222 bis rue de vieux Berquin,222,bis,r de vieux Berquin,59190,Hazebrouck,59295,374278123,antenne-hazebrouck@hautsdefrance.fr 
+ar_08,MONTDIDIER,41 rue Jean Jaures ,41,,r Jean Jaures ,80500,Montdidier,80561,374273010,antenne-montdidier@hautsdefrance.fr  
+ar_09,MONTREUIL-SUR-MER,5 rue Saint-Gengoult,5,,r Saint-Gengoult,62170,Montreuil-sur-Mer,62588,374278111,antenne-montreuil-sur-mer@hautsdefrance.fr
+ar_10,SAINT-QUENTIN,9 place Lafayette,9,,pl Lafayette,2100,Saint-Quentin,2691,374272186,Antenne-SaintQuentin@hautsdefrance.fr
+ar_11,SOISSONS,2 allée des Nobel,2,,all des Nobel,2200,Soissons ,2722,374273034,antenne-soissons@hautsdefrance.fr
+ar_12,ARRAS,13 ter boulevard Robert Schuman,13,ter,bd Robert Schuman,62000,Arras,62041,374278151,antenne-arras@hautsdefrance.fr

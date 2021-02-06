@@ -1,0 +1,11 @@
+﻿FID,OBJECTID,NOM,ETAT,PROPRIETE,CODE_INSEE,COMMUNE,SURF_M2,SURF_HA,DATE_MAJ,SHAPE_Leng,SHAPE_Area
+1,1,Trousse-Bois,Parc départemental existant,Département,45053,BRIARE,604215.49,60.42,Juin 2012,5881.67982325,604215.4907
+2,2,Prairie du Puiseaux-Vernisson,Parc départemental à l'étude,Département,45338,VILLEMANDEUR,162266.25,16.23,Juin 2012,3640.28877377,162266.24835
+3,3,Grand Rozeau et Près Blonds,Espace Naturel Sensible potentiel,Département,45068,CHÂLETTE-SUR-LOING,338315.95,33.83,Juin 2012,4083.01234524,338315.945248
+4,4,Les Mauves,Parc départemental existant,Commune,45203,MEUNG-SUR-LOIRE,91218.16,9.12,Juin 2012,3527.63917156,91218.1565997
+5,5,Parc de Sully,Parc départemental existant,Mixte (Département et commune),45315,SULLY-SUR-LOIRE,415500.39,41.55,Juin 2012,6624.53165556,415500.39125
+6,6,Sablière de Cercanceaux,Espace Naturel Sensible potentiel,Département,45127,DORDIVES,1000453.15,100.05,Juin 2012,5743.93158057,1000453.14775
+7,7,Dolines de Limère,Parc départemental existant,Département,45006,ARDON,644181.28,64.42,Juin 2012,3629.48189534,644181.284749
+8,8,Chamerolles,Parc départemental à l'étude,Département,45095,CHILLEURS-AUX-BOIS,408516.65,40.85,Juin 2012,4452.24979807,408516.654499
+9,9,Etang du Puits,Parc départemental existant,Syndicat,45063,CERDON,1212049.39,121.2,Juin 2012,5851.58857608,1212049.388
+10,10,Parc de Châteauneuf,Parc départemental existant,Département,45082,CHÂTEAUNEUF-SUR-LOIRE,204080.9,20.41,Juin 2012,3939.09455959,204080.899701

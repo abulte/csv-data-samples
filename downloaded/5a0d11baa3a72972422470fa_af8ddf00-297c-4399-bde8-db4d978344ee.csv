@@ -1,0 +1,557 @@
+Id,DATE_DERNIERE_MAJ,TYPE,NOM_OFFRE,PORTE_ESCALIER,BATIMENT_RESIDENCE,RUE,LIEUDIT_BP,CODE_POSTAL,COMMUNE,COMMUNE_INSEE,TEL,TEL_MOB,MEL,SITE_WEB,LONGITUDE,LATITUDE,GEOLOC_MANUELLE,INFOS_COMPLEMENTAIRES_1,INFOS_COMPLEMENTAIRES_2,INFOS_COMPLEMENTAIRES_3,LABEL_TOURISME_HANDICAP,MARQUES_LABELS,OUVERTURE,TARIFS,VISITE_CONDITIONS_IND,VISITE_LANGUES_PARLEES,EQUIPEMENTS,SERVICES
+LOIAQU064V50DZ5J,03/01/2020,Jeux pour enfants # Parc à thèmes,Acrojungle,,,Rue des Eaux-Bonnes,BP 102,64121,SERRES-CASTET,64519,+33 5 59 21 84 06 # +33 7 86 24 19 46,,acrojungle64@gmail.com,http://www.acrojungle.fr, -0.3838246,43.3595401,,"
+",,,,,,Tarif de base|||de 1 à 3 ans # Tarif de base|||à partir de 4 ans et selon la durée,,,Aire de pique-nique # Bar # Restauration,Espace jeux # Halte garderie # Wifi
+LOIAQU064V54JDBM,03/01/2020,Mini-golf,Adventure Golf,,Karting d'Espoey,Route de Luquet,,64420,ESPOEY,64216,+33 5 59 04 69 51,,jbc.karting@wanadoo.fr,http://www.karting-espoey.com, -0.1376092,43.2550053,Oui,"
+",,,,Qualité Tourisme,,Tarif de base|||enfant moins de 5 ans # Tarif de base|||enfant de 5 à 10 ans # Tarif de base|||Plus de 10 ans,,,Aire de pique-nique # Bar # Salle(s) de réunion,
+LOIAQU064V5AE5RO,03/01/2020,Jeux pour enfants,Agorespace,,,Elizakopartia,,64250,ESPELETTE,64213,,,,, -1.4047532,43.3284135,Oui,"
+",,,,,,,,,,
+LOIAQU040V50HZET,31/12/2018,Jeux pour enfants,Aire de jeux,,,,,40480,VIEUX-BOUCAU,40328,,,,, -1.4016920,43.7870910,Oui,"
+",,,,,,,,,,
+LOIAQU040FS0004E,03/01/2020,Jeux pour enfants,Aire de Jeux ,,,,,40200,PONTENX LES FORGES,40229,,,,, -1.2976849,44.2136253,Oui,"
+",,,,,,,,,,
+LOIAQU064V5AE5N0,03/01/2020,Jeux pour enfants,Aire de jeux,,,,Quartier Inthalatz,64480,LARRESSORE,64317,+33 5 59 93 03 07,,mairie@larressore.fr,, -1.4393316,43.3744391,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",Visite libre,,,Espace jeux
+LOIAQU033V50LD08,03/01/2020,Jeux pour enfants,Aire de jeux ,,,23 rue de la Carreyre,,33114,LE BARP,33029,+33 5 57 71 90 90,,,, -0.769632,44.608384,Oui,"
+",,,,,,,,,,
+LOIAQU064V5ACY0D,03/01/2020,Jeux pour enfants,Aire de jeux,,,A côté de la caserne des pompiers,,64240,URT,64546,+33 5 59 56 20 33,,,, -1.6454775,48.1124605,Non,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,,
+LOIAQU064V5ACY0W,03/01/2020,Jeux pour enfants,Aire de jeux,,,A côté du restaurant Jouantho,,64240,BRISCOUS,64147,+33 5 59 31 70 90,,,, -1.3337230,43.4604710,Non,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,,
+LOIAQU064V5ACY1L,03/01/2020,Jeux pour enfants,Aire de jeux,,,A la base de loisirs du Baigura ,,64240,MENDIONDE,64377,+33 5 59 29 62 53,,,, -1.2826818,43.3102744,Non,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,,
+LOIAQU064V5ACY24,03/01/2020,Jeux pour enfants,Aire de jeux,,,Au bourg ,,64240,BONLOC,64134,+33 5 59 29 11 43,,,, -1.2534749,43.3938250,Non,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,,
+LOIAQU064V5ACXZO,03/01/2020,Jeux pour enfants,Aire de jeux,,,Au bourg,,64520,BARDOS,64094,+33 5 59 56 80 59,,,, -1.1639361,43.5237195,Non,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,,
+LOIAQU064V5ACY2E,03/01/2020,Jeux pour enfants,Aire de jeux,,,Au jardin public,,64520,BIDACHE,64123,+33 5 59 56 03 49 # +33 5 59 56 00 10,,,, -1.1412259,43.4825768,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,,
+LOIAQU033V50LFCL,03/01/2020,Jeux pour enfants,Aire de jeux,,,Chemin de Lanquette,,33770,SALLES,33498,,,,, -0.869017,44.557428,Oui,"
+",,,,,,,,,,
+LOIAQU064V5AEWGD,03/01/2020,Jeux pour enfants,Aire de jeux,,,Chemin de Talé,,64520,BIDACHE,64123,+33 5 59 56 03 49,,,, -1.1412203,43.4825183,Oui,"
+",,,,,,,,,,
+LOIAQU064V5ACXYS,03/01/2020,Jeux pour enfants,Aire de jeux,,,Chemin Ila Ilaenea,,64990,VILLEFRANQUE,64558,+33 5 59 44 93 13,,,, -1.4523330,43.4367710,Non,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,,
+LOIAQU064V5ACXZL,03/01/2020,Jeux pour enfants,Aire de jeux,,,dans le bourg au dessus de l'école,,64990,LAHONCE,64304,+33 5 59 31 55 10,,,, -1.3874682,43.4873793,Non,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,,
+LOIAQU064V5ACXX4,03/01/2020,Jeux pour enfants,Aire de jeux,,,Derrière la piscine,,64240,LA BASTIDE-CLAIRENCE,64289,+33 5 59 70 29 10,,,, -1.2563305,43.4322955,Non,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,,
+LOIAQU064V5ADCZF,03/01/2020,Jeux pour enfants,Aire de jeux,,,Herriko etxeko plaza,,64480,JATXOU,64282,+33 5 59 93 00 40,,,, -1.4284639,43.3887082,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,Accessible en poussette,Espace jeux
+LOIAQU064V5AE5JR,03/01/2020,Jeux pour enfants,Aire de jeux,,,Karrika nagusia,,64250,ITXASSOU,64279,+33 5 59 29 75 36,,,, -1.4062389,43.3341233,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",Visite libre,,,Espace jeux
+LOIAQU064V5ADCYZ,03/01/2020,Jeux pour enfants,Aire de jeux,,,Le bourg,Quartier Karrika,64480,HALSOU,64255,+33 5 59 93 03 28,,mairie-halsou@wanadoo.fr,, -1.4237496,43.3760792,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,Accessible en poussette,Espace jeux
+LOIAQU064V5AE5IM,03/01/2020,Jeux pour enfants,Aire de jeux,,,Place du marché,,64250,ESPELETTE,64213,+33 5 59 93 91 44,,,, -1.4465394,43.3396684,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",Visite libre,,Accessible en poussette,Espace jeux
+LOIAQU033V50EGMY,03/01/2020,Jeux pour enfants,Aire de jeux ,,,Place Fourès,,33990,HOURTIN,33203,,,,, -1.1684329,45.2229076,Oui,"
+",,,,,,,,,,Espace jeux
+LOIAQU064V5ACXZ6,03/01/2020,Jeux pour enfants,Aire de jeux,,,Près du skate park et de la mairie,,64990,MOUGUERRE,64407,+33 5 59 31 83 23,,,, -1.5404251,43.4603832,Non,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,,
+LOIAQU033FS000G6,03/01/2020,Jeux pour enfants,Aire de Jeux ,,,Promenade de Pèch Lèbre,,33680,LACANAU,33214,+33 5 56 03 21 01,,,http://www.medoc-atlantique.com, -1.0932737,44.9795417,Oui,"
+",,,,,,,,,,Espace jeux
+LOIAQU064V5ACXYH,03/01/2020,Jeux pour enfants,Aire de jeux,,,Route de Cambo Les Bains,,64240,HASPARREN,64256,+33 5 59 29 60 22,,,, -1.3243506,43.3829226,Non,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,,
+LOIAQU064V5ADWIH,03/01/2020,Aire de pique-nique # Jeux pour enfants,Aire de jeux,,,Route de Dorrea,,64310,ASCAIN,64065,+33 5 59 54 00 84,,,, -1.6436799,43.3487669,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,,
+LOIAQU064V5AD390,31/01/2020,Jeux pour enfants,Aire de jeux,,,Rue Arnaud de Maytie,,64130,MAULEON-LICHARRE,64371,+33 5 59 28 18 67,,secretariat@mauleon-soule.fr,, -0.8894206,43.2208197,Non,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00||",,,Accessible en poussette # Aire de pique-nique,
+LOIAQU033V50LD0E,03/01/2020,Jeux pour enfants,Aire de jeux,,,Rue de la Gare,,33830,BELIN-BELIET,33042,,,,, -0.786784,44.499798,Oui,"
+",,,,,,,,,,
+LOIAQU064V5AE5OU,03/01/2020,Jeux pour enfants,Aire de jeux,,,Rue des écoles,,64250,SOURAIDE,64527,+33 5 59 93 83 43,,commune-souraide@wanadoo.fr,, -1.4753783,43.3413688,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",Visite libre,,,Espace jeux
+LOIAQU033V50IVF9,03/01/2020,Jeux pour enfants,Aire de jeux,,,Rue du parc,,33380,MARCHEPRIME,33555,+33 5 57 71 18 70,,,, -0.8522961,44.6919679,Oui,"
+",,,,,,Gratuit|||accès libre,,,,
+LOIAQU064V5AD3AV,31/01/2020,Jeux pour enfants,Aire de jeux,,,Rue Rangot,,64470,TARDETS-SORHOLUS,64533,+33 5 59 28 55 90,,comtardets@cdg-64.fr,, -0.8641448,43.1169277,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00||",,,Accessible en poussette # Aire de pique-nique,
+LOIAQU064V5ADKD5,03/01/2020,Jeux pour enfants,Aire de jeux,,,Rue Saint Pelage,,64120,SAINT-PALAIS,64493,,,,, -1.0362060,43.3264650,Non,"
+",,,,,,,,,,
+LOIAQU033V50LFDU,03/01/2020,Jeux pour enfants,Aire de jeux,,,Rue Va aux Champ,,33770,SALLES,33498,,,,, -0.867773,44.550576,Oui,"
+",,,,,,,,,,
+LOIAQU064V58SV40,03/01/2020,Jeux pour enfants,Aire de jeux - Lée,,,1 Rue des Fontaines,,64320,LEE,64329,,,,, -0.2910050,43.2885258,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU064V5ACZ5E,03/01/2020,Jeux pour enfants,Aire de jeux  square Henri Dunant,,,Square Henri Dunant,Quai de l'infante,64500,SAINT-JEAN-DE-LUZ,64483,,,,, -1.6666218,43.3872902,Non,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|-3,00|",,,,Espace jeux
+LOIAQU033V50CRIZ,03/01/2020,Jeux pour enfants,"Aire de jeux ""P'tit bateau""",,,Esplanade Dartiguelongue,,33740,ARES,33011,,,,, -1.1424063,44.7615825,Oui,"
+",,,,,,,Visite libre,,,
+LOIAQU033FS000C2,03/01/2020,Jeux pour enfants,"Aire de jeux ""P'tit train""",,,Rue Jean Templier,,33740,ARES,33011,,,,, -1.1318384,44.7678974,Oui,"
+",,,,,,,Visite libre,,,
+LOIAQU033V50EG75,03/01/2020,Jeux pour enfants,Aire de jeux à Lacanau-Océan,,,,Square Elie Souleyreau,33680,LACANAU,33214,,,,, -1.1971055,45.0014098,Oui,"
+",,,,,,,,,,
+LOIAQU033V50U28B,03/01/2020,Jeux pour enfants,Aire de jeux au Parc Mauresque,en Ville d'Hiver,,Parc Mauresque,,33120,ARCACHON,33009,+33 5 57 52 97 97,,,, -1.1721456,44.6586001,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,Visite libre,,Accessible en poussette # Parking autocar,Espace jeux # Wifi
+LOIAQU033V50U28D,03/01/2020,Jeux pour enfants,Aire de jeux au Petit Port de Plaisance,Petit Port,,Rue des Marins,,33120,ARCACHON,33009,+33 5 57 52 97 97,,,, -1.1527800,44.6603629,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,Visite libre,,Accessible en poussette # Parking autocar,Espace jeux
+LOIAQU033V50U2AI,03/01/2020,Jeux pour enfants,Aire de jeux Bas Fond Dulas,,,Avenue de la Côte d'Argent,,33120,ARCACHON,33009,+33 5 57 52 97 97,,,, -1.1829494,44.6566310,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,Visite libre,,Accessible en poussette # Parking autocar,Espace jeux
+LOIAQU064FS000NU,03/01/2020,Jeux pour enfants,Aire de jeux Belcénia,,,Boulevard de la Baie de Txingudi,,64700,HENDAYE,64260,,,,, -1.7716124,43.3638212,Oui,"
+",,,,,,,,,,Espace jeux
+LOIAQU033V50J87H,03/01/2020,Jeux pour enfants,Aire de jeux dans le centre,,,Place du Foirail,,33121,CARCANS,33097,+33 5 56 03 21 01,,,, -1.0453366,45.0790338,Oui,"
+",,,,,,,,,,
+LOIAQU064V5ACZON,03/01/2020,Jeux pour enfants,Aire de jeux de Béhobie,,,rue Richelieu,,64700,URRUGNE,64545,,,,, -1.7629827,43.3444003,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,Accessible en poussette,Espace jeux
+LOIAQU024V50ADUZ,31/12/2018,Jeux pour enfants,Aire de jeux de Biras,,,Le bourg,,24310,BIRAS,24042,+33 5 53 46 34 39,,,,0.61722699,45.333409,Oui,"
+",,,,,,,,,,
+LOIAQU024V50AHU5,31/12/2018,Aire de pique-nique # Jeux pour enfants,Aire de jeux de Bourdeilles,,,,,24310,BOURDEILLES,24055,,,,,0.58224769,45.3239187,Oui,"
+",,,,,,,,,,
+LOIAQU024FS0002W,03/01/2020,Jeux pour enfants,Aire de jeux de Brantôme,Chemin du Vert Galant,,,,24310,BRANTOME EN PERIGORD,24064,+33 5 53 05 70 21,,,,0.6473940,45.3651870,,"
+",,,,,,,,,,
+LOIAQU033V50JFVM,03/01/2020,Jeux pour enfants,Aire de jeux de Cassy,,,Rue du port,,33138,LANTON,33229,,,,, -1.0566360,44.7104760,Non,"
+",,,,,,,,,,
+LOIAQU033FS000Q4,03/01/2020,Jeux pour enfants,Aire de jeux de la Garenne,,,La Garenne,,33680,LE PORGE,33333,+33 5 56 26 50 15,,mairie-le-porge@wanadoo.fr,https://www.mairie-leporge.fr/, -1.0959008,44.8713723,Oui,"
+",,,,,,,Visite libre,,Accessible en poussette,Espace jeux
+LOIAQU064FS000DC,03/01/2020,Jeux pour enfants,Aire de Jeux de la Négresse,,,Rue Philippe Veyrin,,64200,BIARRITZ,64122,+33 5 59 41 59 41,,,, -1.5492439,43.4605199,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|Gratuit",,,,
+LOIAQU064V5ACZGW,03/01/2020,Jeux pour enfants,"Aire de jeux de l'Untxin, Socoa",,,Promenade de la Cité ,,64122,URRUGNE,64545,,,,, -1.6865265,43.3877510,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,Accessible en poussette # Aire de pique-nique # Bar # Restauration # Sentier de randonnée,Espace jeux
+LOIAQU024V50DHMB,03/01/2020,Jeux pour enfants,Aire de jeux de Mareuil,,le bourg,,,24340,MAREUIL EN PÉRIGORD,24253,,,,,0.45340699,45.4523579,Oui,"
+",,,,,,,,,,
+LOIAQU033FS000SM,03/01/2020,Jeux pour enfants,Aire de jeux de Saint-Maixant,,,Mairie,,33490,SAINT-MAIXANT,33438,+33 5 56 62 02 08,,,, -0.2600723,44.5784092,Oui,"
+",,,,,,,,,,
+LOIAQU024V50ADUS,31/12/2018,Jeux pour enfants,Aire de jeux de Valeuil,,,Le bourg,,24310,BRANTOME EN PERIGORD,24064,+33 5 53 05 71 50,,,,0.61722699,45.333409,Oui,"
+",,,,,,,,,,
+LOIAQU064FS000NW,03/01/2020,Jeux pour enfants,Aire de jeux des Joncaux,,,Rue Richelieu,,64700,HENDAYE,64260,,,,, -1.7630267,43.3446634,Oui,"
+",,,,,,,,,,
+LOIAQU024V50AH0C,31/12/2018,Jeux pour enfants,Aire de jeux d'Eyvirat,,,Le bourg,24310,24460,BRANTOME EN PERIGORD,24064,+33 5 53 06 35 52,,,,0.75351200,45.32329,Oui,"
+",,,,,,,,,,
+LOIAQU064FS000D9,21/01/2020,Jeux pour enfants,Aire de Jeux du Jardin Public,,,"23, Avenue Foch",,64200,BIARRITZ,64122,,,mairie@britz.fr,, -1.5601658,43.4791604,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,,
+LOIAQU033V50JRNW,03/01/2020,Jeux pour enfants,Aire de jeux du jardin public d'Audenge,,,"24, Allée Ernest de Boissière",,33980,AUDENGE,33019,+33 5 56 03 81 50,,,, -1.0155200,44.6841955,Oui,"
+",,,,,,,Visite libre,,,
+LOIAQU033V50J697,03/01/2020,Jeux pour enfants,Aire de jeux du port d'Audenge,rue du port,,,,33980,AUDENGE,33019,+33 5 56 03 81 50,,,, -1.0200020,44.6783888,Oui,"
+",,,,,,,Visite libre,,,
+LOIAQU064V5ACZ54,03/01/2020,Jeux pour enfants,Aire de jeux du port de la Nivelle,,, Promenade Alfred Pose,Quartier Urdazuri,64500,SAINT-JEAN-DE-LUZ,64483,,,,, -1.6630550,43.3880510,Non,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|-3,00|",,,,Espace jeux
+LOIAQU064V5ACZ2G,30/01/2020,Jeux pour enfants,Aire de jeux Ducontenia,,Parc Ducontenia, 12 Avenue André Ithurralde,,64500,SAINT-JEAN-DE-LUZ,64483,,,,, -1.6553521,43.3902996,Non,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|-3,00|",,,Accessible en poussette # Aire de pique-nique,Espace jeux
+LOIAQU040V50GQRM,31/12/2018,Jeux pour enfants,Aire de Jeux Enfants,,,Rue de Magenta,Moliets Bourg,40660,MOLIETS-ET-MAA,40187,,,,, -1.3596909,43.8497057,Oui,"
+",,,,,,,,,,
+LOIAQU033V50EG9V,03/01/2020,Aire de pique-nique # Jeux pour enfants,Aire de jeux et de pique-nique du Gurp,le Gurp,,,,33590,GRAYAN-ET-L'HOPITAL,33193,,,,, -1.1530228,45.4344673,Oui,"
+",,,,,,,,,Aire de pique-nique,Espace jeux
+LOIAQU040FS00093,31/12/2018,Jeux pour enfants,Aire de Jeux Gonflables,,,Rue de la Bastide,,40660,MOLIETS-ET-MAA,40187,+33 5 58 48 59 26,,,, -1.3858920,43.8498638,Oui,"
+",,,,,,,Visite libre,,,
+LOIAQU064FS000NV,03/01/2020,Jeux pour enfants,Aire de jeux Irandatz,,,Rue de Santiago,,64700,HENDAYE,64260,,,,, -1.7754319,43.3535438,Oui,"
+",,,,,,,,,Aire de pique-nique,Espace jeux
+LOIAQU064V5ACZMZ,03/01/2020,Jeux pour enfants,Aire de jeux Jostalekua ,,,4 place de Sulzbach,,64122,URRUGNE,64545,,,,, -1.6952060,43.3654672,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,Accessible en poussette,Espace jeux
+LOIAQU064FS000E5,03/01/2020,Jeux pour enfants,Aire de jeux Kirolak,,,Rue de la Gare,,64210,BIDART,64125,+33 5 59 54 93 85,,,, -1.5913975,43.4310448,Oui,"
+",,,,,,,Visite libre,,,Espace jeux
+LOIAQU064FS000D0,03/01/2020,Jeux pour enfants # Lac/Site de pêche,Aire de Jeux Lac Marion,,,Avenue du Lac Marion,,64200,BIARRITZ,64122,+33 5 59 41 59 41,,,, -1.5519690,43.4669209,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|Gratuit",,,,Espace jeux
+LOIAQU033V50CONZ,03/01/2020,Jeux pour enfants,Aire de jeux Lacanau de Mios ,,,Place de L'Église,,33380,MIOS,33284,,+33 5 56 26 66 21,,, -0.8533309,44.6519254,Oui,"
+",,,,,,Gratuit|||Accès libre,,,,Espace jeux
+LOIAQU040V507S9G,03/01/2020,Aire de pique-nique # Boulodrome # Jeux pour enfants,Aire de jeux Le Jardin de l'Amitié,,,75 route de Habas,,40290,OSSAGES,40214,,,,, -0.8815357,43.5593167,Non,"
+",,,,,,,Visite libre,,Aire de pique-nique,Espace jeux
+LOIAQU033V50U28F,03/01/2020,Jeux pour enfants,Aire de jeux Les Dinosaures ,,,Plage Pereire,,33120,ARCACHON,33009,+33 5 57 52 97 97,,,, -1.1957890,44.6521498,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,Visite libre,,Accessible en poussette # Bar # Parking autocar # Restauration,Espace jeux
+LOIAQU040010RA0C,03/01/2020,Jeux pour enfants # Terrain omnisports # Terrain(s) de tennis,Aire de jeux multisports - Bas-Mauco,,,Au bourg,,40500,BAS-MAUCO,40026,+33 5 58 76 07 35,,,, -0.5576818,43.7946048,Oui,"
+",,,,,,,,,,
+LOIAQU064V5ACZ6G,03/01/2020,Jeux pour enfants,Aire de jeux Parc Jean Moulin,,,Parc Jean Moulin,Rue Gambetta,64500,SAINT-JEAN-DE-LUZ,64483,,,,, -1.6507000,43.4033947,Non,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|-3,00|",,,,Espace jeux
+LOIAQU064FS000D1,03/01/2020,Jeux pour enfants,Aire de Jeux Parc Mazon,,,"35, Avenue Marechal Joffre",,64200,BIARRITZ,64122,+33 5 59 41 59 41,,,, -1.5613567,43.4774865,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|Gratuit",,,,Espace jeux
+LOIAQU064FS000DA,03/01/2020,Jeux pour enfants,Aire de Jeux Plage de la Milady,,,Avenue de la Milady,,64200,BIARRITZ,64122,+33 5 59 41 59 41,,,, -1.573019,43.4653168,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|Gratuit",,,,
+LOIAQU064V5ADWGE,03/01/2020,Aire de pique-nique # Jeux pour enfants,Aire de jeux Pont Romain,,,Route d'Errotenea,,64310,ASCAIN,64065,+33 5 59 54 00 84,,,, -1.6218138,43.3500467,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,,
+LOIAQU033FS000KV,03/01/2020,Jeux pour enfants,Aire de jeux pour enfants,,,,,33430,MARIMBAULT,33270,+33 5 56 25 08 87,,,, -0.2687810,44.4107230,,"
+",,,,,,,,,,
+LOIAQU033FS000KW,03/01/2020,Jeux pour enfants,Aire de jeux pour enfants,,,,,33430,GAJAC,33178,+33 5 56 25 03 02,,,, -0.1250010,44.4375390,,"
+",,,,,,,,,,
+LOIAQU033FS000L0,03/01/2020,Jeux pour enfants,Aire de jeux pour enfants,,,,,33430,SAINT-COME,33391,+33 5 56 25 00 68,,,, -0.1821370,44.4245900,,"
+",,,,,,,,,,
+LOIAQU040FS000R0,03/01/2020,Jeux pour enfants,Aire de jeux pour enfants,,,Au bord Piste cyclable Lo Camin de Hè,,40260,LINXE,40155,,,,, -1.2259194,43.9156560,Oui,"
+",,,,,,,,,Aire de pique-nique,
+LOIAQU033FS00033,03/01/2020,Jeux pour enfants,Aire de jeux pour enfants,,,Avenue de la République,,33430,BAZAS,33036,+33 5 56 25 25 84,,mairie@ville-bazas.fr,http://www.ville-bazas.fr, -0.2205419,44.4327072,Oui,"
+",,,,,,,Visite libre,,,Espace jeux
+LOIAQU040V503YSS,03/01/2020,Jeux pour enfants,Aire de jeux pour enfants,,,Esplanade,Contis-Plage,40170,SAINT-JULIEN-EN-BORN,40266,,,,, -1.3211576,44.0905627,Oui,"
+",,,,,,,,,,
+LOIAQU040FS000QQ,03/01/2020,Jeux pour enfants,Aire de jeux pour enfants,,,Parc de la Mairie,,40170,LIT-ET-MIXE,40157,,,,, -1.2585656,44.0341750,Oui,"
+",,,,,,,,,,
+LOIAQU040FS000QV,03/01/2020,Jeux pour enfants,Aire de jeux pour enfants,,,Parc du Barrat,,40260,CASTETS,40075,,,,, -1.1447501,43.8810558,Oui,"
+",,,,,,,,,Aire de pique-nique,
+LOIAQU040FS000QW,03/01/2020,Jeux pour enfants,Aire de jeux pour enfants,,,Parc Municipal,,40260,LINXE,40155,,,,, -1.2463042,43.9216222,Oui,"
+",,,,,,,,,Aire de pique-nique,
+LOIAQU040V50HZRR,31/01/2020,Jeux pour enfants,Aire de jeux pour enfants,,,Route des lacs,Parking du hall des sports,40660,MESSANGES,40181,,,,, -1.3779015,43.8134197,Oui,"
+",,,,,,,,,,
+LOIAQU064FS000PB,03/01/2020,Jeux pour enfants,Aire de jeux pour enfants,,Jardin Darralde,,,64440,EAUX-BONNES,64204,+33 5 59 05 33 08,,,, -0.3930884,42.9731374,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,Aire de pique-nique # Bar # Restauration,Espace jeux
+LOIAQU033V50EG9S,03/01/2020,Aire de pique-nique # Jeux pour enfants,Aire de jeux pour enfants et pique-nique,,,Lède de Montalivet - Avenue de l'Europe ,,33930,VENDAYS-MONTALIVET,33540,,,,, -1.1438634,45.3740338,Oui,"
+",,,,,,,,,Aire de pique-nique,Espace jeux
+LOIAQU033V50EG7G,03/01/2020,Jeux pour enfants,Aire de jeux près du lac,,,Place du pôle,,33121,CARCANS,33097,+33 5 56 03 21 01,,,, -1.1415099,45.0700253,Oui,"
+",,,,,,,,,,
+LOIAQU033V50U2AH,03/01/2020,Jeux pour enfants,Aire de jeux Résidence de l'Etoile,,,Allée Sirius,,33120,ARCACHON,33009,+33 5 57 52 97 97,,,, -1.1785775,44.6525098,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,Visite libre,,Accessible en poussette # Parking autocar,Espace jeux # Wifi
+LOIAQU064V5ACZ3A,30/01/2020,Jeux pour enfants,Aire de jeux Sainte Barbe,,, Promenade des Rochers,Quartier Sainte Barbe,64500,SAINT-JEAN-DE-LUZ,64483,,,,, -1.6650140,43.3994790,Non,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|-3,00|",,,,Espace jeux
+LOIAQU033V50EG8G,03/01/2020,Jeux pour enfants,Aire de jeux soulacaise,,,Rue Victor Hugo,,33780,SOULAC-SUR-MER,33514,,,,, -1.1222511,45.5170783,Oui,"
+",,,,,,,,,,
+LOIAQU024V508B96,03/01/2020,Aire de pique-nique # Halte nautique # Jeux pour enfants,Aire de loisirs du Petit Pré,,,rue Emile Combe,,24110,SAINT-ASTIER,24372,,,,,0.53214045,45.1442910,Oui,"
+",,,,,,,,,,
+LOIAQU047FS000A6,03/01/2020,Aire de pique-nique # Jeux pour enfants,Aire de pique-nique du Moulin,,,Rue du Château ,,47360,MONTPEZAT,47190,+33 5 53 95 02 14,,,,0.523172,44.347649,,"
+",,,,,01/01/2020|31/12/2020|||||,"Tarif de base|1,00|1,00|par personne / visite de la maquette",Visite guidée,Français,Accessible en poussette # Aire de pique-nique # Bar # Sentier de randonnée,Boutique # Espace jeux
+LOIAQU040V50GRYF,03/01/2020,Aire de pique-nique # Boulodrome # Jeux pour enfants # Lac/Site de pêche # Parcours de santé,Aire naturelle l'Etang des Forges ,190 rue Tapiot,,,,40420,BROCAS,40056,+33 5 58 51 40 23,+33 6 35 42 73 74,syndicat.initiative40420@gmail.com,, -0.5420522,44.0426124,Oui,"
+",,,,,15/04/2020|15/10/2020|||||,"Tarif de base|5,00||location vélo à la journée # Tarif de base|||locatbarque à la demi-heure # Tarif de base|||location pédalo à la demi-heure",,,Aire de pique-nique # Restauration,Espace jeux # Location de vélos # Wifi
+LOIAQU040FS00092,31/12/2018,Jeux pour enfants # Terrain omnisports,Aire Sportive,,,Rue de la Solidarité,Près de la Médiathèque ,40660,MOLIETS-ET-MAA,40187,,,,, -1.3595420,43.8508812,Oui,"
+",,,,,,,,,,
+LOIAQU040FS000LE,03/01/2020,Jeux pour enfants,Arborétum de Moré,,,Avenue Nelson Gaston,,40110,MORCENX-LA-NOUVELLE,40197,+33 5 58 04 79 50,,,http://www.paysmorcenais.fr, -0.914956,44.02893,Oui,"
+",,,,,,,,,,
+LOIAQU0240005287,30/01/2020,Base de loisirs # Jeux pour enfants # Lac/Site de pêche # Mini-golf # Parc à thèmes # Parc aquatique # Piscine # Plage surveillée,Aux Etangs du Bos,,,,Le Bos,24260,SAINT-CHAMASSY,24388,+33 5 53 54 74 60,+33 7 68 01 81 46,contact@le-bos.com,http://www.le-bos.com,0.97049215,44.8679186,Oui,"
+",,,,,13/06/2020|30/08/2020|11:00|20:00|||,"Tarif de base|10,00|10,00|Adultes et enfants de plus de 16 ans # Tarif de base|9,00|9,00|Enfant de moins de 16 ans # Gratuit|||Enfant de moins de 90 cms # Tarif de groupe|7,00|9,00|TARIF GROUPE PLUS DE 10 PERSONNES",,,Aire de pique-nique # Restauration,Espace jeux
+LOIAQU040FS00024,03/01/2020,Mini-golf,Azur Mini Golf ,,,Route des Campings,,40140,AZUR,40021,,+33 6 08 34 55 30,,https://www.minigolf-landes.fr, -1.3115304,43.7875547,Oui,"
+",,,,,,,,,Aire de pique-nique,
+LOIAQU064FS00047,08/01/2020,Jeux pour enfants # Mini-golf,Baby Golf,,,13 rue de Bouney,,64600,ANGLET,64024,+33 5 59 03 09 21,,contact@golf-anglet.com,http://www.golf-anglet.com, -1.5369019,43.4981890,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Tarif de base|7,50||",,,Bar,
+LOIAQU064FS000FA,03/01/2020,Jeux pour enfants,Baby Palace,M. PETROT,,Rond-point de la Floride,,64700,HENDAYE,64260,,+33 6 34 13 46 63,,, -1.7803215,43.3705229,Oui,"
+",,,,,,,,,,
+LOIAQU047FS000BO,21/01/2020,Base de loisirs # Jeux pour enfants # Mini-golf # Plage surveillée,Baignade naturelle à Parc en Ciel,,,,Moulin de Courrance,47150,LACAPELLE-BIRON,47123,+33 5 53 71 84 58,,parc-en-ciel@orange.fr # contact@parc-en-ciel.com,http://www.parc-en-ciel.com,0.88425993,44.5910631,Oui,"
+",,,,Qualité Tourisme # Sourire du Lot-et-Garonne,,,,,Aire de pique-nique # Bar # Restauration,Espace jeux
+LOIAQU064FS0003M,20/01/2020,Base de loisirs # Jeux pour enfants # Lac/Site de pêche,Base de Loisirs,,,D 918,,64310,SAINT-PEE-SUR-NIVELLE,64495,+33 5 59 54 18 48 # +33 5 59 54 10 19,,dgs@senpere64.fr,, -1.6208279,43.3534594,,"
+",,,,,01/07/2020|06/09/2020|||||,"Tarif de base|10,00|10,00|Canoe # Tarif de base|8,00|8,00|Kayak # Tarif de base|10,00|15,00|Pédalos # Tarif de base|9,00|13,00|Stand up paddle # Tarif de base|13,00|81,00|Tennis",,,,
+LOIAQU024FS00070,03/01/2020,Aire de pique-nique # Base de loisirs # Bateaux promenade # Boulodrome # Bowling # Jeux pour enfants # Mini-golf,Base de loisirs ,,Avenue de Planèze,,Planèze,24190,NEUVIC,24309,,+33 7 81 22 59 87,,,0.46902179,45.1062273,Oui,"
+",,,,,05/06/2020|27/09/2020|||||,,,,Accessible en poussette # Aire de pique-nique # Bar # Restauration,Espace jeux
+LOIAQU024FS00060,03/01/2020,Base de loisirs # Lac/Site de pêche # Mini-golf # Plage surveillée,Base de loisirs de Chandos,,,avenue André Malraux,,24700,MONTPON-MENESTEROL,24294,+33 5 53 82 23 77,,,,0.16346454,45.0127535,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,Aire de pique-nique # Bar # Restauration,Espace jeux
+LOIAQU047FS00011,03/01/2020,Aire de pique-nique # Base de loisirs # Boulodrome # Jeux pour enfants # Salle à louer,Base de Loisirs de la Taillade,,,319 chemin vert,,47420,POMPOGNE,47208,+33 5 53 93 00 93,,la-taillade@solincite.org,http://www.la-taillade.com,0.0830166,44.2697352,,"
+",,,,,01/01/2020|31/12/2020|||||,,Visite guidée # Visite libre,Anglais # Espagnol # Français # Portugais,Aire de pique-nique # Bar # Restauration # Salle hors sac # Salle(s) de réunion,Boutique # Espace jeux
+LOIAQU024V500LXS,17/01/2020,Aire de pique-nique # Base de loisirs # Boulodrome # Jeux pour enfants # Lac/Site de pêche # Mur d'escalade # Plage surveillée # Pontons handi-pêche # Slack lines,Base de Loisirs de Rouffiac,Rouffiac,,,,24270,ANGOISSE,24008,+33 5 53 52 68 79,,rouffiac@semitour.com,http://www.rouffiac-loisirs.com/,1.16543629,45.4143622,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,01/03/2020|30/11/2020|||||,"Tarif de base|14,00||Téléski nautique # Tarif de base|11,00||accro park",,,Aire de pique-nique # Restauration,Espace jeux # Wifi
+LOIAQU033FS0003M,06/01/2020,Aire de pique-nique # Base de loisirs # Jeux pour enfants # Lac/Site de pêche # Parcours de santé,Base de loisirs de Saint-Christophe-de-Double,,,,,33230,SAINT-CHRISTOPHE-DE-DOUBLE,33385,+33 5 57 69 51 11,,,http://www.saintchristophededouble.fr,0.01467704,45.0740661,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,Aire de pique-nique # Bar # Restauration,Espace jeux
+LOIAQU064FS000EO,03/01/2020,Aire de pique-nique # Base de loisirs # Boulodrome # Jeux pour enfants # Lac/Site de pêche # Parc aquatique # Parcours de santé # Plage surveillée # Pontons handi-pêche # Terrain(s) de tennis,Base de loisirs d'Orthez-Biron,,,Avenue Marcel Paul,,64300,ORTHEZ,64430,+33 5 59 60 55 06,,tourisme@cc-lacqorthez.fr,http://www.cc-lacqorthez.fr, -0.7195747,43.4586059,Oui,"
+",,,,,01/01/2020|31/12/2020|06:00|||22:00|,"Gratuit|0,00||",Visite libre,,Aire de pique-nique # Bar # Restauration,Espace jeux
+LOIAQU047FS00040,21/01/2020,Aire de pique-nique # Base de loisirs # Casino # Jeux pour enfants # Lac/Site de pêche # Parc aquatique # Parcours de santé # Plage surveillée # Pontons handi-pêche,Base de loisirs du Lac de Clarens,,,Route de Mont de Marsan,,47700,CASTELJALOUX,47052,+33 5 53 93 48 00,,,,0.07209777,44.2952885,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Tarif de base|2,50|2,50|Personnes à partir de 13 ans du 30 juin au 1e septembre # Gratuit|||De septembre à fin juin, et enfants jusqu'à 12 ans du 30 juin au 1er septembre",,,Aire de pique-nique # Bar # Restauration # Sentier de randonnée,Espace jeux
+LOIAQU040FS000AS,03/01/2020,Base de loisirs # Jeux pour enfants # Lac/Site de pêche # Parcours de santé # Plage surveillée,Base de Loisirs du Marsan,"D824 lieu dit ""Ménasse""",,,,40280,SAINT-PIERRE-DU-MONT,40281,+33 5 58 05 87 37,,contact@lemarsantourisme.fr,http://www.basedeloisirsdumarsan.fr , -0.5354772,43.8814809,Oui,"
+",,,,Accueil Vélo # Scandibérique,,,,,Aire de pique-nique # Bar # Restauration,Espace jeux
+LOIAQU064V5012AE,28/01/2020,Base de loisirs # Jeux pour enfants # Lac/Site de pêche # Parc aquatique # Plage surveillée # Tremplin,Base de Pop,,Lac des Arroques,136 chemin du lac,,64520,GUICHE,64250,+33 5 59 58 78 34,,contact@basedepop.fr,http://www.basedepop.fr, -1.1847291,43.5000330,Oui,"
+",,,,Qualité Tourisme,30/05/2020|20/09/2020|||||,"Tarif de base|10,00|23,00|Accr'eau Park # Tarif de base|15,00|29,00|Water Jump # Tarif réduit|22,00|35,00|Combo : accr'eau park + water jump # Tarif de base|10,00|10,00|Locations stand-up paddle, kayak, barque - Personne sup :  +3€ # Tarif réduit|35,00|35,00|Forfait journée # Gratuit|0,00|0,00|Baignade surveillée # Tarif de groupe|||Tarifs réduits pour enfants de moins de 1,50m, groupe de plus de 15 personnes.",Visite libre,,Accessible en poussette # Aire de pique-nique # Bar # Parking autocar # Restauration,Boutique # Espace jeux
+LOIAQU064V51VG9F,03/01/2020,Jeux pour enfants # Tremplin,Big Airbag,,,,La Pierre Saint-Martin,64570,ARETTE,64040,+33 5 59 66 20 80,,psm@epsa.fr,, -0.7465504,42.9779930,Oui,"
+",,,,,,Tarif de base|||Pour la journée - Sauts illimités,,,Bar # Restauration,Espace jeux # Wifi
+LOIAQU033FS000LV,03/01/2020,Bowling # Jeux pour enfants,Bowlingstar,,,8 avenue des Loisirs,Lac de la Magdeleine,33470,GUJAN-MESTRAS,33199,+33 5 57 15 39 45,,bowling.du.bassin@orange.fr,http://www.bowlingstar.fr, -1.0961973,44.6170804,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,Bar # Salle de projection # Salle(s) de réunion,Espace jeux
+LOIAQU024V5071Z9,02/02/2020,Jeux pour enfants # Parc à thèmes,"Bridoire, le Château des Jeux",,,,Bridoire,24240,RIBAGNAC,24351,+33 5 53 58 11 74,+33 6 30 39 38 22,contact@chateaudebridoire.com,http://www.chateaudebridoire.com,0.45874770,44.7680556,Oui,"
+",,,,Vignobles et découvertes,04/04/2020|10/04/2020|||14:00|18:00| # 11/04/2020|13/04/2020|10:00|||18:00| # 14/04/2020|30/06/2020|||14:00|18:00|Jeudi - Lundi - Mardi - Mercredi - Vendredi # 01/07/2020|30/08/2020|10:00|||19:00| # 31/08/2020|16/10/2020|||14:00|18:00|Jeudi - Lundi - Mardi - Mercredi - Vendredi # 17/10/2020|01/11/2020|||14:00|18:00|,"Tarif de base|9,50|9,50|adulte # Tarif de base|6,50|6,50|de 4 à 10 ans inclus # Tarif de base|7,50|7,50|de 11 à 18 ans inclus # Tarif réduit|7,50|7,50|étudiants, handicapés # Gratuit|||4ème enfant",,,Aire de pique-nique # Restauration,Boutique # Espace jeux
+LOIAQU033V501Z1E,31/01/2020,Jeux pour enfants,Cap Sciences Bordeaux,,Hangar 20,Quai Bacalan,,33300,BORDEAUX,33063,+33 5 56 01 07 07,,,http://www.cap-sciences.net/, -0.5560607,44.8592777,,"
+",,,,,,,,,,
+LOIAQU040V5030S2,30/01/2020,Jeux pour enfants,Centre de loisirs,,Lac de Christus,735 Allée de Christus,,40990,SAINT-PAUL-LES-DAX,40279,+33 5 58 91 87 59,,,, -1.0681843,43.7298634,Oui,"
+",,,,,,,,,,
+LOIAQU064V5778XO,03/01/2020,Jeux d'énigmes # Jeux pour enfants,Château des Enigmes,,Château,,,64390,LAAS,64287,+33 5 59 65 00 34,,laas@chateau-enigmes.com,http://www.chateau-enigmes.com, -0.8502533,43.3786399,Oui,"
+",,,,Qualité Tourisme,04/07/2020|30/08/2020|10:00|||19:00| # 17/10/2020|01/11/2020|10:00|18:00||| # 04/04/2020|10/05/2020|10:00|18:00||| # 11/05/2020|03/07/2020|10:00|18:00|||Jeudi - Lundi - Mardi - Vendredi # 31/08/2020|16/10/2020|10:00|18:00|||Jeudi - Lundi - Mardi - Vendredi,"Tarif de base|14,00|14,00| # Tarif réduit|11,00|11,00|Enfant (4 à 12 ans) # Gratuit|0,00|0,00|Enfant - de 4 ans",,,Aire de pique-nique,
+LOIAQU033FS00049,15/01/2020,Aire de pique-nique # Circuit automobile ou moto # Espace de réunions # Jeux d'énigmes # Jeux pour enfants # Parcours de santé # Salle à louer # Salle de congrès # Salle de sport # Terrain omnisports,Circuit de Faleyras,,,7 route de Marchand,,33760,FALEYRAS,33163,+33 5 56 23 49 08,+33 7 69 11 04 47,contact@circuitdefaleyras.com,http://www.circuitdefaleyras.com/prestations-team-building/ # http://www.faleyraspaintball.com/, -0.238952,44.749537,Oui,"
+",,,,,02/01/2020|29/12/2020|||||,,,Anglais # Français # Italien,Aire de pique-nique # Restauration # Salle de projection # Salle hors sac # Salle(s) de réunion,Boutique # Espace jeux # Wifi
+LOIAQU033V50FMLM,03/01/2020,Jeux pour enfants # Mini-golf,City Golf à Bourg ,,,Place de la Liberation,BP12,33710,BOURG,33067,+33 5 57 68 31 76,,tourismebourg@grand-cubzaguais.fr,http://www.bbte.fr, -0.5596100,45.0391679,Oui,"
+",,,,,02/01/2020|31/12/2020|09:30|12:30|14:00|18:00|Dimanche - Jeudi matin - Lundi - Mardi matin - Mercredi matin - Vendredi matin,"Tarif de groupe|5,00|5,00|",Visite libre uniquement sur rendez-vous,Français,Aire de pique-nique # Parking autocar # Restauration,Boutique # Espace jeux # Wifi
+LOIAQU040V50055L,03/01/2020,Jeux pour enfants # Terrain omnisports,City Parc,,Place de Vagos,Derrière la salle de la Huchette,,40550,LEON,40150,,,,, -1.3031370,43.8758280,,"
+",,,,,,,,,,
+LOIAQU064V50FIJN,03/01/2020,Jeux pour enfants,City Stade de La Barre,,,299 avenue de l'Adour,,64600,ANGLET,64024,+33 5 59 57 10 90,,,, -1.5227024,43.5258466,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00||",,,,
+LOIAQU064FS000ER,03/01/2020,Jeux pour enfants,City Stade de Lespès,,,Rue de Lespès,,64600,ANGLET,64024,+33 5 59 57 10 90,,,, -1.4992263,43.5056687,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00||",,,,
+LOIAQU064V5ACZKA,03/01/2020,Jeux pour enfants,City stade et aire de jeux du Bourg,,,121 chemin d'Agerrenborda,,64122,URRUGNE,64545,,,,, -1.6994386,43.3636889,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,Accessible en poussette # Aire de pique-nique,Espace jeux
+LOIAQU040V5033AE,31/12/2018,Jeux pour enfants # Terrain omnisports,City-Park et Ateliers Sportifs,,,Rue de Magenta,Moliets Bourg,40660,MOLIETS-ET-MAA,40187,,,,, -1.3593422,43.8498643,Oui,"
+",,,,,,,,,,
+LOIAQU033FS0008V,03/01/2020,Jeux pour enfants,City-Stade de Camiran,,,Le bourg,,33190,CAMIRAN,33087,+33 5 56 71 71 55,,,, -0.070002,44.628815,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU033FS0008W,03/01/2020,Jeux pour enfants,City-Stade de Fontet,,,Le Bourg,,33190,FONTET,33170,+33 5 56 71 71 55,,,, -0.0271523,44.5602578,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU033FS00090,03/01/2020,Jeux pour enfants,City-Stade de La Réole,,,Le bourg,,33190,LA REOLE,33352,+33 5 56 71 71 55,,,, -0.040256,44.583746,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU033FS00092,03/01/2020,Jeux pour enfants,City-Stade de Saint-Hilaire-de-la-Noaille,,,Le bourg,,33190,SAINT-HILAIRE-DE-LA-NOAILLE,33418,+33 5 56 71 71 55,,,, -0.000771,44.600923,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU033FS00091,03/01/2020,Jeux pour enfants,City-Stade Mongauzy,,,Le bourg,,33190,MONGAUZY,33287,+33 5 56 71 71 55,,,,0.034192,44.567199,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU040V50HZTB,17/01/2020,Jeux pour enfants,"City-stade, terrain multisports",,,route des lacs,parking hall des sports,40660,MESSANGES,40181,,,,, -1.3779362,43.8133965,Oui,"
+",,,,,,,,,,
+LOIAQU064FS00062,06/01/2020,Club de plage # Club enfants # Jeux pour enfants # Piscine,Club de plage les Moussaillons,Contacter Eric,Plage de Marinella,Avenue des Goélands,,64600,ANGLET,64024,,+33 6 25 37 73 72,eric.pays@yahoo.fr,https://www.facebook.com/Club-de-plage-Les-Moussaillons-320781098050908/, -1.5395175,43.5028072,Oui,"
+",,,,,01/07/2020|31/08/2020|||||,"Tarif de base|20,00||Demi-journée",,,,Espace jeux
+LOIAQU064FS000CB,03/01/2020,Club de plage # Jeux pour enfants,Club de Plage Mickey,,,27 AVENUE DU MARECHAL JUIN,,64200,BIARRITZ,64122,,+33 6 85 83 01 96,club.mickey.biarritz@gmail.com,, -1.5598225,43.4844384,Oui,"
+",,,,,01/07/2020|31/08/2020|||||,"Tarif de base|20,00|538,00|",,,,Espace jeux
+LOIAQU064V59UYUW,03/01/2020,Club de plage # Jeux pour enfants # Piscine,Club de plage Uralaia,Promenade du parlement de Navarre,Le Lac,RD 918,,64310,SAINT-PEE-SUR-NIVELLE,64495,,+33 6 31 72 63 09 # +33 6 31 10 26 10,bonjour@uralaia.fr,https://www.uralaia.fr, -1.5229153,43.3469182,Oui,"
+",,,,,01/07/2020|29/08/2020|||||,,,,,Espace jeux
+LOIAQU040FS000HD,06/03/2018,Club de plage # Club enfants # Jeux pour enfants,Club Mickey ,,,,Océan - Plage Sud ,40150,SOORTS-HOSSEGOR,40304,,+33 6 52 59 57 26,club.mickey.hossegor@gmail.com,http://www.club-plage-mickey.com , -1.4437996,43.6603193,Oui,"
+",,,,,,,,,,Espace jeux
+LOIAQU064FS0008L,03/01/2020,Club de plage # Jeux pour enfants # Piscine # Salle de billard # Terrain omnisports,Club Neptune,,,Boulevard de la Mer,,64700,HENDAYE,64260,,+33 6 68 04 28 10,neptunehendaye@yahoo.fr,http://www.neptunehendaye.com, -1.7806112,43.3725350,Oui,"
+",,,,Famille Plus,15/06/2020|15/09/2020|||||,"Tarif de base|22,00||1/2 journée club",,,,Espace jeux # Halte garderie
+LOIAQU033V50DDXF,07/01/2020,Jeux pour enfants,Cotton Club ,,,3 place Carnot,,33930,VENDAYS-MONTALIVET,33540,,+33 6 45 15 04 62,,, -1.1568100,45.3784361,Oui,"
+",,,,,15/04/2020|15/09/2020|||||,,,,,Espace jeux
+LOIAQU033FS0002O,06/01/2020,Aire de pique-nique # Jeux pour enfants # Lac/Site de pêche # Parcours de santé,Domaine de loisirs des lacs du Moulin Blanc,,,Moulin Blanc,,33920,SAINT-CHRISTOLY-DE-BLAYE,33382,+33 5 57 42 12 09,,,http://www.tourisme-blaye.com/activites-nature/base-de-loisirs-des-lacs-du-moulin-blanc, -0.4752445,45.1526875,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,Visite libre,,Aire de pique-nique # Bar # Restauration,Espace jeux
+LOIAQU040FS000M4,31/01/2020,Aire de pique-nique # Bibliothèque - médiathèque # Espace de réunions # Ferme de découverte # Jeux pour enfants # Salle de spectacle,Eco-lieu JEANOT,lieu-dit Peye,Rue de Mâa ,,,40370,RION-DES-LANDES,40243,+33 9 81 98 81 31,,contact@jeanot.fr,http://www.jeanot.fr, -0.9268560,43.9584798,Oui,"
+",,,,,06/01/2020|18/12/2020|10:00|18:00|||,,Visite guidée uniquement sur rendez-vous # Visite libre,Anglais # Espagnol # Français,Accessible en poussette # Aire de pique-nique # Bar # Salle de projection # Salle(s) de réunion # Sentier de randonnée,
+LOIAQU064V55HA0Y,03/01/2020,Jeux d'énigmes # Jeux pour enfants,Escape Castle,,Château,,,64390,LAAS,64287,,+33 6 31 50 51 25,contact@escape-game-64.com,http://www.escape-game-64.com, -0.8502533,43.3787647,Oui,"
+",,,,Qualité Tourisme,01/01/2020|31/12/2020|||||,"Tarif de base|20,00|36,00|Tarif par session # Tarif réduit|6,00|6,00|Enfant de 6 à 12 ans",Visite libre uniquement sur rendez-vous,,Parking autocar,
+LOIAQU064FS000Q5,12/01/2020,Aire de pique-nique # Boulodrome # Jeux pour enfants # Parcours de santé,"Espace détente ""Le Vert à l'oeil""",,,,,64570,ARETTE,64040,+33 5 59 88 90 82,,,, -0.71622,43.095245,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00||Gratuité",Visite libre,,Aire de pique-nique,Espace jeux
+LOIAQU033FS0008M,03/01/2020,Jeux pour enfants,Espace jeux enfants,,UCPA,Domaine de Bombannes,,33121,CARCANS,33097,+33 5 57 70 12 13,,bombannes@ucpa.asso.fr,http://bombannes.ucpa.com, -1.142833,45.069666,Oui,"
+",,,,,,,,,,Espace jeux
+LOIAQU064V50UTGO,03/01/2020,Aire de pique-nique # Jeux d'énigmes # Jeux pour enfants # Parc à thèmes # Slack lines,Espace Ludopia,,,,,64490,ACCOUS,64006,,+33 7 68 34 98 61,info@espaceludopia.fr,, -0.6006214,42.9801766,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,Esprit Parc National - Pyrénées,01/01/2020|05/01/2020|||12:00|17:30| # 08/02/2020|08/03/2020|||12:00|17:30| # 04/04/2020|30/04/2020|11:00|||18:00|,"Tarif de base|||Adulte # Tarif réduit|||Enfant de 4 à 12 ans, chômeurs (sur présentation carte) # Gratuit|||Enfant de moins de 4 ans",Visite libre,Espagnol # Français,Accessible en poussette # Aire de pique-nique # Bar # Restauration,Boutique # Espace jeux # Wifi
+LOIAQU064FS0003S,03/01/2020,Aire de pique-nique # Base de loisirs # Jeux pour enfants # Lac/Site de pêche,Espace Naturel du Lac de Castet,,,,Quartier Ayguelade,64260,BIELLE,64127,+33 5 59 05 66 77,,infofunvalley@gmail.com,http://www.valleedossau-tourisme.com/, -0.4321950,43.0551060,,"
+",,,,,01/01/2020|31/12/2020|||||,"Tarif de base|9,00|13,00|Barque # Tarif de base|7,00|11,00|Kayak # Tarif de base|8,00|14,00|ânes # Tarif de base|5,00|10,00|Kart à pédales",,,Aire de pique-nique # Bar,Boutique # Espace jeux
+LOIAQU04001ODHED,03/01/2020,Jeux pour enfants # Lac/Site de pêche,Etang de pêche ,route de l'étang,,Etang communal,,40190,SAINTE-FOY,40258,+33 5 58 45 26 39,,,, -0.3338942,43.9381200,Oui,"
+",,,,,,,,,Aire de pique-nique,
+LOIAQU04001VH8F6,03/01/2020,Fronton # Jeux pour enfants # Lac/Site de pêche # Parcours de santé # Salle à louer # Terrain(s) de tennis,Etang de pêche de Mouneyre,,,,,40120,SARBAZAN,40288,+33 5 58 45 64 93,,,, -0.3114688,44.0195689,,"
+",,,,,,,,,Aire de pique-nique # Sentier de randonnée,Espace jeux
+LOIAQU040V5005EJ,09/03/2018,Jeux pour enfants,Fun Palace,31 avenue de la Plage,,,,40530,LABENNE OCEAN,40133,,+33 6 08 43 63 73,,http://www.funcado.fr, -1.4625548,43.5960494,Oui,"
+",,,,,,,,,,
+LOIAQU040V506AOW,03/01/2020,Jeux pour enfants # Parc à thèmes,Fun Park Plage,,,Place du Lac Marin soustons plage ,Avenue de la Pêtre,40140,SOUSTONS,40310,,+33 6 35 19 50 36,funparkplage@gmail.com,, -1.4080938,43.7753144,Oui,"
+",,,,,17/04/2020|15/09/2020|||||,"Tarif de base|5,00|5,00|5 # Tarif de groupe|||A partir de 10 personnes",,,Aire de pique-nique # Bar # Restauration,Boutique # Espace jeux # Wifi
+LOIAQU064V505T8T,06/01/2020,Club enfants # Jeux pour enfants # Parc à thèmes # Salle à louer,Funny Play,,,8 allée du Canal,ZA des Pontots,64600,ANGLET,64024,+33 5 59 64 19 18,,contact@funny-play.fr,http://www.funny-play.fr, -1.4953628,43.4957444,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Tarif de base|8,00||Enfant de moins de 4 ans # Tarif de base|11,00||Enfant à partir de 4 ans",Visite libre,,Bar # Restauration # Salle(s) de réunion,Espace jeux # Wifi
+LOIAQU024V5073GI,02/02/2020,Jeux pour enfants # Parc à thèmes,Giga Parc,,,,ZA La Nauve,24100,CREYSSE,24145,+33 5 53 24 13 15,,gigaparc24@gmail.com,http://www.gigaparc.fr,0.5404320,44.8519770,Non,"
+",,,,,01/01/2020|05/01/2020|10:00|||19:30| # 06/01/2020|07/02/2020|||||Lundi - Mardi - Vendredi # 08/02/2020|08/03/2020|10:00|||19:30| # 09/03/2020|03/04/2020|||||Lundi - Mardi - Vendredi # 04/04/2020|03/05/2020|10:00|||19:30| # 04/05/2020|03/07/2020|||||Lundi - Mardi - Vendredi # 04/07/2020|30/08/2020|10:00|||19:30| # 31/08/2020|16/10/2020|||||Lundi - Mardi - Vendredi # 17/10/2020|01/11/2020|10:00|||19:30| # 02/11/2020|18/12/2020|||||Lundi - Mardi - Vendredi # 19/12/2020|31/12/2020|10:00|||19:30|,"Tarif de base|7,00|8,50|de 4 à 12 ans # Tarif de base|5,00|6,50|de 19 mois à 3 ans # Gratuit|||de 0 à 18 mois",,,Accessible en poussette # Aire de pique-nique # Restauration,Espace jeux # Wifi
+LOIAQU024V50F18E,17/01/2020,Jeux pour enfants,Go Kids Park,,,La menuse,,24260,JOURNIAC,24217,+33 5 53 07 10 74,,contact@univerland.net,https://www.gokidspark.fr/ # https://www.facebook.com/pg/gokidspark/about/ # https://www.instagram.com/gokids_park/,0.8913360,44.9930690,Non,"
+",,,,,01/01/2020|31/12/2020|||||,"Tarif de base|10,00|| # Tarif réduit|9,50||enfants # Tarif de groupe|9,50||",,,Accessible en poussette # Parking autocar # Restauration,Espace jeux
+LOIAQU047FS0009D,21/01/2020,Golf # Mini-golf,Golf du Château d'Allot Agen Boé,,,Route de Layrac,Château d'Allot,47550,BOE,47031,+33 5 53 87 65 69,,golfagenboe@gmail.com,http://www.golfagenboe.fr,0.65917968,44.1549918,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Tarif de base|920,00|920,00|Cotisation individuelle 12 mois # Tarif de base|25,00|55,00|Green fee",,,Aire de pique-nique # Bar # Salle de projection # Salle(s) de réunion,Boutique # Espace jeux # Wifi
+LOIAQU064FS0004D,03/01/2020,Mini-golf,Golf miniature,,,Rue Ernest Fourneau,,64310,ASCAIN,64065,,+33 6 65 19 61 51,,, -1.6214784,43.3458201,Oui,"
+",,,,,,,,,,
+LOIAQU064FS000PP,23/01/2020,Mini-golf,Golf Miniature Mayarko,,,661 route des Plages,Plage de Mayarko,64500,SAINT-JEAN-DE-LUZ,64483,+33 5 59 54 70 34,+33 6 74 26 71 77,,https://www.minigolf-mayarco.fr, -1.6249895,43.4170812,Oui,"
+",,,,,04/04/2020|01/11/2020|||||,"Tarif réduit|5,00|5,00|Enfant - de 10 ans # Tarif de base|6,00|6,00|",,Anglais # Espagnol # Français,Bar # Restauration,
+LOIAQU040V50M32Y,03/01/2020,Jeux pour enfants # Mini-golf,Grasshopper Putting Garden Hossegor,Sporting Casino,,119 Avenue Maurice Martin,,40150,SOORTS-HOSSEGOR,40304,,+33 6 47 19 62 01,,https://minigolfhossegor.fr/?reqp=1&reqr=, -1.435141,43.66044,Oui,"
+",,,,,,,,,,
+LOIAQU064V506CCL,09/01/2020,Club enfants # Jeux pour enfants # Salle à louer,Grenadine & Crayonnade,,,11 avenue de l'Adour,Zone de Jorlis,64600,ANGLET,64024,,+33 6 77 84 44 16,contact@grenadine-et-crayonnade.fr,https://www.grenadine-et-crayonnade.fr, -1.4940538,43.5013673,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Tarif de base|9,00|11,50|",,,Accessible en poussette # Parking autocar,Halte garderie # Wifi
+LOIAQU033FS00013,10/01/2020,Aire de pique-nique # Halte nautique # Jeux pour enfants # Port de plaisance # Salle à louer,Halte Nautique de Cubzac les Ponts,,,Rue du port,,33240,CUBZAC-LES-PONTS,33143,+33 5 57 43 02 11 # +33 5 57 43 92 93,,mairie@cubzaclesponts.fr,http://www.mairie-cubzaclesponts.com/, -0.4605138,44.9652154,Oui,"
+",,,,,01/01/2020|31/12/2020||||| # 01/01/2020|31/12/2020|||||,,,,Aire de pique-nique,Espace jeux
+LOIAQU033FS0013O,14/01/2020,Aire de pique-nique # Base de loisirs # Halte nautique # Jeux pour enfants # Lac/Site de pêche # Port de plaisance,Halte nautique de Fontet,,,Base de loisirs,,33190,FONTET,33170,+33 5 56 61 08 30 # +33 5 56 61 23 81,,,, -0.0297970,44.559845,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,Gratuit|||,,,Aire de pique-nique # Bar,Espace jeux
+LOIAQU040FS0009A,03/01/2020,Jeux pour enfants # Parc à thèmes,Ile aux pirates,,,Pont Notre Dame,Zone de Loisirs,40130,CAPBRETON,40065,,,lerouge@ileauxpirates.com,http://www.ileauxpirates.com, -1.4383506,43.6548942,Oui,"
+",,,,,,,,,Restauration,Espace jeux
+LOIAQU024FS00016,02/02/2020,Jeux pour enfants # Parc à thèmes # Piscine,Jacquou Parc,,,RD 710,La Menuse - Mortemart,24260,SAINT-FELIX-DE-REILLAC-ET-MORTEMART,24404,+33 5 53 54 15 57,+33 6 70 02 67 19,jacquouparc@aol.com,http://www.jacquouparc.com,0.88860511,44.9885530,Oui,"
+",,,,,04/04/2020|03/05/2020|10:30|||17:30| # 04/05/2020|31/05/2020|10:30|||17:30|Jeudi - Lundi - Mardi - Mercredi - Vendredi # 01/06/2020|30/08/2020|10:30|||18:30| # 01/09/2020|30/09/2020|10:30|||17:30|Jeudi - Lundi - Mardi - Mercredi - Vendredi,"Tarif de base|14,00|17,50|Adulte  # Tarif réduit|13,00|16,00|Enfant # Gratuit|||Enfant (-85cm)",,Français,Bar # Restauration,Espace jeux
+LOIAQU064V5AD3A1,31/01/2020,Aire de pique-nique # Jeux pour enfants,"Jardin Cherbero, aire de jeux",,,Rue Victor Hugo,,64130,MAULEON-LICHARRE,64371,+33 5 59 28 18 67,,secretariat@mauleon-soule.fr,, -0.8870525,43.2217970,Non,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00||",,,Accessible en poussette # Aire de pique-nique,
+LOIAQU040V50CMMQ,03/01/2020,Jeux pour enfants,Jardin d'enfants,place de Tordesillas,,,,40700,HAGETMAU,40119,,,,, -0.5924512,43.6522261,Oui,"
+",,,,,,,,,,
+LOIAQU024V502GAT,03/01/2020,Jeux pour enfants,Jeu de piste Choukie le choucas,,,,,24190,NEUVIC,24309,+33 5 53 80 86 65,,communication@fondationdelisle.fr,http://www.fondationdelisle.fr,0.47469284,45.1033055,Oui,"
+",,,,,,Gratuit|||Enfant de moins de 8 ans,Visite libre,Anglais # Français,Aire de pique-nique # Restauration # Salle(s) de réunion,Espace jeux
+LOIAQU040V50JP0M,31/12/2018,Jeux pour enfants,Jeux pour enfants,,,,,40370,BEYLONGUE,40040,,,,, -0.8283550,43.9230078,Oui,"
+",,,,,,,,,,
+LOIAQU040V506OEF,03/01/2020,Jeux pour enfants,Jeux pour enfants,Lac de Luc,,route du Lac,,40350,POUILLON,40233,,,,, -1.0179110,43.5937590,,"
+",,,,,,,,,,Espace jeux
+LOIAQU040FS000DG,03/01/2020,Jeux pour enfants,Jeux pour enfants à Morlanne,Place de Morlanne,,,,40500,SAINT-SEVER,40282,+33 5 58 76 00 02,,,, -0.5737674,43.7624625,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,Espace jeux
+LOIAQU040FS000DH,03/01/2020,Jeux pour enfants,Jeux pour enfants au parc de Toulouzette,Parc de Toulouzette,,,,40500,SAINT-SEVER,40282,+33 5 58 76 00 02,,,, -0.5758059,43.7593941,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,Accessible en poussette,Espace jeux
+LOIAQU064V57MJVK,03/01/2020,Club enfants # Jeux pour enfants # Salle de sport,Joko club,,,19 chemin Saint Bernard,,64100,BAYONNE,64102,,+33 6 70 54 81 03,contact@jokoclub.fr,https://www.jokoclub.fr, -1.4835367,43.5009712,Oui,"
+",,,,,,,,,Bar # Restauration # Salle de projection # Salle(s) de réunion,Espace jeux # Wifi
+LOIAQU033FS0002F,03/01/2020,Jeux pour enfants # Parc à thèmes,Kid Parc Île d'Aventures,,,131 route des Lacs,,33470,GUJAN-MESTRAS,33199,+33 5 56 66 06 90,,infos@kidparc.com,http://www.kidparc.com, -1.1062717,44.6223573,Oui,"
+",,,,,11/04/2020|31/10/2020|||||,"Tarif de base|11,90|11,90|de 2 à 10 ans basse saison # Tarif de base|12,90|12,90|de 2 à 10 ans haute saison # Tarif de base|11,90|11,90|10 ans et + toute saison # Gratuit|||0 à 23 mois (sur justificatif)",Visite libre,,Aire de pique-nique # Bar # Restauration,Boutique
+LOIAQU024V507R3D,02/02/2020,Jeux d'énigmes # Jeux pour enfants,La Clef,,,10 rue Saint Louis,,24100,BERGERAC,24037,+33 5 53 27 29 84,,laclefbergerac@gmail.com,http://www.laclefbergerac.fr,0.48512840,44.8542864,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,Tarif de base|||/pers (3 joueurs) # Tarif de base|||/pers (4 joueurs) # Tarif de base|||/pers (5 joueurs) # Tarif de base|||/pers (6 joueurs),,,,
+LOIAQU033FS0002J,08/01/2020,Jeux pour enfants # Parc à thèmes # Zoo - parc animalier,La Coccinelle,,Parcs d'attractions de La Hume,Route des Lacs,,33470,GUJAN-MESTRAS,33199,+33 5 56 66 30 41,+33 6 12 43 20 23,contact@la-coccinelle.fr,http://www.la-coccinelle.fr, -1.1050915,44.6214295,Oui,"
+",,,,,11/04/2020|01/11/2020|||||,"Tarif de base|13,00|13,00|De 2 à 11 ans inclus # Tarif de base|14,00|14,00|12 ans et +",,,Aire de pique-nique # Bar,Boutique # Espace jeux
+LOIAQU033FS000OA,03/01/2020,Jeux pour enfants,La Grange aux Jeux,,,Sur l'Ile aux Enfants,,33990,HOURTIN,33203,+33 5 56 73 28 43,,accueil@mairie-hourtin.fr,http://www.hourtin-medoc.com, -1.0842990,45.1845323,Oui,"
+",,,,,,,,,,
+LOIAQU064FS0001T,21/01/2020,Ferme de découverte # Jeux pour enfants # Lac/Site de pêche # Zoo - parc animalier,La Pêcherie d’Aurit et l'arche d'Olivier,,,150 chemin labataille,,64370,HAGETAUBIN,64254,+33 5 59 67 51 62,+33 6 72 66 62 01,olivier.broca@orange.fr,http://www.lapecheriedaurit.fr, -0.6071662,43.5111486,Oui,"
+",,,,Bienvenue à la ferme,01/03/2020|17/04/2020||||| # 18/04/2020|04/05/2020|10:00|||18:00| # 05/05/2020|03/07/2020|||||Jeudi - Lundi - Mardi - Vendredi # 04/07/2020|01/09/2020|10:00|||19:00| # 02/09/2020|16/10/2020|||||Lundi - Mardi # 17/10/2020|02/11/2020|10:00|||18:00| # 03/11/2020|30/11/2020|||||Jeudi - Lundi - Mardi - Vendredi,"Tarif de base|6,00|| # Tarif réduit|2,50||",Visite libre,Français,Aire de pique-nique # Bar,Espace jeux
+LOIAQU024V500GDQ,03/01/2020,Mini-golf,La Sapinière,,,,,24300,AUGIGNAC,24016,,+33 6 29 42 84 35,,,0.70249488,45.5866096,Oui,"
+",,,,,,,,,,
+LOIAQU024V506QXA,02/02/2020,Jeux d'énigmes # Jeux pour enfants # Parc à thèmes,Labyrinthe de la Vallée Mystérieuse,,,,Bridoire,24240,RIBAGNAC,24351,+33 5 53 58 11 74,+33 6 30 39 38 22,contact@chateaudebridoire.com,http://www.chateaudebridoire.com,0.45874770,44.7680556,Oui,"
+",,,,Vignobles et découvertes,01/07/2020|31/08/2020|10:00|||19:00|,"Tarif de base|7,50|7,50|Adultes + 18 ans # Tarif de base|6,50|6,50|Jeunes 11 - 18 ans # Tarif de base|5,50|5,50|Enfants 4 - 10 ans # Tarif de base|9,50|14,50|Pass Vallée + Château",,,Aire de pique-nique,Boutique
+LOIAQU024FS00075,03/01/2020,Jeux pour enfants # Parc à thèmes,Labyrinthe de maïs et jeux,,Famille Javerzac,,Ferrachapt,24700,SAINT-MARTIAL-D'ARTENSET,24449,,+33 6 69 91 00 11,florian.javerzac@orange.fr,http://www.glaces-javerzac.fr                                                                         ,0.20354747,45.0124198,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,Français,Aire de pique-nique # Bar,Espace jeux
+LOIAQU024FS0007F,02/02/2020,Jeux d'énigmes # Jeux pour enfants # Parc à thèmes,"Labyrinthe végétal ""les fées mères""",,,,Bridoire,24240,RIBAGNAC,24351,,+33 6 47 44 20 74,labyrinthelesfeesmeres24@gmail.com,http://www.les-fees-meres.fr,0.46097578,44.7659161,Oui,"
+",,,,,,Tarif de base|||Labyrinthe pédestre  # Tarif de base|||Labyrinthe kart à pédale # Tarif de base|||Pass 2 labyrinthes,,Anglais # Espagnol,Aire de pique-nique # Bar # Restauration,Boutique # Espace jeux
+LOIAQU047FS0004G,03/01/2020,Base de loisirs # Boulodrome # Jeux pour enfants # Lac/Site de pêche # Parcours de santé,Lac de Beaupuy,,,,Longchamp,47200,BEAUPUY,47024,+33 5 53 64 40 46,,contact@vg-agglo.com,https://www.vg-agglo.com/a-la-decouverte-du-val-de-garonne/lac-de-beaupuy/,0.12697577,44.5410964,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,Aire de pique-nique,Espace jeux
+LOIAQU047FS0004I,21/01/2020,Lac/Site de pêche # Mini-golf # Plage surveillée # Terrain(s) de tennis,Lac de Damazan,,,Route de Buzet,,47160,DAMAZAN,47078,+33 5 53 79 40 15,,mairie.damazan@orange.fr,http://www.ville-damazan.fr,0.27505517,44.2817485,Oui,"
+",,,,,,Gratuit|||Accès au site et baignade,,,Aire de pique-nique # Bar # Restauration,Boutique # Espace jeux # Wifi
+LOIAQU024FS0004S,03/01/2020,Base de loisirs # Jeux pour enfants # Lac/Site de pêche # Plage surveillée,Lac de Gurson,,Plan d'eau de Gurson,,,24610,VILLEFRANCHE-DE-LONCHAT,24584,+33 5 53 82 53 15 # +33 5 53 06 82 70,,cg24.sites.loisirs.baignade@dordogne.fr,https://www.dordogne.fr/servir_les_citoyens/culture_&_sport/le_sport_pour_tous/les_sites_sportifs_et_de_pleine_nature/631-4,0.07415704,44.9391788,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur # Handicap visuel,,01/01/2020|31/12/2020|||||,,,,Aire de pique-nique # Restauration,Espace jeux
+LOIAQU047FS0003W,21/01/2020,Aire de pique-nique # Base de loisirs # Jeux pour enfants # Lac/Site de pêche # Parcours de santé # Plage surveillée,Lac de Lougratte,,,Route du Lac,,47290,LOUGRATTE,47152,+33 5 53 01 70 05 # +33 5 53 01 64 95,,mairie.lougratte@wanadoo.fr,http://www.lougratte.com,0.61950444,44.5797236,Oui,"
+",,,,Pavillon bleu,01/01/2020|31/12/2020|||||,"Tarif de base|2,70|2,70|Entrée adulte # Tarif réduit|1,70|1,70|Entrée enfant # Tarif de base|22,00|22,00|Carte 10 entrées adultes # Tarif réduit|12,00|12,00|Carte 10 entrées enfant",,,Accessible en poussette # Aire de pique-nique # Bar # Restauration,Espace jeux # Wifi
+LOIAQU024V505YMQ,03/01/2020,Base de loisirs # Jeux pour enfants # Lac/Site de pêche # Plage surveillée,Lac de Pombonne,,,Route de Podestat,,24100,BERGERAC,24037,+33 5 53 74 66 92,,maire@mairie-bergerac.fr,http://www.bergerac.fr,0.49421623,44.8704374,Oui,"
+",,,,,,,,,Restauration,
+LOIAQU024V50F98X,16/01/2020,Jeux pour enfants # Parc à thèmes,Le Bois des Lutins,"D703, 24260 Le Bugue",,,,24260,LE BUGUE,24067,+33 5 53 45 96 56,,leboisdeslutins.lebugue@gmail.com,https://www.leboisdeslutins24.com/,0.921584,44.923762,Oui,"
+",,,,,01/02/2020|01/11/2020|10:00|||18:00|,"Tarif de base|12,00|12,00|Personne (+115cm) # Tarif de base|8,00|8,00|Enfant (-115cm)",Visite libre,Français,Accessible en poussette # Aire de pique-nique # Parking autocar # Restauration # Sentier de randonnée,Wifi
+LOIAQU040V507I9T,03/01/2020,Jeux pour enfants,Le Manège du Penon,,,Place Castille,,40510,SEIGNOSSE,40296,,,,, -1.4320270,43.7085206,Oui,"
+",,,,,,,,,,
+LOIAQU047V507DXS,21/01/2020,Mini-golf,Le mini-golf Fantasia,,Le Stelsia Resort et Spa,,Lalande,47140,SAINT-SYLVESTRE-SUR-LOT,47280,+33 5 53 01 14 86,,contact@lestelsia.com,http://www.lestelsia.com,0.80489208,44.4032883,Oui,"
+",,,,,01/01/2020|31/12/2020|10:00|||19:00|,"Tarif de base|9,00|9,00|Adulte # Tarif de base|7,00|7,00|Enfant # Tarif de groupe|7,00|7,00|Plus de 10 personnes",,Anglais # Français,Bar # Restauration # Salle(s) de réunion,Espace jeux # Wifi
+LOIAQU033V50DSBT,22/01/2020,Jeux pour enfants # Lac/Site de pêche # Parc à thèmes,Le p'tit cro-magnon,,,1 Barrail Chevalier,,33230,SAINT-MEDARD-DE-GUIZIERES,33447,+33 5 24 08 41 97,+33 6 69 61 00 02,auptitcromagnon@yahoo.com,http://www.auptitcromagnon.wixite.com, -0.0779833,45.0151441,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU047FS00007,21/01/2020,Jeux pour enfants # Mini-golf,Les Contes d'Albret,,,,Les Comptes,47600,NERAC,47195,+33 5 53 65 18 73,,contesdalbret@gmail.com,http://www.albret.com,0.31008481,44.1008691,Oui,"
+",,,,Sourire du Lot-et-Garonne,01/06/2020|30/06/2020||||| # 01/07/2020|31/08/2020|09:00|12:00|15:00|18:30|Lundi matin,"Tarif de base|4,00|4,00|Mini-golf : adultes # Tarif réduit|2,00|2,00|Mini-golf : enfants # Tarif de base|5,00|5,00|Swin pour adultes # Tarif réduit|3,00|3,00|Swin pour enfants # Tarif de base|3,00|3,00|Foot-golf ou frisbee-golf pour adultes # Tarif réduit|2,00|2,00|Foot-golf ou frisbee-golf pour enfants",Visite libre,,Restauration,Boutique # Espace jeux
+LOIAQU064FS000OP,03/01/2020,Jeux pour enfants,Les Manèges de Saint-Jean-de-Luz,,,,Square de Verdun - Port,64500,SAINT-JEAN-DE-LUZ,64483,,+33 6 86 74 35 66 # +33 6 03 45 36 78,proloisirs64@orange.fr,, -1.6616712,43.3861597,Non,"
+",,,,,,Tarif de base|||1 tichet # Tarif de base|||3 tickets # Tarif de base|||8 tickets # Tarif de base|||18 tickets,,,Accessible en poussette,
+LOIAQU024FS00046,02/02/2020,Jeux pour enfants # Parc à thèmes,Les P'tits Castors,,,,Route de Bordeaux,24100,SAINT-LAURENT-DES-VIGNES,24437,+33 5 53 23 99 12,+33 6 18 92 59 67,lesptitscastors@orange.fr # agc.cedum@live.fr,http://www.lesptitscastors.com,0.44108390,44.8349270,Oui,"
+",,,,,,Tarif de base|||1h / illimité (de 4 à 12 ans) # Tarif de base|||1h / illimité (de 19 mois à 3 ans) # Gratuit|||0 à 18 mois,,,,Espace jeux
+LOIAQU064V5ACT2Q,30/01/2020,Jeux pour enfants # Tremplin,Let's Jump,,,126 avenue de Jalday,,64500,SAINT-JEAN-DE-LUZ,64483,+33 5 47 51 81 03,,contact.pb@trampolinepark.fr,https://www.trampolinepark.fr/, -1.6237885,43.4056887,Non,"
+",,,,,01/01/2020|31/12/2020|||||,"Tarif de base|8,00|12,00|",,,Accessible en poussette # Bar # Parking autocar # Restauration,
+LOIAQU040V50NPLZ,03/01/2020,Bibliothèque - médiathèque # Jeux pour enfants,Ludo-bibliothèque,,,211 chemin de Tambourin,,40440,ONDRES,40312,+33 5 59 45 23 59,,bibliotheque@ondres.fr,, -1.4449836,43.5612432,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU040V506NQ3,28/01/2020,Bibliothèque - médiathèque # Jeux pour enfants,Ludo-médiathèque ,12 impasse du Temps libre,,,,40350,POUILLON,40233,+33 5 58 98 34 75,,atelierdesjeux@orthe-arrigans.fr,https://www.pays-orthe-arrigans.fr/culture-et-loisirs/ludotheques/latelier-des-jeux-et-jouets.html, -0.9975900,43.6051710,,"
+",,,,,,,Visite libre,,,
+LOIAQU033V50PUXU,03/01/2020,Jeux pour enfants,Ludothèque,Résidence du Marquis de Civrac,,Rue du Général de Gaulle,,33980,AUDENGE,33019,+33 5 57 05 36 27,+33 7 69 56 14 09,assolesludes33@gmail.com,, -1.0171749,44.6822977,Non,"
+",,,,,,Tarif de base|||Tarif individuelle : adhésion annuelle (de date à date) à partir de 16 ans # Tarif de base|||Tarif famille : adhésion annuelle (de date à date) # Tarif de base|||Tarif collectivité : adhésion annuelle (de date à date) # Tarif de base|||Tarif assistante maternelle : adhésion annuelle (de date à date) # Tarif de base|||Tarif membre bienfaiteur : adhésion annuelle (de date à date),,,,
+LOIAQU047FS000AP,03/01/2020,Jeux pour enfants,Ludothèque Fuméloise,,,Avenue de Bonaguil,,47500,FUMEL,47106,+33 5 53 40 15 92,,ludotheque-fumeloise@orange.fr,www.ludotheque-fumeloise.e-monsite.com,0.9678719,44.5030367,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Tarif de base|30,00|30,00|Adhésion annuelle par famille",,,Accessible en poussette # Aire de pique-nique,Espace jeux
+LOIAQU040FS000PG,03/01/2020,Bibliothèque - médiathèque # Jeux pour enfants,Ludothèque L'Amuse d'Orthe,Mairie,,,,40300,PEYREHORADE,40224,,+33 6 12 59 58 57,amusedorthe@orthe-arrigans.fr,, -1.0972080,43.5456270,,"
+",,,,,,,,,,
+LOIAQU064FS000OQ,03/01/2020,Jeux pour enfants # Parc à thèmes,Luzi - Parc,,,12 rue de l'industrie,ZA Jalday,64500,SAINT-JEAN-DE-LUZ,64483,+33 5 59 23 19 74,+33 6 32 07 02 55,contact@luziparc.fr,http://www.luziparc.fr, -1.6205692,43.4075417,Oui,"
+",,,,,,,,,Accessible en poussette # Bar,Espace jeux # Wifi
+LOIAQU024V500206,03/01/2020,Jeux pour enfants,Manège,,,,Jardin des Moines,24310,BRANTOME EN PERIGORD,24064,,,,,0.6495717,45.3671311,,"
+",,,,,,,,,,
+LOIAQU033FS0005T,29/01/2020,Jeux pour enfants,Manège Baby Rêve,,,Boulevard du Lac,"Place du Marché, Maubuisson",33121,CARCANS,33097,+33 6 59 69 85 84,,,, -1.1413004,45.0699579,Oui,"
+",,,,,04/04/2020|01/11/2020|||15:30|19:30| # 01/07/2020|31/08/2020|11:30|12:30|15:30|23:30|,Tarif de base|||1 ticket # Tarif de base|||6 tickets # Tarif de base|||14 tickets,,,,
+LOIAQU040FS00010,03/01/2020,Jeux pour enfants,Manège de la Capitainerie,,,Avenue du Président Georges Pompidou,A côté de la Capitainerie,40130,CAPBRETON,40065,,+33 6 88 67 79 90,,, -1.4413225,43.6542188,Oui,"
+",,,,,,,,,,
+LOIAQU033FS000G7,03/01/2020,Jeux pour enfants,Manège Disney Club,,,Square Elie Souleyreau,,33680,LACANAU,33214,,+33 6 33 22 19 70,,, -1.1970698,45.0012653,Oui,"
+",,,,,,,,,,
+LOIAQU040FS00094,31/12/2018,Jeux pour enfants,Manège Enfantin,,,Avenue de l'Océan,Moliets Plage,40660,MOLIETS-ET-MAA,40187,,,,, -1.3847386,43.8516588,Oui,"
+",,,,,,,,,,
+LOIAQU040FS000H7,03/01/2020,Jeux pour enfants,Manège enfantin Vieux Boucau,,,Place des arènes,,40480,VIEUX-BOUCAU,40328,,,,, -1.4018652,43.7872041,Oui,"
+",,,,,01/03/2020|01/11/2020|||||,,,,,
+LOIAQU033FS000O9,03/01/2020,Jeux pour enfants,Manège Mickeyland,,,Place du Port,,33990,HOURTIN,33203,,,,, -1.0854578,45.1801916,Oui,"
+",,,,,,,,,,
+LOIAQU040FS00058,03/01/2020,Jeux pour enfants,Manèges Carobbé,,,Parking Place Dufau,,40600,BISCARROSSE,40046,,+33 6 08 26 70 86,carobbe40@gmail.com,, -1.2511968,44.4449179,Oui,"
+",,,,,01/01/2020|30/09/2020|||||,,,,,Espace jeux
+LOIAQU033FS000MN,03/01/2020,Mini-golf # Parc à thèmes,Max'Golf,,Parcs d'attractions de la Hume,16 avenue des Loisirs,,33470,GUJAN-MESTRAS,33199,,+33 6 82 60 38 32,contact@maxgolf.fr,http://www.maxgolf.fr, -1.1010575,44.6206009,Oui,"
+",,,,,25/02/2020|11/11/2020|||||,,,,Aire de pique-nique # Bar,
+LOIAQU040V500BLL,03/01/2020,Bibliothèque - médiathèque # Jeux pour enfants,Médiathèque d'Aire sur l'Adour,,,Passage des Cultures,,40800,AIRE-SUR-L'ADOUR,40001,+33 5 58 51 34 04,,mediatheque@cdcaire.org,http://mediatheque.cdcaire.org/, -0.2622939,43.700062,Oui,"
+",,,,,01/01/2020|31/12/2020|||||Dimanche - Jeudi matin - Lundi - Vendredi matin,,,,,
+LOIAQU040V500BLN,03/01/2020,Bibliothèque - médiathèque # Jeux pour enfants,Médiathèque d'Eugénie les Bains,,,79 Route d'Aire,,40320,EUGENIE-LES-BAINS,40097,+33 5 58 46 52 37,,mediatheque@cdcaire.org,http://mediatheque.cdcaire.org/, -0.3777395,43.6950529,Oui,"
+",,,,,01/01/2020|31/12/2020|||||Dimanche - Jeudi après midi - Lundi matin - Mardi - Samedi après midi - Vendredi matin,,,,,
+LOIAQU040FS0002P,03/01/2020,Bibliothèque - médiathèque # Cybercafé / Espace numérique # Jeux pour enfants,Médiathèque Saint-Sever Chalosse Tursan,,,15 avenue de l’Océan,,40500,SAINT-SEVER,40282,+33 5 58 76 35 23,,mediatheque@chalossetursan.fr,http://www.chalossetursan.fr/, -0.5749690,43.7715585,Oui,"
+",,,,,,,,Français,Salle(s) de réunion,Espace jeux
+LOIAQU047V504P3M,21/01/2020,Ferme de découverte # Mini-golf,Melly Golf,,,,Tenot,47180,CASTELNAU-SUR-GUPIE,47056,,+33 6 09 48 02 54,christine47@live.fr,,0.13919053,44.5576995,Oui,"
+",,,,,01/01/2020|15/04/2020|10:00|15:00||| # 16/04/2020|15/09/2020||||| # 16/09/2020|31/12/2020|10:00|15:00|||,"Tarif de base|7,00|7,00|Adultes # Tarif de base|5,00|5,00|Enfants",,Français,Bar # Restauration,Espace jeux
+LOIAQU040V50HI7Y,03/01/2020,Club enfants # Jeux pour enfants,Micro-crèche Baby Spot Enfance pour tous,,,376 av. des Forgerons,Parc d'activités Pédebert,40150,SOORTS-HOSSEGOR,40304,,+33 7 68 35 59 18,magali.moro@people-and-baby.com,http://www.people-and-baby.com, -1.3834345,43.6717536,Oui,"
+",,,,,,,,,,Espace jeux
+LOIAQU064FS0004B,11/07/2018,Mini-golf,Mini Golf,,,Boulevard de la Mer,,64700,HENDAYE,64260,,,,, -1.7740942,43.3731832,,"
+",,,,,,,,,,
+LOIAQU040V50GP4G,09/01/2020,Mini-golf,Mini golf ,,,Chemin de la montagne,,40440,ONDRES,40209,,+33 6 20 96 93 68,minigolfondres@orange.fr,, -1.4707546,43.5728957,Oui,"
+",,,,,01/04/2020|30/12/2020|||||,"Tarif de base|6,00||Tarif adulte # Tarif réduit|5,50||Tarif enfant jusqu'à 12 ans inclus # Tarif de groupe|5,00||à partir de 10 personnes",,,Aire de pique-nique # Restauration,Espace jeux
+LOIAQU064FS0004G,03/01/2020,Mini-golf,Mini Golf,,,Place des Remparts (Marché couvert),,64220,SAINT-JEAN-PIED-DE-PORT,64485,,+33 6 18 21 83 97,beneli@laposte.net,, -1.2397170,43.1610219,Oui,"
+",,,,,,Tarif de groupe|||Tarif à partir de 10 personnes,Visite libre,,Bar,
+LOIAQU024V50B2SY,03/01/2020,Mini-golf,Mini Golf,,Camping Le Pré Sec,,,24350,TOCANE-SAINT-APRE,24553,+33 5 53 90 40 60,,contact@campingdupresec.com,http://www.campingdupresec.com,0.49584389,45.2567032,Oui,"
+",,,,,,,,,,
+LOIAQU064FS0004I,03/01/2020,Mini-golf,Mini Golf,,Jardin Public,,,64270,SALIES-DE-BEARN,64499,+33 5 59 38 10 11,,,, -0.9272933,43.4734925,Oui,"
+",,,,,,Tarif réduit|||Jeunes de 6 à 12 ans,,,,
+LOIAQU024FS0005H,03/01/2020,Mini-golf,Mini Golf ,La Douane,,Chez Riganaud,,24320,SAINT-PAUL-LIZONNE,24482,+33 5 53 90 68 67,+33 6 75 29 97 60,priscille7@live.fr,,0.27248929,45.3121063,Oui,"
+",,,,,,,,,Aire de pique-nique,Espace jeux
+LOIAQU040V50BH2A,03/01/2020,Mini-golf,Mini Golf de Maguide,,,6843 route des lacs,,40600,BISCARROSSE,40046,,+33 5 58 09 85 64,,, -1.2017559,44.4564412,Oui,"
+",,,,,04/04/2020|30/09/2020|||||,,,,Bar # Restauration,
+LOIAQU047FS000BG,21/01/2020,Mini-golf,Mini golf de Saint Pardoux Isaac,,,Le Bourg,,47800,SAINT-PARDOUX-ISAAC,47264,+33 5 53 93 22 51,,secretariat@mairie-st-pardoux-isaac.fr,,0.359705,44.614051,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,
+LOIAQU040FS0001T,03/01/2020,Mini-golf,Mini Golf Idrac,,,724 avenue de la Plage,,40600,BISCARROSSE,40046,,+33 6 12 95 41 61,m-c.idrac@sfr.fr ,, -1.2475466,44.4429155,Oui,"
+",,,,,15/06/2020|30/09/2020|||||,,,,Bar,
+LOIAQU064FS00049,03/01/2020,Mini-golf,Mini Golf Ilbarritz,,,1085 avenue de Biarritz,,64210,BIDART,64125,+33 5 59 41 22 19,,,, -1.5741830,43.4527903,Oui,"
+",,,,,,Tarif de base|||Plus de 10 ans # Tarif réduit|||Moins de 10 ans,,,Bar,
+LOIAQU064V5AGFYZ,18/01/2020,Mini-golf,Mini Golf Laser Quest,,,Rue d'Arsonval,,64230,LESCAR,64335,+33 5 59 77 91 62,,pau@laserquest.fr,https://www.laserquest.fr, -0.431598,43.315538,Oui,"
+",,,,,01/03/2020|01/10/2020|||14:00|18:00|,"Tarif de base|6,00|6,00| # Tarif réduit|4,00|5,00|",,,Accessible en poussette,
+LOIAQU064FS0004H,03/01/2020,Mini-golf,Mini golf Le Moulin,,Complexe sportif,Avenue Mail de Coubertin,,64140,LONS,64348,,+33 6 72 23 20 07,,http://minigolf.de.lons.free.fr, -0.3936624,43.3255835,Oui,"
+",,,,,01/01/2020|31/12/2020|14:00|||19:00|Jeudi - Lundi - Mardi - Vendredi,"Tarif de base|6,00|7,00| # Tarif réduit|3,00|6,00|",,,Accessible en poussette # Bar,
+LOIAQU040V50BMKU,03/01/2020,Mini-golf,Mini Golf Moliets,,,Rue Brémontier,Place des cirques,40660,MOLIETS-ET-MAA,40187,+33 5 58 49 13 00,,site.moliets@groupepvcp.com,, -1.3733734,43.8453302,Oui,"
+",,,,,01/07/2020|31/08/2020|||||,Tarif réduit|||Clients Pierre et Vacances Enf/Ad # Tarif de base|||Enfants/ Adultes # Tarif de groupe|||10 personnes minimum Enf/Ad,,,Accessible en poussette # Parking autocar,
+LOIAQU040FS00025,03/01/2020,Mini-golf,Mini Golf Vieux Boucau,,,2 rue Charles Thévenin,,40480,VIEUX-BOUCAU,40328,+33 5 58 48 24 36,+33 6 86 59 75 32,csjrs@wanadoo.fr,http://www.minigolfvieuxboucau.wix.com/minigolf, -1.4047644,43.7867493,Oui,"
+",,,,,01/04/2020|30/09/2020|||||,,,,,
+LOIAQU064FS00090,03/01/2020,Mini-golf,Mini-golf,,,,,64570,ARETTE,64040,+33 5 59 66 20 80,,,, -0.7456899,42.9739979,Oui,"
+",,,,,,Tarif de base|||Tarif par personne,,,Bar # Restauration # Salle hors sac,Wifi
+LOIAQU047FS000C3,21/01/2020,Mini-golf,Mini-golf,,,,Plaine de la Filhole,47200,MARMANDE,47157,+33 5 53 64 44 44,,marmande@valdegaronne.com,http://www.valdegaronne.com,0.16095399,44.4966889,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,Aire de pique-nique,Espace jeux
+LOIAQU040V50BQOF,03/01/2020,Mini-golf,Mini-golf,parc municipal,,,,40320,EUGENIE-LES-BAINS,40097,+33 5 58 51 13 16,,accueil-eugenie@tourisme-aire-eugenie.fr,http://www.ville-eugenie-les-bains.fr/, -0.3773750,43.695773,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Tarif de base|3,00|3,00| # Gratuit|||gratuit pour les moins de 6 ans",,,,
+LOIAQU024V50BMVW,03/01/2020,Mini-golf,"Mini-Golf ""La Charrue""",,,,,24340,MAREUIL EN PÉRIGORD,24253,,,,,0.45340699,45.4523579,Oui,"
+",,,,,,,,,,
+LOIAQU040FS000E2,10/01/2020,Mini-golf,Mini-Golf Capbreton,,,Avenue Georges Pompidou,,40130,CAPBRETON,40065,,,,, -1.4364838,43.6503763,Oui,"
+",,,,,,,,,,
+LOIAQU033FS00021,29/01/2020,Mini-golf,Mini-Golf de Hourtin,,,108 avenue du Lac,,33990,HOURTIN,33203,+33 5 56 09 69 60,,hourtinportvelos@aol.com,, -1.068094,45.183805,Oui,"
+",,,,,01/01/2020|31/12/2020|09:00|12:00|14:00|18:00|,"Tarif de base|4,00||",,,Aire de pique-nique # Bar,
+LOIAQU040FS0009T,03/01/2020,Mini-golf,Mini-golf des Bourdaines,,,Impasse du Sporting,,40510,SEIGNOSSE,40296,,,,, -1.4362786,43.6999594,Oui,"
+",,,,,,Gratuit|||Avec caution,,,,
+LOIAQU040FS000E1,03/01/2020,Mini-golf,Mini-Golf du Gaillou,,,Parc de Loisirs du Gaillou,Boulevard des cigales,40130,CAPBRETON,40065,+33 5 58 41 05 15,,,, -1.4271725,43.6314510,Oui,"
+",,,,,,"Tarif de base|||4,50 avec le Cap Pass",,,,
+LOIAQU033V50IYJ5,03/01/2020,Mini-golf,Mini-golf et labyrinthe au Jardin Grenadine,,Jardin Grenadine,3249 rue Arthur Rimbaud,,33560,SAINTE-EULALIE,33397,+33 5 56 06 98 27,,contact@jardin-grenadine.fr,http://jardin-grenadine.fr, -0.4935940,44.8920329,Oui,"
+",,,,,01/04/2020|31/10/2020|||||,"Tarif de base|6,00|6,00| # Tarif réduit|5,00|5,00|- 12 ans",Visite libre,Français,Restauration,Boutique
+LOIAQU047V502MI4,03/01/2020,Jeux pour enfants # Parc à thèmes # Salle de billard,Monster Games Laser,,,163 rue Jacques Combes,ZA de Trignac,47240,CASTELCULIER,47051,+33 5 53 68 95 75,+33 6 24 64 42 59,contact@monstergameslaser.fr,http://www.monstergameslaser.fr,0.67884030,44.1766282,Oui,"
+",,,,,01/01/2020|31/12/2020|||||Lundi - Mardi,"Tarif de base|7,00|8,50|Laser game 1ère partie, 8,50€ puis tarifs dégressif, 7€ # Tarif de base|7,50|7,50|Kid park # Tarif réduit|10,00|10,00|Happy hour, 10€ les 2 parties # Tarif réduit|18,00|18,00|Laser illimité de 18h à 23h",,,Accessible en poussette # Restauration,Espace jeux
+LOIAQU064FS000E1,03/01/2020,Boulodrome # Jeux pour enfants,Parc André Narbaitz,,,117 avenue du général de Gaulle,,64210,GUETHARY,64249,+33 5 59 26 56 60,,,, -1.6077956,43.4215163,,"
+",,,,,,,Visite libre,,,Espace jeux
+LOIAQU040V507OKY,03/01/2020,Aire de pique-nique # Jeux pour enfants # Terrain(s) de tennis,Parc communal,place de la mairie,,,,40290,MISSON,40186,,,,, -0.9610610,43.5864430,,"
+",,,,,,,,,Aire de pique-nique,Espace jeux
+LOIAQU064V5ACYSG,03/01/2020,Aire de pique-nique # Boulodrome # Jeux pour enfants # Terrain omnisports,Parc d'Arcangues,,,Route du trinquet,Le Bourg,64200,ARCANGUES,64038,+33 5 59 43 05 50,,mairie@arcangues.fr,, -1.5207165,43.4372717,Oui,"
+",,,,,01/01/2020|31/12/2020|08:00|19:00|||,,,,Aire de pique-nique # Parking autocar,Espace jeux
+LOIAQU064FS000OA,03/01/2020,Aire de pique-nique # Jeux pour enfants # Parc à thèmes,Parc de jeux Ttiki Leku ,,,Chemin d'Otsantza,,64250,SOURAIDE,64527,+33 5 59 59 27 49,,cpetxegoina@free.fr,http://www.parc-jeux-paysbasque.com, -1.5016985,43.3584250,Oui,"
+",,,,,,"Gratuit|||Gratuit pour les enfants de - 3 ans # Tarif de base|||Tarif adulte, de 3 ans à 60 ans # Tarif réduit|||Tarif adulte à partir de 60 ans # Tarif réduit|||Tarif pour les personnes à mobilité réduite # Tarif de groupe|||A partir de 10 personnes",Visite libre,Basque # Français,Aire de pique-nique # Bar,Espace jeux
+LOIAQU064FS000AO,20/01/2020,Jeux pour enfants,Parc des berges de la Nivelle,,,Chemin Butrun,,64310,SAINT-PEE-SUR-NIVELLE,64495,+33 5 59 54 10 19,,,, -1.5516901,43.3552972,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,,
+LOIAQU040FS0000I,29/01/2020,Jeux pour enfants,Parc Planète'n'kids,,,Rue de Lahoun,,40220,TARNOS,40312,+33 5 59 64 52 77,,planeteparcs@gmail.com,http://www.planetenkids.fr, -1.4843988,43.5499633,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Tarif de base|6,00||Entrée - matin (10h30-12h) # Tarif réduit|6,00||Entrée - Happy hour (17h30-19h) ) # Tarif de base|8,00||ILLIMITE",,Anglais # Espagnol # Français # Portugais,Aire de pique-nique # Bar # Restauration,Boutique # Espace jeux # Wifi
+LOIAQU064V5ADNJD,31/01/2020,Jeux pour enfants # Parcours de santé,Parcours santé,,,,,64130,GOTEIN-LIBARRENX,64247,+33 5 59 28 18 67,,secretariat@mauleon-soule.fr,, -0.9058602,43.2013473,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00||",,,Accessible en poussette # Aire de pique-nique,
+LOIAQU047V5044AU,03/01/2020,Aire de pique-nique # Base de loisirs # Boulodrome # Espace de réunions # Jeux pour enfants # Lac/Site de pêche,Pêche au Lac de Lamontjoie,,Camping Sites et Paysages Saint-Louis,,Lac de Lamontjoie,47310,LAMONTJOIE,47133,+33 5 53 99 59 38,+33 6 41 46 11 36,contact@campingagen.fr,http://www.campingagen.fr # http://www.lacdepeche.jimdo.com,0.51736399,44.0777140,Oui,"
+",,,,Sourire du Lot-et-Garonne,01/01/2020|31/12/2020|||||,"Tarif de base|6,00|10,00|journée pêche/personne # Tarif de base|15,00|20,00|24h # Tarif de base|2,00|2,00|entrée promenade et pique-nique # Gratuit|||Pêche aux écrevisses",,,Aire de pique-nique # Bar # Restauration,Espace jeux # Wifi
+LOIAQU024V50B0TU,03/01/2020,Mini-golf # Parc à thèmes,Périgord Vert Aventures - Arbo Fun Park,,,Le Grand Etang,,24360,SAINT-ESTEPHE,24398,+33 5 53 56 28 16 # +33 6 72 32 19 52,,contact@perigord-aventures.fr,,0.67684323,45.5907109,Oui,"
+",,,,,,,,,,
+LOIAQU033V504QHX,03/01/2020,Jeux pour enfants # Parc à thèmes,Pino Chapito,,,Le Moutchic,,33680,LACANAU,33214,,+33 6 63 91 41 65,sebpinault@sfr.fr,http://www.pinochapito.fr, -1.1354450,45.0024647,Oui,"
+",,,,,11/05/2020|15/09/2020|||||,"Tarif de base|4,00||La demi-heure",,,,
+LOIAQU064FS0000J,03/01/2020,Jeux pour enfants # Piscine,Piscine,,,3 allée Sports et Loisirs,,64370,ARTHEZ-DE-BEARN,64057,+33 5 59 67 71 61,,mairie.arthezdebearn@wanadoo.fr,, -0.6170794,43.4586525,Oui,"
+",,,,,01/06/2020|30/06/2020|||||Jeudi - Lundi - Mardi - Mercredi - Vendredi # 01/07/2020|31/08/2020|||14:30|20:00|Lundi # 01/09/2020|15/09/2020|||||Jeudi - Lundi - Mardi - Mercredi - Vendredi,"Tarif de base|3,00||Adulte # Tarif réduit|2,00||Enfant # Gratuit|0,00||moins de 6 ans",Visite libre,,Aire de pique-nique,Espace jeux
+LOIAQU040FS00082,03/01/2020,Jeux pour enfants # Piscine,Piscine du Sporting Casino,,,119 avenue Maurice Martin,,40150,SOORTS-HOSSEGOR,40304,+33 5 58 41 99 99,,,http://www.casino-hossegor.com, -1.4352607,43.6599240,Oui,"
+",,,,,,,,,,
+LOIAQU024FS00030,03/01/2020,Jeux pour enfants # Piscine # Plage surveillée,Piscine municipale de LA ROCHE-CHALAIS,,,,,24490,LA ROCHE-CHALAIS,24354,,,,http://www.larochechalais.com/chrono/index.php # http://www.tourisme-saintaulaye.fr,0.01055717,45.1513407,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,Français,Restauration,Espace jeux
+LOIAQU033V50TX3V,03/01/2020,Mini-golf,Pizz&Golf,,,604 Rue Gustave Eiffel,,33380,BIGANOS,33051,+33 5 47 43 04 49,,,, -0.955452,44.637353,Oui,"
+",,,,,01/01/2020|31/12/2020|||||Dimanche matin - Lundi,"Tarif de base|9,00|9,00|Adulte # Tarif réduit|6,00|6,00|Enfant # Tarif de groupe|25,00|25,00|Forfait famille : 2 adultes et 2 enfants",,,Restauration,
+LOIAQU024FS0002O,03/01/2020,Aire de pique-nique # Base de loisirs # Mini-golf # Parc aquatique # Piscine # Plage surveillée # Terrain(s) de tennis,Plage des bords de Dronne SAINT-AULAYE,,,,,24410,SAINT AULAYE-PUYMANGOU,24376,+33 5 53 90 81 33,,,http://www.tourisme-saintaulaye.fr,0.13475418,45.2072288,Oui,"
+",,,,,,,,,Aire de pique-nique # Bar # Restauration,Espace jeux
+LOIAQU033V500JQX,06/01/2020,Jeux pour enfants # Plage surveillée,Plage du Lac,,,Boulevard Jacques Chaban Delmas,,33520,BRUGES,33075,+33 5 56 69 98 58,,,http://www.bordeaux.fr/ebx/pgFicheOrga.psml?_nfpb=true&_pageLabel=pgFicheOrga&classofcontent=organisme&id=5189, -0.5788044,44.8782715,Oui,"
+",,,Handicap auditif # Handicap mental # Handicap moteur,,01/01/2020|31/12/2020|||||,,,,Aire de pique-nique,Espace jeux
+LOIAQU047FS000C4,03/01/2020,Aire de pique-nique # Jeux pour enfants # Mini-golf,Plaine de la Filhole,,,,Plaine de la Filhole,47200,MARMANDE,47157,+33 5 53 93 09 50,,,,0.16037464,44.4965818,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,Aire de pique-nique,Espace jeux
+LOIAQU064V505YWU,03/01/2020,Aire de pique-nique # Fronton # Jeux pour enfants # Parcours de santé # Piste de roller ou de skate board # Terrain omnisports,Plaine des Sports,,,Avenue du Moulin,,64140,LONS,64348,+33 5 59 40 32 32,,,http://www.mairie-lons.fr, -0.3969103,43.3238724,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",Visite libre,,Accessible en poussette # Aire de pique-nique # Parking autocar,
+LOIAQU064V505YX5,03/01/2020,Fronton # Jeux pour enfants # Parcours de santé # Terrain omnisports,Plaine des Sports du Pradeau,,,Zone du Pradeau,,64110,GELOS,64237,+33 5 59 06 63 25,,,http://www.gelos.fr, -0.3969103,43.3238724,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,,Espace jeux
+LOIAQU024V500GDV,03/01/2020,Jeux pour enfants # Plage surveillée,Plan d'eau communal ,,,,,24360,BUSSEROLLES,24070,+33 5 53 60 53 04,,,,0.63789363,45.6757604,Oui,"
+",,,,,,,,,,
+LOIAQU024FS00065,03/01/2020,Aire de pique-nique # Jeux pour enfants # Lac/Site de pêche # Plage surveillée,Plan d'eau de loisirs de Saint-Saud-Lacoussière,,,,,24470,SAINT-SAUD-LACOUSSIERE,24498,+33 5 53 56 97 03,+33 6 73 80 37 23,mairie.saint-saud@wanadoo.fr,http://www.saintsaud.fr,0.81968307,45.5441702,Oui,"
+",,,,,,,,,Aire de pique-nique # Bar # Restauration,
+LOIAQU064V505YQM,03/01/2020,Fronton # Jeux pour enfants # Piste de roller ou de skate board # Terrain omnisports,Plateau sportif Jacques Monod ,,,Chemin de Beneharnum,,64230,LESCAR,64335,+33 5 59 81 57 38,,sports@lescar.fr,http://www.lescar.fr, -0.4346113,43.3320237,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Gratuit|0,00|0,00|",,,Accessible en poussette # Aire de pique-nique # Parking autocar,Espace jeux
+LOIAQU064FS000E4,03/01/2020,Jeux pour enfants,Plazako Lilitegia,,,Place Sauveur Atchoarena,,64210,BIDART,64125,+33 5 59 54 93 85,,,, -1.5896433,43.4389388,Oui,"
+",,,,,,,,,,Espace jeux
+LOIAQU024FS00050,03/01/2020,Jeux pour enfants # Parc à thèmes,Port miniature,Etang de Campréal Rue Pablo Picasso,Plaine de Picquecailloux,Rue Pablo Picasso ,,24100,BERGERAC,24037,,+33 6 83 16 15 92,leligal@orange.fr,http://www.port-miniature.com,0.50343990,44.8497536,Oui,"
+",,,,,,Gratuit|||- de 2 ans,,,Aire de pique-nique # Bar,Espace jeux
+LOIAQU064V5AE0T8,09/01/2020,Jeux pour enfants # Parc à thèmes,POSITIVE JUMP,Centre Layous - Ancienne Usine Legrand,,Avenue Larribau,,64000,PAU,64445,,+33 6 45 67 36 35,contact@positive-jump.com,https://positive-jump.com/, -0.3200302,43.3170859,Non,"
+",,,,,01/01/2020|31/12/2020|||||,"Tarif de base|12,00||1h (+2€ chaussettes antidérapantes obligatoires) # Tarif de base|16,00||1h30 (+2€ chaussettes antidérapantes obligatoires) # Tarif de base|20,00||2h (+2€ chaussettes antidérapantes obligatoires) # Tarif réduit|8,00|10,00|étudiant",,,Accessible en poussette # Parking autocar # Restauration,Wifi
+LOIAQU047V508UPR,21/01/2020,Jeux d'énigmes # Jeux pour enfants,Privacy Escape,,,8 rue du Rigoulet,ZAC du Rigoulet,47550,BOE,47031,+33 5 53 66 57 23,,contact@privacy-escape.com,http://www.privacy-escape.com,0.63037498,44.1799922,Oui,"
+",,,,,01/01/2020|31/12/2020|10:30|||21:00|Lundi,"Tarif de base|22,00|30,00|Selon le nombre de joueurs",,,Accessible en poussette # Parking autocar # Restauration,Espace jeux
+LOIAQU047V50DAY3,21/01/2020,Jeux d'énigmes # Jeux pour enfants,Protocole Évasion,,,Allée de Riols,,47000,AGEN,47001,+33 5 53 99 87 45,,direction@protocole-evasion.fr,https://protocole-evasion.fr,0.6176433,44.1795559,Oui,"
+",,,,,01/01/2020|31/12/2020|10:00|||00:00|,"Tarif de base|54,00|133,00|De 2  à 7 personnes",,,,Espace jeux
+LOIAQU047FS000C9,06/01/2020,Jeux pour enfants # Parc à thèmes,Royal Kids,,,,Zone commerciale de Redon,47240,BON-ENCONTRE,47032,+33 5 53 48 38 31,,47.royalkids@gmail.com,https://www.royalkids.fr/parcs/agen,0.65394401,44.1905743,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Tarif de base|7,50|7,50|Enfant de moins de 3 ans # Tarif de base|9,50|9,50|Enfant de plus de 3 ans",,,Bar # Parking autocar # Restauration,Espace jeux # Wifi
+LOIAQU040FS000OQ,03/01/2020,Jeux pour enfants # Parc à thèmes,Royal Kids Landes,,,79 avenue de Sabres,,40000,MONT-DE-MARSAN,40192,+33 5 58 52 97 92,,montdemarsan@royalkids.fr,http://www.royalkids.fr/parcs/mont-de-marsan/, -0.5183375,43.9010491,Oui,"
+",,,,,,Tarif de base|||Entrée enfant (1 adulte est compris dans le prix d'entrée d'un enfant) # Tarif de base|||Adulte supplémentaire,,Allemand # Anglais # Français # Néerlandais,Bar # Restauration,Espace jeux # Halte garderie # Wifi
+LOIAQU064FS000LB,03/01/2020,Jeux pour enfants,Royalkids,,,Boulevard de l'Europe,,64230,LESCAR,64335,+33 5 59 62 13 25,,lescar@royalkids.fr,http://www.royalkids.fr, -0.4467916,43.3301414,Oui,"
+",,,,,01/01/2020|31/12/2020|10:00|||19:00|Lundi - Mardi matin - Vendredi matin,"Tarif de base|7,50|9,50|",,,Bar,Wifi
+LOIAQU047FS00016,03/01/2020,Aire de pique-nique # Base de loisirs # Jeux pour enfants # Parcours de santé,Site de Rogé,,,,La Grâce,47300,VILLENEUVE-SUR-LOT,47323,+33 5 53 70 48 13,,sports.chateau.roge@mairie-villeneuvesurlot.fr,,0.76815932,44.3994533,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,Gratuit|||accès à la base # Tarif de base|||Location de canoë à l'heure # Tarif de base|||Location de canoë à la demi-journée # Tarif de base|||Location de canoë à la journée,,,,
+LOIAQU047V504FDG,03/01/2020,Base de loisirs # Jeux pour enfants # Lac/Site de pêche # Parc aquatique # Terrain omnisports,Site Nature des Etangs Ferrié,,,,Ferrié,47140,PENNE-D'AGENAIS,47203,+33 5 53 40 46 70,+33 6 27 28 14 54,ccfl@cc-dufumelois.fr,,0.81056977,44.3853517,Oui,"
+",,,,,,,,,Aire de pique-nique # Bar # Restauration,
+LOIAQU04001KFZUA,03/01/2020,Jeux pour enfants # Piste de roller ou de skate board,Skate parc,,,impasse du Stade,Au stade municipal,40260,CASTETS,40075,+33 5 58 89 40 09,,mairie@castets.fr,http://www.castets.fr, -1.1377600,43.8801216,Oui,"
+",,,,,,,,,,
+LOIAQU033V50CTA4,06/01/2020,Jeux pour enfants,Skate Park ,,,37 avenue Léon Delagrange,,33380,MARCHEPRIME,33555,+33 5 57 71 18 70,,,, -0.8467202,44.6977248,Oui,"
+",,,,,,Gratuit|||Accès libre,,,,
+LOIAQU024V507P5E,13/01/2020,Mini-golf,Snack O Golf,,,1 chemin du Vert Galant,,24310,BRANTOME EN PERIGORD,24064,,+33 6 43 26 83 73 # +33 6 03 25 12 12,,,0.64817183,45.3608355,Oui,"
+",,,,,,Tarif de base|||parcours par personne,,,Restauration,
+LOIAQU033V50IPW9,03/01/2020,Jeux pour enfants,Terrain de jeux pour enfants de Targon,,,Plaine des sports,,33760,TARGON,33523,+33 5 56 23 90 13,,,, -0.2627866,44.7365216,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,,,,,Espace jeux
+LOIAQU033V501Z3F,03/01/2020,Jeux pour enfants,Théâtre du Guignol Guérin,,,,,33000,BORDEAUX,33063,,+33 6 89 18 88 18,,http://www.guignolguerin.fr/, -0.5872690,44.8350088,,"
+",,,,,,,,,,
+LOIAQU040V50HRQR,03/01/2020,Jeux d'énigmes # Jeux pour enfants,TIME LAPSE - Escape Game,312 Avenue des Forgerons,,ZA Pédebert,,40150,SOORTS-HOSSEGOR,40304,+33 5 58 35 30 24,+33 6 40 92 09 58,,http://www.timelapse-hossegor.com/ # https://www.instagram.com/timelapse_40/, -1.3840465,43.6712253,Oui,"
+",,,,,,Tarif de base|||2 personnes # Tarif de base|||3 personnes # Tarif de base|||4 personnes # Tarif de base|||5 personnes # Tarif de base|||6 personnes,,,,
+LOIAQU047V50DB26,22/01/2020,Jeux d'énigmes # Jeux pour enfants,VR World,,,85 boulevard du Président Carnot,,47000,AGEN,47001,+33 5 53 69 17 96,,contact@vr-world.fr ,https://vr-world.fr,0.6204563,44.2022642,Non,"
+",,,,,01/01/2020|31/12/2020|||||Lundi,"Tarif de base|4,00|20,00|Varie selon les activités : à partir de 4€",,,Bar # Salle de projection,Espace jeux # Wifi
+LOIAQU024FS0006U,03/01/2020,Jeux pour enfants # Parc à thèmes,Wakari,,,Avenue du Parc,,24430,MARSAC-SUR-L'ISLE,24256,+33 5 53 09 53 69,+33 6 38 39 50 35,contact@wakari.fr,http://www.wakari.fr,0.66220834,45.1924701,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Tarif de base|6,50||enfants de 7 mois à 3 ans # Tarif de base|8,50||enfants de 4 ans à 12 ans # Gratuit|||enfants moins de 7 mois",,,Bar,
+LOIAQU064V57C0CE,30/01/2020,Jeux pour enfants,Youpi parc,,,Chemin de Brousse,,64160,MORLAAS,64405,+33 9 61 62 73 55,,pau@youpiparc.com,, -0.2932550,43.3223713,Oui,"
+",,,,,,Tarif de base|||Enfant de 1 à 3 ans # Tarif de base|||Enfant de 3 à 12 ans # Gratuit|||enfant moins de 1 ans et adultes accompagnateurs,,,Bar # Restauration,Boutique # Espace jeux # Halte garderie # Wifi
+LOIAQU033FS000OL,03/01/2020,Club enfants # Jeux pour enfants,Youpi Parc,,,Lotissement Pied Mourteau,Zone Family place,33210,LANGON,33227,+33 5 56 63 45 29,+33 6 62 37 57 50,langon@youpiparc.com,http://www.youpiparc.com, -0.2657102,44.5451032,Oui,"
+",,,,,01/01/2020|31/12/2020|||||,"Tarif de base|5,50||moins de 3 ans # Tarif de base|85,00||plus de 3 ans",Visite libre,Anglais # Français,Bar # Restauration,Espace jeux
+LOIAQU040FS000IR,17/01/2020,Jeux pour enfants # Terrain omnisports,Zone multisports Labenne Océan,Rue du Stade,,,,40530,LABENNE,40133,+33 5 59 45 46 60,,,, -1.4482641,43.5904625,Oui,"
+",,,,,,,,,,
