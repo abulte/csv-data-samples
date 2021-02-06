@@ -1,0 +1,20 @@
+NAME;LABEL
+finess;Finess du TAS
+Raison_sociale;
+Enquete_obligatoire;
+Participation;
+Resultat_tre;TRE  Résultat du contrôle
+tre_c_den_etbt;TRE_C Dénominateur
+tre_c_etbt;Traçabilité de l’évaluation du risque d’escarre
+tre_c_icbas_etbt;TRE_C Intervalle de confiance bas
+tre_c_ichaut_etbt;TRE_C Intervalle de confiance haut
+tre_c_pos_seuil_etbt;TRE_C Positionnement par rapport à l'objectif de performance
+tre_c_pos_evol_etbt;TRE_C Evolution par rapport au recueil précédent
+Resultat_dtn;DTN Résultat du contrôle
+dtn_c_den_etbt;DTN_C Dénominateur
+dtn_c_etbt;Suivi du poids en HAD
+dtn_c_icbas_etbt;DTN_C Intervalle de confiance bas
+dtn_c_ichaut_etbt;DTN_C Intervalle de confiance haut
+dtn_c_pos_seuil_etbt;DTN_C Positionnement par rapport à l'objectif de performance
+dtn_c_pos_evol_etbt;DTN_C Evolution par rapport au recueil précédent
+Lib_reg;

@@ -1,0 +1,54 @@
+id,lat,lng,name,photo_url,address,created_at,updated_at,published,last_event
+70,44.8432652145445,-0.576916887523966,Rue Diderot,http://damln.s3.amazonaws.com/upload%2Fcondomatix%2Fdb72ec7c-f434-447f-9a00-0856c80151ff,"7 Rue Diderot, 33000 Bordeaux, France",2013-06-12 08:19:25 UTC,2013-06-12 08:19:25 UTC,true,5
+73,44.8309436563938,-0.573480694400559,Place de la Victoire,http://damln.s3.amazonaws.com/upload%2Fcondomatix%2Fd46189b4-06f8-4fc8-b38e-39c8be903973,"23 Place de la Victoire, 33000 Bordeaux, France",2013-06-12 08:36:29 UTC,2013-06-12 08:36:29 UTC,true,5
+74,44.830025392275,-0.573254619962283,Cours de l'Argonne,http://damln.s3.amazonaws.com/upload%2Fcondomatix%2F0cb4f3d2-4298-4309-92a1-c3e3b6c0d88d,"17 Cours de l'Argonne, 33000 Bordeaux, France",2013-06-12 08:40:04 UTC,2013-06-12 08:40:04 UTC,true,5
+75,44.8325047,-0.5713232,Rue des Augustins,http://damln.s3.amazonaws.com/upload%2Fcondomatix%2F0acb94d7-2b18-4c32-a749-07e51088ccfd,"1-9 Rue des Augustins, 33000 Bordeaux, France",2013-06-12 08:51:45 UTC,2013-06-12 08:51:45 UTC,true,5
+91,44.8526641007619,-0.573374188797136,Cours Portal,http://damln.s3.amazonaws.com/upload%2Fcondomatix%2F5d99e748-dd60-4f67-83b7-a10fbe62502a,"15 Cours Portal, 33000 Bordeaux, France",2013-06-15 14:53:14 UTC,2013-06-15 14:53:14 UTC,true,5
+92,44.8495750040988,-0.584878432565751,Rue Fondaudège,http://damln.s3.amazonaws.com/upload%2Fcondomatix%2Fdcba46cc-e9e0-4a73-a1c3-5424a4f693d0,"164 Rue Fondaudège, 33000 Bordeaux, France",2013-06-15 15:01:52 UTC,2013-06-15 15:01:52 UTC,true,5
+93,44.8465362595985,-0.598484517304329,Boulevard du Président Wilson,http://damln.s3.amazonaws.com/upload%2Fcondomatix%2F89bbd746-b538-4a62-83b0-0e2c517eaa5c,"220 Boulevard du Président Wilson, 33000 Bordeaux, France",2013-06-15 15:22:03 UTC,2013-06-15 15:22:03 UTC,true,5
+94,44.8482684829873,-0.592032410334982,Bordeaux,http://damln.s3.amazonaws.com/upload%2Fcondomatix%2Ff08b168d-0428-4729-b5a4-b4cf1d1ea0f9,"Rue Hériard Dubreuil, 33000 Bordeaux, France",2013-06-15 15:29:24 UTC,2013-06-15 15:29:24 UTC,true,5
+95,44.8366198594962,-0.598984276373073,Boulevard du Président Wilson,http://damln.s3.amazonaws.com/upload%2Fcondomatix%2F145c3710-4db6-41aa-a8b2-687a5780a32b,"1 Boulevard du Président Wilson, 33000 Bordeaux, France",2013-06-15 15:50:07 UTC,2013-06-15 15:50:07 UTC,true,5
+96,44.8315023705894,-0.597950989728361,Rue d'Ornano,http://damln.s3.amazonaws.com/upload%2Fcondomatix%2F9805515a-86a6-4942-887b-e644720ec032,"308 Rue d'Ornano, 33000 Bordeaux, France",2013-06-15 15:55:14 UTC,2013-06-15 15:55:14 UTC,true,5
+97,44.8275627041636,-0.592522554998625,Boulevard Maréchal Leclerc,http://damln.s3.amazonaws.com/upload%2Fcondomatix%2F77ac6c80-92b0-42fb-9160-3d9f28922e64,"128 Boulevard Maréchal Leclerc, 33000 Bordeaux, France",2013-06-15 15:59:45 UTC,2013-06-15 15:59:45 UTC,true,5
+100,44.8399046179889,-0.56871650943868,Quai Richelieu,http://damln.s3.amazonaws.com/upload%2Fcondomatix%2Fe68ad4fa-8690-46b3-bfaf-c65bfa727057,"3 Quai Richelieu, 33000 Bordeaux, France",2013-06-15 16:30:01 UTC,2013-06-15 16:30:01 UTC,true,5
+109,44.828705,-0.568487,Pharmacie de l'Yser,"","26 Cours de l'Yser, 33800 Bordeaux, France",2013-06-19 20:56:38 UTC,2013-06-19 20:56:38 UTC,true,-
+90,44.8537402783616,-0.572633741236068,Cours Portal,http://damln.s3.amazonaws.com/upload%2Fcondomatix%2F5bf2afd5-1713-40d8-9744-4c13e752ebaz,"41 Cours Portal, 33000 Bordeaux, France",2013-06-15 14:50:55 UTC,2013-06-18 09:05:09 UTC,true,5
+103,44.8211907201725,-0.58385790119403,Boulevard George V,http://damln.s3.amazonaws.com/upload%2Fcondomatix%2F5bf2afd5-1713-40d8-9744-4c13e752ebae,"135 Boulevard Georges V, 33000 Talence, France",2013-06-16 17:23:24 UTC,2013-06-18 09:17:49 UTC,true,0
+101,44.8051196323382,-0.572179215469404,Route de Toulouse,http://damln.s3.amazonaws.com/upload/condomatix/5bf2afd5-1713-40d8-9744-4c13e752eba1,"216 Route de Toulouse, 33130 Bègles, France",2013-06-16 17:15:39 UTC,2013-06-18 09:22:32 UTC,true,5
+110,44.8244436,-0.5515948,Ma Pharmacie Belcier,"","53 Rue de Son Tay, 33800 Bordeaux, France",2013-06-19 21:17:51 UTC,2013-06-19 21:17:51 UTC,true,-
+98,44.8365450001613,-0.575823580672663,Rue Duffour Dubergier,http://damln.s3.amazonaws.com/upload/condomatix/5bf2afd5-1713-40d8-9744-4c13e752eba2,"9-19 Rue Duffour Dubergier, 33000 Bordeaux, France",2013-06-15 16:19:00 UTC,2013-06-18 09:26:24 UTC,true,5
+102,44.8132173017956,-0.573090930185023,Rue Armand Lamarque,http://damln.s3.amazonaws.com/upload/condomatix/5bf2afd5-1713-40d8-9744-4c13e752eba3,"1 Rue Armand Lamarque, 33800 Bordeaux, France",2013-06-16 17:18:41 UTC,2013-06-18 09:29:09 UTC,true,5
+111,44.8117664,-0.5641619,Pharmacie de la Ferrade,"","36 Cours Victor Hugo, 33130 Bègles, France",2013-06-19 21:20:12 UTC,2013-06-19 21:20:12 UTC,true,-
+71,44.8416768478968,-0.580444764190681,Place Gambetta,http://damln.s3.amazonaws.com/upload%2Fcondomatix%2Fa3fb5744-4273-479b-a217-4da57d9e86c4,"43 Place Gambetta, 33000 Bordeaux, France",2013-06-12 08:24:23 UTC,2013-06-18 09:34:29 UTC,true,5
+72,44.83919,-0.581636,Rue du Docteur Charles Nancel Penard,http://damln.s3.amazonaws.com/upload%2Fcondomatix%2F9722aa44-5473-44bc-8611-c64839ecda03,"31 Rue du Docteur Charles Nancel Penard, 33000 Bordeaux, France",2013-06-12 08:28:30 UTC,2013-06-18 09:39:36 UTC,true,0
+67,44.855266,-0.571066,Rue Borie,http://damln.s3.amazonaws.com/upload%2Fcondomatix%2Fb7eda8bd-a55d-4f57-bd62-42ead7d3efcc,"70 Rue Borie, 33300 Bordeaux, France",2013-06-12 07:40:08 UTC,2013-06-18 09:41:34 UTC,true,5
+69,44.852111,-0.573469,Cours de Verdun,http://damln.s3.amazonaws.com/upload%2Fcondomatix%2F44474143-4d7f-4283-a9ac-5830ea56f631,"130 Cours de Verdun, 33000 Bordeaux, France",2013-06-12 08:11:56 UTC,2013-06-18 09:42:38 UTC,true,5
+105,44.8225176471135,-0.552750176031794,Rue Sarrette,http://damln.s3.amazonaws.com/upload%2Fcondomatix%2Fe31edfca-2704-43a1-84d9-450868d11db6,"33 Rue Sarrette, 33800 Bordeaux, France",2013-06-19 17:46:30 UTC,2013-06-19 17:46:30 UTC,true,0
+106,44.8284007421458,-0.561522858321142,Cours de la Marne,http://damln.s3.amazonaws.com/upload%2Fcondomatix%2Ffec6edbc-937a-409f-bbd0-d6f7e3900fdc,"158 Cours de la Marne, 33800 Bordeaux, France",2013-06-19 20:42:37 UTC,2013-06-19 20:42:37 UTC,true,5
+107,44.8279080447227,-0.559559259564206,Cours de la Marne,http://damln.s3.amazonaws.com/upload%2Fcondomatix%2F96c8776c-f244-478c-a545-80db0c89f239,"205 Cours de la Marne, 33800 Bordeaux, France",2013-06-19 20:46:38 UTC,2013-06-19 20:46:38 UTC,true,5
+108,44.8239838891149,-0.557845328003688,Rue Charles Domercq,http://damln.s3.amazonaws.com/upload%2Fcondomatix%2Fe9071a99-c95e-4666-8a0f-915ab5ce94d1,"48 Rue Charles Domercq, 33800 Bordeaux, France",2013-06-19 20:53:43 UTC,2013-06-19 20:53:43 UTC,true,5
+112,44.8130569,-0.5644618,Pharmacie Paoli,"","2 Cours Victor Hugo, 33130 Bègles, France",2013-06-19 21:22:17 UTC,2013-06-19 21:22:17 UTC,true,-
+113,44.8687716,-0.6084001,Pharmacie des Ecus,"","323 Avenue de la Libération Charles de Gaulle, 33110 Le Bouscat, France",2013-06-19 21:24:18 UTC,2013-06-19 21:24:18 UTC,true,-
+114,44.8812758,-0.6132754,Pharmacie du Stade,"","1 Rue Théodore Bellemer, 33520 Bruges, France",2013-06-19 21:26:21 UTC,2013-06-19 21:26:21 UTC,true,-
+115,44.8730245,-0.6780603,Pharmacie de la Mairie,"","164 Avenue Pasteur, 33185 Haillan, France",2013-06-19 21:31:12 UTC,2013-06-19 21:31:12 UTC,true,-
+116,44.82169,-0.6071601,Moineaux Sabine,"","11 Rue de Bethmann, 33600 Pessac, France",2013-06-19 21:36:08 UTC,2013-06-19 21:36:08 UTC,true,-
+117,44.8098461,-0.6222692,Pharmacie des Echoppes,"","73 Avenue Jean Jaurès, 33600 Pessac, France",2013-06-19 21:38:29 UTC,2013-06-19 21:38:29 UTC,true,-
+118,44.8022919,-0.6253444,Laffly Dolati Joelle,"","43 Avenue de Gradignan, 33600 Pessac, France",2013-06-19 21:39:57 UTC,2013-06-19 21:39:57 UTC,true,-
+120,44.8065675,-0.5794121,Pharmacie Nour,"","254 Rue Frédéric Sevene, 33400 Talence, France",2013-06-19 21:43:47 UTC,2013-06-19 21:43:47 UTC,true,-
+121,44.8232981,-0.5858353,Pharmacie Boulevard George V,"","138 Boulevard George V, 33000 Bordeaux, France",2013-06-19 21:46:32 UTC,2013-06-19 21:46:32 UTC,true,-
+122,44.8521475,-0.6554557,Pharmacie Robinson,"","74 Avenue des Frères Robinson, 33700 Mérignac, France",2013-06-21 16:56:42 UTC,2013-06-21 16:56:42 UTC,true,-
+123,44.8616152,-0.6431944,Pharmacie du Grand Louis,"","75 Avenue de Saint-Médard, 33320 Eysines, France",2013-06-21 16:58:18 UTC,2013-06-21 16:58:18 UTC,true,-
+130,44.8234205,-0.6244301,Sahagun Sylvie,"","20 Avenue Victor Hugo, 33700 Mérignac, France",2013-06-21 17:12:12 UTC,2013-06-21 17:12:12 UTC,true,-
+131,44.8527855,-0.619786,Pharmacie de Lestonnat,"","5 Rue Cerey, 33000 Bordeaux, France",2013-06-21 17:13:57 UTC,2013-06-21 17:13:57 UTC,true,-
+124,44.8584655,-0.6239117,Sci Gloris,"","353 Avenue du Maréchal de Lattre de Tassigny, 33200 Bordeaux, France",2013-06-21 17:00:51 UTC,2013-06-21 17:00:51 UTC,true,-
+125,44.8564197,-0.6287169,Pharmacie de Monséjour,"","93 Rue Stéhélin, 33000 Bordeaux, France",2013-06-21 17:02:31 UTC,2013-06-21 17:02:31 UTC,true,-
+126,44.8461721,-0.6330995,Pharmacie Clos Montesquieu,"","49 Centre Commercial Montesquieu, 33700 Mérignac, France",2013-06-21 17:04:48 UTC,2013-06-21 17:04:48 UTC,true,-
+127,44.8405899,-0.6510168,Pharmacie Paquier,"","28 Rue Richard Wagner, 33700 Mérignac, France",2013-06-21 17:06:03 UTC,2013-06-21 17:06:03 UTC,true,-
+128,44.8367682,-0.6211872,Pharmacie de la Glacière,"","42 Avenue de la Marne, 33700 Mérignac, France",2013-06-21 17:07:31 UTC,2013-06-21 17:07:31 UTC,true,-
+129,44.8378985,-0.6163949,Pharmacie du Rond Point Mondésir,"","8 Avenue du Maréchal Gallieni, 33700 Mérignac, France",2013-06-21 17:10:49 UTC,2013-06-21 17:10:49 UTC,true,-
+132,44.8403302,-0.5590667,Pharmacie Bastidienne,"","1 Avenue Thiers, 33100 Bordeaux, France",2013-06-21 17:15:19 UTC,2013-06-21 17:15:19 UTC,true,-
+133,44.83921,-0.584124,Pharmacie Mériadeck,"","Rue Père Dieuzaide, 33 000 Bordeaux, France",2013-06-21 17:21:50 UTC,2013-06-21 17:21:50 UTC,true,-
+135,44.8168975,-0.5462638,Pharmacie Brun,"","16 Rue Hippolyte Tandonnet, 33130 Bègles, France",2013-06-22 15:27:59 UTC,2013-06-22 15:27:59 UTC,true,-
+136,44.8077655,-0.5534623,Snc Societe Marechal,"","79 Rue Léon Gambetta, 33130 Bègles, France",2013-06-22 15:29:32 UTC,2013-06-22 15:29:32 UTC,true,-
+137,44.81748,-0.585434,Pharmacie Barbe,http://damln.s3.amazonaws.com/upload%2Fcondomatix%2Fpharmacie-barbe.png,1 Rue René Balloux 33400 Talence,2013-06-23 22:41:11 UTC,2013-06-23 22:41:11 UTC,true,5
+119,44.814188,-0.5888382,Pharmacie Morga,http://damln.s3.amazonaws.com/upload%2Fcondomatix%2Fmorga.png,"213 Cours Gambetta, 33400 Talence, France",2013-06-19 21:41:43 UTC,2013-06-23 22:51:56 UTC,true,-

@@ -1,0 +1,351 @@
+﻿OBJECTID_1,OBJECTID,COD_ITIN,COMENT,DAT_DVAL,NOM,LIEN_FH,FICHE_PDF,FICHE_HORA
+1,3882,2220 Mer R,"SSS
+",20151012,2220 Mer R,2220,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2220 Mer R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2220.pdf
+2,3903,5301p R,"SSS
+",20160222,5301p R,5301p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5301p R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5301p.pdf
+3,3912,2706,SSS,20060902,2706,2706,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2706.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2706.pdf
+4,3913,401p R,SSS - CAR=21,20060214,401p R,401p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/401p R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/401p.pdf
+5,3925,902,SSS,20130903,902,902,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/902.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/902.pdf
+6,3944,2103 Mer R,SSS,20121008,2103 Merc R,2103,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2103 Mer R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2103.pdf
+7,4000,1301pR,"SSS
+",20160104,1301pR,1301p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1301pR.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1301p.pdf
+8,4018,5202p,SSS,20140902,5202p,5202p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5202p.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5202p.pdf
+9,4032,2702pR,SSS,20130903,2702pR,2702P,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2702pR.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2702P.pdf
+10,4074,9939,SSS,20150901,9939,9939,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/9939.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/9939.pdf
+11,4089,9904 R,"SSS
+",20151116,9904 R,9904,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/9904 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/9904.pdf
+12,4090,9905 Mer R,"SSS
+",20151116,9905 Mer R,9905,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/9905 Mer R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/9905.pdf
+13,4112,403,SSS,20111003,403,403,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/403.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/403.pdf
+14,4153,3904 R,"SSS - Car = 7
+",20150109,3904 R,3904,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3904 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3904.pdf
+15,4175,2002Merc R,"SSS
+",20150902,2002 Mer R,2002,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2002Merc R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2002.pdf
+16,4179,1603 R,"SSS
+",20150921,1603 R,1603,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1603 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1603.pdf
+17,4231,1104,SSS,20110905,1104,1104,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1104.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1104.pdf
+18,4255,2705R,SSS,20130903,2705 R,2705,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2705R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2705.pdf
+19,4273,3009 R,SSS,20141006,3009 R,3009,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3009 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3009.pdf
+20,4286,2008,"SSS
+",20150928,2008,2008,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2008.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2008.pdf
+21,4310,901-p R,SSS - Car = 207,20080308,901-p R,901-p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/901-p R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/901-p.pdf
+22,4342,2105,SSS,20130903,2105,2105,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2105.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2105.pdf
+23,4344,3104 R,SSS,20130903,3104 R,3104,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3104 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3104.pdf
+24,4420,412R,SSS,20100902,412R,412,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/412R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/412.pdf
+25,4472,1601,"SSS
+",20150921,1601,1601,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1601.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1601.pdf
+26,4477,9909 R,"SSS
+",20151116,9909 R,9909,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/9909 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/9909.pdf
+27,4493,106a,"SSS
+",20160125,106a,106a,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/106a.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/106a.pdf
+28,4504,3905 R,SSS,20080902,3905 R,3905,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3905 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3905.pdf
+29,4505,1002,SSS,20050101,1002,1002,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1002.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1002.pdf
+30,4548,4005 Mer R,SSS,20141119,4005 Mer R,4005,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/4005 Mer R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/4005.pdf
+31,4552,3009 Mer R,SSS,20141006,3009 Mer R,3009,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3009 Mer R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3009.pdf
+32,4615,402p,SSS,20140901,402p,402p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/402p.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/402p.pdf
+33,4625,412,SSS,20100902,412,412,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/412.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/412.pdf
+34,3850,1201 Mer R,SSS,20140902,1201 Mer R,1201,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1201 Mer R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1201.pdf
+35,3854,1004,SSS,20140908,1004,1004,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1004.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1004.pdf
+36,3900,105,"SSS
+",20160222,105,105,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/105.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/105.pdf
+37,3949,5201 MerR,SSS,20131002,5201 MerR,5201,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5201 MerR.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5201.pdf
+38,3987,3103 R,"SSS
+",20150901,3103 R,3103,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3103 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3103.pdf
+39,4004,4005 R,"SSS - Car = 252
+",20090909,4005 R,4005,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/4005 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/4005.pdf
+40,4011,3905,SSS,20070904,3905,3905,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3905.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3905.pdf
+41,4017,7001 Me,SSS,20110905,7001 Me,7001,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/7001 Me.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/7001.pdf
+42,4050,4005,SSS,20090909,4005,4005,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/4005.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/4005.pdf
+43,4056,1611,SSS,20140902,1611,1611,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1611.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1611.pdf
+44,4064,9904,SSS,20150901,9904,9904,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/9904.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/9904.pdf
+45,4082,5701,"SSS
+",20150901,5701,5701,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5701.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5701.pdf
+46,4146,1107,SSS,20141201,1107,1107,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1107.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1107.pdf
+47,4215,7001 Me R,SSS,20110905,7001 Me R,7001,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/7001 Me R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/7001.pdf
+48,4228,2105 R,SSS,20070905,2105 R,2105,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2105 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2105.pdf
+49,4282,3117 R,"SSS
+",20150901,3117 R,3117,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3117 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3117.pdf
+50,4326,906 R,SSS,20140902,906 R,906,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/906 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/906.pdf
+51,4389,2008 R,"SSS
+",20150928,2008 R,2008,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2008 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2008.pdf
+52,4413,906-p,SSS,20080421,906-p,906-p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/906-p.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/906-p.pdf
+53,4432,5202 R,SSS,20130903,5202 R,5202,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5202 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5202.pdf
+54,4458,5208,SSS,20150901,5208,5208,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5208.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5208.pdf
+55,4583,1304p R,"SSS
+",20160104,1304p R,1304p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1304p R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1304p.pdf
+56,4585,1304p,"SSS
+",20160104,1304p,1304p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1304p.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1304p.pdf
+57,4600,2706R,SSS,20060903,2706R,2706,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2706R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2706.pdf
+58,4620,5302p R,SSS,20100902,5302p R,5302p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5302p R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5302p.pdf
+59,4648,901bis R,"SSS
+",20160307,901bis R,901bis,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/901bis R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/901bis.pdf
+60,3860,1305,SSS,20141201,1305,1305,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1305.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1305.pdf
+61,3902,5201p,"SSS
+",20160222,5201p,5201p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5201p.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5201p.pdf
+62,3995,9909 Mer R,"SSS
+",20151116,9909 Mer R,9909,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/9909 Mer R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/9909.pdf
+63,4043,5304 R,SSS,20130903,5304 R,5304,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5304 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5304.pdf
+64,4051,4001-2,SSS,20140902,4001(2),4001-2,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/4001-2.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/4001-2.pdf
+65,4122,2205,SSS,20131104,2205,2205,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2205.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2205.pdf
+66,4132,5202,SSS,20130903,5202,5202,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5202.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5202.pdf
+67,4166,9938 Mer R,SSS,20150901,9938 Mer R,9938,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/9938 Mer R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/9938.pdf
+68,4187,9908 R,"SSS
+",20151116,9908 R,9908,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/9908 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/9908.pdf
+69,4221,2210,SSS,20090902,2210,2210,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2210.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2210.pdf
+70,4274,9905,SSS,20150901,9905,9905,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/9905.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/9905.pdf
+71,4331,1604,SSS,20130903,1604,1604,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1604.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1604.pdf
+72,4340,3118,SSS,20120116,3118,3118,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3118.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3118.pdf
+73,4360,1612,SSS,20140902,1612,1612,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1612.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1612.pdf
+74,4364,3007 R,"SSS
+",20141006,3007 R,3007,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3007 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3007.pdf
+75,4384,1003 R,"SSS
+",20150901,1003 R,1003,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1003 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1003.pdf
+76,4408,3903,SSS,20050101,3903,3903,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3903.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3903.pdf
+77,4444,2214,SSS,20140902,2214,2214,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2214.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2214.pdf
+78,4487,107p R,"SSS
+",20160104,107p R,107p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/107p R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/107p.pdf
+79,4511,2210 R,SSS,20090902,2210 R,2210,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2210 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2210.pdf
+80,4522,5310,SSS,20110905,5310,5310,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5310.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5310.pdf
+81,4535,3601,SSS,20131104,3601,3601,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3601.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3601.pdf
+82,4602,6401,SSS,20050101,6401,6401,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/6401.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/6401.pdf
+83,4610,2211 R,SSS,20120904,2211 R,2211,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2211 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2211.pdf
+84,4640,1011,"SSS
+",20160222,1011,1011,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1011.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1011.pdf
+85,4643,1012 R,"SSS
+",20160222,1012 R,1012,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1012 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1012.pdf
+86,3862,1301,SSS,20141113,1301,1301,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1301.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1301.pdf
+87,3897,1301p,"SSS
+",20160104,1301p,1301p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1301p.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1301p.pdf
+88,3909,2604p R,SSS,20060330,2604p R,2604p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2604p R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2604p.pdf
+89,3931,1201,SSS,20120904,1201,1201,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1201.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1201.pdf
+90,3938,901 MER R,SSS - Car = 207,20130909,901 MER R,901,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/901 MER R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/901.pdf
+91,3942,1608p R,SSS,20130903,1608p R,1608p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1608p R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1608p.pdf
+92,3965,4001 Mer R,SSS,20141119,4001 Mer R,4001-2,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/4001 Mer R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/4001-2.pdf
+93,3971,2110,"SSS
+",20150309,2110,2110,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2110.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2110.pdf
+94,3975,5709,SSS,20150901,5709,5709,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5709.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5709.pdf
+95,3983,3116 R,"SSS
+",20150901,3116 R,3116,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3116 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3116.pdf
+96,3989,5703 R,"SSS - Car = 256
+",20150901,5703 R,5703,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5703 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5703.pdf
+97,4012,1002 R,SSS,20050101,1002 R,1002,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1002 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1002.pdf
+98,4021,2201,SSS,20110902,2201,2201,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2201.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2201.pdf
+99,4054,2112Mer R,SSS,20140902,2112Mer R,2112,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2112Mer R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2112.pdf
+100,4078,2224,"SSS
+",20150901,2224,2224,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2224.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2224.pdf
+101,4086,1601 R,"SSS
+",20150921,1601 R,1601,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1601 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1601.pdf
+102,4094,411P R,"SSS - car=31
+",20160104,411P R,411P,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/411P R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/411P.pdf
+103,4145,412 bis,SSS,20140922,412 bis,412 bis,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/412 bis.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/412 bis.pdf
+104,4161,9902 R,SSS,20150901,9902 R,9902,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/9902 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/9902.pdf
+105,4174,401 R,"SSS
+",20150921,401 R,401,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/401 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/401.pdf
+106,4223,1103 R,SSS,20120904,1103 R,1103,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1103 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1103.pdf
+107,4241,905,SSS,20120904,905,905,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/905.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/905.pdf
+108,4243,5302 R,SSS,20100902,5302 R,5302,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5302 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5302.pdf
+109,4316,3602 R,SSS,20120912,3602 R,3602,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3602 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3602.pdf
+110,4329,2101 R,SSS,20120904,2101 R,2101,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2101 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2101.pdf
+111,4334,405,SSS,20100902,405,405,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/405.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/405.pdf
+112,4335,405R,SSS,20100902,405R,405,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/405R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/405.pdf
+113,4361,412 bis R,SSS,20140922,412 bis R,412 bis,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/412 bis R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/412 bis.pdf
+114,4372,9910 R,SSS,20150901,9910 R,9910,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/9910 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/9910.pdf
+115,4392,1101 P,"SSS
+",20160104,1101P,1101 P,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1101 P.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1101 P.pdf
+116,4400,4001(2) R,"SSS - Car = 249
+",20140902,4001(2) R,4001-2,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/4001(2) R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/4001-2.pdf
+117,4401,2604,SSS,20100104,2604,2604,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2604.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2604.pdf
+118,4407,6402,SSS,20050101,6402,6402,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/6402.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/6402.pdf
+119,4411,2112,SSS,20120904,2112,2112,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2112.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2112.pdf
+120,4412,1105,SSS,20130919,1105,1105,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1105.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1105.pdf
+121,4454,3602,"SSS
+",20141006,3602,3601,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3602.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3601.pdf
+122,4503,3902,SSS,20080902,3902,3902,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3902.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3902.pdf
+123,4529,2101,SSS,20121008,2101,2101,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2101.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2101.pdf
+124,4546,1305R,SSS,20141201,1305R,1305,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1305R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1305.pdf
+125,4589,505,"SSS
+",20160105,505,505,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/505.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/505.pdf
+126,4619,7001 R,SSS,20110905,7001 R,7001,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/7001 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/7001.pdf
+127,3996,5304,"SSS
+",20151103,5304,5304,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5304.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5304.pdf
+128,3997,5601 R,"SSS - Car = 280
+",20160104,5601 R,5601,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5601 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5601.pdf
+129,4025,1104 R,SSS,20110905,1104 R,1104,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1104 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1104.pdf
+130,4036,5302,SSS,20100902,5302,5302,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5302.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5302.pdf
+131,4038,106aR,SSS,20140310,106aR,106a,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/106aR.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/106a.pdf
+132,4047,5201 R,SSS,20131002,5201 R,5201,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5201 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5201.pdf
+133,4081,9902 Mer R,"SSS
+",20150901,9902 Mer R,9902,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/9902 Mer R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/9902.pdf
+134,4109,2203 R,SSS,20090902,2203 R,2203,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2203 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2203.pdf
+135,4131,702 R,SSS - Car = 65,20130903,702 R,702,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/702 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/702.pdf
+136,4156,3007bis R,"SSS
+",20141006,3007bis R,3007 bis,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3007bis R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3007 bis.pdf
+137,4163,5212,SSS,20150901,5212,5212,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5212.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5212.pdf
+138,4164,9936 R,SSS,20150901,9936 R,9936,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/9936 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/9936.pdf
+139,4165,9937,SSS,20150901,9937,9937,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/9937.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/9937.pdf
+140,4184,701 R,"SSS - Car = 65
+",20151102,701 R,701,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/701 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/701.pdf
+141,4193,411P,"SSS
+",20160104,411P,411P,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/411P.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/411P.pdf
+142,4225,7001,SSS,20110905,7001,7001,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/7001.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/7001.pdf
+143,4246,702,SSS,20130903,702,702,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/702.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/702.pdf
+144,4302,4002(2) R,"SSS - Car = 250
+",20101011,4002(2) R,4002-2,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/4002(2) R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/4002-2.pdf
+145,4312,3901 R,SSS - Car = 3,20090904,3901 R,3901,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3901 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3901.pdf
+146,4328,2113 R,SSS,20120904,2113 R,2113,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2113 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2113.pdf
+147,4337,905 R,SSS - Car = 211,20120904,905 R,905,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/905 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/905.pdf
+148,4365,3007 bis,"SSS
+",20141006,3007 bis,3007 bis,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3007 bis.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3007 bis.pdf
+149,4381,3602 Mer R,"SSS
+",20150901,3602 Mer R,3602,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3602 Mer R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3602.pdf
+150,4406,401p,SSS,20050101,401p,401p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/401p.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/401p.pdf
+151,4421,5304 mercR,SSS,20110905,5304 mercR,5304,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5304 mercR.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5304.pdf
+152,4431,2207,SSS,20080903,2207,2207,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2207.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2207.pdf
+153,4434,3104,SSS,20130903,3104,3104,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3104.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3104.pdf
+154,4460,9938 R,SSS,20150901,9938 R,9938,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/9938 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/9938.pdf
+155,4467,5701 R,"SSS - Car = 261
+",20150901,5701 R,5701,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5701 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5701.pdf
+156,4470,401 Mer R,"SSS
+",20150921,401 Mer R,401,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/401 Mer R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/401.pdf
+157,4471,2002,"SSS
+",20150902,2002,2002,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2002.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2002.pdf
+158,4475,701,"SSS
+",20151102,701,701,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/701.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/701.pdf
+159,4485,1606 R,"SSS
+",20160104,1606 R,1606,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1606 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1606.pdf
+160,4508,103,SSS,20130918,103,103,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/103.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/103.pdf
+161,4516,2113 Mer R,SSS,20120904,2113 Mer R,2113,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2113 Mer R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2113.pdf
+162,4559,2224 R,"SSS
+",20150901,2224 R,2224,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2224 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2224.pdf
+163,4570,2002 R,"SSS
+",20150902,2002 R,2002,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2002 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2002.pdf
+164,4575,9908 Mer R,"SSS
+",20151116,9908 Mer R,9908,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/9908 Mer R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/9908.pdf
+165,4624,1604 R,SSS,20130903,1604 R,1604,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1604 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1604.pdf
+166,4642,1012,"SSS
+",20160222,1012,1012,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1012.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1012.pdf
+167,3846,2103 R,SSS,20121008,2103 R,2103,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2103 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2103.pdf
+168,3863,1301R,SSS,20141113,1301R,1301,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1301R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1301.pdf
+169,3871,9938,SSS,20150901,9938,9938,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/9938.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/9938.pdf
+170,3876,1012 Mec R,"SSS
+",20150901,1012 Merc R,1012,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1012 Mec R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1012.pdf
+171,3921,403 R,SSS,20111003,403 R,403,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/403 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/403.pdf
+172,3948,5201,SSS,20140407,5201,5201,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5201.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5201.pdf
+173,3966,4002 Mer R,SSS,20141119,4002 Mer R,4002-2,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/4002 Mer R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/4002-2.pdf
+174,3980,9939 R,SSS,20150901,9939 R,9939,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/9939 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/9939.pdf
+175,3986,3103,"SSS
+",20150901,3103,3103,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3103.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3103.pdf
+176,4009,403 P,SSS,20091105,403 P,403 P,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/403 P.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/403 P.pdf
+177,4046,1302R,SSS,20130903,1302R,1302,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1302R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1302.pdf
+178,4087,507 R,"SSS - Car = 206
+",20151102,507 R,507,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/507 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/507.pdf
+179,4095,1609,"SSS
+",20160104,1609,1609,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1609.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1609.pdf
+180,4110,3903 R,SSS - Car = 5,20060404,3903 R,3903,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3903 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3903.pdf
+181,4123,2702P,SSS,20130903,2702p,2702P,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2702P.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2702P.pdf
+182,4133,2204 R,SSS,20080902,2204 R,2204,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2204 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2204.pdf
+183,4152,3904,"SSS
+",20150109,3904,3904,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3904.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3904.pdf
+184,4162,5212 Mer R,SSS,20150901,5212 Mer R,5212,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5212 Mer R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5212.pdf
+185,4186,9904 Mer R,"SSS
+",20151116,9904 Mer R,9904,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/9904 Mer R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/9904.pdf
+186,4203,3901,SSS,20090904,3901,3901,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3901.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3901.pdf
+187,4206,6402 R,SSS,20060303,6402 R,6402,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/6402 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/6402.pdf
+188,4226,1106 R,SSS,20131007,1106 R,1106,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1106 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1106.pdf
+189,4239,2205 R,SSS,20131104,2205 R,2205,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2205 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2205.pdf
+190,4249,906,SSS,20120103,906,906,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/906.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/906.pdf
+191,4292,5601,"SSS
+",20160104,5601,5601,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5601.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5601.pdf
+192,4303,5201p R,"SSS
+",20160222,5201p R,5201p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5201p R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5201p.pdf
+193,4320,2211,SSS,20120904,2211,2211,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2211.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2211.pdf
+194,4345,2115 R,SSS,20090902,2115 R,2115,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2115 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2115.pdf
+195,4349,2705,SSS,20130903,2705,2705,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2705.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2705.pdf
+196,4355,5301p,SSS,20140902,5301p,5301p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5301p.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5301p.pdf
+197,4368,5709 R,SSS,20150901,5709 R,5709,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5709 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5709.pdf
+198,4395,1609 R,"SSS
+",20160104,1609 R,1609,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1609 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1609.pdf
+199,4426,5310 R,SSS,20111102,5310 R,5310,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5310 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5310.pdf
+200,4526,5203p,SSS,20080902,5203p,5203p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5203p.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5203p.pdf
+201,4595,901-p,SSS,20080308,901-p,901-p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/901-p.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/901-p.pdf
+202,4614,906-p R,SSS - Car = 212,20060330,906-p R,906-p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/906-p R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/906-p.pdf
+203,4616,402p R,SSS - car=22,20140901,402p R,402p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/402p R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/402p.pdf
+204,3878,1603,"SSS
+",20150921,1603,1603,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1603.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1603.pdf
+205,3883,2220 R,"SSS
+",20151012,2220 R,2220,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2220 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2220.pdf
+206,3908,2604 R,SSS,20070904,2604 R,2604,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2604 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2604.pdf
+207,3932,107p,SSS,20130918,107p,107p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/107p.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/107p.pdf
+208,3936,5202p R,SSS,20110902,5202p R,5202p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5202p R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5202p.pdf
+209,3945,901 R,SSS - Car = 207,20140902,901 R,901,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/901 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/901.pdf
+210,3950,2604p,SSS,20140902,2604p,2604p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2604p.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2604p.pdf
+211,3973,908,SSS,20150901,908,908,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/908.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/908.pdf
+212,3981,9910,SSS,20150901,9910,9910,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/9910.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/9910.pdf
+213,3990,1804,"SSS
+",20150915,1804,1804,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1804.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1804.pdf
+214,4022,1106,SSS,20131007,1106,1106,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1106.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1106.pdf
+215,4181,507,"SSS
+",20151102,507,507,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/507.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/507.pdf
+216,4217,504,SSS,20130903,504,504,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/504.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/504.pdf
+217,4219,5202p Mer,SSS,20140902,5202p Mer,5202p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5202p Mer.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5202p.pdf
+218,4222,1103,SSS,20120904,1103,1103,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1103.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1103.pdf
+219,4224,3804,SSS,20110905,3804,3804,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3804.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3804.pdf
+220,4234,902 R,SSS - Car = 208,20130903,902 R,902,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/902 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/902.pdf
+221,4248,2114,SSS,20130903,2114,2114,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2114.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2114.pdf
+222,4252,2115 Mer R,SSS,20121008,2115 Mer R,2115,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2115 Mer R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2115.pdf
+223,4263,1612 R,SSS,20140902,1612 R,1612,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1612 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1612.pdf
+224,4269,3007,"SSS
+",20141006,3007,3007,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3007.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3007.pdf
+225,4275,5212 R,SSS,20150901,5212 R,5212,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5212 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5212.pdf
+226,4288,9905 R,"SSS
+",20151116,9905 R,9905,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/9905 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/9905.pdf
+227,4343,1201 R,SSS,20120904,1201 R,1201,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1201 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1201.pdf
+228,4371,9936,SSS,20150901,9936,9936,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/9936.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/9936.pdf
+229,4435,2109 R,SSS,20090903,2109 R,2109,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2109 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2109.pdf
+230,4438,1302,SSS,20130903,1302,1302,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1302.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1302.pdf
+231,4527,504 R,SSS,20130903,504 R,504,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/504 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/504.pdf
+232,4553,406 bis R,"SSS
+",20150511,406 bis R,406 bis,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/406 bis R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/406 bis.pdf
+233,4569,1003,"SSS
+",20150901,1003,1003,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1003.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1003.pdf
+234,4598,403 P R,SSS,20091105,403 P R,403 P,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/403 P R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/403 P.pdf
+235,4607,2501,SSS,20130903,2501,2501,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2501.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2501.pdf
+236,4618,2201 R,SSS,20110902,2201 R,2201,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2201 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2201.pdf
+237,4641,1011 R,"SSS
+",20160222,1011 R,1011,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1011 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1011.pdf
+238,3847,1804 R,SSS,20140310,1804 R,1804,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1804 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1804.pdf
+239,3929,1105 R,SSS,20120904,1105 R,1105,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1105 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1105.pdf
+240,3941,1608p,SSS,20130903,1608p,1608p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1608p.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1608p.pdf
+241,3960,1611R,SSS,20140902,1611 R,1611,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1611R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1611.pdf
+242,4060,3007 Mer R,"SSS
+",20141006,3007 Mer R,3007,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3007 Mer R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3007.pdf
+243,4062,3009,SSS,20141006,3009,3009,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3009.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3009.pdf
+244,4063,9902,SSS,20150901,9902,9902,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/9902.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/9902.pdf
+245,4116,3804 R,SSS - Car = 3804,20110905,3804 R,3804,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3804 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3804.pdf
+246,4147,5203p MeR,SSS,20141103,5203p Mer R,5203p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5203p MeR.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5203p.pdf
+247,4213,401,SSS,20070903,401,401,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/401.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/401.pdf
+248,4227,5203p R,SSS,20120904,5203p R,5203p,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5203p R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5203p.pdf
+249,4270,2110 R,"SSS
+",20150309,2110 R,2110,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2110 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2110.pdf
+250,4289,1101P R,"SSS
+",20160104,1101P R,1101 P,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1101P R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1101 P.pdf
+251,4294,1606,"SSS
+",20160104,1606,1606,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1606.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1606.pdf
+252,4308,2203,SSS,20050101,2203,2203,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2203.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2203.pdf
+253,4436,901,SSS,20140902,901,901,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/901.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/901.pdf
+254,4445,1004 R,SSS,20140908,1004 R,1004,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/1004 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/1004.pdf
+255,4453,2501 R,"SSS - car=283
+",20141006,2501 R,2501,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2501 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2501.pdf
+256,4464,3116,"SSS
+",20150901,3116,3116,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/3116.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/3116.pdf
+257,4474,2220,"SSS
+",20151012,2220,2220,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2220.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2220.pdf
+258,4502,6401 R,SSS,20060303,6401 R,6401,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/6401 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/6401.pdf
+259,4509,103 R,SSS,20130918,103 R,103,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/103 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/103.pdf
+260,4530,2111 R,SSS,20121008,2111 R,2111,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/2111 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/2111.pdf
+261,4536,4002-2,SSS,20101011,4002(2),4002-2,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/4002-2.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/4002-2.pdf
+262,4555,5209 R,SSS,20150901,5209 R,5209,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/5209 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/5209.pdf
+263,4590,505R,"SSS
+",20160105,505R,505,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/505R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/505.pdf
+264,4591,105 R,"SSS
+",20160222,105 R,105,http://wgs-users.s3.amazonaws.com/cg45/2014/Services_aux_Habitants/Mes_Services_au_quotidien/Le_reseau_mobilite/Les_itineraires/Fiches_carto/105 R.pdf,http://www.ulys-loiret.com/upload/fiches_horaires_scolaires/105.pdf

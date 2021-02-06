@@ -1,0 +1,23 @@
+NAME,LABEL
+Sources,année des données
+code_reg,Code de la région
+dec_c_den_etbt,dec_c Dénominateur
+dec_c_etbt,Délai d envoi du courrier de fin d hospitalisation
+dec_c_icbas_etbt,dec_c Intervalle de confiance bas
+dec_c_ichaut_etbt,dec_c Intervalle de confiance haut
+dtn1_c1_den_etbt,dtn1_c1 Dénominateur
+dtn1_c1_etbt,Dépistage des troubles nutritionnels (2 niveaux)
+dtn1_c1_icbas_etbt,dtn1_c1 Intervalle de confiance bas
+dtn1_c1_ichaut_etbt,dtn1_c1 Intervalle de confiance haut
+finess,finess de l'établissement
+lib_cat,catégorie
+lib_reg,libelle_region
+raison_sociale,raison sociale
+repondant,établissement répondant
+resultat_dec,
+resultat_dtn1,
+resultat_tdp,
+tdp_c_den_etbt,tdp_c Dénominateur
+tdp_c_etbt,Tenue du dossier patient
+tdp_c_icbas_etbt,tdp_c Intervalle de confiance bas
+tdp_c_ichaut_etbt,tdp_c Intervalle de confiance haut

@@ -1,0 +1,16 @@
+Section    Sens         Sous     Chapitre;BUDGET
+Rubrique;PRIMITIF
+Inv.       D                     040   OPERATIONS D'ORDRE DE TRANSFERT ENTRE SECTION;4 283,00
+Inv.       D                     21   IMMOBILISATIONS CORPORELLES;12 000,00
+Inv.       R                     001   RESULTAT D'INVESTISSEMENT REPORTE;25 425,60
+Inv.       R                     040   OPERATIONS D'ORDRE DE TRANSFERT ENTRE SECTION;5 777,00
+Fonc.      D                     011   CHARGES A CARACTERES GENERAL;6 500,00
+Fonc.      D                     042   OPERATIONS D'ORDRE DE TRANSFERT ENTRE SECTION;5 777,00
+Fonc.      D                     65   AUTRES CHARGES DE GESTION COURANTE;100,00
+Fonc.      R                     002   RESULTAT DE FONCTIONNEMENT REPORTE;20 537,83
+Fonc.      R                     042   OPERATIONS D'ORDRE DE TRANSFERT ENTRE SECTION;4 283,00
+Fonc.      R                     74   DOTATIONS ET PARTICIPATIONS;8 094,00
+;
+;
+;
+;

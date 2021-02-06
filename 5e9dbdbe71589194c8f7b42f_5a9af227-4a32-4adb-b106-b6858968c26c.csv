@@ -1,0 +1,10 @@
+Colonne,Type ,Description_FR,Description_EN,Exemple
+dispositif,string,nom du fonds concerné,main fund name,Fonds de solidarité
+volet,string,numéro de volet du fonds de solidarité,funding component ID number,VOLET1
+nombre_aides,integer,nombre d�aides attribu�es,number of assigned fundings,1397
+montant_total,integer,montant total des aides attribu�es (en euros),total amount of assigned fundings (in euros),21191.00 
+reg,string,numéro de la région,geographical region ID number,84
+dep,string,numéro du département géographique,geographical sub-region ID number,43
+libelle_region,string,nom de la région,geographical region name,Auvergne-Rhône-Alpes
+code_section,string,Code de la section NAF (secteur d’activité),NAF code section (business sector),S
+libelle_section,string,Nom de la section NAF correspondante (secteur d’activité),NAF section name (business sector),Autres activités de services

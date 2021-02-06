@@ -1,0 +1,5 @@
+﻿Colonne;Type;Description_FR;Description_EN;Exemple
+dep;intefer;Département;Department;44
+an_sem;;Année / Semaine;Year / Week;2020-S11
+clage_covid_dc65;;Classe d'âge;Age group;0 (tous les âges) / A (+65 ans)
+cat_zscore;;Indicateur niveau excès mortalité;Excess mortality indicator;1

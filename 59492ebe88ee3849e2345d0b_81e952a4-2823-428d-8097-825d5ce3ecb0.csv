@@ -1,0 +1,24 @@
+Lexique;;
+;;
+"Données : Campagne 2016 = réponses patients de mi-avril au 07 nov.
+Minimum de 30 questionnaires patients exploitables exploitables pour intégration de l’établissement au classement.
+Etablissement niveau finess géographique.";;
+;;
+Nom variable;Libellé;Détail
+Finess_geo;finess géographique;
+rs_finess_geo;raison sociale du finess géographique;
+Finess_plage;finess PMSI;
+rs_finess;raison sociale du finess PMSI;
+type;catégorie;
+region_id;code région;
+region;région;
+participation;Statut de participation ;Obligatoire / facultative
+Depot;Dépôt d'au moins un mail valide;oui / non
+classement;Classement ;"Classe A = supérieur à 77.3
+Classe B = entre 74 et 77.3
+Classe C = entre 70.7 et 74
+Classe D = inférieur à 70.7
+NR ""Non répondants"" 
+DI  « Données insuffisantes » = ES qui n'ont pas le minimum de 30 questionnaires exploitables"
+score_all_ajust;Score de satisfaction globale ajusté;
+nb_rep;Nombre de réponses patients;

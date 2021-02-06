@@ -1,0 +1,20 @@
+﻿FID,ROUTE,PRD,ABD,PRF,ABF,CUMULD,CUMULF,RD,OBSERVATIO,Date_donne,Fin_inonda,Localisati,Notes
+1,45 D0836,3,650,3,750,3511,3611,836,",",1464825600000,_,Entre la D935 et la D502, 
+2,45 D0102,0,0,4,0,0,4027,102,",",1464652800000,_,"Entre Cercottes et Gidy, pont de la Retrève", 
+3,45 D0032,0,0,4,0,0,3881,32,",",1464652800000,_,Nargis, 
+4,45 D0064,8,0,9,0,8052,9054,64,",",1464652800000,_,Entre Marcilly en Villette et Sennely, 
+5,45 D900772,1,0,3,300,0,950,900772,",",1464652800000,_,Echangeur de Bonny sur Loire, 
+6,45 D0163,7,0,7,100,7013,7113,163,",",1464652800000,_,Entre Saint Germain et Amilly, 
+7,45 D0102,4,0,8,900,4027,8954,102,",",1464825600000,_,Entre Gidy et Huêtre, 
+8,45 D0921,47,500,48,0,45934,46442,921,",",1464652800000,_,Fay aux Loges, 
+9,45 D0097,20,0,20,100,19249,19349,97,",",1464652800000,_,Villereau, 
+10,45 D0167,0,0,2,0,0,2004,167,",",1464652800000,_,Mareau aux Bois, 
+11,45 D0926,0,190,2,300,190,2300,926,Pont sur la Loire fermé,1464652800000,_,Rivière la Cheuille,Pont sur la Loire fermé
+12,45 D0017,17,0,17,100,17101,17201,17,",",1464739200000,_,Sennely, 
+13,45 D0015,22,500,22,800,22651,22951,15,",",1464739200000,_,"Ligny le Ribault, le Cosson", 
+14,45 D0627,0,0,0,500,0,500,627,",",1464825600000,_,?, 
+15,45 D0125,0,500,8,0,500,8230,125,",",1464652800000,_,Chevilly entre D2020 et les Chapelles, 
+16,45 D0315,3,950,4,50,3940,4028,315,",",1464912000000,_,Griselles, 
+17,45 D0011,17,0,17,500,17164,17664,11,",",1464652800000,_,Fay aux Loges, 
+18,45 D0097,8,0,13,0,7117,12198,97,",",1464652800000,_,Entre Fleury les Aubrais et Saint Lyé, 
+19,45 D0702,3,550,7,262,3514,7270,702,",",1464739200000,_,?,Découverte de gouffres de part et d'autre de la RD702 au sud de Gidy

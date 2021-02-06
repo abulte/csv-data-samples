@@ -1,0 +1,3 @@
+coll_nom,coll_siret,nom,adresse,longitude,latitude,porteur_projet,gestionnaire_projet,surface_m2,nombre_potagers,Equipements,Mél_informations,date_der_maj
+Antibes,21060004500012,La Tournière,195 chemin des plateaux Fleuris,7.099741069,43.58734736,ville d'antibes,Association de proximité des jardins de la tournière,800,11,Eau;rangements outils,sophie.merlo@ville-antibes.fr;valerie.davino@ville-antibes.fr,2021-01-13
+Antibes,21060004500012,Saint Maymes,Chemin des Eucalyptus,7.089200,43.579904,ville d'antibes,Association Emancip'action,1600,30,Eau;rangements outils,sophie.merlo@ville-antibes.fr;valerie.davino@ville-antibes.fr,2021-01-13

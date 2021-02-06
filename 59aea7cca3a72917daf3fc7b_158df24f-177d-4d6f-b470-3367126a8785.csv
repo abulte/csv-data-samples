@@ -1,0 +1,109 @@
+PLUVIO;CORDE;COMMUNE;DEBIMETRE;DOPPLER;LIGNE;VOLJOUR;CAP_HAUTEUR;ACQUI;CAP_VITESSE;OBJECTIF;DEBMOY;OBSERVAT;PIEZ;NOM;FACILITYID;RESEAU;TYPEMES;US;RADAR;geometry
+;;CAG;;;;;;;;AUTO;;En amont du regard;;Surverse STEP 3;PCAG10A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.15501651, 43.65302154]}
+;;CAG;;;;;;;;AUTO;;;;Surverse STEP 2;PCAG09A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.15502351, 43.65301626]}
+;;CAG;;;;;;;;AUTO;;;;Surverse STEP 1;PCAG08A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.15503279, 43.6530084]}
+;;CAR;RADAR;;;;;SOFREL;;DIAG;;;;ZI Carros;PSLV08Q;EU;DEBIT;;Flodar;{"type": "Point", "coordinates": [7.2020465, 43.76565107]}
+;;SLV;RADAR;;;;;SOFREL;;DIAG;;;;ZI Saint-Laurent;PSLV09Q;EU;DEBIT;;Flodar;{"type": "Point", "coordinates": [7.18860583, 43.68318914]}
+;;NIC;RADAR;;;;;;;DIAG;;;;Tête Carrée;PNIC64Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.27825456, 43.70206014]}
+;;NIC;RADAR;;;;;;;DIAG;;;;Haliotis;PNIC65Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.22797596, 43.67457652]}
+;;BEA;MAINSTREAM;;;;PIEZO;;DOPPLER;AUTO;;;;DO Mairie;PNIC66A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.3351858, 43.70603267]}
+;;NIC;;;;;;;;;;;;;;;H2S;;;{"type": "Point", "coordinates": [7.29590638, 43.68814313]}
+;;SMV;;;;;;;;;;;;Gendarmerie;PL NIC 02;;PLUVIO;;;{"type": "Point", "coordinates": [7.18907439, 43.81801437]}
+;;LEV;;;;;;;;;;;;Ecole St Roch;PL NIC 03;;PLUVIO;;;{"type": "Point", "coordinates": [7.22895114, 43.86003335]}
+;;ASP;;;;;;;;;;;;Ecole Aspremont;PL NIC 04;;PLUVIO;;;{"type": "Point", "coordinates": [7.25053579, 43.78298514]}
+;;NIC;;;;;;;;DIAG;;;;Palais Méditerranée;PNIC 61Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.2634718, 43.69474009]}
+;;VEN;;;;;;;;;;;;STEP MALVAN;PL VEN 1;;PLUVIO;;;{"type": "Point", "coordinates": [7.12288623, 43.7086755]}
+;;CAP;;;;;;;;;;;;Douaniers;PL NIC 14;;PLUVIO;;;{"type": "Point", "coordinates": [7.40507065, 43.71956034]}
+;;BEA;;;;;;;;;;;;Ecole Beaulieu;PL NIC 17;;PLUVIO;;;{"type": "Point", "coordinates": [7.33311142, 43.71007637]}
+;;NIC;;;;;;;;;;;;MIN;PL NIC 20;;PLUVIO;;;{"type": "Point", "coordinates": [7.20837101, 43.66840748]}
+;;NIC;;;;;;;;;;;;CHALET DES ROSES;PL NIC 13;;PLUVIO;;;{"type": "Point", "coordinates": [7.23992554, 43.69770491]}
+;;NIC;;;;;;;;;;;;AUBER;PL NIC 22;;PLUVIO;;;{"type": "Point", "coordinates": [7.26060448, 43.70293056]}
+;;NIC;;;;;;;;;;;;PIERRE MERLE;PL NIC 24;;PLUVIO;;;{"type": "Point", "coordinates": [7.28637401, 43.70061337]}
+;;NIC;;;;;;;;;;;;VINAIGRIER;PL NIC 9;;PLUVIO;;;{"type": "Point", "coordinates": [7.30097087, 43.70959687]}
+;;NIC;;;;;;;;;;;;CASSINI;PL NIC 23;;PLUVIO;;;{"type": "Point", "coordinates": [7.30271811, 43.72030162]}
+;;NIC;;;;;;;;;;;;RAY GORBELLA;PL NIC 25;;PLUVIO;;;{"type": "Point", "coordinates": [7.25670909, 43.72369754]}
+;;NIC;;;;;;;;;;;;CIMIEZ (Arène);PL NIC 16;;PLUVIO;;;{"type": "Point", "coordinates": [7.2753547, 43.71934327]}
+;;NIC;;;;;;;;;;;;CSL COMBES;PL NIC 28;;PLUVIO;;;{"type": "Point", "coordinates": [7.18835535, 43.74526178]}
+;;NIC;;;;;;;;;;;;TOUR BELLET;PL NIC 27;;PLUVIO;;;{"type": "Point", "coordinates": [7.22185623, 43.73954299]}
+;;NIC;;;;;;;;;;;;LA PLANA;PL NIC 6;;PLUVIO;;;{"type": "Point", "coordinates": [7.23613017, 43.73922764]}
+;;NIC;;;;;;;;;;;;MADELEINE SUP;PL NIC 26;;PLUVIO;;;{"type": "Point", "coordinates": [7.23017908, 43.70931268]}
+;;NIC;;;;;;;;;;;;ST ISIDORE;PL NIC 21;;PLUVIO;;;{"type": "Point", "coordinates": [7.19314014, 43.71206426]}
+;;NIC;;;;;;;;;;;;VENTURA;PL NIC 1;;PLUVIO;;;{"type": "Point", "coordinates": [7.30825525, 43.73898185]}
+;;NIC;;;;;;;;DIAG;;;;Magnan 2;PNIC07 Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.24679897, 43.69093745]}
+;;NIC;;;;;;;;DIAG;;;;Gambetta Est;PNIC48Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.25641747, 43.69508422]}
+;;NIC;;;;;;;;DIAG;;;;Port;PNIC42Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.2839759, 43.69845466]}
+;;COL;;;;;;;;DIAG;;;;Colomars;PNIC60Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.20182379, 43.76007029]}
+;;LAT;;;;;;;;DIAG;;;;Gerland Trinité;PNIC51Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.29695523, 43.73349139]}
+;;NIC;;;;;;;;DIAG;;;;St André;PNIC49Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.28499498, 43.73371226]}
+;;SLV;;;;;;;;AUTO;;;;DO Flots Bleus;PSLV 01A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.1864833, 43.658089]}
+;;VEN;;;;;;;;DIAG;;;;Malvan;PVEN 01Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.12322319, 43.70903066]}
+;;VEN;;;;;;;;DIAG;;;;Vosgelasdes;PVEN 03Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.12566487, 43.72417604]}
+;;CAG;;;;;;;;DIAG;;;;Bir Hakeim;PCAG 07Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.1536075, 43.65585957]}
+;;CAG;;;;;;;;AUTO;;;;DO Orangers;PCAG 01A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.16694421, 43.65757496]}
+;;CAG;;;;;;;;DIAG;;;;Orangers;PCAG 03Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.16700492, 43.65768386]}
+;;CAG;;;;;;;;DIAG;;;;Eglise;PCAG 02Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.16637987, 43.65742833]}
+;;CAG;;;;;;;;DIAG;;;;Lautin;PCAG 05Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.15484257, 43.65623352]}
+;;CAG;;;;;;;;DIAG;;;;Saule;PCAG 04Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.15407029, 43.65628037]}
+;;CAG;;;;;;;;DIAG;;;;Grands Plans;PCAG 06Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.15046119, 43.65606721]}
+;;SLV;;;;;;;;DIAG;;;;Surcouf;PSLV 03Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.18014949, 43.65700581]}
+;;SLV;;;;;;;;DIAG;;;;Mimosas;PSLV 04Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.19627779, 43.66413024]}
+;;SLV;;;;;;;;DIAG;;;;Stade;PSLV 05Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.19154577, 43.67322001]}
+;;SLV;;;;;;;;DIAG;;;;ZI;PSLV 06Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.18673623, 43.68830092]}
+;;VEN;;;;;;;;DIAG;;;;Hugues;PVEN 02Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.11690573, 43.71531606]}
+;;SJE;;;;;;;;DIAG;;;;St Jeannet;PSLV 02Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.1829216, 43.74681056]}
+;;CAS;;;;;;;;AUTO;;;;DO Roguez;PNIC28A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.21250915, 43.77229003]}
+;;CAP;;;;;;;;AUTO;;;;DO Douanier;PNIC29A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.40496959, 43.71955069]}
+;;EZE;;;;;;;;AUTO;;;;DO Isoletta;PNIC22A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.36614365, 43.72185969]}
+;;EZE;;;;;;;;AUTO;;;;DO RN;PNIC23A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.35269178, 43.71993847]}
+;;BEA;;;;;;;;AUTO;;;;DO RN Port;PNIC24A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.3342736, 43.70836355]}
+;;BEA;;;;;;;;AUTO;;;;DO Casino;PNIC25A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.3311268, 43.70384261]}
+;;SJF;;;;;;;;AUTO;;;;DO Port;PNIC26A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.33482752, 43.68859533]}
+;;SJF;;;;;;;;AUTO;;;;DO Carriere;PNIC27A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.33455012, 43.68326188]}
+;;NIC;;;;;;;;DIAG;;;;Pacho;PNIC54Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.28502811, 43.69919375]}
+;;NIC;;;;;;;;DIAG;;;;Aqueduc de l'Est;PNIC32Q;EP;DEBIT;;;{"type": "Point", "coordinates": [7.28778524, 43.70078521]}
+;;NIC;;;;;;;;DIAG;;;;Barla;PNIC40Q;EP;DEBIT;;;{"type": "Point", "coordinates": [7.231974, 43.68217481]}
+;;NIC;;;;;;;;DIAG;;;;Aqu Magnan Branche Nord;PNIC38Q;EP;DEBIT;;;{"type": "Point", "coordinates": [7.24390865, 43.69310471]}
+;;NIC;;;;;;;;DIAG;;;;Aqu Magnan Branche Ouest;PNIC39Q;EP;DEBIT;;;{"type": "Point", "coordinates": [7.24368106, 43.69318065]}
+;;NIC;;;;;;;;DIAG;;;;Aqu Gambetta Amont;PNIC37Q;EP;DEBIT;;;{"type": "Point", "coordinates": [7.25620505, 43.69790146]}
+;;NIC;;;;;;;;DIAG;;;;Aqu Rivoli;PNIC35Q;EP;DEBIT;;;{"type": "Point", "coordinates": [7.25983762, 43.70328681]}
+;;NIC;;;;;;;;DIAG;;;;Amont Aqu Rivoli;PNIC34Q;EP;DEBIT;;;{"type": "Point", "coordinates": [7.26202131, 43.71013372]}
+;;NIC;;;;;;;;DIAG;;;;Aqu Rivoli Tête de réseau;PNIC36Q;EP;DEBIT;;;{"type": "Point", "coordinates": [7.25561692, 43.72708681]}
+;;NIC;;;;;;;;DIAG;;;;Fodéré;PNIC05 Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.28730838, 43.69907063]}
+;;NIC;;;;;;;;DIAG;;;;Carnot;PNIC52Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.28845315, 43.69816394]}
+;;NIC;;;;;;;;DIAG;;;;Stalingrad;PNIC53Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.28690284, 43.69659961]}
+;;NIC;;;;;;;;DIAG;;;;Aqueduc de l'Est;PNIC09 A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.28671163, 43.69430179]}
+;;NIC;;;;;;;;AUTO;;;;DO Chambre Masséna;PNIC31A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.26998849, 43.6974543]}
+;;NIC;;;;;;;;DIAG;;;;TRGP;PNIC55Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.26919907, 43.69574772]}
+;;NIC;;;;;;;;AUTO;;;;DO Phocéens;PNIC19 A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.26907814, 43.69557918]}
+;;NIC;;;;;;;;DIAG;;;;Chambre Masséna;PNIC21 Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.27020755, 43.69750942]}
+;;NIC;;;;;;;;AUTO;;;;DO Félix Faure;PNIC16 A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.27169337, 43.69778416]}
+;;NIC;;;;;;;;DIAG;;;;Blacas;PNIC43Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.27064487, 43.69980546]}
+;;NIC;;;;;;;;DIAG;;;;Dubouchage;PNIC46Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.27050408, 43.70140572]}
+;;NIC;;;;;;;;DIAG;;;;Deudon;PNIC44Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.26893861, 43.70088898]}
+;;NIC;;;;;;;;DIAG;;;;Lonchamps;PNIC45Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.26750217, 43.69974582]}
+;;NIC;;;;;;;;AUTO;;;;DO Plaza;PNIC15 A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.26862698, 43.69677676]}
+;;NIC;;;;;;;;DIAG;;;;Paradis;PNIC56Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.26753303, 43.69651127]}
+;;NIC;;;;;;;;AUTO;;;;DO Paradis;PNIC30A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.26761354, 43.696232]}
+;;NIC;;;;;;;;AUTO;;;;Halevy 2;PNIC11 A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.26525682, 43.69476192]}
+;;NIC;;;;;;;;DIAG;;;;Halevy;PNIC01 Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.26565413, 43.69481819]}
+;;NIC;;;;;;;;DIAG;;;;Aqueduc Gambetta;PNIC13 A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.25627864, 43.69365609]}
+;;NIC;;;;;;;;DIAG;;;;Aqueduc Rivoli;PNIC12 A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.25853629, 43.69415463]}
+;;NIC;;;;;;;;DIAG;;;;Gambetta Ouest;PNIC47Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.25617661, 43.69505278]}
+;;NIC;;;;;;;;DIAG;;;;Aqueduc Magnan;PNIC14 A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.24554465, 43.69051559]}
+;;NIC;;;;;;;;DIAG;;;;Daudet;PNIC57Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.24678525, 43.69238]}
+;;NIC;;;;;;;;DIAG;;;;Square Magnan;PNIC58Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.24470351, 43.69145497]}
+;;NIC;;;;;;;;DIAG;;;;Magnan;PNIC02 Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.24376251, 43.68991677]}
+;;NIC;;;;;;;;DIAG;;;;Verani;PNIC06 Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.28358544, 43.70855621]}
+;;NIC;;;;;;;;DIAG;;;;St Isidore;PNIC59Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.19257673, 43.70851661]}
+;;NIC;;;;;;;;DIAG;;;;Ste Marie;PNIC50Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.28353756, 43.73098882]}
+;;NIC;;;;;;;;DIAG;;;;Aqueduc Jean Médecin;PNIC10 A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.26948706, 43.69811922]}
+;;NIC;;;;;;;;AUTO;;;;DO Païole;PNIC18 A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.28380421, 43.69809624]}
+;;NIC;;;;;;;;AUTO;;;;DO Ponchettes;PNIC17 A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.27364481, 43.69477272]}
+;;NIC;;;;;;;;DIAG;;;;Cassin;PNIC08 Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.21922943, 43.66967495]}
+;;CAG;;;;;;;;DIAG;;;;SIA Villeneuve;PCAG12 Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.15456237, 43.65359389]}
+;;CAG;;;;;;;;DIAG;;Qualité;;SIA La Colle;PCAG11 Q;EU;DEBIT;;;{"type": "Point", "coordinates": [7.12449239, 43.67132148]}
+;;SLV;;;;;;;;AUTO;;;;DO Napoléon III;PSLV 07A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.19776902, 43.66316272]}
+;;CAG;;;;;;;;;;;;STEP CAGNES;PL CAG 01;;PLUVIO;;;{"type": "Point", "coordinates": [7.15530546, 43.653815]}
+;;LAT;;;;;;;;AUTO;;;;DO Oli;PNIC20 A;EU;DEBIT;;;{"type": "Point", "coordinates": [7.30559349, 43.73491306]}
+;;NIC;;;;;;;;DIAG;;;;Crémat St Isidore;PNIC41Q;EP;DEBIT;;;{"type": "Point", "coordinates": [7.18897506, 43.71055351]}
+;;NIC;;;;;;;;DIAG;;;;Magnan 2;PNIC07 US;EU;DEBIT;;;{"type": "Point", "coordinates": [7.24696102, 43.69099503]}
